@@ -1,4 +1,4 @@
-# Hi there 👋
+# Something about me
 
 ## Who am I?
  I'm a Front-End Developerer and Freelancer, I love design websites. 
