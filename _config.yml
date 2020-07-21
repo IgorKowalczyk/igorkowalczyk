@@ -1,1 +1,5 @@
 redirect: "https://igorkowalczyk.github.io"
+
+plugins:
+ - jekyll-feed
+ - jekyll-paginate
