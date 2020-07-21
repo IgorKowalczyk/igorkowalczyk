@@ -1,16 +1,45 @@
+# Redirect url
 redirect: "https://igorkowalczyk.github.io"
 
+# Link to author page (if you don't have - leave blank)
+author-link: "https://igorkowalczyk.github.io"
+
+# Page title
+title: "Redirecting..."
+# Your/project name
 name: "Igor Kowalczyk"
 
+# Your e-mail
 email: "xxmajonezxx@gmail.com"
 
+# Author of the page
 author: "Igor Kowalczyk"
 
+# Github username (not link)
 github_username: "igorkowalczyk"
+# Github repo (not link)
 repo: "igorkowalczyk.github.io"
 
+# First launch
 first-launch: "2020"
 
+# Default plugins
 plugins:
  - jekyll-feed
  - jekyll-paginate
+
+# Markdown and Default theme
+markdown: kramdown
+theme: minima
+
+# Exclude files
+exclude:
+ - Gemfile
+ - Gemfile.lock
+
+# Tracking id - if you don't have - leave blank
+tracking_id: "UA-153609882-1"
+
+# Verification ID - if you don't have - leave blank
+verification: ""
+#verification: "-wuCsk4qLolXEPSUTGX7YBxywcyNNf5HS2ClzgEWxNY"
