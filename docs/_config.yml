@@ -1,5 +1,16 @@
 redirect: "https://igorkowalczyk.github.io"
 
+name: "Igor Kowalczyk"
+
+email: "xxmajonezxx@gmail.com"
+
+author: "Igor Kowalczyk"
+
+github_username: "igorkowalczyk"
+repo: "igorkowalczyk.github.io"
+
+first-launch: "2020"
+
 plugins:
  - jekyll-feed
  - jekyll-paginate
