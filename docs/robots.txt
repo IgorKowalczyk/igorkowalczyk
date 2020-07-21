@@ -1,0 +1,12 @@
+---
+layout: null
+---
+{% if site.block %}
+User-agent: GoogleBot
+Disallow: *
+Allow:
+{% else %}
+User-agent: GoogleBot
+Disallow:
+Allow: *
+{% endif %}

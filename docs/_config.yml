@@ -9,6 +9,9 @@ title: "Redirecting..."
 # Your/project name
 name: "Igor Kowalczyk"
 
+# Block website in search
+block: "true"
+
 # Your e-mail
 email: "xxmajonezxx@gmail.com"
 
