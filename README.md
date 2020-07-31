@@ -17,4 +17,4 @@ I like Open Source projects that are accessible to everyone
 * [Color Picker](https://igorkowalczyk.github.io/color-picker)
 
 ### Stats
-[![Github stats](https://github-readme-stats.vercel.app/api?username=IgorKowalczyk&show_icons=true)](https://igorkowalczyk.github.io)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=IgorKowalczyk&show_icons=true&include_all_commits=true)](https://igorkowalczyk.github.io)
