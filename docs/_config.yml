@@ -9,6 +9,9 @@ name: "Igor Kowalczyk"
 # Block website in search
 block: "true"
 
+# Encoding (default: utf-8)
+encoding: utf-8
+
 # Your e-mail
 email: "xxmajonezxx@gmail.com"
 
