@@ -1,9 +1,8 @@
 name: Latest blog post workflow
 on:
-  schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
   workflow_dispatch:
+  schedule:
+    - cron:  '*/5 * * * *'
 
 jobs:
   update-readme-with-blog:
@@ -11,7 +10,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: gautamkrishnar/blog-post-workflow@develop
         with:
-          max_post_count: "4"
+          commit_message: "Update blog posts"
+          committer_username:  "IgorKowalczyk"
+          committer_email: "xxmajonezxx@gmail.com"
+          max_post_count: "5"
           feed_list: "https://igorkowalczyk.github.io/blog/feeds/feed.xml"
