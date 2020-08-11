@@ -5,7 +5,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 🔭 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning Javascript and Node.js
 - ❤️ I like Open Source projects that are accessible to everyone
-- 📫 How to reach me: [@majonezexe](https://twitter.com/majonezexe), [xxmajonezxx@gmail.com](mailto:xxmajonezxx@gmail.com)
+- 💻 My favorite languages are JavaScript and CSS
 
 ### 💪 Experience:
 I'm work on websites since 2018.
