@@ -19,6 +19,11 @@ I'm work on websites since 2018.
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Niebezpieczne pliki](https://igorkowalczyk.github.io/blog/internet/2020/07/27/Niebezpieczne-pliki.html)
+- [Bezpieczeństwo w sieci - Nasze dane](https://igorkowalczyk.github.io/blog/internet/2020/01/22/Bezpiecze%C5%84stwo-w-sieci-nasze-dane.html)
+- [Dlaczego Jquery jest złe?](https://igorkowalczyk.github.io/blog/internet/programowanie/javascript/2020/01/19/Dlaczego-Jquery-jest-z%C5%82e.html)
+- [Jasna i ciemna strona internetu](https://igorkowalczyk.github.io/blog/internet/2019/12/28/Jasna-i-ciemna-strona-internetu.html)
+- [Pierwszy wpis, nowy blog](https://igorkowalczyk.github.io/blog/offtop/2019/12/22/Pierwszy-wpis,-nowy-blog.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 Stats
