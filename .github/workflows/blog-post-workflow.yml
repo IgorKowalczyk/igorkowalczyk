@@ -10,10 +10,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@develop
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
           commit_message: "Update blog posts"
           committer_username:  "IgorKowalczyk"
           committer_email: "xxmajonezxx@gmail.com"
           max_post_count: "5"
-          feed_list: "https://igorkowalczyk.github.io/blog/feeds/feed.xml"
+          feed_list: "https://igorkowalczyk.github.io/blog/feeds/feed"
