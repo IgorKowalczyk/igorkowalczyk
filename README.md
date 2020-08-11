@@ -16,5 +16,9 @@ I like Open Source projects that are accessible to everyone
 * [Countdown.js](https://igorkowalczyk.github.io/countdown.js)
 * [Color Picker](https://igorkowalczyk.github.io/color-picker)
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ### Stats
 [![Github stats](https://readme-igorkowalczyk.vercel.app/api?username=IgorKowalczyk&show_icons=true&include_all_commits=true)](https://igorkowalczyk.github.io)
