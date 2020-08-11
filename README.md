@@ -27,6 +27,4 @@ I'm work on websites since 2018.
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 Stats
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 [![Github stats](https://readme-igorkowalczyk.vercel.app/api?username=IgorKowalczyk&show_icons=true&include_all_commits=true)](https://igorkowalczyk.github.io)
