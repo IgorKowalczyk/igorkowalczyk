@@ -4,7 +4,7 @@ This is the place where I opensource stuff and break things :rofl:
 - ⚡  I'm a Front-End Developerer and Freelancer, I love design websites. 
 - 🔭 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning Javascript and Node.js
-- ❤️ I like Open Source projects that are accessible to everyone
+- ❤️ I love Open Source projects
 - 💻 My favorite languages are JavaScript and CSS
 
 ### 💪 Experience:
