@@ -1,19 +1,24 @@
 name: Latest blog post workflow
 on:
-  workflow_dispatch:
   schedule:
     - cron:  '*/5 * * * *'
 
 jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+  fetch-recent-blog-posts:
+    name: Fetch recent blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Check out repository
+        uses: actions/checkout@v2
+      - name: Setup node
+        uses: actions/setup-node@v2-beta
         with:
-          commit_message: "Update blog posts"
-          committer_username:  "IgorKowalczyk"
-          committer_email: "xxmajonezxx@gmail.com"
-          max_post_count: "5"
-          feed_list: "https://igorkowalczyk.github.io/blog/feeds/feed"
+          node-version: "12"
+      - name: Install node dependencies
+        run: yarn
+      - name: Run node script
+        run: yarn build
+      - name: Git setup
+        run: git config --global user.email xxmajonezxx@gmail.com && git config --global user.name IgorKowalczyk
+      - name: Git commit README.md file
+        run: git diff --quiet && git diff --staged --quiet || git commit -am '[BOT] Update blog posts' && git push
