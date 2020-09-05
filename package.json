@@ -1,0 +1,16 @@
+{
+  "name": "igorkowalczyk",
+  "version": "0.0.0",
+  "description": "A script to auto-update readme with recent RSS posts"
+  "main": "index.js",
+  "author": "Igor Kowalczyk",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "build": "node --experimental-modules index.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.0",
+    "xml2json": "^0.12.0"
+  }
+}
