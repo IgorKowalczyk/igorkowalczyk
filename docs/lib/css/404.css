@@ -35,12 +35,6 @@ layout: "null"
 --buton-hover: #4a4a4a;
 }
 
-@font-face {
-font-family: Roboto-Thin;
-font-style: normal;
-src: url('{{ site.baseurl }}/lib/fonts/roboto-thin.otf');
-}
-
 * {
 margin: 0;
 padding: 0;
@@ -50,6 +44,13 @@ font: inherit;
 vertical-align: baseline;
 scrollbar-color: #353535 transparent;
 scrollbar-width: thin;
+}
+
+@font-face {
+font-family: "Roboto-Thin";
+font-style: normal;
+font-weight: 100;
+src: url("{{ site.baseurl }}/lib/fonts/roboto-thin.otf");
 }
 
 ::-webkit-scrollbar {
