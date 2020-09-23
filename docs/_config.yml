@@ -12,6 +12,11 @@ block: "true"
 # Support to mobile browsers (It’s unknown what range of browsers support this meta tags) [Better to set the value to "false"!]
 mobile: "false"
 
+# Site url
+url: "https://igorkowalczyk.github.url"
+# Site baseurl 
+url: "igorkowalczyk"
+
 # Twitter username (no link) - if you don't have - leave blank
 twitter: "@majonezexe"
 
@@ -43,7 +48,6 @@ theme: minima
 
 # Encoding (default: utf-8)
 encoding: utf-8
-
 
 # Exclude files
 exclude:
