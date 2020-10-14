@@ -22,9 +22,9 @@ async function main() {
  const readmeContentChunkBreakAfter = readme.substring(indexAfter);
  const posts = await fetchArticles();
  const readmeNew = `
-  ${readmeContentChunkBreakBefore}
-  ${posts}
-  ${readmeContentChunkBreakAfter}
+ ${readmeContentChunkBreakBefore}
+ ${posts}
+ ${readmeContentChunkBreakAfter}
  `;
 
  fs.writeFileSync("./README.md", readmeNew.trim());
