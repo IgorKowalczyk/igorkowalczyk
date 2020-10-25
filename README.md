@@ -1,5 +1,7 @@
 # 🇵🇱 Liberty For Poland!
 
+---
+
 ## Hi! I'm Igor Kowalczyk 🖐️ 
 This is the place where I opensource stuff and break things :rofl:
 
