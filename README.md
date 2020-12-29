@@ -1,7 +1,3 @@
-# 🇵🇱 Liberty For Poland!
-
----
-
 ## Hi! I'm Igor Kowalczyk 🖐️ 
 This is the place where I opensource stuff and break things :rofl:
 
@@ -35,6 +31,10 @@ I'm work on websites since 2018.
 <!--[![Github stats](https://readme-igorkowalczyk.vercel.app/api?username=IgorKowalczyk&show_icons=true&include_all_commits=true&bg_color=222&title_color=fff&text_color=fff&icon_color=fff&hide_border=true)](https://igorkowalczyk.github.io)-->
 
 <details>
- <summary>&nbsp;</summary>
- <h5>The cake is a lie 🍰❤️</h5>
+  <summary>&nbsp;</summary>
+  <h5>The cake is a lie 🍰❤️</h5>
+  <details>
+   <summary>&nbsp;</summary>
+   <h5>🇵🇱 Liberty For Poland!</h5>
+ </details>
 </details>
