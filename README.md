@@ -12,10 +12,10 @@ I'm work on websites since 2018.
 
 ### ⚡ My sample projects
 
-* [Blog Written on Jekyll technology](https://igorkowalczyk.github.io/blog)
+* [Discord Bot](https://github.com/aurolia-css/majo-rebuild)
 * [Portfolio](https://igorkowalczyk.github.io)
+* [Blog](https://igorkowalczyk.github.io/blog)
 * [Countdown.js](https://igorkowalczyk.github.io/countdown.js)
-* [Color Picker](https://igorkowalczyk.github.io/color-picker)
 
 ### 📕 Latest Blog Posts
 <!-- FEED-START -->
