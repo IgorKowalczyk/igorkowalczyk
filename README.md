@@ -1,4 +1,6 @@
-## Hi! I'm Igor Kowalczyk 🖐️ 
+## Hi! I'm Igor Kowalczyk 🖐️
+[![Discord profile](https://discord.c99.nl/widget/theme-3/440200028292907048.png)](https://discord.com/users/440200028292907048)
+
 This is the place where I opensource stuff and break things :rofl:
 
 - ⚡  I'm a Front-End Developerer and Freelancer, I love design websites. 
@@ -27,10 +29,9 @@ I'm work on websites since 2018.
  <!-- FEED-END -->
 
 ### 📊 Stats
-[![Github stats](https://readme-igorkowalczyk.vercel.app/api?username=IgorKowalczyk&show_icons=true&include_all_commits=true)](https://igorkowalczyk.github.io)
-<!--[![Github stats](https://readme-igorkowalczyk.vercel.app/api?username=IgorKowalczyk&show_icons=true&include_all_commits=true&bg_color=222&title_color=fff&text_color=fff&icon_color=fff&hide_border=true)](https://igorkowalczyk.github.io)-->
-
+[![Github stats](https://readme-igorkowalczyk.vercel.app/api?username=IgorKowalczyk&show_icons=true&&theme=dark&include_all_commits=true)](https://igorkowalczyk.github.io)
 <details>
  <summary>🥚</summary>
  <h5>The cake is a lie 🍰❤️</h5>
+ <a href="https://igorkowalczyk.github.io"><img src="https://komarev.com/ghpvc/?username=igorkowalczyk&style=flat-square&color=333333" alt="Github profile views"></a>
 </details>
