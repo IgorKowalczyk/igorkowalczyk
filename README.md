@@ -30,6 +30,11 @@ I'm work on websites since 2018.
 
 ### 📊 Stats
 [![Github stats](https://readme-igorkowalczyk.vercel.app/api?username=IgorKowalczyk&show_icons=true&bg_color=0D1117&text_color=c9d1d9&title_color=c9d1d9&icon_color=ffffff&border_color=30363D&include_all_commits=true)](https://igorkowalczyk.github.io)
+ 
+### :zap: Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 <details>
  <summary>🥚</summary>
  <h5>The cake is a lie 🍰❤️</h5>
