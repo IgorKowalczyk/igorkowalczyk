@@ -65,6 +65,8 @@ I'm work on websites since 2018.
 </details>
 <!--END_SECTION:activity-->
 
+---
+
 <details>
  <summary>🥚</summary>
  <h5>The cake is a lie 🍰❤️</h5>
