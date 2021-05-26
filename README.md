@@ -35,7 +35,7 @@ I'm work on websites since 2018.
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[05/26 11:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [IgorKowalczyk/bin](https://github.com/IgorKowalczyk/bin)  
+`[05/26 11:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [IgorKowalczyk/bin](https://github.com/IgorKowalczyk/bin)  
 `[05/26 07:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)  
 `[05/26 07:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [IgorKowalczyk/bin](https://github.com/IgorKowalczyk/bin)  
 `[05/26 07:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)  
@@ -72,7 +72,7 @@ I'm work on websites since 2018.
 `[05/15 10:24]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/IgorKowalczyk/github-readme-stats/tree/master) in [IgorKowalczyk/github-readme-stats](https://github.com/IgorKowalczyk/github-readme-stats)  
 `[05/15 10:23]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [IgorKowalczyk/github-readme-stats](https://github.com/IgorKowalczyk/github-readme-stats)  
 `[05/15 10:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)  
-`[05/14 21:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `59` commits in [aurolia-css/majo-rebuild](https://github.com/aurolia-css/majo-rebuild)  
+`[05/14 21:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `58` commits in [aurolia-css/majo-rebuild](https://github.com/aurolia-css/majo-rebuild)  
 
 </details>
 <!--END_SECTION:activity-->
