@@ -23,11 +23,6 @@ I'm work on websites since {{ ACCOUNT_AGE }}.
 
 ### 📕 Latest Blog Posts
 <!-- FEED-START -->
-   - [Niebezpieczne pliki](https://igorkowalczyk.github.io/blog/internet/2020/07/27/Niebezpieczne-pliki)
-- [Bezpieczeństwo w sieci - Nasze dane](https://igorkowalczyk.github.io/blog/internet/2020/01/22/Bezpiecze%C5%84stwo-w-sieci-nasze-dane)
-- [Dlaczego Jquery jest złe?](https://igorkowalczyk.github.io/blog/internet/programowanie/javascript/2020/01/19/Dlaczego-Jquery-jest-z%C5%82e)
-- [Jasna i ciemna strona internetu](https://igorkowalczyk.github.io/blog/internet/2019/12/28/Jasna-i-ciemna-strona-internetu)
-- [Pierwszy wpis, nowy blog](https://igorkowalczyk.github.io/blog/offtop/2019/12/22/Pierwszy-wpis,-nowy-blog)
 <!-- FEED-END -->
 
 ### 📊 Stats
@@ -44,7 +39,7 @@ I'm work on websites since {{ ACCOUNT_AGE }}.
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[05/30 16:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)  
+`[05/30 17:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `20` commits in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)  
 `[05/30 16:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `29` commits in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[05/26 11:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [IgorKowalczyk/bin](https://github.com/IgorKowalczyk/bin)  
 `[05/26 07:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)  
@@ -83,7 +78,7 @@ I'm work on websites since {{ ACCOUNT_AGE }}.
 `[05/15 10:24]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/IgorKowalczyk/github-readme-stats/tree/master) in [IgorKowalczyk/github-readme-stats](https://github.com/IgorKowalczyk/github-readme-stats)  
 `[05/15 10:23]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [IgorKowalczyk/github-readme-stats](https://github.com/IgorKowalczyk/github-readme-stats)  
 `[05/15 10:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)  
-`[05/14 21:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `25` commits in [aurolia-css/majo-rebuild](https://github.com/aurolia-css/majo-rebuild)  
+`[05/14 21:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [aurolia-css/majo-rebuild](https://github.com/aurolia-css/majo-rebuild)  
 
 </details>
 <!--END_SECTION:activity-->
