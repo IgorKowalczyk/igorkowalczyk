@@ -1,9 +1,8 @@
+name: User Stats
+
 on:
  schedule:
   - cron: "*/5 * * * *"
- push:
-  branches:
-   - master
  workflow_dispatch:
 
 jobs:
@@ -11,9 +10,9 @@ jobs:
   runs-on: ubuntu-latest
   steps:
    - name: 🎏 Fetch repo
-    uses: actions/checkout@v2
+     uses: actions/checkout@master
      with:
-      fetch-depth: 0
+      fetch-depth: 1
    - name: ✨ Generate README.md
      uses: teoxoy/profile-readme-stats@master
      with:
