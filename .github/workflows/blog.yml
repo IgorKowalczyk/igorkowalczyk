@@ -8,16 +8,16 @@ jobs:
  blog:
   runs-on: ubuntu-latest
   steps:
-   - name: [Blog] 🎏 Fetch repo
+   - name: 🎏 Fetch repo
      uses: actions/checkout@master
      with:
       fetch-depth: 1
-   - name: [Blog] ✨ Create README.md
+   - name: ✨ Create README.md
      run: |
       cd ${GITHUB_WORKSPACE}/
       npm i
       node src/blog.js
-   - name: [Blog] 🚀 Deploy
+   - name: 🚀 Deploy
      run: |
       git config user.name Igor Kowalczyk
       git config user.email xxmajonezxx@gmail.com
