@@ -1,7 +1,6 @@
 const fs = require("fs");
 const fetch = require("node-fetch");
 const parser = require("xml2json");
-const path = require("path");
 
 const date = new Date();
 const open = `<!-- FEED-START -->`;
@@ -12,7 +11,7 @@ try {
   const articlesText = await articles.text();
   const articlesJSON = parser.toJson(articlesText);
   const newC = JSON.parse(articlesJSON).rss.channel.item.slice(0, 5);
-  return newC.map(({ title, link }) => `- [${title}](${link})`).join("\n") + `<!-- Posts updated on ${date.toString()} -->`
+  return newC.map(({ title, link }) => `- [${title}](${link})`).join("\n") + `\n<!-- Posts updated on ${date.toString()} -->`
   ;
  };
 

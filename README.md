@@ -12,7 +12,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 💻 My favorite languages are JavaScript and CSS
 
 ### 💪 Experience:
-I'm work on websites since 2018.
+I'm work on websites since {{ ACCOUNT_AGE }}.
 
 ### ⚡ My sample projects
 
@@ -27,14 +27,18 @@ I'm work on websites since 2018.
 - [Bezpieczeństwo w sieci - Nasze dane](https://igorkowalczyk.github.io/blog/internet/2020/01/22/Bezpiecze%C5%84stwo-w-sieci-nasze-dane)
 - [Dlaczego Jquery jest złe?](https://igorkowalczyk.github.io/blog/internet/programowanie/javascript/2020/01/19/Dlaczego-Jquery-jest-z%C5%82e)
 - [Jasna i ciemna strona internetu](https://igorkowalczyk.github.io/blog/internet/2019/12/28/Jasna-i-ciemna-strona-internetu)
-- [Pierwszy wpis, nowy blog](https://igorkowalczyk.github.io/blog/offtop/2019/12/22/Pierwszy-wpis,-nowy-blog)<!-- Posts updated on Sun May 30 2021 17:51:23 GMT+0000 (Coordinated Universal Time) -->
-   <!-- FEED-END -->
-
-<!-- STATS-START -->
-<!-- STATS-END -->
+- [Pierwszy wpis, nowy blog](https://igorkowalczyk.github.io/blog/offtop/2019/12/22/Pierwszy-wpis,-nowy-blog)
+<!-- FEED-END -->
 
 ### 📊 Stats
-[![Github stats](https://readme-igorkowalczyk.vercel.app/api?username=IgorKowalczyk&show_icons=true&bg_color=0D1117&text_color=c9d1d9&title_color=c9d1d9&icon_color=ffffff&border_color=30363D&include_all_commits=true)](https://igorkowalczyk.github.io)<br>
+
+⭐ Total Stars: {{ STARS }}
+🕚 Total Commits: {{ COMMITS }}
+📚 Total Repositories: {{ REPOSITORIES }}
+🚀 Total PRs: {{ PULL_REQUESTS }}
+❗Total Issues: {{ ISSUES }}
+📝 Contributed to: {{ REPOSITORIES_CONTRIBUTED_TO }}
+
 [![Top Langs](https://readme-igorkowalczyk.vercel.app/api/top-langs/?username=igorkowalczyk&layout=compact&bg_color=0D1117&text_color=c9d1d9&title_color=c9d1d9&border_color=30363D)](https://igorkowalczyk.github.io)
 
 

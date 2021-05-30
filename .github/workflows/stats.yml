@@ -1,8 +1,9 @@
-name: User Stats
-
 on:
  schedule:
   - cron: "*/5 * * * *"
+ push:
+  branches:
+   - master
  workflow_dispatch:
 
 jobs:
@@ -10,18 +11,19 @@ jobs:
   runs-on: ubuntu-latest
   steps:
    - name: 🎏 Fetch repo
-     uses: actions/checkout@master
+    uses: actions/checkout@v2
      with:
-      fetch-depth: 1
-   - name: ✨ Create README.md
+      fetch-depth: 0
+   - name: ✨ Generate README.md
+     uses: teoxoy/profile-readme-stats@master
+     with:
+      token: ${{ secrets.USER_TOKEN }}
+   - name: 🚀 Push README.md
      run: |
-      cd ${GITHUB_WORKSPACE}/
-      npm i
-      node src/stats.js
-   - name: 🚀 Deploy
-     run: |
-      git config user.name Igor Kowalczyk
+      if [[ "$(git status --porcelain)" != "" ]]; then
+      git config user.name IgorKowalczyk
       git config user.email xxmajonezxx@gmail.com
       git add .
-      git commit -am "[Bot] Update README with stats"
-      git push --all -f https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git
+      git commit -m "[Bot] Update user stats"
+      git push
+      fi
