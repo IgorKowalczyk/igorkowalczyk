@@ -42,13 +42,13 @@ jobs:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
  push:
   runs-on: ubuntu-latest
-   name: 🚀 Push README.md
-   steps:
-    run: |
-     if [[ "$(git status --porcelain)" != "" ]]; then
-     git config user.name IgorKowalczyk
-     git config user.email xxmajonezxx@gmail.com
-     git add .
-     git commit -m "[Bot] Update user stats"
-     git push
-     fi
+  name: Push README.md
+  steps:
+   run: |
+    if [[ "$(git status --porcelain)" != "" ]]; then
+    git config user.name IgorKowalczyk
+    git config user.email xxmajonezxx@gmail.com
+    git add .
+    git commit -m "[Bot] Update user stats"
+    git push
+    fi
