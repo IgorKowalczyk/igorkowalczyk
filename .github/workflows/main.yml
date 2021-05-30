@@ -1,30 +1,30 @@
 name: Main README Updater
 
-
 on:
  push:
   branches:
    - master
   schedule:
-  - cron: "*/5 * * * *"
+   - cron: "*/5 * * * *"
 
 jobs:
- updater:
+ UpdateeMainReadmeTemplate:
   runs-on: ubuntu-latest
-   steps:
-    - name: Fetch repo
+
+  steps:
+   - name: 🎏 Fetch repo
      uses: actions/checkout@master
      with:
       fetch-depth: 1
-    - name: Create README.md
+   - name: ✨ Create README.md
      run: |
       cd ${GITHUB_WORKSPACE}/
       npm i
-      node src/update.js
-    - name: Deploy
+      node index.js
+   - name: 🚀 Deploy
      run: |
-      git config user.name IgorKowalczyk
+      git config user.name Igor Kowalczyk
       git config user.email xxmajonezxx@gmail.com
       git add .
-      git commit -am "[Bot] Update README"
+      git commit -am "[Bot] Update README.md"
       git push --all -f https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git
