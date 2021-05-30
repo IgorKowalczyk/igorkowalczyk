@@ -1,13 +1,15 @@
 name: Main README Updater
 
+
 on:
- schedule:
+ push:
+  branches:
+   - master
+  schedule:
   - cron: "*/5 * * * *"
- workflow_dispatch:
 
 jobs:
- fetch-recent-blog-posts:
-  name: Update README
+ updater:
   runs-on: ubuntu-latest
    steps:
     - name: Fetch repo
