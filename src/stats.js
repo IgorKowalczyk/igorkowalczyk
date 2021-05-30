@@ -20,7 +20,7 @@ try {
   const indexAfter = readme.indexOf(close);
   const readmeContentChunkBreakBefore = readme.substring(0, indexBefore);
   const readmeContentChunkBreakAfter = readme.substring(indexAfter);
-  const data = await fetchArticles();
+  const data = await fetchData();
   const readmeNew = `
    ${readmeContentChunkBreakBefore}
    ${data}
