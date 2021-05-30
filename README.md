@@ -31,7 +31,10 @@ I'm work on websites since 2018.
    <!-- FEED-END -->
 
 <!-- STATS-START -->
-<!-- STATS-END -->
+   Igor Kowalczyk 2019-03-31T17:45:24Z
+   <i>Last updated on 30th May 2021 using Github Actions</i>
+  
+   <!-- STATS-END -->
 
 ### 📊 Stats
 [![Github stats](https://readme-igorkowalczyk.vercel.app/api?username=IgorKowalczyk&show_icons=true&bg_color=0D1117&text_color=c9d1d9&title_color=c9d1d9&icon_color=ffffff&border_color=30363D&include_all_commits=true)](https://igorkowalczyk.github.io)<br>
