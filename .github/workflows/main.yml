@@ -44,6 +44,7 @@ jobs:
   runs-on: ubuntu-latest
   name: Push README.md
   steps:
+   - name: 🎏 Fetch repo
    run: |
     if [[ "$(git status --porcelain)" != "" ]]; then
     git config user.name IgorKowalczyk
