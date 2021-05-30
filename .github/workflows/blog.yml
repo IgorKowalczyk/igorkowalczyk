@@ -5,19 +5,19 @@ on:
   - cron: "*/5 * * * *"
 
 jobs:
- blogPosts:
+ blog:
   runs-on: ubuntu-latest
   steps:
-   - name: 🎏 Fetch repo
+   - name: [Blog] 🎏 Fetch repo
      uses: actions/checkout@master
      with:
       fetch-depth: 1
-   - name: ✨ Create README.md
+   - name: [Blog] ✨ Create README.md
      run: |
       cd ${GITHUB_WORKSPACE}/
       npm i
       node src/blog.js
-   - name: 🚀 Deploy
+   - name: [Blog] 🚀 Deploy
      run: |
       git config user.name Igor Kowalczyk
       git config user.email xxmajonezxx@gmail.com
