@@ -49,7 +49,7 @@ jobs:
      uses: actions/checkout@master
      with:
       fetch-depth: 1
-   - name: ✨ Push README.md
+   - name: Push README.md
     run: |
     if [[ "$(git status --porcelain)" != "" ]]; then
      git config user.name IgorKowalczyk
