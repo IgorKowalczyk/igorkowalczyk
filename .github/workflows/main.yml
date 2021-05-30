@@ -1,4 +1,4 @@
-name: User Stats
+name: Update README
 
 on:
  schedule:
@@ -20,15 +20,6 @@ jobs:
       readme: "./README.md"
       includeForks: "false"
       template: "./src/markdown/readme-template.md"
-   - name: 🚀 Push README.md
-     run: |
-      if [[ "$(git status --porcelain)" != "" ]]; then
-      git config user.name IgorKowalczyk
-      git config user.email xxmajonezxx@gmail.com
-      git add .
-      git commit -m "[Bot] Update user stats"
-      git push
-      fi
  blog:
   runs-on: ubuntu-latest
   steps:
@@ -41,19 +32,21 @@ jobs:
       cd ${GITHUB_WORKSPACE}/
       npm i
       node src/blog.js
-   - name: 🚀 Push README.md
-     run: |
-      git config user.name Igor Kowalczyk
-      git config user.email xxmajonezxx@gmail.com
-      git add .
-      git commit -am "[Bot] Update blog posts"
-      git push --all -f https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git
  activity:
   runs-on: ubuntu-latest
   name: Update this repo's README with recent activity
-
   steps:
    - uses: actions/checkout@v2
    - uses: cheesits456/github-activity-readme@master
      env:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+ push:
+    - name: 🚀 Push README.md
+     run: |
+      if [[ "$(git status --porcelain)" != "" ]]; then
+      git config user.name IgorKowalczyk
+      git config user.email xxmajonezxx@gmail.com
+      git add .
+      git commit -m "[Bot] Update user stats"
+      git push
+      fi
