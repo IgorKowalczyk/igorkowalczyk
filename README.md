@@ -30,8 +30,8 @@ I'm work on websites since 2018.
 - [Pierwszy wpis, nowy blog](https://igorkowalczyk.github.io/blog/offtop/2019/12/22/Pierwszy-wpis,-nowy-blog)
  <!-- FEED-END -->
 
-<!-- UNTIL-START -->
-<!-- UNTIL-END -->
+<!-- STATS-START -->
+<!-- STATS-END -->
 
 ### 📊 Stats
 [![Github stats](https://readme-igorkowalczyk.vercel.app/api?username=IgorKowalczyk&show_icons=true&bg_color=0D1117&text_color=c9d1d9&title_color=c9d1d9&icon_color=ffffff&border_color=30363D&include_all_commits=true)](https://igorkowalczyk.github.io)<br>
