@@ -41,17 +41,17 @@ jobs:
    - uses: cheesits456/github-activity-readme@master
      env:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
- pushr:
+
+ pushrepo:
   runs-on: ubuntu-latest
-  name: Push README.md
   steps:
-   - name: Fetch repo
-    uses: actions/checkout@master
-    with:
-     fetch-depth: 1
-   - name: Push code
+   - name: 🎏 Fetch repo
+     uses: actions/checkout@master
+     with:
+      fetch-depth: 1
+   - name: ✨ Push README.md
     run: |
-     if [[ "$(git status --porcelain)" != "" ]]; then
+    if [[ "$(git status --porcelain)" != "" ]]; then
      git config user.name IgorKowalczyk
      git config user.email xxmajonezxx@gmail.com
      git add .
