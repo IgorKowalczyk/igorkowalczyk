@@ -1,6 +1,6 @@
-import fs from "fs";
-import fetch from "node-fetch";
-import parser from "xml2json";
+const fs = require('fs');
+const fetch = require('node-fetch');
+const parser = require("xml2json");
 const path = require('path');
 
 const date = new Date()
