@@ -3,6 +3,7 @@ name: Update README with latest blog
 on:
  schedule:
   - cron: "*/5 * * * *"
+ workflow_dispatch:
 
 jobs:
  blog:
