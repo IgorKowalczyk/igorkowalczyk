@@ -41,7 +41,8 @@ jobs:
      env:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
  push:
-    - name: 🚀 Push README.md
+   runs-on: ubuntu-latest
+    name: 🚀 Push README.md
      run: |
       if [[ "$(git status --porcelain)" != "" ]]; then
       git config user.name IgorKowalczyk
