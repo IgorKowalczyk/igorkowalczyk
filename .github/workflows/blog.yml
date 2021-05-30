@@ -1,16 +1,12 @@
-name: Main README Updater
+name: Update README with latest blog
 
 on:
- push:
-  branches:
-   - master
-  schedule:
-   - cron: "*/5 * * * *"
+ schedule:
+  - cron: "*/5 * * * *"
 
 jobs:
- UpdateeMainReadmeTemplate:
+ blogPosts:
   runs-on: ubuntu-latest
-
   steps:
    - name: 🎏 Fetch repo
      uses: actions/checkout@master
@@ -20,11 +16,11 @@ jobs:
      run: |
       cd ${GITHUB_WORKSPACE}/
       npm i
-      node index.js
+      node src/blog.js
    - name: 🚀 Deploy
      run: |
       git config user.name Igor Kowalczyk
       git config user.email xxmajonezxx@gmail.com
       git add .
-      git commit -am "[Bot] Update README.md"
+      git commit -am "[Bot] Update blog posts"
       git push --all -f https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git
