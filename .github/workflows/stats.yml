@@ -17,6 +17,9 @@ jobs:
      uses: teoxoy/profile-readme-stats@master
      with:
       token: ${{ secrets.USER_TOKEN }}
+      readme: "./README.md"
+      includeForks: "false"
+      template: "./src/markdown/readme-template.md"
    - name: 🚀 Push README.md
      run: |
       if [[ "$(git status --porcelain)" != "" ]]; then

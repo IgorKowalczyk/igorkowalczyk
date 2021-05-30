@@ -12,7 +12,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 💻 My favorite languages are JavaScript and CSS
 
 ### 💪 Experience:
-I'm work on websites since {{ ACCOUNT_AGE }}.
+I'm work on websites for {{ ACCOUNT_AGE }} years.
 
 ### ⚡ My sample projects
 
@@ -27,15 +27,16 @@ I'm work on websites since {{ ACCOUNT_AGE }}.
 
 ### 📊 Stats
 
-⭐ Total Stars: {{ STARS }}
-🕚 Total Commits: {{ COMMITS }}
-📚 Total Repositories: {{ REPOSITORIES }}
-🚀 Total PRs: {{ PULL_REQUESTS }}
-❗Total Issues: {{ ISSUES }}
-📝 Contributed to: {{ REPOSITORIES_CONTRIBUTED_TO }}
+ - ⭐ Total Stars: **{{ STARS }}**
+ - 🕚 Total Commits: **{{ COMMITS }}**
+ - 📚 Total Repositories: **{{ REPOSITORIES }}**
+ - 🚀 Total PRs: **{{ PULL_REQUESTS }}**
+ - ❗Total Issues: **{{ ISSUES }}**
+ - 📝 Contributed to: **{{ REPOSITORIES_CONTRIBUTED_TO }}**
 
-[![Top Langs](https://readme-igorkowalczyk.vercel.app/api/top-langs/?username=igorkowalczyk&layout=compact&bg_color=0D1117&text_color=c9d1d9&title_color=c9d1d9&border_color=30363D)](https://igorkowalczyk.github.io)
-
+{{ LANGUAGE_TEMPLATE_START:max=5 }}
+![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
+{{ LANGUAGE_TEMPLATE_END }}
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
