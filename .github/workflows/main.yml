@@ -23,6 +23,7 @@ jobs:
  blog:
   runs-on: ubuntu-latest
   steps:
+   - uses: actions/checkout@v2
    - name: 🎏 Fetch repo
      uses: actions/checkout@master
      with:
