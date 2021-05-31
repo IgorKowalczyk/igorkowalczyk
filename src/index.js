@@ -19,20 +19,13 @@ try {
 
  const fetchGithub = async () => {
   const user = await fetch('https://api.github.com/users/igorkowalczyk').then(res => res.json())
-  const stars = (user) =>
-  fetch(`https://api.github.com/users/${user}/starred`)
-  .then((res) => JSON.parse(res.body))
-  .then((starred) => starred.map((s) => ({
-        owner:       s.owner.login
-      , repo:        s.name
-      , description: s.description
-      , language:    s.language
-      , isFork:      false
-      , stargazers:  s.stargazers_count
-      , watchers:    s.watchers_count
-  })))
+  const stars = await fetch(`https://api.github.com/users/igorkowalczyk/starred`).then(res => res.json())
+  stars.forEach(star => {
+   Object.entries(star).forEach(([key, value]) => {
+    console.log(`${key} ${value}`);
+   });
+  })
   return `
-  - ⭐ Total Stars: **${stars("igorkowalczyk")}**
   - 🕚 Total Commits: **9483**
   - 📚 Total Repositories: **${user.public_repos}**
   - 📖 Total Gists: **${user.public_gists}**
