@@ -24,12 +24,12 @@ I'm work on websites for 2 years.
 ### 📕 Latest Blog Posts
 [Visit my blog for more](https://igorkowalczyk.github.io/blog)
 <!-- FEED-START -->
-   - [Niebezpieczne pliki](https://igorkowalczyk.github.io/blog/internet/2020/07/27/Niebezpieczne-pliki) [27T00:00:00+02:00 July 2020]
-- [Bezpieczeństwo w sieci - Nasze dane](https://igorkowalczyk.github.io/blog/internet/2020/01/22/Bezpiecze%C5%84stwo-w-sieci-nasze-dane) [22T00:00:00+01:00 January 2020]
-- [Dlaczego Jquery jest złe?](https://igorkowalczyk.github.io/blog/internet/programowanie/javascript/2020/01/19/Dlaczego-Jquery-jest-z%C5%82e) [19T00:00:00+01:00 January 2020]
-- [Jasna i ciemna strona internetu](https://igorkowalczyk.github.io/blog/internet/2019/12/28/Jasna-i-ciemna-strona-internetu) [28T00:00:00+01:00 December 2019]
-- [Pierwszy wpis, nowy blog](https://igorkowalczyk.github.io/blog/offtop/2019/12/22/Pierwszy-wpis,-nowy-blog) [22T00:00:00+01:00 December 2019]
-<!-- Posts last updated on Mon May 31 2021 06:50:50 GMT+0000 (Coordinated Universal Time) -->
+   - [Niebezpieczne pliki](https://igorkowalczyk.github.io/blog/internet/2020/07/27/Niebezpieczne-pliki) [26 Jul 2020]
+- [Bezpieczeństwo w sieci - Nasze dane](https://igorkowalczyk.github.io/blog/internet/2020/01/22/Bezpiecze%C5%84stwo-w-sieci-nasze-dane) [21 Jan 2020]
+- [Dlaczego Jquery jest złe?](https://igorkowalczyk.github.io/blog/internet/programowanie/javascript/2020/01/19/Dlaczego-Jquery-jest-z%C5%82e) [18 Jan 2020]
+- [Jasna i ciemna strona internetu](https://igorkowalczyk.github.io/blog/internet/2019/12/28/Jasna-i-ciemna-strona-internetu) [27 Dec 2019]
+- [Pierwszy wpis, nowy blog](https://igorkowalczyk.github.io/blog/offtop/2019/12/22/Pierwszy-wpis,-nowy-blog) [21 Dec 2019]
+<!-- Posts last updated on Mon May 31 2021 07:34:24 GMT+0000 (Coordinated Universal Time) -->
    <!-- FEED-END -->
 
 ### 📊 Stats
@@ -42,8 +42,27 @@ I'm work on websites for 2 years.
  - 📝 Contributed to: **4**
 
 <!-- STAT-START -->
-Igor Kowalczyk 2019-03-31T17:45:24Z<i>Last updated on 31th May 2021 using Github Actions</i>
-<!-- STAT-END -->
+  
+  - ⭐ Total Stars: **async () => {
+  await fetch('https://api.github.com/users/igorkowalczyk').then(res => res.json())
+   .then((starred) => starred.map((s) => ({
+    owner: s.owner.login,
+    repo: s.name,
+    description: s.description,
+    language: s.language,
+    isFork: false,
+    stargazers: s.stargazers_count,
+    watchers: s.watchers_count
+   })))
+  }**
+  - 🕚 Total Commits: **9483**
+  - 📚 Total Repositories: 13
+  - 📖 Total Gists: 1
+  - 🚀 Total PRs: **9**
+  - ❗Total Issues: **4**
+  - 📝 Contributed to: **4**
+  <!-- Posts last updated on Mon May 31 2021 07:34:24 GMT+0000 (Coordinated Universal Time) -->
+  <!-- STAT-END -->
 
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B143.7%25)
 ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B130.3%25)
