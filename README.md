@@ -42,27 +42,7 @@ I'm work on websites for 2 years.
  - 📝 Contributed to: **4**
 
 <!-- STAT-START -->
-  
-  - ⭐ Total Stars: **async () => {
-  await fetch('https://api.github.com/users/igorkowalczyk').then(res => res.json())
-   .then((starred) => starred.map((s) => ({
-    owner: s.owner.login,
-    repo: s.name,
-    description: s.description,
-    language: s.language,
-    isFork: false,
-    stargazers: s.stargazers_count,
-    watchers: s.watchers_count
-   })))
-  }**
-  - 🕚 Total Commits: **9483**
-  - 📚 Total Repositories: 13
-  - 📖 Total Gists: 1
-  - 🚀 Total PRs: **9**
-  - ❗Total Issues: **4**
-  - 📝 Contributed to: **4**
-  <!-- Posts last updated on Mon May 31 2021 07:34:24 GMT+0000 (Coordinated Universal Time) -->
-  <!-- STAT-END -->
+<!-- STAT-END -->
 
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B143.7%25)
 ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B130.3%25)
