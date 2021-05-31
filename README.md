@@ -41,6 +41,10 @@ I'm work on websites for 2 years.
  - ❗Total Issues: **4**
  - 📝 Contributed to: **4**
 
+<!-- STAT-START -->
+Igor Kowalczyk 2019-03-31T17:45:24Z<i>Last updated on 31th May 2021 using Github Actions</i>
+<!-- STAT-END -->
+
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B143.7%25)
 ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B130.3%25)
 ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B121.8%25)
@@ -87,9 +91,6 @@ I'm work on websites for 2 years.
 </details>
 <!--END_SECTION:activity-->
 
-<!-- STAT-START -->
-  Igor Kowalczyk 2019-03-31T17:45:24Z<i>Last updated on 31th May 2021 using Github Actions</i>
-  <!-- STAT-END -->
 ---
 
 <details>
