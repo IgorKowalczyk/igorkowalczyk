@@ -16,10 +16,10 @@ I'm work on websites for 2 years.
 
 ### ⚡ My sample projects
 
-* [Discord Bot](https://github.com/aurolia-css/majo-rebuild)
-* [Portfolio](https://igorkowalczyk.github.io)
-* [Blog](https://igorkowalczyk.github.io/blog)
-* [Countdown.js](https://igorkowalczyk.github.io/countdown.js)
+* [Discord Bot](https://github.com/aurolia-css/majo-rebuild) [Node.js & Express.js]
+* [Portfolio](https://igorkowalczyk.github.io) [Jekyll & CSS] 
+* [Blog](https://igorkowalczyk.github.io/blog) [Jekyll & CSS] 
+* [Countdown.js](https://igorkowalczyk.github.io/countdown.js) [Javascript] 
 
 ### 📕 Latest Blog Posts
 > ℹ️ | [Visit my blog for more posts](https://igorkowalczyk.github.io/blog)
