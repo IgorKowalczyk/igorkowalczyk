@@ -36,16 +36,14 @@ I'm work on websites for over 2 years.
 
 #### 🐙 Github Stats
 <!-- STAT-START -->
-  
   - 📚 Total Repositories: **13**
   - 📖 Total Gists: **1**
-  <!-- Stats last updated on Mon May 31 2021 18:04:36 GMT+0000 (Coordinated Universal Time) -->
-  <!-- STAT-END -->
+<!-- Stats last updated on Mon May 31 2021 18:04:36 GMT+0000 (Coordinated Universal Time) -->
+<!-- STAT-END -->
 
 #### 📊 Weekly language stats
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
