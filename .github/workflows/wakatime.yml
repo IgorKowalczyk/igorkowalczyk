@@ -6,11 +6,11 @@ on:
  workflow_dispatch:
 
 jobs:
- main:
-  runs-on: ubuntu-latest
+ update-readme:
   name: ✨ README Wakatime stats
-   steps:
-    - uses: athul/waka-readme@master
+  runs-on: ubuntu-latest
+  steps:
+   - uses: athul/waka-readme@master
      with:
       WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
       GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
