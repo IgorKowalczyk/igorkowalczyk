@@ -9,7 +9,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 🔭 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning Javascript and Node.js
 - ❤️ I love Open Source projects
-- 💻 My favorite languages are JavaScript and CSS
+- 💻 My favorite languages are Node.js and CSS
 
 ### 💪 Experience:
 I'm work on websites for 2 years.
