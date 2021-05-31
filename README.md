@@ -5,10 +5,10 @@
 
 This is the place where I opensource stuff and break things :rofl:
 
-- ⚡  I'm a Front-End Developerer and Freelancer, I love design websites. 
+- ⚡  I'm a Front-End Developerer and Freelancer
 - 🔭 I’m currently working on something cool :wink:
-- 🌱 I’m currently learning Javascript and Node.js
-- ❤️ I love Open Source projects
+- 🌱 I’m currently learning SCSS and Node.js
+- ❤️ I love Open Source projects and designing web apps
 - 💻 My favorite languages are Node.js and CSS
 
 ### 💪 Experience:
