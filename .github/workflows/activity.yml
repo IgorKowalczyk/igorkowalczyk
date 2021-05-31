@@ -1,0 +1,16 @@
+ name: Update README with activity
+
+on:
+ schedule:
+  - cron: "*/5 * * * *"
+ workflow_dispatch:
+
+jobs:
+ activity:
+  runs-on: ubuntu-latest
+  name: ✨ README Activity
+  steps:
+   - uses: actions/checkout@v2
+   - uses: cheesits456/github-activity-readme@master
+     env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

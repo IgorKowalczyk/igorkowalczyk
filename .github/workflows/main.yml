@@ -30,11 +30,3 @@ jobs:
       git commit -m "[Bot] Update user stats"
       git push
       fi
- activity:
-  runs-on: ubuntu-latest
-  name: ✨ README Activity
-  steps:
-   - uses: actions/checkout@v2
-   - uses: cheesits456/github-activity-readme@master
-     env:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
