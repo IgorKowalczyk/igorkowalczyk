@@ -34,13 +34,6 @@ I'm work on websites for 2 years.
 
 ### 📊 Stats
 
- - ⭐ Total Stars: **81**
- - 🕚 Total Commits: **9483**
- - 📚 Total Repositories: **16**
- - 🚀 Total PRs: **9**
- - ❗Total Issues: **4**
- - 📝 Contributed to: **4**
-
 <!-- STAT-START -->
 <!-- STAT-END -->
 
