@@ -24,12 +24,12 @@ I'm work on websites for 2 years.
 ### 📕 Latest Blog Posts
 [Visit my blog for more](https://igorkowalczyk.github.io/blog)
 <!-- FEED-START -->
-   - [Niebezpieczne pliki](https://igorkowalczyk.github.io/blog/internet/2020/07/27/Niebezpieczne-pliki)
-- [Bezpieczeństwo w sieci - Nasze dane](https://igorkowalczyk.github.io/blog/internet/2020/01/22/Bezpiecze%C5%84stwo-w-sieci-nasze-dane)
-- [Dlaczego Jquery jest złe?](https://igorkowalczyk.github.io/blog/internet/programowanie/javascript/2020/01/19/Dlaczego-Jquery-jest-z%C5%82e)
-- [Jasna i ciemna strona internetu](https://igorkowalczyk.github.io/blog/internet/2019/12/28/Jasna-i-ciemna-strona-internetu)
-- [Pierwszy wpis, nowy blog](https://igorkowalczyk.github.io/blog/offtop/2019/12/22/Pierwszy-wpis,-nowy-blog)
-<!-- Posts updated on Sun May 30 2021 20:02:09 GMT+0000 (Coordinated Universal Time) -->
+   - [Niebezpieczne pliki](https://igorkowalczyk.github.io/blog/internet/2020/07/27/Niebezpieczne-pliki) [27T00:00:00+02:00 July 2020]
+- [Bezpieczeństwo w sieci - Nasze dane](https://igorkowalczyk.github.io/blog/internet/2020/01/22/Bezpiecze%C5%84stwo-w-sieci-nasze-dane) [22T00:00:00+01:00 January 2020]
+- [Dlaczego Jquery jest złe?](https://igorkowalczyk.github.io/blog/internet/programowanie/javascript/2020/01/19/Dlaczego-Jquery-jest-z%C5%82e) [19T00:00:00+01:00 January 2020]
+- [Jasna i ciemna strona internetu](https://igorkowalczyk.github.io/blog/internet/2019/12/28/Jasna-i-ciemna-strona-internetu) [28T00:00:00+01:00 December 2019]
+- [Pierwszy wpis, nowy blog](https://igorkowalczyk.github.io/blog/offtop/2019/12/22/Pierwszy-wpis,-nowy-blog) [22T00:00:00+01:00 December 2019]
+<!-- Posts last updated on Mon May 31 2021 06:50:50 GMT+0000 (Coordinated Universal Time) -->
    <!-- FEED-END -->
 
 ### 📊 Stats
@@ -88,7 +88,8 @@ I'm work on websites for 2 years.
 <!--END_SECTION:activity-->
 
 <!-- STAT-START -->
-<!-- STAT-END -->
+  Igor Kowalczyk 2019-03-31T17:45:24Z<i>Last updated on 31th May 2021 using Github Actions</i>
+  <!-- STAT-END -->
 ---
 
 <details>
