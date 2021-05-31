@@ -19,22 +19,15 @@ try {
  const fetchGithub = async () => {
   const user = await fetch('https://api.github.com/users/igorkowalczyk').then(res => res.json())
   return `
-  - 📚 Total Repositories: **${user.public_repos}**
-  - 📖 Total Gists: **${user.public_gists}**
-  <!-- Stats last updated on ${date.toString()} -->`
- };
- /*
-   return `
-  - ⭐ Total Stars: **${allstars}**
-  - 🕚 Total Commits: **9483**
+  - ⭐ Total Stars: **50**
+  - 🕚 Total Commits: **11483**
   - 📚 Total Repositories: **${user.public_repos}**
   - 📖 Total Gists: **${user.public_gists}**
   - 🚀 Total PRs: **9**
   - ❗Total Issues: **4**
   - 📝 Contributed to: **4**
-  <!-- Posts last updated on ${date.toString()} -->`
+  <!-- Stats last updated on ${date.toString()} -->`
  };
- */
  (async () => {
   const readme = fs.readFileSync("./README.md", "utf8");
   const feed_before = readme.indexOf(feed_open) + feed_open.length;
