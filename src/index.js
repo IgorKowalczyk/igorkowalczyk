@@ -21,11 +21,10 @@ try {
   const user = await fetch('https://api.github.com/users/igorkowalczyk').then(res => res.json())
   const stars = await fetch(`https://api.github.com/users/igorkowalczyk/starred`).then(res => res.json())
   stars.forEach(star => {
-   Object.entries(star).forEach(([key, value]) => {
-    console.log(`${key} ${value}`);
-   });
+   const allstars = allstars++;
   })
   return `
+  - ⭐ Total Stars: **${allstars}**
   - 🕚 Total Commits: **9483**
   - 📚 Total Repositories: **${user.public_repos}**
   - 📖 Total Gists: **${user.public_gists}**
