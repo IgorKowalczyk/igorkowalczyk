@@ -22,7 +22,7 @@ I'm work on websites for 2 years.
 * [Countdown.js](https://igorkowalczyk.github.io/countdown.js)
 
 ### 📕 Latest Blog Posts
-> [⚡ Visit my blog for more posts](https://igorkowalczyk.github.io/blog)
+> ℹ️ | [Visit my blog for more posts](https://igorkowalczyk.github.io/blog)
 <!-- FEED-START -->
    - [Niebezpieczne pliki](https://igorkowalczyk.github.io/blog/internet/2020/07/27/Niebezpieczne-pliki) [26 Jul 2020]
 - [Bezpieczeństwo w sieci - Nasze dane](https://igorkowalczyk.github.io/blog/internet/2020/01/22/Bezpiecze%C5%84stwo-w-sieci-nasze-dane) [21 Jan 2020]
