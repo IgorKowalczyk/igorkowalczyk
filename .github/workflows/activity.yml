@@ -1,4 +1,4 @@
- name: Update README with activity
+name: Activity
 
 on:
  schedule:
