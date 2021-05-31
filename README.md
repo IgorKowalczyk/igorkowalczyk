@@ -49,7 +49,7 @@ I'm work on websites for 2 years.
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[05/31 06:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `38` commits in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)  
+`[05/31 06:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `40` commits in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)  
 `[05/30 16:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `29` commits in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[05/26 11:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [IgorKowalczyk/bin](https://github.com/IgorKowalczyk/bin)  
 `[05/26 07:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)  
@@ -85,7 +85,6 @@ I'm work on websites for 2 years.
 `[05/15 11:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aurolia-css/majo-rebuild](https://github.com/aurolia-css/majo-rebuild)  
 `[05/15 11:08]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v0.0.1`](https://github.com/IgorKowalczyk/majobot/releases/tag/v0.0.1) in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[05/15 10:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)  
-`[05/15 10:24]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/IgorKowalczyk/github-readme-stats/tree/master) in [IgorKowalczyk/github-readme-stats](https://github.com/IgorKowalczyk/github-readme-stats)  
 
 </details>
 <!--END_SECTION:activity-->
