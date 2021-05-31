@@ -1,6 +1,7 @@
+const fs = require("fs");
 const fetch = require("node-fetch");
 const parser = require("xml2json");
-const fs = require("fs");
+const moment = require("moment");
 const date = new Date();
 const open = `<!-- FEED-START -->`;
 const close = `<!-- FEED-END -->`;
@@ -12,14 +13,10 @@ try {
   const articles = await fetch("https://igorkowalczyk.github.io/blog/feeds/feed.xml");
   const articlesText = await articles.text();
   const articlesJSON = parser.toJson(articlesText);
-  let months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
-  function cdate(str) {
-   temp_date = str.split("-");
-   return temp_date[2] + " " + months[Number(temp_date[1]) - 1] + " " + temp_date[0];
-  }
   const newC = JSON.parse(articlesJSON).rss.channel.item.slice(0, 5);
-  return newC.map(({ title, link, pubDate }) => `- [${title}](${link}) [${cdate(pubDate)}]`).join("\n") + `\n<!-- Posts last updated on ${date.toString()} -->`;
+  return newC.map(({ title, link, pubDate }) => `- [${title}](${link}) [${moment(pubDate).format("D MMM YYYY")}]`).join("\n") + `\n<!-- Posts last updated on ${date.toString()} -->`;
  };
+
  const fetchGithub = async () => {
   const user = await fetch('https://api.github.com/users/igorkowalczyk').then(res => res.json())
   const stars = async () => {

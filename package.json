@@ -11,6 +11,9 @@
   },
   "dependencies": {
     "node-fetch": "^2.6.1",
-    "xml2json": "^0.12.0"
+    "xml2json": "^0.12.0",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "moment-timezone": "^0.5.31"
   }
 }
