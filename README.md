@@ -12,7 +12,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 💻 My favorite languages are Node.js and CSS
 
 ### 💪 Experience:
-I'm work on websites for 2 years.
+I'm work on websites for over 2 years.
 
 ### ⚡ My sample projects
 
