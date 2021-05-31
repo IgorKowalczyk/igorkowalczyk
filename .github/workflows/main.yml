@@ -8,7 +8,7 @@ on:
 jobs:
  main:
   runs-on: ubuntu-latest
-  name: ✨ Update README stats
+  name: ✨ README Stats
   steps:
    - uses: actions/checkout@v2
    - name: 🎏 Fetch repo
@@ -31,7 +31,7 @@ jobs:
       fi
  activity:
   runs-on: ubuntu-latest
-  name: ✨ Update README activity
+  name: ✨ README Activity
   steps:
    - uses: actions/checkout@v2
    - uses: cheesits456/github-activity-readme@master

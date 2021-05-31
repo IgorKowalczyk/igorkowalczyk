@@ -1,5 +1,6 @@
 const fetch = require("node-fetch");
 const parser = require("xml2json");
+const fs = require("fs");
 const date = new Date();
 const open = `<!-- FEED-START -->`;
 const close = `<!-- FEED-END -->`;
