@@ -46,6 +46,7 @@ I'm work on websites for over 2 years.
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 `[05/31 16:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)  
