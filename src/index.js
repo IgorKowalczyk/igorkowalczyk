@@ -1,13 +1,10 @@
-import fetch from "node-fetch";
-import parser from "xml2json";
-
+const fetch = require("node-fetch");
+const parser = require("xml2json");
 const date = new Date();
 const open = `<!-- FEED-START -->`;
 const close = `<!-- FEED-END -->`;
-
 const open2 = `<!-- STAT-START -->`;
 const close2 = `<!-- STAT-END -->`;
-
 
 try {
  const fetchArticles = async () => {
