@@ -6,21 +6,7 @@ on:
  workflow_dispatch:
 
 jobs:
- stats:
-  runs-on: ubuntu-latest
-  steps:
-   - name: 🎏 Fetch repo
-     uses: actions/checkout@master
-     with:
-      fetch-depth: 1
-   - name: ✨ Generate README.md
-     uses: teoxoy/profile-readme-stats@master
-     with:
-      token: ${{ secrets.USER_TOKEN }}
-      readme: "./README.md"
-      includeForks: "false"
-      template: "./src/markdown/readme-template.md"
- blog:
+ main:
   runs-on: ubuntu-latest
   steps:
    - uses: actions/checkout@v2
@@ -32,29 +18,21 @@ jobs:
      run: |
       cd ${GITHUB_WORKSPACE}/
       npm i
-      node src/blog.js
+      node src/index.js
+   - name: 🚀 Deploy
+     run: |
+      if [[ "$(git status --porcelain)" != "" ]]; then
+      git config user.name IgorKowalczyk
+      git config user.email xxmajonezxx@gmail.com
+      git add .
+      git commit -m "[Bot] Update user stats"
+      git push
+      fi
  activity:
   runs-on: ubuntu-latest
-  name: Update this repo's README with recent activity
+  name: ✨ Update README stats
   steps:
    - uses: actions/checkout@v2
    - uses: cheesits456/github-activity-readme@master
      env:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
- pushrepo:
-  runs-on: ubuntu-latest
-  steps:
-   - name: 🎏 Fetch repo
-     uses: actions/checkout@master
-     with:
-      fetch-depth: 1
-   - name: Push README.md
-    run: |
-    if [[ "$(git status --porcelain)" != "" ]]; then
-     git config user.name IgorKowalczyk
-     git config user.email xxmajonezxx@gmail.com
-     git add .
-     git commit -m "[Bot] Update user stats"
-     git push
-     fi
