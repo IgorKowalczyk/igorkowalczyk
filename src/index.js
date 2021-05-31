@@ -20,7 +20,7 @@ try {
  const fetchGithub = async () => {
   const user = await fetch('https://api.github.com/users/igorkowalczyk').then(res => res.json())
   const stars = (user) =>
-  got(`https://api.github.com/users/${user}/starred`)
+  fetch(`https://api.github.com/users/${user}/starred`)
   .then((res) => JSON.parse(res.body))
   .then((starred) => starred.map((s) => ({
         owner:       s.owner.login
