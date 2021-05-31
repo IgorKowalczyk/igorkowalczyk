@@ -29,13 +29,14 @@ I'm work on websites for over 2 years.
 - [Dlaczego Jquery jest złe?](https://igorkowalczyk.github.io/blog/internet/programowanie/javascript/2020/01/19/Dlaczego-Jquery-jest-z%C5%82e) `[18/01/2020]`
 - [Jasna i ciemna strona internetu](https://igorkowalczyk.github.io/blog/internet/2019/12/28/Jasna-i-ciemna-strona-internetu) `[27/12/2019]`
 - [Pierwszy wpis, nowy blog](https://igorkowalczyk.github.io/blog/offtop/2019/12/22/Pierwszy-wpis,-nowy-blog) `[21/12/2019]`
-<!-- Posts last updated on Mon May 31 2021 18:52:27 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Mon May 31 2021 20:22:25 GMT+0000 (Coordinated Universal Time) -->
    <!-- FEED-END -->
 
 ### 📊 Stats
 
 #### 🐙 Github Stats
 <!-- STAT-START -->
+  
   - ⭐ Total Stars: **50**
   - 🕚 Total Commits: **11483**
   - 📚 Total Repositories: **13**
@@ -43,7 +44,7 @@ I'm work on websites for over 2 years.
   - 🚀 Total PRs: **9**
   - ❗Total Issues: **4**
   - 📝 Contributed to: **4**
-  <!-- Stats last updated on Mon May 31 2021 18:52:27 GMT+0000 (Coordinated Universal Time) -->
+  <!-- Stats last updated on Mon May 31 2021 20:22:25 GMT+0000 (Coordinated Universal Time) -->
   <!-- STAT-END -->
 
 #### 📊 Weekly language stats
