@@ -11,6 +11,6 @@ jobs:
   name: ✨ README Activity
   steps:
    - uses: actions/checkout@v2
-   - uses: igorkowalczyk/github-activity@master
+   - uses: igorkowalczykbot/github-activity@master
      env:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
