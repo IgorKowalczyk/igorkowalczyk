@@ -24,12 +24,12 @@ I'm work on websites for over 2 years.
 ### 📕 Latest Blog Posts
 > ℹ️ | [Visit my blog for more posts](https://igorkowalczyk.github.io/blog)
 <!-- FEED-START -->
-   - [Niebezpieczne pliki](https://igorkowalczyk.github.io/blog/internet/2020/07/27/Niebezpieczne-pliki) `[26/07/2020 22:00]`
-- [Bezpieczeństwo w sieci - Nasze dane](https://igorkowalczyk.github.io/blog/internet/2020/01/22/Bezpiecze%C5%84stwo-w-sieci-nasze-dane) `[21/01/2020 23:00]`
-- [Dlaczego Jquery jest złe?](https://igorkowalczyk.github.io/blog/internet/programowanie/javascript/2020/01/19/Dlaczego-Jquery-jest-z%C5%82e) `[18/01/2020 23:00]`
-- [Jasna i ciemna strona internetu](https://igorkowalczyk.github.io/blog/internet/2019/12/28/Jasna-i-ciemna-strona-internetu) `[27/12/2019 23:00]`
-- [Pierwszy wpis, nowy blog](https://igorkowalczyk.github.io/blog/offtop/2019/12/22/Pierwszy-wpis,-nowy-blog) `[21/12/2019 23:00]`
-<!-- Posts last updated on Mon May 31 2021 17:53:40 GMT+0000 (Coordinated Universal Time) -->
+   - [Niebezpieczne pliki](https://igorkowalczyk.github.io/blog/internet/2020/07/27/Niebezpieczne-pliki) `[26/07/2020]`
+- [Bezpieczeństwo w sieci - Nasze dane](https://igorkowalczyk.github.io/blog/internet/2020/01/22/Bezpiecze%C5%84stwo-w-sieci-nasze-dane) `[21/01/2020]`
+- [Dlaczego Jquery jest złe?](https://igorkowalczyk.github.io/blog/internet/programowanie/javascript/2020/01/19/Dlaczego-Jquery-jest-z%C5%82e) `[18/01/2020]`
+- [Jasna i ciemna strona internetu](https://igorkowalczyk.github.io/blog/internet/2019/12/28/Jasna-i-ciemna-strona-internetu) `[27/12/2019]`
+- [Pierwszy wpis, nowy blog](https://igorkowalczyk.github.io/blog/offtop/2019/12/22/Pierwszy-wpis,-nowy-blog) `[21/12/2019]`
+<!-- Posts last updated on Mon May 31 2021 18:04:36 GMT+0000 (Coordinated Universal Time) -->
    <!-- FEED-END -->
 
 ### 📊 Stats
@@ -38,7 +38,7 @@ I'm work on websites for over 2 years.
   
   - 📚 Total Repositories: **13**
   - 📖 Total Gists: **1**
-  <!-- Stats last updated on Mon May 31 2021 17:53:40 GMT+0000 (Coordinated Universal Time) -->
+  <!-- Stats last updated on Mon May 31 2021 18:04:36 GMT+0000 (Coordinated Universal Time) -->
   <!-- STAT-END -->
 
 ### :zap: Recent Activity
