@@ -14,7 +14,7 @@ try {
   const articlesText = await articles.text();
   const articlesJSON = parser.toJson(articlesText);
   const newC = JSON.parse(articlesJSON).rss.channel.item.slice(0, 5);
-  return newC.map(({ title, link, pubDate }) => `- [${title}](${link}) \`[${moment(pubDate).format("DD/MM/YYYY HH:mm")}]\``).join("\n") + `\n<!-- Posts last updated on ${date.toString()} -->`;
+  return newC.map(({ title, link, pubDate }) => `- [${title}](${link}) [${moment(pubDate).format("D MMM YYYY")}]`).join("\n") + `\n<!-- Posts last updated on ${date.toString()} -->`;
  };
 
  const fetchGithub = async () => {
@@ -51,10 +51,10 @@ try {
   const readmeContentChunkBreakAfter2 = readmeNew.substring(indexAfter2);
   const stats = await fetchGithub();
   const readmeFinal = `
-   ${readmeContentChunkBreakBefore2}
-   ${stats}
-   ${readmeContentChunkBreakAfter2}
-  `;
+  ${readmeContentChunkBreakBefore2}
+  ${stats}
+  ${readmeContentChunkBreakAfter2}
+ `;
  fs.writeFileSync("./README.md", readmeFinal.trim());
  })();
 } catch (err) {
