@@ -53,7 +53,7 @@ I'm work on websites for 2 years.
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[05/31 06:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `47` commits in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)  
+`[05/31 07:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `63` commits in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)  
 `[05/30 16:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `29` commits in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[05/26 11:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [IgorKowalczyk/bin](https://github.com/IgorKowalczyk/bin)  
 `[05/26 07:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)  
@@ -78,15 +78,6 @@ I'm work on websites for 2 years.
 `[05/16 13:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[05/15 19:03]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#2`](https://github.com//aurolia-css/majo-rebuild/pull/2 'MajoBOT Brazilian Portuguese translation and new commands [WIP]') in [aurolia-css/majo-rebuild](https://github.com/aurolia-css/majo-rebuild)  
 `[05/15 19:03]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2`](https://github.com//aurolia-css/majo-rebuild/issues/2 'MajoBOT Brazilian Portuguese translation and new commands [WIP]') in [aurolia-css/majo-rebuild](https://github.com/aurolia-css/majo-rebuild)  
-`[05/15 19:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aurolia-css/majo-rebuild](https://github.com/aurolia-css/majo-rebuild)  
-`[05/15 19:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
-`[05/15 13:23]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#9`](https://github.com//IgorKowalczyk/majobot/issues/9 'Update to Discord.js v12.3.1') in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
-`[05/15 13:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1000` commits in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
-`[05/15 13:15]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#9`](https://github.com//IgorKowalczyk/majobot/pull/9 'Update to Discord.js v12.3.1') in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
-`[05/15 13:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `16` commits in [aurolia-css/majo-rebuild](https://github.com/aurolia-css/majo-rebuild)  
-`[05/15 13:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
-`[05/15 12:49]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`aurolia-css-master`](https://github.com/aurolia-css/majo-rebuild/tree/aurolia-css-master) in [aurolia-css/majo-rebuild](https://github.com/aurolia-css/majo-rebuild)  
-`[05/15 11:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aurolia-css/majo-rebuild](https://github.com/aurolia-css/majo-rebuild)  
 
 </details>
 <!--END_SECTION:activity-->
