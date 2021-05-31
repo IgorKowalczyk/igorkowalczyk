@@ -18,8 +18,7 @@ try {
    return temp_date[2] + " " + months[Number(temp_date[1]) - 1] + " " + temp_date[0];
   }
   const newC = JSON.parse(articlesJSON).rss.channel.item.slice(0, 5);
-  console.log(newC);
-  return newC.map(({ title, link }) => `- [${title}](${link}) [${cdate(pubDate)}]`).join("\n") + `\n<!-- Posts last updated on ${date.toString()} -->`;
+  return newC.map(({ title, link, pubDate }) => `- [${title}](${link}) [${cdate(pubDate)}]`).join("\n") + `\n<!-- Posts last updated on ${date.toString()} -->`;
  };
  const fetchGithub = async () => {
   const user = await fetch('https://api.github.com/users/igorkowalczyk').then(res => res.json())
