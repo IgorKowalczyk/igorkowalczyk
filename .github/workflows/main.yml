@@ -25,6 +25,7 @@ jobs:
       if [[ "$(git status --porcelain)" != "" ]]; then
       git config user.name IgorKowalczyk
       git config user.email xxmajonezxx@gmail.com
+      git fetch
       git add .
       git commit -m "[Bot] Update user stats"
       git push
