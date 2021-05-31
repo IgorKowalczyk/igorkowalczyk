@@ -6,11 +6,11 @@
   "author": "Igor Kowalczyk",
   "license": "MIT",
   "repository": {
-   "type": "git",
-   "url": "https://github.com/igorkowalczyk/igorkowalczyk"
+    "type": "git",
+    "url": "https://github.com/igorkowalczyk/igorkowalczyk"
   },
   "bugs": {
-   "url": "https://github.com/igorkowalczyk/igorkowalczyk/issues"
+    "url": "https://github.com/igorkowalczyk/igorkowalczyk/issues"
   },
   "scripts": {
     "build": "node --experimental-modules src/index.js"
