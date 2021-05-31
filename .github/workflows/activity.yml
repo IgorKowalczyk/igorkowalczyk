@@ -1,4 +1,4 @@
-name: Activity
+name: Readme activity
 
 on:
  schedule:
