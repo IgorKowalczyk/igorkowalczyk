@@ -23,29 +23,19 @@ I'm work on websites for over 2 years.
 
 ### 📕 Latest Blog Posts
 > ℹ️ | [Visit my blog for more posts](https://igorkowalczyk.github.io/blog)
-<!-- FEED-START -->
+<!-- START_SECTION:feed -->
    - [Niebezpieczne pliki](https://igorkowalczyk.github.io/blog/internet/2020/07/27/Niebezpieczne-pliki) `[26/07/2020]`
 - [Bezpieczeństwo w sieci - Nasze dane](https://igorkowalczyk.github.io/blog/internet/2020/01/22/Bezpiecze%C5%84stwo-w-sieci-nasze-dane) `[21/01/2020]`
 - [Dlaczego Jquery jest złe?](https://igorkowalczyk.github.io/blog/internet/programowanie/javascript/2020/01/19/Dlaczego-Jquery-jest-z%C5%82e) `[18/01/2020]`
 - [Jasna i ciemna strona internetu](https://igorkowalczyk.github.io/blog/internet/2019/12/28/Jasna-i-ciemna-strona-internetu) `[27/12/2019]`
 - [Pierwszy wpis, nowy blog](https://igorkowalczyk.github.io/blog/offtop/2019/12/22/Pierwszy-wpis,-nowy-blog) `[21/12/2019]`
 <!-- Posts last updated on Tue Jun 01 2021 16:44:06 GMT+0000 (Coordinated Universal Time) -->
-   <!-- FEED-END -->
+<!-- END_SECTION:feed -->
 
 ### 📊 Stats
 
 #### 🐙 Github Stats
-<!-- STAT-START -->
-  
-  - ⭐ Total Stars: **50**
-  - 🕚 Total Commits: **11483**
-  - 📚 Total Repositories: **13**
-  - 📖 Total Gists: **1**
-  - 🚀 Total PRs: **9**
-  - ❗Total Issues: **4**
-  - 📝 Contributed to: **4**
-  <!-- Stats last updated on Tue Jun 01 2021 16:44:06 GMT+0000 (Coordinated Universal Time) -->
-  <!-- STAT-END -->
+
 
 #### 📊 Weekly language stats
 <!--START_SECTION:waka-->

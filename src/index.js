@@ -3,10 +3,8 @@ const fetch = require("node-fetch");
 const parser = require("xml2json");
 const moment = require("moment");
 const date = new Date();
-const feed_open = `<!-- FEED-START -->`;
-const feed_close = `<!-- FEED-END -->`;
-const stats_open = `<!-- STAT-START -->`;
-const stats_close = `<!-- STAT-END -->`;
+const feed_open = `<!-- START_SECTION:feed -->`;
+const feed_close = `<!-- END_SECTION:feed -->`;
 
 try {
  const fetchArticles = async () => {
@@ -15,18 +13,6 @@ try {
   const articlesJSON = parser.toJson(articlesText);
   const newC = JSON.parse(articlesJSON).rss.channel.item.slice(0, 5);
   return newC.map(({ title, link, pubDate }) => `- [${title}](${link}) \`[${moment(pubDate).format("DD/MM/YYYY")}]\``).join("\n") + `\n<!-- Posts last updated on ${date.toString()} -->`;
- };
- const fetchGithub = async () => {
-  const user = await fetch('https://api.github.com/users/igorkowalczyk').then(res => res.json())
-  return `
-  - ⭐ Total Stars: **50**
-  - 🕚 Total Commits: **11483**
-  - 📚 Total Repositories: **${user.public_repos}**
-  - 📖 Total Gists: **${user.public_gists}**
-  - 🚀 Total PRs: **9**
-  - ❗Total Issues: **4**
-  - 📝 Contributed to: **4**
-  <!-- Stats last updated on ${date.toString()} -->`
  };
  (async () => {
   const readme = fs.readFileSync("./README.md", "utf8");
@@ -40,17 +26,7 @@ try {
    ${posts}
    ${feed_after_final}
   `;
-  const stats_before = readme_feed.indexOf(stats_open) + stats_open.length;
-  const stats_after = readme_feed.indexOf(stats_close);
-  const stats_before_final = readme_feed.substring(0, stats_before);
-  const stats_after_final = readme_feed.substring(stats_after);
-  const stats = await fetchGithub();
-  const readme_final = `
-  ${stats_before_final}
-  ${stats}
-  ${stats_after_final}
- `;
- fs.writeFileSync("./README.md", readme_final.trim());
+ fs.writeFileSync("./README.md", readme_feed.trim());
  })();
 } catch (err) {
  return console.error(err);
