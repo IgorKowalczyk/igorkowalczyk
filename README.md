@@ -35,17 +35,17 @@ I'm work on websites for over 2 years.
 ### 📊 Stats
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/I%27ve%20Written-32577%20lines%20of%20code-%23333)
+![Lines of code](https://img.shields.io/badge/I%27ve%20Written-32576%20lines%20of%20code-%23333)
 
 #### 🐙 My Github Stats 
 
-🏆 **1,332 Contributions in the Year 2021**
+🏆 **1,330** Contributions in the Year 2021
  > 
-📦 117.0 kB used in Github's Storage 
+📦 **117.0 kB** used in Github's Storage 
  > 
-📜 14 Public Repositories 
+📜 **14** Public Repositories 
  
-🔑 2 Private Repositories  
+🔑 **2** Private Repositories  
  
 **🌞 I work most in the morning** 
 
@@ -60,17 +60,17 @@ I'm work on websites for over 2 years.
 
 ```text
 Monday       297 commits    █████░░░░░░░░░░░░░░░░░░░░   21.95% 
-Tuesday      221 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.33% 
+Tuesday      222 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.41% 
 Wednesday    199 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.71% 
 Thursday     179 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.23% 
 Friday       159 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.75% 
 Saturday     176 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.01% 
-Sunday       122 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.02%
+Sunday       121 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.94%
 
 ```
 
 
-📊 ####Weekly work stats 
+📊 #### Weekly work stats 
 
 ```text
 💬 Programming Languages: 
