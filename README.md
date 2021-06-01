@@ -34,9 +34,6 @@ I'm work on websites for over 2 years.
 
 ### 📊 Stats
 
-#### 🐙 Github Stats
-
-
 #### 📊 Weekly language stats
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-619-blue)
