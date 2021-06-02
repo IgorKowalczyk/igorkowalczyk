@@ -26,6 +26,6 @@ jobs:
       git config user.name IgorKowalczyk
       git config user.email xxmajonezxx@gmail.com
       git add .
-      git commit -m "[Bot] Update user stats"
+      git commit -m "[Bot] Update blog feed"
       git push -f
       fi
