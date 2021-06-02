@@ -90,19 +90,25 @@ Linux                    6 hrs 38 mins       ███████████�
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+`[06/02 09:03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [milligram/milligram](https://github.com/milligram/milligram)  
+`[06/02 09:03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [CodingGay/BlackDex](https://github.com/CodingGay/BlackDex)  
+`[06/02 09:03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl)  
+`[06/02 09:03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [apache/dubbo](https://github.com/apache/dubbo)  
+`[06/02 09:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [node-fetch/node-fetch](https://github.com/node-fetch/node-fetch)  
+`[06/02 09:01]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [nodejs/node](https://github.com/nodejs/node)  
 `[06/02 01:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)  
 `[06/01 20:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [IgorKowalczykBot/waka-readme-stats](https://github.com/IgorKowalczykBot/waka-readme-stats)  
 `[06/01 19:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)  
 `[06/01 19:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [IgorKowalczyk/waka-readme-stats](https://github.com/IgorKowalczyk/waka-readme-stats)  
+
+<details><summary>Show More</summary>
+
 `[06/01 19:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)  
 `[06/01 19:27]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2`](https://github.com//IgorKowalczykBot/waka-readme-stats/pull/2 'Update main.py') in [IgorKowalczykBot/waka-readme-stats](https://github.com/IgorKowalczykBot/waka-readme-stats)  
 `[06/01 19:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [IgorKowalczyk/waka-readme-stats](https://github.com/IgorKowalczyk/waka-readme-stats)  
 `[06/01 19:18]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1`](https://github.com//IgorKowalczykBot/waka-readme-stats/pull/1 'Update translation.json') in [IgorKowalczykBot/waka-readme-stats](https://github.com/IgorKowalczykBot/waka-readme-stats)  
 `[06/01 19:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [IgorKowalczyk/waka-readme-stats](https://github.com/IgorKowalczyk/waka-readme-stats)  
 `[06/01 19:13]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [IgorKowalczykBot/waka-readme-stats](https://github.com/IgorKowalczykBot/waka-readme-stats) to [IgorKowalczyk/waka-readme-stats](https://github.com/IgorKowalczyk/waka-readme-stats)  
-
-<details><summary>Show More</summary>
-
 `[06/01 18:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)  
 `[06/01 18:39]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)  
 `[06/01 18:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `20` commits in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)  
@@ -126,7 +132,7 @@ Linux                    6 hrs 38 mins       ███████████�
 `[05/26 07:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)  
 `[05/26 07:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [IgorKowalczyk/bin](https://github.com/IgorKowalczyk/bin)  
 `[05/25 13:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [IgorKowalczyk/dotfiles](https://github.com/IgorKowalczyk/dotfiles)  
-`[05/21 07:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `137` commits in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
+`[05/21 07:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `130` commits in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 
 </details>
 <!--END_SECTION:activity-->
