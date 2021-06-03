@@ -29,7 +29,7 @@ I'm work on websites for over 2 years.
 - [Dlaczego Jquery jest złe?](https://igorkowalczyk.github.io/blog/internet/programowanie/javascript/2020/01/19/Dlaczego-Jquery-jest-z%C5%82e) `[18/01/2020]`
 - [Jasna i ciemna strona internetu](https://igorkowalczyk.github.io/blog/internet/2019/12/28/Jasna-i-ciemna-strona-internetu) `[27/12/2019]`
 - [Pierwszy wpis, nowy blog](https://igorkowalczyk.github.io/blog/offtop/2019/12/22/Pierwszy-wpis,-nowy-blog) `[21/12/2019]`
-<!-- Posts last updated on Thu Jun 03 2021 13:47:41 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Thu Jun 03 2021 15:19:15 GMT+0000 (Coordinated Universal Time) -->
    <!-- END_SECTION:feed -->
 
 ### 📊 Stats
@@ -37,28 +37,28 @@ I'm work on websites for over 2 years.
 <!--START_SECTION:waka-->
  | <!-- --> | <!-- --> |
 |-|-|
-| 🏆 Contributions in 2021: | 1,393|
+| 🏆 Contributions in 2021: | 1,405|
 | 📦 Github Storage: | 118.0 kB used|
-| 📝 Total lines of code: | 31095|
+| 📝 Total lines of code: | 31072|
 | 📚 Public Repositories: | 13 |
 | 🔑 Private Repositories: | only 1 |
-<details><summary>✨ Show more stats ✨</summary>
+<details><summary>✨ Show more stats</summary>
 
 #### 🌞 I work most during day 
 
 ```text
 🌞 Morning    245 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.05% 
-🌆 Daytime    510 commits    ██████████░░░░░░░░░░░░░░░   39.66% 
-🌃 Evening    517 commits    ██████████░░░░░░░░░░░░░░░   40.2% 
+🌆 Daytime    511 commits    ██████████░░░░░░░░░░░░░░░   39.74% 
+🌃 Evening    516 commits    ██████████░░░░░░░░░░░░░░░   40.12% 
 🌙 Night      14 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   1.09%
 ```
-#### 📅 I'm Most Productive on Monday 
+#### 📅 I'm most productive on Monday 
 
 ```text
-Monday       221 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.19% 
+Monday       220 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.11% 
 Tuesday      215 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.72% 
 Wednesday    219 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.03% 
-Thursday     199 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.47% 
+Thursday     200 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.55% 
 Friday       154 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.98% 
 Saturday     164 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.75% 
 Sunday       114 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.86%
@@ -84,6 +84,19 @@ Linux                    9 hrs 43 mins       ███████████�
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+`[06/03 14:59]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `5` commits in [IgorKowalczyk/blog](https://github.com/IgorKowalczyk/blog)  
+`[06/03 14:24]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/merge.png" align="top" height="18"></a> Merged PR [`#394`](https://github.com//IgorKowalczyk/blog/pull/394 'New comment by Igor Kowalczyk') in [IgorKowalczyk/blog](https://github.com/IgorKowalczyk/blog)  
+`[06/03 14:24]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/delete.png" align="top" height="18"></a> Deleted `comment_350c1a30-c477-11eb-9bde-bb54fea9ca92` from [IgorKowalczyk/blog](https://github.com/IgorKowalczyk/blog)  
+`[06/03 14:17]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `4` commits in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)  
+`[06/03 13:50]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczykBot/waka-readme-stats](https://github.com/IgorKowalczykBot/waka-readme-stats)  
+`[06/03 13:48]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczykBot/github-activity](https://github.com/IgorKowalczykBot/github-activity)  
+`[06/03 13:39]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczykBot/waka-readme-stats](https://github.com/IgorKowalczykBot/waka-readme-stats)  
+`[06/03 13:38]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)  
+`[06/03 13:33]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczykBot/waka-readme-stats](https://github.com/IgorKowalczykBot/waka-readme-stats)  
+`[06/03 13:33]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)  
+
+<details><summary>⚡ Show more activity</summary>
+
 `[06/03 13:27]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `4` commits in [IgorKowalczykBot/github-activity](https://github.com/IgorKowalczykBot/github-activity)  
 `[06/03 11:40]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)  
 `[06/03 11:35]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczykBot/waka-readme-stats](https://github.com/IgorKowalczykBot/waka-readme-stats)  
@@ -94,9 +107,6 @@ Linux                    9 hrs 43 mins       ███████████�
 `[06/03 11:09]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczykBot/waka-readme-stats](https://github.com/IgorKowalczykBot/waka-readme-stats)  
 `[06/03 10:55]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)  
 `[06/03 10:53]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [vuejs/vue](https://github.com/vuejs/vue)  
-
-<details><summary>Show More</summary>
-
 `[06/03 00:53]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `3` commits in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)  
 `[06/02 19:38]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczykBot/waka-readme-stats](https://github.com/IgorKowalczykBot/waka-readme-stats)  
 `[06/02 19:34]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)  
@@ -170,7 +180,7 @@ Linux                    9 hrs 43 mins       ███████████�
 `[05/26 07:48]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)  
 `[05/26 07:48]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `4` commits in [IgorKowalczyk/bin](https://github.com/IgorKowalczyk/bin)  
 `[05/25 13:06]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/dotfiles](https://github.com/IgorKowalczyk/dotfiles)  
-`[05/21 07:26]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `65` commits in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
+`[05/21 07:26]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `48` commits in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 
 </details>
 <!--END_SECTION:activity-->
@@ -178,7 +188,7 @@ Linux                    9 hrs 43 mins       ███████████�
 ---
 
 <details>
- <summary>🥚</summary>
+ <summary> </summary>
  <h5>The cake is a lie 🍰❤️</h5>
- <a href="https://igorkowalczyk.github.io"><img src="https://komarev.com/ghpvc/?username=igorkowalczyk&style=flat-square&color=333333" alt="Github profile views"></a>
+ <a href="https://igorkowalczyk.github.io"><img src="https://komarev.com/ghpvc/?username=igorkowalczyk&style=flat-square&color=333333&label=Github+profile+views" alt="Github profile views"></a>
 </details>
