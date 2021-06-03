@@ -21,4 +21,4 @@ jobs:
       SHOW_PROJECTS: false
       SHOW_PROFILE_VIEWS: false
       COMMIT_BY_ME: true
-      SHOW_LINES_OF_CODE: true
+      SHOW_LINES_OF_CODE: false
