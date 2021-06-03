@@ -20,5 +20,5 @@ jobs:
       SHOW_TIMEZONE: false
       SHOW_PROJECTS: false
       SHOW_PROFILE_VIEWS: false
-      COMMIT_BY_ME: true
+      COMMIT_BY_ME: false
       SHOW_LINES_OF_CODE: false
