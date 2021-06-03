@@ -185,7 +185,7 @@ Linux                    9 hrs 43 mins       ███████████�
 ---
 
 <details>
- <summary>🥚</summary>
+ <summary> </summary>
  <h5>The cake is a lie 🍰❤️</h5>
  <a href="https://igorkowalczyk.github.io"><img src="https://komarev.com/ghpvc/?username=igorkowalczyk&style=flat-square&color=333333&label=Github+profile+views" alt="Github profile views"></a>
 </details>
