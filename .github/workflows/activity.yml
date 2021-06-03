@@ -2,7 +2,7 @@ name: Readme activity
 
 on:
  schedule:
-  - cron: "*/5 * * * *"
+  - cron: '*/30 * * * *'
  workflow_dispatch:
 
 jobs:
