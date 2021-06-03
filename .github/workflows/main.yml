@@ -23,8 +23,8 @@ jobs:
    - name: 🚀 Deploy
      run: |
       if [[ "$(git status --porcelain)" != "" ]]; then
-      git config user.name IgorKowalczyk
-      git config user.email xxmajonezxx@gmail.com
+      git config user.name IgorKowalczykBot
+      git config user.email igor.kowalczyk.bot@onet.pl
       git add .
       git commit -m "[Bot] Update blog feed"
       git push -f
