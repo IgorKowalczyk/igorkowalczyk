@@ -1,8 +1,8 @@
-name: Readme Main (Stats)
+name: README blog feed
 
 on:
  schedule:
-  - cron: '*/30 * * * *'
+  - cron: '*/5 * * * *'
  workflow_dispatch:
 
 jobs:

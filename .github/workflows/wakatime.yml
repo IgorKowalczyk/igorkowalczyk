@@ -1,8 +1,8 @@
-name: Readme wakatime stats
+name: README Wakatime stats
 
 on:
  schedule:
-  - cron: "0 0 * * *"
+  - cron: '*/30 * * * *'
  workflow_dispatch:
 
 jobs:

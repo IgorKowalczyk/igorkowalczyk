@@ -1,8 +1,8 @@
-name: Readme activity
+name: README recent activity
 
 on:
  schedule:
-  - cron: '*/30 * * * *'
+  - cron: '*/5 * * * *'
  workflow_dispatch:
 
 jobs:
