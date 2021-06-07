@@ -37,9 +37,9 @@ I'm work on websites for over 2 years.
 <!--START_SECTION:waka-->
  | 🏆 Contributions (Total) | (soon) |
 |:-:|:-:|
-| **🏆 Contributions in 2021:** | **1,525**|
-| **📦 Github Storage:** | **121.1 kB used**|
-| **📝 Total lines of code:** | **38058**|
+| **🏆 Contributions in 2021:** | **1,526**|
+| **📦 Github Storage:** | **121.4 kB used**|
+| **📝 Total lines of code:** | **42080**|
 | **📚 Public Repositories:** | **15** |
 | **🔑 Private Repositories:** | **only 1** |
 <details><summary>✨ Show more stats</summary>
@@ -55,9 +55,9 @@ I'm work on websites for over 2 years.
 #### 📅 I'm most productive on Thursday 
 
 ```text
-Monday       217 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.63% 
+Monday       218 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.7% 
 Tuesday      205 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.71% 
-Wednesday    176 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.49% 
+Wednesday    175 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.41% 
 Thursday     232 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.78% 
 Friday       172 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.18% 
 Saturday     172 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.18% 
