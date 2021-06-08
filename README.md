@@ -84,6 +84,7 @@ Linux                    16 hrs 33 mins      ███████████�
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+`[06/08 10:11]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `3` commits in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[06/08 07:53]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `3` commits in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)  
 `[06/07 19:54]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[06/07 19:22]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [discordjs/discord.js](https://github.com/discordjs/discord.js)  
@@ -93,10 +94,10 @@ Linux                    16 hrs 33 mins      ███████████�
 `[06/07 12:34]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[06/07 12:28]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)  
 `[06/07 12:04]` <a href="https://github.com/igorkowalczyk" title="✅"><img alt="✅" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/pr-open.png" align="top" height="18"></a> Opened PR [`#5`](https://github.com//dumb-bot-list/dumb-bl-api/pull/5 'Update readme') in [dumb-bot-list/dumb-bl-api](https://github.com/dumb-bot-list/dumb-bl-api)  
-`[06/07 12:03]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/dumb-bl-api](https://github.com/IgorKowalczyk/dumb-bl-api)  
 
 <details><summary>⚡ Show more activity</summary>
 
+`[06/07 12:03]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/dumb-bl-api](https://github.com/IgorKowalczyk/dumb-bl-api)  
 `[06/07 12:03]` <a href="https://github.com/igorkowalczyk" title="🍴"><img alt="🍴" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/fork.png" align="top" height="18"></a> Forked [dumb-bot-list/dumb-bl-api](https://github.com/dumb-bot-list/dumb-bl-api) to [IgorKowalczyk/dumb-bl-api](https://github.com/IgorKowalczyk/dumb-bl-api)  
 `[06/07 11:58]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/blog](https://github.com/IgorKowalczyk/blog)  
 `[06/07 11:46]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)  
@@ -233,7 +234,7 @@ Linux                    16 hrs 33 mins      ███████████�
 `[06/01 18:38]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `20` commits in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)  
 `[05/31 17:02]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczykBot/github-activity](https://github.com/IgorKowalczykBot/github-activity)  
 `[05/31 16:56]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)  
-`[05/31 16:26]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `24` commits in [IgorKowalczyk/github-activity](https://github.com/IgorKowalczyk/github-activity)  
+`[05/31 16:26]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `21` commits in [IgorKowalczyk/github-activity](https://github.com/IgorKowalczyk/github-activity)  
 
 </details>
 <!--END_SECTION:activity-->
