@@ -37,7 +37,7 @@ I'm work on websites for over 2 years.
 <!--START_SECTION:waka-->
  | 🏆 Contributions (Total) | (soon) |
 |:-:|:-:|
-| **🏆 Contributions in 2021:** | **1,572**|
+| **🏆 Contributions in 2021:** | **1,575**|
 | **📦 Github Storage:** | **121.7 kB used**|
 | **📝 Total lines of code:** | **35743**|
 | **📚 Public Repositories:** | **15** |
