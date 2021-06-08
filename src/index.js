@@ -26,7 +26,7 @@ try {
    ${posts}
    ${feed_after_final}
   `;
- fs.writeFileSync("./README.md", readme_feed.trim());
+  fs.writeFileSync("./README.md", readme_feed.trim());
  })();
 } catch (err) {
  return console.error(err);
