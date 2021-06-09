@@ -19,7 +19,7 @@ I'm work on websites for over 2 years.
 * [Discord Bot](https://github.com/aurolia-css/majo-rebuild) [Node.js & Express.js]
 * [Portfolio](https://igorkowalczyk.github.io) [Jekyll & CSS] 
 * [Blog](https://igorkowalczyk.github.io/blog) [Jekyll & CSS] 
-* [Countdown.js](https://igorkowalczyk.github.io/countdown.js) [Javascript] 
+* [Countdown.js](https://igorkowalczyk.github.io/countdown) [Typescript] 
 
 ### 📕 Latest Blog Posts
 *💗 Visit my [blog](https://igorkowalczyk.github.io/blog) for more posts*
