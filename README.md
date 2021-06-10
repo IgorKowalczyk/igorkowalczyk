@@ -38,7 +38,7 @@ I'm work on websites for over 2 years.
  | 🏆 Contributions (Total) | (soon) |
 |:-:|:-:|
 | **🏆 Contributions in 2021:** | **1,611**|
-| **📦 Github Storage:** | **122.2 kB used**|
+| **📦 Github Storage:** | **122.3 kB used**|
 | **📝 Total lines of code:** | **35555**|
 | **📚 Public Repositories:** | **15** |
 | **🔑 Private Repositories:** | **only 1** |
