@@ -84,6 +84,7 @@ Linux                    16 hrs 6 mins       ███████████�
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+`[06/10 16:04]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)  
 `[06/10 15:54]` <a href="https://github.com/igorkowalczyk" title="🏷"><img alt="🏷" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/release.png" align="top" height="18"></a> Released [`v0.0.1`](https://github.com/IgorKowalczyk/countdown/releases/tag/v0.0.1) in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)  
 `[06/10 15:51]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)  
 `[06/10 15:51]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/delete.png" align="top" height="18"></a> Deleted `v.0.0.1` from [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)  
@@ -93,10 +94,10 @@ Linux                    16 hrs 6 mins       ███████████�
 `[06/10 09:29]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `13` commits in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)  
 `[06/09 19:45]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)  
 `[06/09 19:36]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)  
-`[06/09 19:29]` <a href="https://github.com/igorkowalczyk" title="🏷"><img alt="🏷" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/release.png" align="top" height="18"></a> Released [`v0.0.0`](https://github.com/IgorKowalczyk/countdown/releases/tag/v0.0.0) in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)  
 
 <details><summary>⚡ Show more activity</summary>
 
+`[06/09 19:29]` <a href="https://github.com/igorkowalczyk" title="🏷"><img alt="🏷" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/release.png" align="top" height="18"></a> Released [`v0.0.0`](https://github.com/IgorKowalczyk/countdown/releases/tag/v0.0.0) in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)  
 `[06/09 19:29]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)  
 `[06/09 19:28]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/delete.png" align="top" height="18"></a> Deleted `v0.0.0` from [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)  
 `[06/09 19:22]` <a href="https://github.com/igorkowalczyk" title="🏷"><img alt="🏷" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/release.png" align="top" height="18"></a> Released [`v0.0.0`](https://github.com/IgorKowalczyk/countdown/releases/tag/v0.0.0) in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)  
@@ -214,7 +215,6 @@ Linux                    16 hrs 6 mins       ███████████�
 `[06/03 15:16]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `18` commits in [IgorKowalczyk/blog](https://github.com/IgorKowalczyk/blog)  
 `[06/03 14:24]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/merge.png" align="top" height="18"></a> Merged PR [`#394`](https://github.com//IgorKowalczyk/blog/pull/394 'New comment by Igor Kowalczyk') in [IgorKowalczyk/blog](https://github.com/IgorKowalczyk/blog)  
 `[06/03 14:24]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/delete.png" align="top" height="18"></a> Deleted `comment_350c1a30-c477-11eb-9bde-bb54fea9ca92` from [IgorKowalczyk/blog](https://github.com/IgorKowalczyk/blog)  
-`[06/03 14:17]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)  
 
 </details>
 <!--END_SECTION:activity-->
