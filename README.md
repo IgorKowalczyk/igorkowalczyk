@@ -84,7 +84,7 @@ Linux                    16 hrs 6 mins       ███████████�
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[06/10 21:48]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `4` commits in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)  
+`[06/10 22:33]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `5` commits in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)  
 `[06/10 15:54]` <a href="https://github.com/igorkowalczyk" title="🏷"><img alt="🏷" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/release.png" align="top" height="18"></a> Released [`v0.0.1`](https://github.com/IgorKowalczyk/countdown/releases/tag/v0.0.1) in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)  
 `[06/10 15:51]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)  
 `[06/10 15:51]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/delete.png" align="top" height="18"></a> Deleted `v.0.0.1` from [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)  
@@ -212,7 +212,7 @@ Linux                    16 hrs 6 mins       ███████████�
 `[06/03 15:29]` <a href="https://github.com/igorkowalczyk" title="🍴"><img alt="🍴" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/fork.png" align="top" height="18"></a> Forked [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) to [IgorKowalczyk/awesome-github-profile-readme](https://github.com/IgorKowalczyk/awesome-github-profile-readme)  
 `[06/03 15:22]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)  
 `[06/03 15:20]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
-`[06/03 15:16]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `16` commits in [IgorKowalczyk/blog](https://github.com/IgorKowalczyk/blog)  
+`[06/03 15:16]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `15` commits in [IgorKowalczyk/blog](https://github.com/IgorKowalczyk/blog)  
 
 </details>
 <!--END_SECTION:activity-->
