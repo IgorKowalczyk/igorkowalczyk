@@ -37,9 +37,9 @@ I'm work on websites for over 2 years.
 <!--START_SECTION:waka-->
  | 🏆 Contributions (Total) | (soon) |
 |:-:|:-:|
-| **🏆 Contributions in 2021:** | **1,698**|
-| **📦 Github Storage:** | **122.8 kB used**|
-| **📝 Total lines of code:** | **24571**|
+| **🏆 Contributions in 2021:** | **1,710**|
+| **📦 Github Storage:** | **122.9 kB used**|
+| **📝 Total lines of code:** | **24761**|
 | **📚 Public Repositories:** | **15** |
 | **🔑 Private Repositories:** | **only 1** |
 <details><summary>✨ Show more stats</summary>
@@ -47,8 +47,8 @@ I'm work on websites for over 2 years.
 #### 🌞 I work most during day 
 
 ```text
-🌞 Morning    231 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.63% 
-🌆 Daytime    578 commits    ███████████░░░░░░░░░░░░░░   44.12% 
+🌞 Morning    237 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.09% 
+🌆 Daytime    572 commits    ███████████░░░░░░░░░░░░░░   43.66% 
 🌃 Evening    487 commits    █████████░░░░░░░░░░░░░░░░   37.18% 
 🌙 Night      14 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   1.07%
 ```
