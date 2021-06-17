@@ -150,7 +150,6 @@ Linux                    10 hrs 30 mins      ███████████�
 `[06/12 12:18]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `8` commits in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[06/12 11:04]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `5` commits in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[06/12 09:32]` <a href="https://github.com/igorkowalczyk" title="🍴"><img alt="🍴" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/fork.png" align="top" height="18"></a> Forked [CodersCommunity/discord-info-bot](https://github.com/CodersCommunity/discord-info-bot) to [IgorKowalczyk/discord-info-bot](https://github.com/IgorKowalczyk/discord-info-bot)  
-`[06/11 20:37]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 
 </details>
 <!--END_SECTION:activity-->
