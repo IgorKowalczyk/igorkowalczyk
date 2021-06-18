@@ -22,7 +22,7 @@ Over these years I have learned
  * Express.js, C++, Typescript, Shell (Medium)
  * PHP, Python, Bash (Medium/Low)
 
-### ⚡ My sample projects
+### ⚡ Sample projects
 
 * [Discord Bot](https://github.com/aurolia-css/majo-rebuild) [Node.js & Express.js]
 * [Portfolio](https://igorkowalczyk.github.io) [Jekyll & CSS] 
