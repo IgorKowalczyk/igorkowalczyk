@@ -11,7 +11,6 @@ This is the place where I opensource stuff and break things :rofl:
 - ❤️ I love Open Source projects and designing web apps
 - 💻 My favorite languages are Node.js and CSS
 
-### 💪 Experience:
 ### 💪 Experience & History
 I'm coding for over 2 years. I started my journey in late 2018 / early 2019.<br>
 My first project was a simple music player made with HTML, CSS and Javascript (probably January 2019).<br>
