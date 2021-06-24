@@ -46,7 +46,7 @@ Over these years I have learned
  | 🏆 Contributions (Total) | (soon) |
 |:-:|:-:|
 | **🏆 Contributions in 2021:** | **1,946**|
-| **📦 Github Storage:** | **123.6 kB used**|
+| **📦 Github Storage:** | **123.3 kB used**|
 | **📝 Total lines of code:** | **23528**|
 | **📚 Public Repositories:** | **15** |
 | **🔑 Private Repositories:** | **only 1** |
@@ -89,7 +89,7 @@ Linux                    12 hrs 57 mins      ███████████�
 
 </details>
 
-<!-- Wakatime stats generated at 2021-06-24 22:54:46.980890 -->
+<!-- Wakatime stats generated at 2021-06-24 23:43:51.066135 -->
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
