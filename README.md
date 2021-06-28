@@ -94,7 +94,8 @@ Linux                    7 hrs 41 mins       ███████████�
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[06/28 13:14]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
+`[06/28 13:43]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `3` commits in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
+`[06/28 13:31]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `3` commits in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[06/28 13:04]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `4` commits in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[06/28 12:30]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `3` commits in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[06/28 12:01]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
@@ -103,10 +104,10 @@ Linux                    7 hrs 41 mins       ███████████�
 `[06/27 14:31]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in <span title="Private Repo">`🔒rose-development/rose-bots`</span>  
 `[06/27 14:18]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in <span title="Private Repo">`🔒rose-development/rose-bots`</span>  
 `[06/27 12:48]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred <span title="Private Repo">`🔒rose-development/rose-bots.js`</span>  
-`[06/27 12:48]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred <span title="Private Repo">`🔒rose-development/rose-bots`</span>  
 
 <details><summary>⚡ Show more activity</summary>
 
+`[06/27 12:48]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred <span title="Private Repo">`🔒rose-development/rose-bots`</span>  
 `[06/27 12:37]` <a href="https://github.com/igorkowalczyk" title="📂"><img alt="📂" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/create-branch.png" align="top" height="18"></a> Created branch `main` in <span title="Private Repo">`🔒rose-development/rose-bots.js`</span>  
 `[06/27 12:37]` <a href="https://github.com/igorkowalczyk" title="➕"><img alt="➕" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/create-repo.png" align="top" height="18"></a> Created repository <span title="Private Repo">`🔒rose-development/rose-bots.js`</span>  
 `[06/27 12:36]` <a href="https://github.com/igorkowalczyk" title="📂"><img alt="📂" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/create-branch.png" align="top" height="18"></a> Created branch `main` in <span title="Private Repo">`🔒rose-development/rose-bots`</span>  
@@ -123,7 +124,6 @@ Linux                    7 hrs 41 mins       ███████████�
 `[06/24 18:28]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[06/24 17:55]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[06/24 15:19]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
-`[06/24 14:06]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 
 </details>
 <!--END_SECTION:activity-->
