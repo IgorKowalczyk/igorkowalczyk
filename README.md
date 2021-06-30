@@ -47,7 +47,7 @@ Over these years I have learned
 |:-:|:-:|
 | **🏆 Contributions in 2021:** | **2,022**|
 | **📦 Github Storage:** | **123.9 kB used**|
-| **📝 Total lines of code:** | **20923**|
+| **📝 Total lines of code:** | **20657**|
 | **📚 Public Repositories:** | **15** |
 | **🔑 Private Repositories:** | **only 1** |
 <details><summary>✨ Show more stats</summary>
@@ -55,9 +55,9 @@ Over these years I have learned
 #### 🌞 I work most during day 
 
 ```text
-🌞 Morning    238 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.43% 
+🌞 Morning    235 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.18% 
 🌆 Daytime    553 commits    ███████████░░░░░░░░░░░░░░   45.14% 
-🌃 Evening    424 commits    ████████░░░░░░░░░░░░░░░░░   34.61% 
+🌃 Evening    427 commits    ████████░░░░░░░░░░░░░░░░░   34.86% 
 🌙 Night      10 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   0.82%
 ```
 #### 📅 I'm most productive on Tuesday 
@@ -90,7 +90,7 @@ Windows                  51 mins             █░░░░░░░░░░�
 
 </details>
 
-<!-- Wakatime stats generated at 2021-06-30 15:51:06.586368 -->
+<!-- Wakatime stats generated at 2021-06-30 16:39:45.204265 -->
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
