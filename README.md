@@ -149,7 +149,6 @@ Windows                  1 hr 11 mins        ███░░░░░░░░�
 `[07/19 19:22]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/pr-close.png" align="top" height="18"></a> Closed PR [`#432`](https://github.com//IgorKowalczyk/blog/pull/432 'New comment by forexinvestLog') in [IgorKowalczyk/blog](https://github.com/IgorKowalczyk/blog)  
 `[07/19 19:22]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/pr-close.png" align="top" height="18"></a> Closed PR [`#431`](https://github.com//IgorKowalczyk/blog/pull/431 'New comment by CasinoX') in [IgorKowalczyk/blog](https://github.com/IgorKowalczyk/blog)  
 `[07/19 19:22]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/pr-close.png" align="top" height="18"></a> Closed PR [`#430`](https://github.com//IgorKowalczyk/blog/pull/430 'New comment by casino-x') in [IgorKowalczyk/blog](https://github.com/IgorKowalczyk/blog)  
-`[07/19 19:22]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/pr-close.png" align="top" height="18"></a> Closed PR [`#429`](https://github.com//IgorKowalczyk/blog/pull/429 'New comment by casinoapksJak') in [IgorKowalczyk/blog](https://github.com/IgorKowalczyk/blog)  
 
 </details>
 <!--END_SECTION:activity-->
