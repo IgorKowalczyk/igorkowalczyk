@@ -158,7 +158,6 @@ Windows                  1 hr 11 mins        ███░░░░░░░░�
 `[07/19 19:22]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/pr-close.png" align="top" height="18"></a> Closed PR [`#422`](https://github.com//IgorKowalczyk/blog/pull/422 'New comment by 1xbet1x_Vak') in [IgorKowalczyk/blog](https://github.com/IgorKowalczyk/blog)  
 `[07/19 19:22]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/pr-close.png" align="top" height="18"></a> Closed PR [`#421`](https://github.com//IgorKowalczyk/blog/pull/421 'New comment by 1xbet1xmer') in [IgorKowalczyk/blog](https://github.com/IgorKowalczyk/blog)  
 `[07/19 19:22]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/pr-close.png" align="top" height="18"></a> Closed PR [`#420`](https://github.com//IgorKowalczyk/blog/pull/420 'New comment by 1Win_glast') in [IgorKowalczyk/blog](https://github.com/IgorKowalczyk/blog)  
-`[07/19 19:22]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/pr-close.png" align="top" height="18"></a> Closed PR [`#419`](https://github.com//IgorKowalczyk/blog/pull/419 'New comment by 1win') in [IgorKowalczyk/blog](https://github.com/IgorKowalczyk/blog)  
 
 </details>
 <!--END_SECTION:activity-->
