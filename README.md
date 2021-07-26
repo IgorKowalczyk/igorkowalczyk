@@ -130,7 +130,6 @@ Windows                  15 mins             █░░░░░░░░░░�
 `[07/23 11:45]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)  
 `[07/23 11:42]` <a href="https://github.com/igorkowalczyk" title="✅"><img alt="✅" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/pr-open.png" align="top" height="18"></a> Opened PR [`#1`](https://github.com//IgorKowalczykBot/staticman/pull/1 'Merge changes') in [IgorKowalczykBot/staticman](https://github.com/IgorKowalczykBot/staticman)  
 `[07/23 11:34]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczykBot/staticman](https://github.com/IgorKowalczykBot/staticman)  
-`[07/23 11:31]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/blog](https://github.com/IgorKowalczyk/blog)  
 
 </details>
 <!--END_SECTION:activity-->
