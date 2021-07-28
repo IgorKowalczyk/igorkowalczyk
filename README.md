@@ -95,6 +95,7 @@ Windows                  11 mins             ░░░░░░░░░░░�
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+`[07/28 20:18]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)  
 `[07/27 05:25]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)  
 `[07/27 05:18]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/pr-close.png" align="top" height="18"></a> Closed PR [`#455`](https://github.com//IgorKowalczyk/blog/pull/455 'New comment by binance_liche') in [IgorKowalczyk/blog](https://github.com/IgorKowalczyk/blog)  
 `[07/26 21:07]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
@@ -104,6 +105,9 @@ Windows                  11 mins             ░░░░░░░░░░░�
 `[07/25 06:46]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)  
 `[07/25 06:38]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/pr-close.png" align="top" height="18"></a> Closed PR [`#451`](https://github.com//IgorKowalczyk/blog/pull/451 'New comment by CasinoX') in [IgorKowalczyk/blog](https://github.com/IgorKowalczyk/blog)  
 `[07/25 06:38]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/pr-close.png" align="top" height="18"></a> Closed PR [`#450`](https://github.com//IgorKowalczyk/blog/pull/450 'New comment by casino-x') in [IgorKowalczyk/blog](https://github.com/IgorKowalczyk/blog)  
+
+<details><summary>⚡ Show more activity</summary>
+
 `[07/25 06:38]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/pr-close.png" align="top" height="18"></a> Closed PR [`#449`](https://github.com//IgorKowalczyk/blog/pull/449 'New comment by casinoapksJak') in [IgorKowalczyk/blog](https://github.com/IgorKowalczyk/blog)  
 
 </details>
