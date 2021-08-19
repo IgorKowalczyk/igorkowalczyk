@@ -123,7 +123,6 @@ Windows                  22 mins             █░░░░░░░░░░�
 `[08/15 13:20]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[08/15 10:50]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/pr-close.png" align="top" height="18"></a> Closed PR [`#467`](https://github.com//IgorKowalczyk/blog/pull/467 'New comment by top-kreditka.ru') in [IgorKowalczyk/blog](https://github.com/IgorKowalczyk/blog)  
 `[08/15 10:50]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/pr-close.png" align="top" height="18"></a> Closed PR [`#466`](https://github.com//IgorKowalczyk/blog/pull/466 'New comment by top-kreditka.ru') in [IgorKowalczyk/blog](https://github.com/IgorKowalczyk/blog)  
-`[08/15 10:50]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/pr-close.png" align="top" height="18"></a> Closed PR [`#465`](https://github.com//IgorKowalczyk/blog/pull/465 'New comment by 1win-online-bk.site') in [IgorKowalczyk/blog](https://github.com/IgorKowalczyk/blog)  
 
 </details>
 <!--END_SECTION:activity-->
