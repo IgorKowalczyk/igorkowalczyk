@@ -127,7 +127,6 @@ Windows                  1 hr 17 mins        ███░░░░░░░░�
 `[08/22 10:03]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[08/22 09:56]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[08/22 09:47]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `10` commits in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
-`[08/22 09:47]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/merge.png" align="top" height="18"></a> Merged PR [`#14`](https://github.com//IgorKowalczyk/majobot/pull/14 'Emoji config support to moderation commands') in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 
 </details>
 <!--END_SECTION:activity-->
