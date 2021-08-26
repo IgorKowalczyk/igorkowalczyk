@@ -95,6 +95,7 @@ Windows                  1 hr 17 mins        ███░░░░░░░░�
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+`[08/26 09:44]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [r-kjha/rex](https://github.com/r-kjha/rex)  
 `[08/25 17:43]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/merge.png" align="top" height="18"></a> Merged PR [`#4`](https://github.com//IgorKowalczyk/igorkowalczyk/pull/4 'Small typo') in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)  
 `[08/25 17:42]` <a href="https://github.com/igorkowalczyk" title="🗣"><img alt="🗣" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/comment.png" align="top" height="18"></a> Commented on [`#4`](https://github.com//IgorKowalczyk/igorkowalczyk/issues/4 'Small typo') in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)  
 `[08/25 09:36]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
@@ -104,10 +105,10 @@ Windows                  1 hr 17 mins        ███░░░░░░░░�
 `[08/24 08:54]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[08/24 08:36]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[08/23 09:03]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
-`[08/23 08:31]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 
 <details><summary>⚡ Show more activity</summary>
 
+`[08/23 08:31]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[08/23 08:28]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[08/22 19:26]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[08/22 19:05]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
@@ -118,7 +119,6 @@ Windows                  1 hr 17 mins        ███░░░░░░░░�
 `[08/22 16:19]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/merge.png" align="top" height="18"></a> Merged PR [`#15`](https://github.com//IgorKowalczyk/majobot/pull/15 'added emoji to general commands except info and checkperm') in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[08/22 16:19]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/review.png" align="top" height="18"></a> Reviewed [`#15`](https://github.com//IgorKowalczyk/majobot/pull/15 'added emoji to general commands except info and checkperm') in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[08/22 16:18]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/review.png" align="top" height="18"></a> Reviewed [`#15`](https://github.com//IgorKowalczyk/majobot/pull/15 'added emoji to general commands except info and checkperm') in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
-`[08/22 16:16]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [r-kjha/rex](https://github.com/r-kjha/rex)  
 
 </details>
 <!--END_SECTION:activity-->
