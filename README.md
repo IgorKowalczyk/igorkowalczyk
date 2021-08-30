@@ -133,7 +133,6 @@ Windows                  1 hr 33 mins        ████░░░░░░░�
 `[08/26 09:50]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/review.png" align="top" height="18"></a> Reviewed [`#17`](https://github.com//IgorKowalczyk/majobot/pull/17 'Fixed all command emojis') in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[08/26 09:49]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/review.png" align="top" height="18"></a> Reviewed [`#17`](https://github.com//IgorKowalczyk/majobot/pull/17 'Fixed all command emojis') in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[08/26 09:46]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/review.png" align="top" height="18"></a> Reviewed [`#17`](https://github.com//IgorKowalczyk/majobot/pull/17 'Fixed all command emojis') in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
-`[08/26 09:44]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [r-kjha/rex](https://github.com/r-kjha/rex)  
 
 </details>
 <!--END_SECTION:activity-->
