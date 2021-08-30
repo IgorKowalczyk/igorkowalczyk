@@ -128,7 +128,6 @@ Windows                  1 hr 33 mins        ████░░░░░░░�
 `[08/26 11:26]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `4` commits in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[08/26 11:05]` <a href="https://github.com/igorkowalczyk" title="🗣"><img alt="🗣" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/comment.png" align="top" height="18"></a> Commented on [`#17`](https://github.com//IgorKowalczyk/majobot/issues/17 'Fixed all command emojis') in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[08/26 11:04]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `8` commits in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
-`[08/26 11:04]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/merge.png" align="top" height="18"></a> Merged PR [`#17`](https://github.com//IgorKowalczyk/majobot/pull/17 'Fixed all command emojis') in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 
 </details>
 <!--END_SECTION:activity-->
