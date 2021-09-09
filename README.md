@@ -120,7 +120,7 @@ Linux                    6 mins              ███████████�
 `[09/06 04:30]` <a href="https://github.com/igorkowalczyk" title="🗣"><img alt="🗣" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/comment.png" align="top" height="18"></a> Commented on [`#22`](https://github.com//IgorKowalczyk/majobot/issues/22 'How do i fix this?') in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[09/05 20:52]` <a href="https://github.com/igorkowalczyk" title="🗣"><img alt="🗣" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/comment.png" align="top" height="18"></a> Commented on [`#22`](https://github.com//IgorKowalczyk/majobot/issues/22 'How do i fix this?') in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[09/05 15:31]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
-`[09/05 15:11]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
+`[09/05 15:11]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 
 </details>
 <!--END_SECTION:activity-->
