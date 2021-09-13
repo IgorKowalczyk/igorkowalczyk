@@ -91,6 +91,8 @@ Linux                    6 mins              ███████████�
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+`[09/13 11:52]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
+`[09/13 11:45]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[09/13 11:13]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `3` commits in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[09/13 11:01]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/merge.png" align="top" height="18"></a> Merged PR [`#24`](https://github.com//IgorKowalczyk/majobot/pull/24 'Added Typeof at eval :P') in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[09/12 12:46]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
@@ -99,6 +101,9 @@ Linux                    6 mins              ███████████�
 `[09/11 13:39]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[09/11 12:59]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[09/10 12:13]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
+
+<details><summary>⚡ Show more activity</summary>
+
 `[09/10 06:18]` <a href="https://github.com/igorkowalczyk" title="🗣"><img alt="🗣" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/comment.png" align="top" height="18"></a> Commented on [`#23`](https://github.com//IgorKowalczyk/majobot/issues/23 'Majo it\'s me RJ. I lost access to my previous account. Remove moderator from that account and also send me your discord server link. I can\'t find it in the readme.') in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[09/10 06:17]` <a href="https://github.com/igorkowalczyk" title="❗️"><img alt="❗️" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/issue.png" align="top" height="18"></a> Closed issue [`#23`](https://github.com//IgorKowalczyk/majobot/issues/23 'Majo it\'s me RJ. I lost access to my previous account. Remove moderator from that account and also send me your discord server link. I can\'t find it in the readme.') in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 
