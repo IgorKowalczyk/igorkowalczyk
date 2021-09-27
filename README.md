@@ -98,7 +98,6 @@ Linux                    0 secs              ░░░░░░░░░░░�
 `[09/23 19:43]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[09/23 19:40]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[09/23 19:39]` <a href="https://github.com/igorkowalczyk" title="❗️"><img alt="❗️" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/issue.png" align="top" height="18"></a> Closed issue [`#25`](https://github.com//IgorKowalczyk/majobot/issues/25 'I am geeting this error') in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
-`[09/23 19:39]` <a href="https://github.com/igorkowalczyk" title="🗣"><img alt="🗣" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/comment.png" align="top" height="18"></a> Commented on [`#25`](https://github.com//IgorKowalczyk/majobot/issues/25 'I am geeting this error') in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 
 </details>
 <!--END_SECTION:activity-->
