@@ -107,7 +107,6 @@ Linux                    27 mins             ███████████�
 <details><summary>⚡ Show more activity</summary>
 
 `[09/29 11:11]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/pr-close.png" align="top" height="18"></a> Closed PR [`#494`](https://github.com//IgorKowalczyk/blog/pull/494 'New comment by top-creditka.ru') in [IgorKowalczyk/blog](https://github.com/IgorKowalczyk/blog)  
-`[09/29 11:11]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/pr-close.png" align="top" height="18"></a> Closed PR [`#493`](https://github.com//IgorKowalczyk/blog/pull/493 'New comment by top-creditka.ru') in [IgorKowalczyk/blog](https://github.com/IgorKowalczyk/blog)  
 
 </details>
 <!--END_SECTION:activity-->
