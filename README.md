@@ -77,15 +77,15 @@ Sunday       100 commits    ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               25 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    25 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 ```
 
 </details>
 
-<!-- Wakatime stats generated at 2021-10-09 22:06:35.023931 -->
+<!-- Wakatime stats generated at 2021-10-09 22:26:18.160817 -->
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
