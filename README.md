@@ -19,7 +19,7 @@ This is the place where I opensource stuff and break things :rofl:
 I'm coding for over 2 years. I started my journey in late 2018 / early 2019.<br>
 My first project was a simple music player made with HTML, CSS and Javascript (probably January 2019).<br>
 In the beginning I learned HTML and CSS to build websites, I also learned website design and basic JS.<br>
-*\*Project from that time - [Fest.css](https://github.com/igorkowalczyk/fest) (originally Aurolia.css)*<br>
+> Project from that time - [Fest.css](https://github.com/igorkowalczyk/fest) (originally Aurolia.css)
 In March 2020 I started learning [Node.js](https://nodejs.org).<br>
 Over these years I have learned
  * Node.js, Javascript, CSS/SCSS/SACSS (Advanced)
@@ -34,7 +34,7 @@ Over these years I have learned
 * [Countdown.js](https://igorkowalczyk.github.io/countdown) [Typescript] 
 
 ### 📕 Latest Blog Posts
-*💗 Visit my [blog](https://igorkowalczyk.github.io/blog) for more posts*
+> 💗 Visit my [blog](https://igorkowalczyk.github.io/blog) for more posts
 <!-- START_SECTION:feed -->
    - [Niebezpieczne pliki](https://igorkowalczyk.github.io/blog/internet/2020/07/27/Niebezpieczne-pliki) `[26/07/2020]`
 - [Bezpieczeństwo w sieci - Nasze dane](https://igorkowalczyk.github.io/blog/internet/2020/01/22/Bezpiecze%C5%84stwo-w-sieci-nasze-dane) `[21/01/2020]`
@@ -51,8 +51,8 @@ Over these years I have learned
 |:-:|:-:|
 | **🏆 Contributions in 2021:** | **2,500**|
 | **📦 Github Storage:** | **93.4 kB used**|
-| **📝 Total lines of code:** | **1.8 million**|
-| **📚 Public Repositories:** | **14** |
+| **📝 Total lines of code:** | **1.8 million** |
+| **📚 Public Repositories:** | **14*` |
 | **🔑 Private Repositories:** | **only 1** |
 <details><summary>✨ Show more stats</summary>
 
