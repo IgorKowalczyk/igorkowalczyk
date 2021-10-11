@@ -1,5 +1,9 @@
 <!-- ## Hi! I'm Igor Kowalczyk 🖐️ -->
 ## Hi! I'm Igor Kowalczyk <img src="https://raw.githubusercontent.com/igorkowalczyk/igorkowalczyk/master/src/images/wave.gif" width="27px">
+![Discord](https://img.shields.io/discord/666599184844980224?color=333&label=Chat&logo=discord&logoColor=fff&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/igorkowalczyk?color=333&label=Follow&logo=github&logoColor=fff&style=flat-square)
+![Twitter Follow](https://img.shields.io/twitter/follow/majonezexe?color=333&label=Follow&logo=twitter&logoColor=fff&style=flat-square)
+![Website](https://img.shields.io/website?down_color=333&down_message=off&label=Website&logo=firefox&logoColor=fff&style=flat-square&up_color=333&up_message=up&url=https%3A%2F%2Figorkowalczyk.github.io)
 
 [![Discord profile](https://discord.c99.nl/widget/theme-3/440200028292907048.png)](https://discord.com/users/440200028292907048)
 
