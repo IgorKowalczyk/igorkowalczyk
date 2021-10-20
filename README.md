@@ -136,7 +136,6 @@ No Activity Tracked This Week
 `[10/17 10:30]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord)  
 `[10/17 10:30]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB)  
 `[10/17 10:29]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [Androz2091/discord-logs](https://github.com/Androz2091/discord-logs)  
-`[10/17 10:29]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [Androz2091/discord-giveaways](https://github.com/Androz2091/discord-giveaways)  
 
 </details>
 <!--END_SECTION:activity-->
