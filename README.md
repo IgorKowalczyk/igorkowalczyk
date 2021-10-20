@@ -94,6 +94,7 @@ No Activity Tracked This Week
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+`[10/20 16:34]` <a href="https://github.com/igorkowalczyk" title="🏷"><img alt="🏷" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/release.png" align="top" height="18"></a> Released [`v0.0.2`](https://github.com/IgorKowalczyk/majobot/releases/tag/v0.0.2) in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[10/20 11:01]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[10/20 10:49]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/pr-close.png" align="top" height="18"></a> Closed PR [`#26`](https://github.com//IgorKowalczyk/majobot/pull/26 'Bump passport-oauth2 from 1.6.0 to 1.6.1') in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[10/20 10:34]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `3` commits in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
@@ -103,10 +104,10 @@ No Activity Tracked This Week
 `[10/18 17:25]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/blog](https://github.com/IgorKowalczyk/blog)  
 `[10/18 17:24]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)  
 `[10/18 17:20]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
-`[10/18 17:04]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 
 <details><summary>⚡ Show more activity</summary>
 
+`[10/18 17:04]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[10/18 12:08]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `5` commits in [rose-development/.github](https://github.com/rose-development/.github)  
 `[10/18 12:02]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [rose-development/.github](https://github.com/rose-development/.github)  
 `[10/18 12:01]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `2` commits in [rose-development/.github](https://github.com/rose-development/.github)  
@@ -126,8 +127,6 @@ No Activity Tracked This Week
 `[10/17 14:53]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [chalk/chalk](https://github.com/chalk/chalk)  
 `[10/17 12:01]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[10/17 11:28]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
-`[10/17 10:41]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)  
-`[10/17 10:38]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [expressjs/cors](https://github.com/expressjs/cors)  
 
 </details>
 <!--END_SECTION:activity-->
