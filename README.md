@@ -130,7 +130,6 @@ No Activity Tracked This Week
 `[10/17 10:38]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [expressjs/cors](https://github.com/expressjs/cors)  
 `[10/17 10:37]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [expressjs/session](https://github.com/expressjs/session)  
 `[10/17 10:37]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [expressjs/express](https://github.com/expressjs/express)  
-`[10/17 10:36]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [electron/electron](https://github.com/electron/electron)  
 
 </details>
 <!--END_SECTION:activity-->
