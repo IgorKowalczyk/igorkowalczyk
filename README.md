@@ -130,7 +130,6 @@ Linux                    1 hr 44 mins        ███████████�
 `[10/24 09:28]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [apollographql/apollo-client](https://github.com/apollographql/apollo-client)  
 `[10/24 09:28]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [grafana/loki](https://github.com/grafana/loki)  
 `[10/24 09:27]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [aws/aws-cdk](https://github.com/aws/aws-cdk)  
-`[10/24 09:27]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [tokio-rs/tokio](https://github.com/tokio-rs/tokio)  
 
 </details>
 <!--END_SECTION:activity-->
