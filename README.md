@@ -130,7 +130,6 @@ Linux                    1 hr 44 mins        ███████████�
 `[10/24 14:22]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/pr-close.png" align="top" height="18"></a> Closed PR [`#502`](https://github.com//IgorKowalczyk/blog/pull/502 'New comment by rostov-ldpr.ru') in [IgorKowalczyk/blog](https://github.com/IgorKowalczyk/blog)  
 `[10/24 14:22]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/pr-close.png" align="top" height="18"></a> Closed PR [`#501`](https://github.com//IgorKowalczyk/blog/pull/501 'New comment by de-corp.ru') in [IgorKowalczyk/blog](https://github.com/IgorKowalczyk/blog)  
 `[10/24 14:22]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/pr-close.png" align="top" height="18"></a> Closed PR [`#500`](https://github.com//IgorKowalczyk/blog/pull/500 'New comment by de-corp.ru') in [IgorKowalczyk/blog](https://github.com/IgorKowalczyk/blog)  
-`[10/24 14:22]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/pr-close.png" align="top" height="18"></a> Closed PR [`#499`](https://github.com//IgorKowalczyk/blog/pull/499 'New comment by de-corp.ru') in [IgorKowalczyk/blog](https://github.com/IgorKowalczyk/blog)  
 
 </details>
 <!--END_SECTION:activity-->
