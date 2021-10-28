@@ -98,6 +98,20 @@ Linux                    1 hr 44 mins        ███████████�
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+`[10/28 08:33]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [sveltejs/svelte](https://github.com/sveltejs/svelte)  
+`[10/28 08:33]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [matomo-org/matomo](https://github.com/matomo-org/matomo)  
+`[10/28 08:33]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [apache/rocketmq](https://github.com/apache/rocketmq)  
+`[10/28 08:33]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [minetest/minetest](https://github.com/minetest/minetest)  
+`[10/28 08:33]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [opnsense/core](https://github.com/opnsense/core)  
+`[10/28 08:33]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [apache/druid](https://github.com/apache/druid)  
+`[10/28 08:33]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [nextstrain/ncov](https://github.com/nextstrain/ncov)  
+`[10/28 08:33]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [thanos-io/thanos](https://github.com/thanos-io/thanos)  
+`[10/28 08:33]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [bitwarden/server](https://github.com/bitwarden/server)  
+`[10/28 08:32]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [top-gg/Luca](https://github.com/top-gg/Luca)  
+
+<details><summary>⚡ Show more activity</summary>
+
+`[10/28 08:32]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [discordjs/Commando](https://github.com/discordjs/Commando)  
 `[10/26 17:02]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[10/26 16:43]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[10/25 17:49]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
@@ -108,9 +122,6 @@ Linux                    1 hr 44 mins        ███████████�
 `[10/25 12:10]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `3` commits in [IgorKowalczyk/what-is-my-ip](https://github.com/IgorKowalczyk/what-is-my-ip)  
 `[10/25 11:12]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/what-is-my-ip](https://github.com/IgorKowalczyk/what-is-my-ip)  
 `[10/25 10:33]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/what-is-my-ip](https://github.com/IgorKowalczyk/what-is-my-ip)  
-
-<details><summary>⚡ Show more activity</summary>
-
 `[10/24 16:48]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `6` commits in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[10/24 14:22]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/pr-close.png" align="top" height="18"></a> Closed PR [`#506`](https://github.com//IgorKowalczyk/blog/pull/506 'New comment by РКО') in [IgorKowalczyk/blog](https://github.com/IgorKowalczyk/blog)  
 `[10/24 14:22]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/pr-close.png" align="top" height="18"></a> Closed PR [`#505`](https://github.com//IgorKowalczyk/blog/pull/505 'New comment by top-kreditka.ru') in [IgorKowalczyk/blog](https://github.com/IgorKowalczyk/blog)  
@@ -120,7 +131,6 @@ Linux                    1 hr 44 mins        ███████████�
 `[10/24 14:22]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/pr-close.png" align="top" height="18"></a> Closed PR [`#501`](https://github.com//IgorKowalczyk/blog/pull/501 'New comment by de-corp.ru') in [IgorKowalczyk/blog](https://github.com/IgorKowalczyk/blog)  
 `[10/24 14:22]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/pr-close.png" align="top" height="18"></a> Closed PR [`#500`](https://github.com//IgorKowalczyk/blog/pull/500 'New comment by de-corp.ru') in [IgorKowalczyk/blog](https://github.com/IgorKowalczyk/blog)  
 `[10/24 14:22]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/pr-close.png" align="top" height="18"></a> Closed PR [`#499`](https://github.com//IgorKowalczyk/blog/pull/499 'New comment by de-corp.ru') in [IgorKowalczyk/blog](https://github.com/IgorKowalczyk/blog)  
-`[10/24 14:19]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `5` commits in [IgorKowalczyk/what-is-my-ip](https://github.com/IgorKowalczyk/what-is-my-ip)  
 
 </details>
 <!--END_SECTION:activity-->
