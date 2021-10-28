@@ -127,7 +127,6 @@ Linux                    1 hr 44 mins        ███████████�
 `[10/24 11:56]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in <span title="Private Repo">`🔒IgorKowalczyk/what-is-my-ip`</span>  
 `[10/24 11:54]` <a href="https://github.com/igorkowalczyk" title="📂"><img alt="📂" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/create-branch.png" align="top" height="18"></a> Created branch `main` in <span title="Private Repo">`🔒IgorKowalczyk/what-is-my-ip`</span>  
 `[10/24 11:54]` <a href="https://github.com/igorkowalczyk" title="➕"><img alt="➕" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/create-repo.png" align="top" height="18"></a> Created repository <span title="Private Repo">`🔒IgorKowalczyk/what-is-my-ip`</span>  
-`[10/24 09:28]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [apollographql/apollo-client](https://github.com/apollographql/apollo-client)  
 
 </details>
 <!--END_SECTION:activity-->
