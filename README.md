@@ -123,7 +123,6 @@ Linux                    1 hr 44 mins        ███████████�
 `[10/25 11:12]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/what-is-my-ip](https://github.com/IgorKowalczyk/what-is-my-ip)  
 `[10/25 10:33]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/what-is-my-ip](https://github.com/IgorKowalczyk/what-is-my-ip)  
 `[10/24 16:48]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `6` commits in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
-`[10/24 14:22]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/pr-close.png" align="top" height="18"></a> Closed PR [`#506`](https://github.com//IgorKowalczyk/blog/pull/506 'New comment by РКО') in [IgorKowalczyk/blog](https://github.com/IgorKowalczyk/blog)  
 
 </details>
 <!--END_SECTION:activity-->
