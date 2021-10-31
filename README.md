@@ -49,9 +49,9 @@ Over these years I have learned
 <!--START_SECTION:waka-->
  | 🏆 Contributions (Total) | (soon) |
 |:-:|:-:|
-| **🏆 Contributions in 2021:** | **2,795**|
+| **🏆 Contributions in 2021:** | **2,797**|
 | **📦 Github Storage:** | **97.6 kB used**|
-| **📝 Total lines of code:** | **1.8 million**|
+| **📝 Total lines of code:** | **1.7 million**|
 | **📚 Public Repositories:** | **15** |
 | **🔑 Private Repositories:** | **only 1** |
 <details><summary>✨ Show more stats</summary>
@@ -69,11 +69,11 @@ Over these years I have learned
 ```text
 Monday       140 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.53% 
 Tuesday      197 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.03% 
-Wednesday    197 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.03% 
+Wednesday    195 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.84% 
 Thursday     119 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.5% 
 Friday       143 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.82% 
 Saturday     137 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.24% 
-Sunday       102 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.86%
+Sunday       104 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.05%
 ```
 
 
@@ -93,7 +93,7 @@ Linux                    1 hr 44 mins        ███████████�
 
 </details>
 
-<!-- Wakatime stats generated at 2021-10-31 18:08:23.519525 -->
+<!-- Wakatime stats generated at 2021-10-31 19:18:37.744233 -->
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
