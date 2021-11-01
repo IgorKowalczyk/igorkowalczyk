@@ -128,7 +128,6 @@ Linux                    42 mins             ███████████�
 `[10/28 08:33]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [matomo-org/matomo](https://github.com/matomo-org/matomo)  
 `[10/28 08:33]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [apache/rocketmq](https://github.com/apache/rocketmq)  
 `[10/28 08:33]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [minetest/minetest](https://github.com/minetest/minetest)  
-`[10/28 08:33]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [opnsense/core](https://github.com/opnsense/core)  
 
 </details>
 <!--END_SECTION:activity-->
