@@ -122,7 +122,6 @@ Linux                    2 hrs 4 mins        ███████████�
 `[10/30 08:54]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [babel/babel](https://github.com/babel/babel)  
 `[10/29 19:38]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `3` commits in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[10/29 19:28]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `3` commits in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
-`[10/29 19:21]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [prettier/prettier](https://github.com/prettier/prettier)  
 
 </details>
 <!--END_SECTION:activity-->
