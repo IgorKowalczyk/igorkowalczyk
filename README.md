@@ -118,8 +118,6 @@ Linux                    2 hrs 28 mins       ███████████�
 `[11/03 11:13]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin)  
 `[11/03 11:13]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [lvgl/lvgl](https://github.com/lvgl/lvgl)  
 `[11/03 11:13]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [mastodon/mastodon](https://github.com/mastodon/mastodon)  
-`[11/03 11:12]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [facebook/flipper](https://github.com/facebook/flipper)  
-`[11/03 11:12]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [HashLips/hashlips_art_engine](https://github.com/HashLips/hashlips_art_engine)  
 
 </details>
 <!--END_SECTION:activity-->
