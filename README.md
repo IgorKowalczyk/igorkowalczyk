@@ -124,7 +124,6 @@ Linux                    2 hrs 28 mins       ███████████�
 `[11/03 11:12]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server)  
 `[11/03 11:12]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [TechXueXi/TechXueXi](https://github.com/TechXueXi/TechXueXi)  
 `[11/03 11:12]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)  
-`[11/03 11:12]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [goplus/gop](https://github.com/goplus/gop)  
 
 </details>
 <!--END_SECTION:activity-->
