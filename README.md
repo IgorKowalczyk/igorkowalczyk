@@ -115,9 +115,6 @@ Linux                    2 hrs 40 mins       ███████████�
 `[11/03 11:25]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [facebook/flow](https://github.com/facebook/flow)  
 `[11/03 11:25]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [facebook/react-native](https://github.com/facebook/react-native)  
 `[11/03 11:19]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [facebook/react](https://github.com/facebook/react)  
-`[11/03 11:13]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin)  
-`[11/03 11:13]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [lvgl/lvgl](https://github.com/lvgl/lvgl)  
-`[11/03 11:13]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [mastodon/mastodon](https://github.com/mastodon/mastodon)  
 
 </details>
 <!--END_SECTION:activity-->
