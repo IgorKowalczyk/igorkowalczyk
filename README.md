@@ -113,7 +113,6 @@ Linux                    2 hrs 40 mins       ███████████�
 
 `[11/04 18:26]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[11/03 11:25]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [facebook/flow](https://github.com/facebook/flow)  
-`[11/03 11:25]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [facebook/react-native](https://github.com/facebook/react-native)  
 
 </details>
 <!--END_SECTION:activity-->
