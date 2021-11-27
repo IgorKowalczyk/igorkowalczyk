@@ -98,6 +98,7 @@ Linux                    10 hrs 43 mins      ███████████�
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+`[11/27 16:01]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[11/27 14:55]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [github/choosealicense.com](https://github.com/github/choosealicense.com)  
 `[11/27 14:55]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [github/dmca](https://github.com/github/dmca)  
 `[11/27 14:54]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [github/personal-website](https://github.com/github/personal-website)  
@@ -107,10 +108,10 @@ Linux                    10 hrs 43 mins      ███████████�
 `[11/27 14:53]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [github/gh-ost](https://github.com/github/gh-ost)  
 `[11/27 14:53]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [github/hub](https://github.com/github/hub)  
 `[11/27 14:53]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [github/fetch](https://github.com/github/fetch)  
-`[11/27 14:53]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [github/gitignore](https://github.com/github/gitignore)  
 
 <details><summary>⚡ Show more activity</summary>
 
+`[11/27 14:53]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [github/gitignore](https://github.com/github/gitignore)  
 `[11/27 14:53]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [github/quote-selection](https://github.com/github/quote-selection)  
 `[11/27 14:53]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [github/linguist](https://github.com/github/linguist)  
 `[11/27 14:52]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [github/government.github.com](https://github.com/github/government.github.com)  
