@@ -131,7 +131,6 @@ Linux                    15 hrs 52 mins      ███████████�
 `[11/27 14:52]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [github/government.github.com](https://github.com/github/government.github.com)  
 `[11/27 14:52]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [github/vscode-codeql](https://github.com/github/vscode-codeql)  
 `[11/27 14:52]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [github/codeql](https://github.com/github/codeql)  
-`[11/27 14:52]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [github/licensed](https://github.com/github/licensed)  
 
 </details>
 <!--END_SECTION:activity-->
