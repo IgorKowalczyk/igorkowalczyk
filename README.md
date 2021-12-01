@@ -119,7 +119,6 @@ Linux                    15 hrs 52 mins      ███████████�
 `[11/27 16:01]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[11/27 14:55]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [github/choosealicense.com](https://github.com/github/choosealicense.com)  
 `[11/27 14:55]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [github/dmca](https://github.com/github/dmca)  
-`[11/27 14:54]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [github/personal-website](https://github.com/github/personal-website)  
 
 </details>
 <!--END_SECTION:activity-->
