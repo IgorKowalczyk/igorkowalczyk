@@ -125,7 +125,6 @@ Linux                    15 hrs 52 mins      ███████████�
 `[11/27 14:53]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [github/opensource.guide](https://github.com/github/opensource.guide)  
 `[11/27 14:53]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [github/gh-ost](https://github.com/github/gh-ost)  
 `[11/27 14:53]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [github/hub](https://github.com/github/hub)  
-`[11/27 14:53]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [github/fetch](https://github.com/github/fetch)  
 
 </details>
 <!--END_SECTION:activity-->
