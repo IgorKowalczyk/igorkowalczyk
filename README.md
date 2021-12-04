@@ -11,7 +11,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 - ⚡  I'm a Front-End Developerer and Freelancer
 - 🔭 I’m currently working on something cool :wink:
-- 🌱 I’m currently learning SCSS and Node.js
+- 🌱 I’m currently learning Node.js
 - ❤️ I love Open Source projects and designing web apps
 - 💻 My favorite languages are Node.js and CSS
 
