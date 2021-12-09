@@ -133,7 +133,7 @@ Windows                  10 mins             ░░░░░░░░░░░�
 `[12/04 16:55]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [mozilla/pdf.js](https://github.com/mozilla/pdf.js)  
 `[12/04 16:51]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [microsoft/TypeScript](https://github.com/microsoft/TypeScript)  
 `[12/04 16:51]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [microsoft/vscode](https://github.com/microsoft/vscode)  
-`[12/04 16:31]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `3` commits in <span title="Private Repo">`🔒rose-development/rose-dashboard`</span>  
+`[12/04 16:31]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `2` commits in <span title="Private Repo">`🔒rose-development/rose-dashboard`</span>  
 
 </details>
 <!--END_SECTION:activity-->
