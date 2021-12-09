@@ -128,7 +128,6 @@ Windows                  10 mins             ░░░░░░░░░░░�
 `[12/04 17:57]` <a href="https://github.com/igorkowalczyk" title="📂"><img alt="📂" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/create-branch.png" align="top" height="18"></a> Created branch `main` in <span title="Private Repo">`🔒rose-development/rose-development.github.io`</span>  
 `[12/04 17:57]` <a href="https://github.com/igorkowalczyk" title="➕"><img alt="➕" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/create-repo.png" align="top" height="18"></a> Created repository <span title="Private Repo">`🔒rose-development/rose-development.github.io`</span>  
 `[12/04 17:39]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)  
-`[12/04 16:57]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [wikimedia/mediawiki](https://github.com/wikimedia/mediawiki)  
 
 </details>
 <!--END_SECTION:activity-->
