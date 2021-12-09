@@ -136,7 +136,6 @@ Windows                  10 mins             ░░░░░░░░░░░�
 `[12/04 16:31]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `3` commits in <span title="Private Repo">`🔒rose-development/rose-dashboard`</span>  
 `[12/04 16:26]` <a href="https://github.com/igorkowalczyk" title="📂"><img alt="📂" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/create-branch.png" align="top" height="18"></a> Created branch `main` in <span title="Private Repo">`🔒rose-development/rose-dashboard`</span>  
 `[12/04 16:26]` <a href="https://github.com/igorkowalczyk" title="➕"><img alt="➕" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/create-repo.png" align="top" height="18"></a> Created repository <span title="Private Repo">`🔒rose-development/rose-dashboard`</span>  
-`[12/04 16:14]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [IgorKowalczyk/webhook.js](https://github.com/IgorKowalczyk/webhook.js)  
 
 </details>
 <!--END_SECTION:activity-->
