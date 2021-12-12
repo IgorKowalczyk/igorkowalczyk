@@ -99,6 +99,7 @@ Windows                  10 mins             ░░░░░░░░░░░�
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+`[12/12 15:17]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [alacritty/alacritty](https://github.com/alacritty/alacritty)  
 `[12/11 18:41]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[12/10 14:54]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[12/10 12:40]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
@@ -108,10 +109,10 @@ Windows                  10 mins             ░░░░░░░░░░░�
 `[12/09 13:45]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[12/09 10:09]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[12/08 19:09]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
-`[12/08 17:30]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `3` commits in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 
 <details><summary>⚡ Show more activity</summary>
 
+`[12/08 17:30]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `3` commits in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[12/08 16:15]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[12/08 13:57]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[12/08 12:37]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
