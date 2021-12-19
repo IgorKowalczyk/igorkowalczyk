@@ -98,6 +98,23 @@ Linux                    2 hrs 5 mins        ███████████�
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+`[12/19 10:55]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [i18next/i18next](https://github.com/i18next/i18next)  
+`[12/19 10:55]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [isomorphic-git/isomorphic-git](https://github.com/isomorphic-git/isomorphic-git)  
+`[12/19 10:55]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [bda-research/node-crawler](https://github.com/bda-research/node-crawler)  
+`[12/19 10:55]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [ds300/patch-package](https://github.com/ds300/patch-package)  
+`[12/19 10:55]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [Schniz/fnm](https://github.com/Schniz/fnm)  
+`[12/19 10:55]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr)  
+`[12/19 10:55]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [sindresorhus/caprine](https://github.com/sindresorhus/caprine)  
+`[12/19 10:55]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [bookshelf/bookshelf](https://github.com/bookshelf/bookshelf)  
+`[12/19 10:55]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [xojs/xo](https://github.com/xojs/xo)  
+`[12/19 10:55]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [enquirer/enquirer](https://github.com/enquirer/enquirer)  
+
+<details><summary>⚡ Show more activity</summary>
+
+`[12/19 10:55]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [ljharb/qs](https://github.com/ljharb/qs)  
+`[12/19 10:55]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [microsoft/botframework-sdk](https://github.com/microsoft/botframework-sdk)  
+`[12/19 10:55]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [NodeOS/NodeOS](https://github.com/NodeOS/NodeOS)  
+`[12/19 10:55]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [sindresorhus/fkill-cli](https://github.com/sindresorhus/fkill-cli)  
 `[12/19 10:46]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [pillarjs/path-to-regexp](https://github.com/pillarjs/path-to-regexp)  
 `[12/19 10:46]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [oclif/oclif](https://github.com/oclif/oclif)  
 `[12/19 10:46]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [nodejs/docker-node](https://github.com/nodejs/docker-node)  
@@ -108,9 +125,6 @@ Linux                    2 hrs 5 mins        ███████████�
 `[12/19 10:46]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [tumobi/nideshop-mini-program](https://github.com/tumobi/nideshop-mini-program)  
 `[12/19 10:46]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [joemccann/dillinger](https://github.com/joemccann/dillinger)  
 `[12/19 10:46]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [nodegui/nodegui](https://github.com/nodegui/nodegui)  
-
-<details><summary>⚡ Show more activity</summary>
-
 `[12/19 10:46]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [beautify-web/js-beautify](https://github.com/beautify-web/js-beautify)  
 `[12/19 10:46]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [jawil/blog](https://github.com/jawil/blog)  
 `[12/19 10:46]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [caprover/caprover](https://github.com/caprover/caprover)  
