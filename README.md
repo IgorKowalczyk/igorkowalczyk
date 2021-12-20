@@ -291,7 +291,6 @@ Linux                    3 hrs 32 mins       ███████████�
 `[12/19 10:39]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [TryGhost/Ghost](https://github.com/TryGhost/Ghost)  
 `[12/19 10:39]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [strapi/strapi](https://github.com/strapi/strapi)  
 `[12/19 10:39]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [meteor/meteor](https://github.com/meteor/meteor)  
-`[12/19 10:39]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [nestjs/nest](https://github.com/nestjs/nest)  
 
 </details>
 <!--END_SECTION:activity-->
