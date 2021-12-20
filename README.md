@@ -287,7 +287,6 @@ Linux                    3 hrs 32 mins       ███████████�
 `[12/19 10:40]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui)  
 `[12/19 10:39]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [Unitech/pm2](https://github.com/Unitech/pm2)  
 `[12/19 10:39]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [FreeCodeCampChina/freecodecamp.cn](https://github.com/FreeCodeCampChina/freecodecamp.cn)  
-`[12/19 10:39]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [nwjs/nw.js](https://github.com/nwjs/nw.js)  
 
 </details>
 <!--END_SECTION:activity-->
