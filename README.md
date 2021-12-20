@@ -98,6 +98,7 @@ Linux                    3 hrs 32 mins       ███████████�
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+`[12/20 14:14]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[12/20 12:15]` <a href="https://github.com/igorkowalczyk" title="🗣"><img alt="🗣" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/comment.png" align="top" height="18"></a> Commented on [`#31`](https://github.com//IgorKowalczyk/majobot/issues/31 'how to setup database') in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[12/20 12:04]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[12/19 15:07]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in <span title="Private Repo">`🔒rose-development/rose-bots`</span>  
@@ -107,10 +108,10 @@ Linux                    3 hrs 32 mins       ███████████�
 `[12/19 10:59]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [nieweidong/fetool](https://github.com/nieweidong/fetool)  
 `[12/19 10:59]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [searchkit/searchkit](https://github.com/searchkit/searchkit)  
 `[12/19 10:59]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [socketio/engine.io](https://github.com/socketio/engine.io)  
-`[12/19 10:59]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [santiq/bulletproof-nodejs](https://github.com/santiq/bulletproof-nodejs)  
 
 <details><summary>⚡ Show more activity</summary>
 
+`[12/19 10:59]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [santiq/bulletproof-nodejs](https://github.com/santiq/bulletproof-nodejs)  
 `[12/19 10:59]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [Leonidas-from-XIV/node-xml2js](https://github.com/Leonidas-from-XIV/node-xml2js)  
 `[12/19 10:59]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile)  
 `[12/19 10:59]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon)  
