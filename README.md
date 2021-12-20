@@ -285,7 +285,6 @@ Linux                    8 hrs 51 mins       ███████████�
 `[12/19 10:40]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [hexojs/hexo](https://github.com/hexojs/hexo)  
 `[12/19 10:40]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [sahat/hackathon-starter](https://github.com/sahat/hackathon-starter)  
 `[12/19 10:40]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui)  
-`[12/19 10:39]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [Unitech/pm2](https://github.com/Unitech/pm2)  
 
 </details>
 <!--END_SECTION:activity-->
