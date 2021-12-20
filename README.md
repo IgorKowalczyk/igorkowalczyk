@@ -292,10 +292,6 @@ Linux                    3 hrs 32 mins       ███████████�
 `[12/19 10:39]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [strapi/strapi](https://github.com/strapi/strapi)  
 `[12/19 10:39]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [meteor/meteor](https://github.com/meteor/meteor)  
 `[12/19 10:39]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [nestjs/nest](https://github.com/nestjs/nest)  
-`[12/19 10:39]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)  
-`[12/19 10:39]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts)  
-`[12/19 10:39]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [nvm-sh/nvm](https://github.com/nvm-sh/nvm)  
-`[12/19 10:39]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)  
 
 </details>
 <!--END_SECTION:activity-->
