@@ -224,7 +224,6 @@ Linux                    8 hrs 51 mins       ███████████�
 `[12/19 10:44]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [nexe/nexe](https://github.com/nexe/nexe)  
 `[12/19 10:44]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [GoogleChromeLabs/ndb](https://github.com/GoogleChromeLabs/ndb)  
 `[12/19 10:44]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [sindresorhus/got](https://github.com/sindresorhus/got)  
-`[12/19 10:42]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [marko-js/marko](https://github.com/marko-js/marko)  
 
 </details>
 <!--END_SECTION:activity-->
