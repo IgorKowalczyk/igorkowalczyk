@@ -98,6 +98,7 @@ Linux                    8 hrs 51 mins       ███████████�
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+`[12/21 15:24]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [mde/ejs](https://github.com/mde/ejs)  
 `[12/21 08:08]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [socketio/socket.io](https://github.com/socketio/socket.io)  
 `[12/20 14:14]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[12/20 12:15]` <a href="https://github.com/igorkowalczyk" title="🗣"><img alt="🗣" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/comment.png" align="top" height="18"></a> Commented on [`#31`](https://github.com//IgorKowalczyk/majobot/issues/31 'how to setup database') in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
@@ -107,10 +108,10 @@ Linux                    8 hrs 51 mins       ███████████�
 `[12/19 10:59]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [primus/primus](https://github.com/primus/primus)  
 `[12/19 10:59]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [sindresorhus/execa](https://github.com/sindresorhus/execa)  
 `[12/19 10:59]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [nieweidong/fetool](https://github.com/nieweidong/fetool)  
-`[12/19 10:59]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [searchkit/searchkit](https://github.com/searchkit/searchkit)  
 
 <details><summary>⚡ Show more activity</summary>
 
+`[12/19 10:59]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [searchkit/searchkit](https://github.com/searchkit/searchkit)  
 `[12/19 10:59]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [socketio/engine.io](https://github.com/socketio/engine.io)  
 `[12/19 10:59]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [santiq/bulletproof-nodejs](https://github.com/santiq/bulletproof-nodejs)  
 `[12/19 10:59]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [Leonidas-from-XIV/node-xml2js](https://github.com/Leonidas-from-XIV/node-xml2js)  
@@ -244,8 +245,6 @@ Linux                    8 hrs 51 mins       ███████████�
 `[12/19 10:42]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [feathersjs/feathers](https://github.com/feathersjs/feathers)  
 `[12/19 10:42]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [outline/outline](https://github.com/outline/outline)  
 `[12/19 10:42]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices)  
-`[12/19 10:41]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [pnpm/pnpm](https://github.com/pnpm/pnpm)  
-`[12/19 10:41]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [redis/node-redis](https://github.com/redis/node-redis)  
 
 </details>
 <!--END_SECTION:activity-->
