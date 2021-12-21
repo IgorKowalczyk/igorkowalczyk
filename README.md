@@ -270,7 +270,6 @@ Linux                    8 hrs 51 mins       ███████████�
 `[12/19 10:40]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [haizlin/fe-interview](https://github.com/haizlin/fe-interview)  
 `[12/19 10:40]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [openfaas/faas](https://github.com/openfaas/faas)  
 `[12/19 10:40]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [mochajs/mocha](https://github.com/mochajs/mocha)  
-`[12/19 10:40]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit)  
 
 </details>
 <!--END_SECTION:activity-->
