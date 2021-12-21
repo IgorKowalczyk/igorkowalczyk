@@ -236,7 +236,6 @@ Linux                    8 hrs 51 mins       ███████████�
 `[12/19 10:42]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [jwagner/smartcrop.js](https://github.com/jwagner/smartcrop.js)  
 `[12/19 10:42]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB)  
 `[12/19 10:42]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [BrainJS/brain.js](https://github.com/BrainJS/brain.js)  
-`[12/19 10:42]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [asdf-vm/asdf](https://github.com/asdf-vm/asdf)  
 
 </details>
 <!--END_SECTION:activity-->
