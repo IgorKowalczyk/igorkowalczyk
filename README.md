@@ -249,7 +249,6 @@ Linux                    8 hrs 51 mins       ███████████�
 `[12/19 10:41]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [keystonejs/keystone-classic](https://github.com/keystonejs/keystone-classic)  
 `[12/19 10:41]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [Requarks/wiki](https://github.com/Requarks/wiki)  
 `[12/19 10:41]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [nswbmw/N-blog](https://github.com/nswbmw/N-blog)  
-`[12/19 10:41]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever)  
 
 </details>
 <!--END_SECTION:activity-->
