@@ -246,7 +246,6 @@ Linux                    8 hrs 51 mins       ███████████�
 `[12/19 10:42]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices)  
 `[12/19 10:41]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [pnpm/pnpm](https://github.com/pnpm/pnpm)  
 `[12/19 10:41]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [redis/node-redis](https://github.com/redis/node-redis)  
-`[12/19 10:41]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [keystonejs/keystone-classic](https://github.com/keystonejs/keystone-classic)  
 
 </details>
 <!--END_SECTION:activity-->
