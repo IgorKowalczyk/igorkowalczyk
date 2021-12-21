@@ -255,8 +255,6 @@ Linux                    8 hrs 51 mins       ███████████�
 `[12/19 10:41]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [alsotang/node-lessons](https://github.com/alsotang/node-lessons)  
 `[12/19 10:41]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [pubkey/rxdb](https://github.com/pubkey/rxdb)  
 `[12/19 10:41]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [jsdom/jsdom](https://github.com/jsdom/jsdom)  
-`[12/19 10:41]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [mysqljs/mysql](https://github.com/mysqljs/mysql)  
-`[12/19 10:40]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [typicode/lowdb](https://github.com/typicode/lowdb)  
 
 </details>
 <!--END_SECTION:activity-->
