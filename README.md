@@ -234,7 +234,6 @@ Linux                    8 hrs 51 mins       ███████████�
 `[12/19 10:42]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [cube-js/cube.js](https://github.com/cube-js/cube.js)  
 `[12/19 10:42]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [auchenberg/volkswagen](https://github.com/auchenberg/volkswagen)  
 `[12/19 10:42]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [jwagner/smartcrop.js](https://github.com/jwagner/smartcrop.js)  
-`[12/19 10:42]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB)  
 
 </details>
 <!--END_SECTION:activity-->
