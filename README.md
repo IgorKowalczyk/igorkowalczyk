@@ -280,8 +280,6 @@ Linux                    8 hrs 51 mins       ███████████�
 `[12/19 10:40]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [standard/standard](https://github.com/standard/standard)  
 `[12/19 10:40]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [date-fns/date-fns](https://github.com/date-fns/date-fns)  
 `[12/19 10:40]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [laurent22/joplin](https://github.com/laurent22/joplin)  
-`[12/19 10:40]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs)  
-`[12/19 10:40]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [nativefier/nativefier](https://github.com/nativefier/nativefier)  
 
 </details>
 <!--END_SECTION:activity-->
