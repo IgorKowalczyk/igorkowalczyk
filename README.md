@@ -231,7 +231,6 @@ Linux                    8 hrs 51 mins       ███████████�
 `[12/19 10:42]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [adonisjs/core](https://github.com/adonisjs/core)  
 `[12/19 10:42]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [OptimalBits/bull](https://github.com/OptimalBits/bull)  
 `[12/19 10:42]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso)  
-`[12/19 10:42]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [cube-js/cube.js](https://github.com/cube-js/cube.js)  
 
 </details>
 <!--END_SECTION:activity-->
