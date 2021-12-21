@@ -262,7 +262,6 @@ Linux                    8 hrs 51 mins       ███████████�
 `[12/19 10:40]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [gofiber/fiber](https://github.com/gofiber/fiber)  
 `[12/19 10:40]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [websockets/ws](https://github.com/websockets/ws)  
 `[12/19 10:40]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [eggjs/egg](https://github.com/eggjs/egg)  
-`[12/19 10:40]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [prisma/prisma](https://github.com/prisma/prisma)  
 
 </details>
 <!--END_SECTION:activity-->
