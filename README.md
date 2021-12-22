@@ -211,7 +211,6 @@ Linux                    11 hrs 5 mins       ███████████�
 `[12/19 10:44]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [senchalabs/connect](https://github.com/senchalabs/connect)  
 `[12/19 10:44]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [benawad/dogehouse](https://github.com/benawad/dogehouse)  
 `[12/19 10:44]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [Netflix/pollyjs](https://github.com/Netflix/pollyjs)  
-`[12/19 10:44]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [aui/art-template](https://github.com/aui/art-template)  
 
 </details>
 <!--END_SECTION:activity-->
