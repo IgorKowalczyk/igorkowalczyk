@@ -191,7 +191,6 @@ Linux                    11 hrs 5 mins       ███████████�
 `[12/19 10:46]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [DeviaVir/zenbot](https://github.com/DeviaVir/zenbot)  
 `[12/19 10:46]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [gridsome/gridsome](https://github.com/gridsome/gridsome)  
 `[12/19 10:46]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch)  
-`[12/19 10:46]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [leon-ai/leon](https://github.com/leon-ai/leon)  
 
 </details>
 <!--END_SECTION:activity-->
