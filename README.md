@@ -186,7 +186,6 @@ Linux                    11 hrs 5 mins       ███████████�
 `[12/19 10:46]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [nodegui/nodegui](https://github.com/nodegui/nodegui)  
 `[12/19 10:46]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [beautify-web/js-beautify](https://github.com/beautify-web/js-beautify)  
 `[12/19 10:46]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [jawil/blog](https://github.com/jawil/blog)  
-`[12/19 10:46]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [caprover/caprover](https://github.com/caprover/caprover)  
 
 </details>
 <!--END_SECTION:activity-->
