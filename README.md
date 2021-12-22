@@ -205,10 +205,6 @@ Linux                    11 hrs 5 mins       ███████████�
 `[12/19 10:45]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [olistic/warriorjs](https://github.com/olistic/warriorjs)  
 `[12/19 10:45]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [HabitRPG/habitica](https://github.com/HabitRPG/habitica)  
 `[12/19 10:45]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [chimurai/http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware)  
-`[12/19 10:45]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [aksakalli/gtop](https://github.com/aksakalli/gtop)  
-`[12/19 10:45]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [microsoft/napajs](https://github.com/microsoft/napajs)  
-`[12/19 10:45]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [r-spacex/SpaceX-API](https://github.com/r-spacex/SpaceX-API)  
-`[12/19 10:44]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [senchalabs/connect](https://github.com/senchalabs/connect)  
 
 </details>
 <!--END_SECTION:activity-->
