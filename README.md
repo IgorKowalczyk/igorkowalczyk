@@ -189,7 +189,6 @@ Linux                    11 hrs 5 mins       ███████████�
 `[12/19 10:46]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [caprover/caprover](https://github.com/caprover/caprover)  
 `[12/19 10:46]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [nodejs/node-gyp](https://github.com/nodejs/node-gyp)  
 `[12/19 10:46]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [DeviaVir/zenbot](https://github.com/DeviaVir/zenbot)  
-`[12/19 10:46]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [gridsome/gridsome](https://github.com/gridsome/gridsome)  
 
 </details>
 <!--END_SECTION:activity-->
