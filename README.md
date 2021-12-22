@@ -213,7 +213,6 @@ Linux                    11 hrs 5 mins       ███████████�
 `[12/19 10:44]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [Netflix/pollyjs](https://github.com/Netflix/pollyjs)  
 `[12/19 10:44]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [aui/art-template](https://github.com/aui/art-template)  
 `[12/19 10:44]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node)  
-`[12/19 10:44]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [avwo/whistle](https://github.com/avwo/whistle)  
 
 </details>
 <!--END_SECTION:activity-->
