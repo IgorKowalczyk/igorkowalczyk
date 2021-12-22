@@ -199,8 +199,6 @@ Linux                    11 hrs 5 mins       ███████████�
 `[12/19 10:45]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [inversify/InversifyJS](https://github.com/inversify/InversifyJS)  
 `[12/19 10:45]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [apex/up](https://github.com/apex/up)  
 `[12/19 10:45]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer)  
-`[12/19 10:45]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [pinojs/pino](https://github.com/pinojs/pino)  
-`[12/19 10:45]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [klaussinani/signale](https://github.com/klaussinani/signale)  
 
 </details>
 <!--END_SECTION:activity-->
