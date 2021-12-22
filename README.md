@@ -203,7 +203,6 @@ Linux                    11 hrs 5 mins       ███████████�
 `[12/19 10:45]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [klaussinani/signale](https://github.com/klaussinani/signale)  
 `[12/19 10:45]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [webtorrent/webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop)  
 `[12/19 10:45]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [olistic/warriorjs](https://github.com/olistic/warriorjs)  
-`[12/19 10:45]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [HabitRPG/habitica](https://github.com/HabitRPG/habitica)  
 
 </details>
 <!--END_SECTION:activity-->
