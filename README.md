@@ -215,7 +215,6 @@ Linux                    11 hrs 5 mins       ███████████�
 `[12/19 10:44]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node)  
 `[12/19 10:44]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [avwo/whistle](https://github.com/avwo/whistle)  
 `[12/19 10:44]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [googleapis/google-api-nodejs-client](https://github.com/googleapis/google-api-nodejs-client)  
-`[12/19 10:44]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [nrwl/nx](https://github.com/nrwl/nx)  
 
 </details>
 <!--END_SECTION:activity-->
