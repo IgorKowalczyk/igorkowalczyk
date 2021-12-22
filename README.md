@@ -194,7 +194,6 @@ Linux                    11 hrs 5 mins       ███████████�
 `[12/19 10:46]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [leon-ai/leon](https://github.com/leon-ai/leon)  
 `[12/19 10:45]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [jprichardson/node-fs-extra](https://github.com/jprichardson/node-fs-extra)  
 `[12/19 10:45]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator)  
-`[12/19 10:45]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [evolus/pencil](https://github.com/evolus/pencil)  
 
 </details>
 <!--END_SECTION:activity-->
