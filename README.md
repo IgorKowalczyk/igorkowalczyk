@@ -176,7 +176,6 @@ Linux                    11 hrs 5 mins       ███████████�
 `[12/19 10:55]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [sindresorhus/fkill-cli](https://github.com/sindresorhus/fkill-cli)  
 `[12/19 10:46]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [pillarjs/path-to-regexp](https://github.com/pillarjs/path-to-regexp)  
 `[12/19 10:46]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [oclif/oclif](https://github.com/oclif/oclif)  
-`[12/19 10:46]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [nodejs/docker-node](https://github.com/nodejs/docker-node)  
 
 </details>
 <!--END_SECTION:activity-->
