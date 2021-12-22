@@ -166,7 +166,6 @@ Linux                    11 hrs 5 mins       ███████████�
 `[12/19 10:55]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [ds300/patch-package](https://github.com/ds300/patch-package)  
 `[12/19 10:55]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [Schniz/fnm](https://github.com/Schniz/fnm)  
 `[12/19 10:55]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr)  
-`[12/19 10:55]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [sindresorhus/caprine](https://github.com/sindresorhus/caprine)  
 
 </details>
 <!--END_SECTION:activity-->
