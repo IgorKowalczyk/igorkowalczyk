@@ -174,7 +174,6 @@ Linux                    11 hrs 5 mins       ███████████�
 `[12/19 10:55]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [microsoft/botframework-sdk](https://github.com/microsoft/botframework-sdk)  
 `[12/19 10:55]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [NodeOS/NodeOS](https://github.com/NodeOS/NodeOS)  
 `[12/19 10:55]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [sindresorhus/fkill-cli](https://github.com/sindresorhus/fkill-cli)  
-`[12/19 10:46]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [pillarjs/path-to-regexp](https://github.com/pillarjs/path-to-regexp)  
 
 </details>
 <!--END_SECTION:activity-->
