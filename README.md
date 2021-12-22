@@ -158,7 +158,6 @@ Linux                    12 hrs 33 mins      ███████████�
 `[12/19 10:57]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [yagop/node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api)  
 `[12/19 10:57]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [remoteinterview/zero](https://github.com/remoteinterview/zero)  
 `[12/19 10:57]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [SocketCluster/socketcluster](https://github.com/SocketCluster/socketcluster)  
-`[12/19 10:57]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [nodejs/http-parser](https://github.com/nodejs/http-parser)  
 
 </details>
 <!--END_SECTION:activity-->
