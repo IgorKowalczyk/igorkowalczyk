@@ -126,7 +126,6 @@ Linux                    12 hrs 33 mins      ███████████�
 `[12/19 10:58]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [muicss/mui](https://github.com/muicss/mui)  
 `[12/19 10:58]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [clinicjs/node-clinic](https://github.com/clinicjs/node-clinic)  
 `[12/19 10:58]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [Strider-CD/strider](https://github.com/Strider-CD/strider)  
-`[12/19 10:58]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [uNetworking/uWebSockets.js](https://github.com/uNetworking/uWebSockets.js)  
 
 </details>
 <!--END_SECTION:activity-->
