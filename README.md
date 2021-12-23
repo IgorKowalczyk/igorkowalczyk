@@ -154,7 +154,6 @@ Linux                    12 hrs 33 mins      ███████████�
 `[12/19 10:57]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [weolar/miniblink49](https://github.com/weolar/miniblink49)  
 `[12/19 10:57]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [FaisalUmair/udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui)  
 `[12/19 10:57]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup)  
-`[12/19 10:57]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [vvo/gifify](https://github.com/vvo/gifify)  
 
 </details>
 <!--END_SECTION:activity-->
