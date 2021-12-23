@@ -113,7 +113,6 @@ Linux                    12 hrs 33 mins      ███████████�
 
 `[12/19 10:59]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [sindresorhus/execa](https://github.com/sindresorhus/execa)  
 `[12/19 10:59]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [nieweidong/fetool](https://github.com/nieweidong/fetool)  
-`[12/19 10:59]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [searchkit/searchkit](https://github.com/searchkit/searchkit)  
 
 </details>
 <!--END_SECTION:activity-->
