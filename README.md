@@ -141,8 +141,6 @@ Linux                    12 hrs 33 mins      ███████████�
 `[12/19 10:58]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [webiny/webiny-js](https://github.com/webiny/webiny-js)  
 `[12/19 10:58]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [imagemin/imagemin](https://github.com/imagemin/imagemin)  
 `[12/19 10:58]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [expressjs/body-parser](https://github.com/expressjs/body-parser)  
-`[12/19 10:58]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [serialport/node-serialport](https://github.com/serialport/node-serialport)  
-`[12/19 10:58]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [nodegit/nodegit](https://github.com/nodegit/nodegit)  
 
 </details>
 <!--END_SECTION:activity-->
