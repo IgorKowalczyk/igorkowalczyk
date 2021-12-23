@@ -146,7 +146,6 @@ Linux                    12 hrs 33 mins      ███████████�
 `[12/19 10:58]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [standard-things/esm](https://github.com/standard-things/esm)  
 `[12/19 10:58]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [tumobi/nideshop](https://github.com/tumobi/nideshop)  
 `[12/19 10:58]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [express-validator/express-validator](https://github.com/express-validator/express-validator)  
-`[12/19 10:58]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [jonschlinkert/remarkable](https://github.com/jonschlinkert/remarkable)  
 
 </details>
 <!--END_SECTION:activity-->
