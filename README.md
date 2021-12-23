@@ -124,7 +124,6 @@ Linux                    12 hrs 33 mins      ███████████�
 `[12/19 10:59]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [illuspas/Node-Media-Server](https://github.com/illuspas/Node-Media-Server)  
 `[12/19 10:58]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [justadudewhohacks/opencv4nodejs](https://github.com/justadudewhohacks/opencv4nodejs)  
 `[12/19 10:58]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [muicss/mui](https://github.com/muicss/mui)  
-`[12/19 10:58]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [clinicjs/node-clinic](https://github.com/clinicjs/node-clinic)  
 
 </details>
 <!--END_SECTION:activity-->
