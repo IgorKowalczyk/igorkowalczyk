@@ -136,7 +136,6 @@ Linux                    12 hrs 33 mins      ███████████�
 `[12/19 10:58]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [volta-cli/volta](https://github.com/volta-cli/volta)  
 `[12/19 10:58]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [elastic/elasticsearch-js](https://github.com/elastic/elasticsearch-js)  
 `[12/19 10:58]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [moleculerjs/moleculer](https://github.com/moleculerjs/moleculer)  
-`[12/19 10:58]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [Countly/countly-server](https://github.com/Countly/countly-server)  
 
 </details>
 <!--END_SECTION:activity-->
