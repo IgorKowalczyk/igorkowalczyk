@@ -131,7 +131,6 @@ Linux                    12 hrs 33 mins      ███████████�
 `[12/19 10:58]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [thelounge/thelounge](https://github.com/thelounge/thelounge)  
 `[12/19 10:58]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [FAQGURU/FAQGURU](https://github.com/FAQGURU/FAQGURU)  
 `[12/19 10:58]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [axa-group/nlp.js](https://github.com/axa-group/nlp.js)  
-`[12/19 10:58]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [chenshenhai/koa2-note](https://github.com/chenshenhai/koa2-note)  
 
 </details>
 <!--END_SECTION:activity-->
