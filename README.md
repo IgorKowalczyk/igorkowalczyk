@@ -106,7 +106,6 @@ Linux                    16 hrs 12 mins      ███████████�
 `[12/26 08:51]` <a href="https://github.com/igorkowalczyk" title="🗣"><img alt="🗣" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/comment.png" align="top" height="18"></a> Commented on [`#32`](https://github.com//IgorKowalczyk/majobot/issues/32 'mysql database result in a error.') in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[12/25 18:40]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[12/25 18:05]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
-`[12/23 16:07]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)  
 
 </details>
 <!--END_SECTION:activity-->
