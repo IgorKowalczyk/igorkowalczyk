@@ -98,6 +98,7 @@ Linux                    13 hrs 58 mins      ███████████�
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+`[12/29 12:13]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[12/29 11:41]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[12/29 11:40]` <a href="https://github.com/igorkowalczyk" title="❗️"><img alt="❗️" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/issue.png" align="top" height="18"></a> Closed issue [`#28`](https://github.com//IgorKowalczyk/majobot/issues/28 'mysql issue') in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[12/29 11:40]` <a href="https://github.com/igorkowalczyk" title="🗣"><img alt="🗣" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/comment.png" align="top" height="18"></a> Commented on [`#28`](https://github.com//IgorKowalczyk/majobot/issues/28 'mysql issue') in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
@@ -107,10 +108,10 @@ Linux                    13 hrs 58 mins      ███████████�
 `[12/28 20:58]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[12/28 09:04]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [netdata/netdata-ui](https://github.com/netdata/netdata-ui)  
 `[12/27 15:36]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [rsyslog/rsyslog](https://github.com/rsyslog/rsyslog)  
-`[12/27 15:26]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [netdata/netdata](https://github.com/netdata/netdata)  
 
 <details><summary>⚡ Show more activity</summary>
 
+`[12/27 15:26]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [netdata/netdata](https://github.com/netdata/netdata)  
 `[12/27 13:03]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[12/27 11:16]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[12/27 11:02]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
