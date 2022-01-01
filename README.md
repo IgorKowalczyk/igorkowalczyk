@@ -117,7 +117,6 @@ Linux                    15 hrs 42 mins      ███████████�
 `[12/29 11:39]` <a href="https://github.com/igorkowalczyk" title="🗣"><img alt="🗣" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/comment.png" align="top" height="18"></a> Commented on [`#31`](https://github.com//IgorKowalczyk/majobot/issues/31 'how to setup database') in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[12/29 11:27]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[12/28 20:58]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
-`[12/28 09:04]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [netdata/netdata-ui](https://github.com/netdata/netdata-ui)  
 
 </details>
 <!--END_SECTION:activity-->
