@@ -109,10 +109,6 @@ Linux                    14 hrs 34 mins      ███████████�
 `[12/29 12:13]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[12/29 11:41]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 
-<details><summary>⚡ Show more activity</summary>
-
-`[12/29 11:40]` <a href="https://github.com/igorkowalczyk" title="❗️"><img alt="❗️" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/issue.png" align="top" height="18"></a> Closed issue [`#28`](https://github.com//IgorKowalczyk/majobot/issues/28 'mysql issue') in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
-
 </details>
 <!--END_SECTION:activity-->
 
