@@ -103,7 +103,6 @@ Linux                    14 hrs 34 mins      ███████████�
 `[12/30 20:10]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[12/30 09:51]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[12/29 16:21]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [IgorKowalczyk/shortly](https://github.com/IgorKowalczyk/shortly)  
-`[12/29 16:17]` <a href="https://github.com/igorkowalczyk" title="📂"><img alt="📂" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/create-branch.png" align="top" height="18"></a> Created branch [`main`](https://github.com/IgorKowalczyk/shortly/tree/main) in [IgorKowalczyk/shortly](https://github.com/IgorKowalczyk/shortly)  
 
 </details>
 <!--END_SECTION:activity-->
