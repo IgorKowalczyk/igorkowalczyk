@@ -105,7 +105,6 @@ Linux                    6 hrs 44 mins       ███████████�
 `[01/09 12:50]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole)  
 `[01/08 12:30]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [TEdit/Terraria-Map-Editor](https://github.com/TEdit/Terraria-Map-Editor)  
 `[01/07 13:50]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/delete.png" align="top" height="18"></a> Deleted `gh-pages` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)  
-`[01/07 13:47]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)  
 
 </details>
 <!--END_SECTION:activity-->
