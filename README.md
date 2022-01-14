@@ -102,7 +102,6 @@ Linux                    4 hrs               ███████████�
 `[01/10 18:44]` <a href="https://github.com/igorkowalczyk" title="📂"><img alt="📂" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/create-branch.png" align="top" height="18"></a> Created branch `main` in <span title="Private Repo">`🔒IgorKowalczyk/discord-ssh`</span>  
 `[01/10 18:44]` <a href="https://github.com/igorkowalczyk" title="➕"><img alt="➕" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/create-repo.png" align="top" height="18"></a> Created repository <span title="Private Repo">`🔒IgorKowalczyk/discord-ssh`</span>  
 `[01/09 14:33]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [MajkiIT/polish-ads-filter](https://github.com/MajkiIT/polish-ads-filter)  
-`[01/09 12:50]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole)  
 
 </details>
 <!--END_SECTION:activity-->
