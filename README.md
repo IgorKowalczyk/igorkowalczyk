@@ -98,6 +98,7 @@ Linux                    5 hrs 25 mins       ███████████�
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+`[01/15 11:14]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[01/15 10:56]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[01/15 10:08]` <a href="https://github.com/igorkowalczyk" title="🗣"><img alt="🗣" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/comment.png" align="top" height="18"></a> Commented on [`#32`](https://github.com//IgorKowalczyk/majobot/issues/32 'mysql database result in a error.') in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[01/14 18:23]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/delete.png" align="top" height="18"></a> Deleted `master` from <span title="Private Repo">`🔒IgorKowalczyk/discord-ssh`</span>  
@@ -107,6 +108,9 @@ Linux                    5 hrs 25 mins       ███████████�
 `[01/14 16:54]` <a href="https://github.com/igorkowalczyk" title="🗣"><img alt="🗣" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/comment.png" align="top" height="18"></a> Commented on [`#32`](https://github.com//IgorKowalczyk/majobot/issues/32 'mysql database result in a error.') in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[01/10 18:44]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred <span title="Private Repo">`🔒IgorKowalczyk/discord-ssh`</span>  
 `[01/10 18:44]` <a href="https://github.com/igorkowalczyk" title="📂"><img alt="📂" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/create-branch.png" align="top" height="18"></a> Created branch `main` in <span title="Private Repo">`🔒IgorKowalczyk/discord-ssh`</span>  
+
+<details><summary>⚡ Show more activity</summary>
+
 `[01/10 18:44]` <a href="https://github.com/igorkowalczyk" title="➕"><img alt="➕" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/create-repo.png" align="top" height="18"></a> Created repository <span title="Private Repo">`🔒IgorKowalczyk/discord-ssh`</span>  
 
 </details>
