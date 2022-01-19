@@ -1,19 +1,23 @@
 <!-- ## Hi! I'm Igor Kowalczyk 🖐️ -->
-## Hi! I'm Igor Kowalczyk <img src="https://raw.githubusercontent.com/igorkowalczyk/igorkowalczyk/master/src/images/wave.gif" width="27px">
+
+<img width="170" height="170" align="left" style="float: left; margin: 0 10px 0 0; border-radius: 50%;" src="https://media.discordapp.net/attachments/710425657003212810/933327129305821184/circle.png">  
+
+## <img src="https://raw.githubusercontent.com/igorkowalczyk/igorkowalczyk/master/src/images/wave.gif" width="27px"> Hi! I'm Igor Kowalczyk
+> This is the place where I opensource stuff and break things :rofl:<br>
+
 [![Discord](https://img.shields.io/discord/666599184844980224?color=333&label=Chat&logo=discord&logoColor=fff&style=flat-square)](https://discord.gg/bVNNHuQ)
 [![GitHub followers](https://img.shields.io/github/followers/igorkowalczyk?color=333&label=Follow&logo=github&logoColor=fff&style=flat-square)](https://github.com/IgorKowalczyk?tab=followers)
 [![Twitter Follow](https://img.shields.io/twitter/follow/majonezexe?color=333&label=Follow&logo=twitter&logoColor=fff&style=flat-square)](https://twitter.com/majonezexe)
 [![Website](https://img.shields.io/website?down_color=333&down_message=off&label=Website&logo=firefox&logoColor=fff&style=flat-square&up_color=333&up_message=up&url=https%3A%2F%2Figorkowalczyk.github.io)](https://igorkowalczyk.github.io)
+[![Website](https://komarev.com/ghpvc/?username=igorkowalczyk&style=flat-square&color=333333&label=Views)](https://igorkowalczyk.github.io)
+<br><br><br>
 
-[![Discord profile](https://discord.c99.nl/widget/theme-3/544164729354977282.png)](https://discord.com/users/544164729354977282)
+---
 
-This is the place where I opensource stuff and break things :rofl:
+<a href="https://discord.com/users/544164729354977282">
+ <img src="https://lanyard.cnrad.dev/api/544164729354977282?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="right" />
+</a>
 
-- ⚡  I'm a Front-End Developerer and Freelancer
-- 🔭 I’m currently working on something cool :wink:
-- 🌱 I’m currently learning Node.js
-- ❤️ I love Open Source projects and designing web apps
-- 💻 My favorite languages are Node.js and CSS
 
 ### 💪 Experience & History
 I'm coding for over 2 years. I started my journey in late 2018 / early 2019.<br>
@@ -26,15 +30,7 @@ Over these years I have learned
  * Express.js, C++, Typescript, Shell (Medium)
  * PHP, Python, Bash (Medium/Low)
 
-### ⚡ Sample projects
-
-* [Discord Bot](https://github.com/igorkowalczyk/majobot) [Node.js & Express.js]
-* [Portfolio](https://igorkowalczyk.github.io) [Jekyll & CSS] 
-* [Blog](https://igorkowalczyk.github.io/blog) [Jekyll & CSS] 
-* [Countdown.js](https://igorkowalczyk.github.io/countdown) [Typescript] 
-
-### 📕 Latest Blog Posts
-> 💗 Visit my [blog](https://igorkowalczyk.github.io/blog) for more posts
+### 📕 Blog Posts
 <!-- START_SECTION:feed -->
    - [Niebezpieczne pliki](https://igorkowalczyk.github.io/blog/internet/2020/07/27/Niebezpieczne-pliki) `[26/07/2020]`
 - [Bezpieczeństwo w sieci - Nasze dane](https://igorkowalczyk.github.io/blog/internet/2020/01/22/Bezpiecze%C5%84stwo-w-sieci-nasze-dane) `[21/01/2020]`
@@ -43,57 +39,23 @@ Over these years I have learned
 - [Pierwszy wpis, nowy blog](https://igorkowalczyk.github.io/blog/offtop/2019/12/22/Pierwszy-wpis,-nowy-blog) `[21/12/2019]`
 <!-- Posts last updated on Wed Jan 19 2022 12:02:13 GMT+0000 (Coordinated Universal Time) -->
    <!-- END_SECTION:feed -->
-
+   
 ### 📊 Stats
 
+<a href="https://github.com/igorkowalczyk/igorkowalczyk">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorkowalczyk&title_color=ffffff&text_color=c9cacc&hide=html&icon_color=2bbc8a&bg_color=161b22&layout=compact&hide_border=true"/>
+</a>
+<br><br>
+
 <!--START_SECTION:waka-->
- | 🏆 Contributions (Total) | (soon) |
+| **🏆 Contributions in 2022:** | 13 |
 |:-:|:-:|
-| **🏆 Contributions in 2022:** | **13**|
-| **📦 Github Storage:** | **103.1 kB used**|
-| **📝 Total lines of code:** | **1.8 million**|
-| **📚 Public Repositories:** | **16** |
-| **🔑 Private Repositories:** | **3** |
-<details><summary>✨ Show more stats</summary>
+| **📦 Github Storage:** | 103.1 kB used |
+| **📝 Total lines of code:** | 1.8 million |
+| **📚 Public Repositories:** | 16 |
+| **🔑 Private Repositories:** | 3 |
 
-#### 🌞 I work most during day 
-
-```text
-🌞 Morning    152 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.31% 
-🌆 Daytime    470 commits    ████████████░░░░░░░░░░░░░   50.43% 
-🌃 Evening    297 commits    ████████░░░░░░░░░░░░░░░░░   31.87% 
-🌙 Night      13 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   1.39%
-```
-#### 📅 I'm most productive on Wednesday 
-
-```text
-Monday       128 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.73% 
-Tuesday      174 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.67% 
-Wednesday    190 commits    █████░░░░░░░░░░░░░░░░░░░░   20.39% 
-Thursday     137 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.7% 
-Friday       122 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.09% 
-Saturday     112 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.02% 
-Sunday       69 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.4%
-```
-
-
-#### 📊 Weekly work stats 
-
-```text
-💬 Programming Languages: 
-JavaScript               11 hrs 27 mins      █████████████████████░░░░   85.91% 
-Other                    52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.5% 
-JSON                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.73% 
-Markdown                 21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.66% 
-HTML                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.98%
-
-💻 Operating System: 
-Linux                    13 hrs 20 mins      █████████████████████████   100.0%
-```
-
-</details>
-
-<!-- Wakatime stats generated at 2022-01-19 11:57:27.300106 -->
+<!-- Wakatime stats generated at 2022-01-19 10:12:09.751971 -->
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
@@ -118,9 +80,3 @@ Linux                    13 hrs 20 mins      ███████████�
 <!--END_SECTION:activity-->
 
 ---
-
-<details>
- <summary> </summary>
- <h5>The cake is a lie 🍰</h5>
- <a href="https://igorkowalczyk.github.io"><img src="https://komarev.com/ghpvc/?username=igorkowalczyk&style=flat-square&color=333333&label=Github+profile+views" alt="Github profile views"></a>
-</details>
