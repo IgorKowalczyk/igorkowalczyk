@@ -115,7 +115,6 @@ Linux                    13 hrs 20 mins      ███████████�
 `[01/15 10:08]` <a href="https://github.com/igorkowalczyk" title="🗣"><img alt="🗣" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/comment.png" align="top" height="18"></a> Commented on [`#32`](https://github.com//IgorKowalczyk/majobot/issues/32 'mysql database result in a error.') in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[01/14 18:23]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/delete.png" align="top" height="18"></a> Deleted `master` from <span title="Private Repo">`🔒IgorKowalczyk/discord-ssh`</span>  
 `[01/14 18:23]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in <span title="Private Repo">`🔒IgorKowalczyk/discord-ssh`</span>  
-`[01/14 18:18]` <a href="https://github.com/igorkowalczyk" title="📂"><img alt="📂" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/create-branch.png" align="top" height="18"></a> Created branch `master` in <span title="Private Repo">`🔒IgorKowalczyk/discord-ssh`</span>  
 
 </details>
 <!--END_SECTION:activity-->
