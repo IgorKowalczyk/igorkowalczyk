@@ -20,10 +20,9 @@
 
 
 ### 💪 Experience & History
-I'm coding for over 2 years. I started my journey in late 2018 / early 2019.<br>
+I'm coding for over 3 years. I started my journey in late 2018 / early 2019.<br>
 My first project was a simple music player made with HTML, CSS and Javascript (probably January 2019).<br>
 In the beginning I learned HTML and CSS to build websites, I also learned website design and basic JS.<br>
-\* Project from that time - [Fest.css](https://github.com/igorkowalczyk/fest) (originally Aurolia.css)
 In March 2020 I started learning [Node.js](https://nodejs.org).<br>
 Over these years I have learned
  * Node.js, Javascript, CSS/SCSS/SACSS (Advanced)
