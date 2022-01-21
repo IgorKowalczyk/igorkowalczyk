@@ -130,7 +130,6 @@ Windows                  1 hr 26 mins        ██░░░░░░░░░�
 `[01/19 12:27]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [modood/Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China)  
 `[01/19 12:27]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum)  
 `[01/16 17:57]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in <span title="Private Repo">`🔒IgorKowalczyk/discord-ssh`</span>  
-`[01/16 12:25]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in <span title="Private Repo">`🔒IgorKowalczyk/discord-ssh`</span>  
 
 </details>
 <!--END_SECTION:activity-->
