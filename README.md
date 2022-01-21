@@ -99,7 +99,7 @@ Windows                  1 hr 26 mins        ██░░░░░░░░░�
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[01/21 19:54]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/blog](https://github.com/IgorKowalczyk/blog)  
+`[01/21 19:58]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `3` commits in [IgorKowalczyk/blog](https://github.com/IgorKowalczyk/blog)  
 `[01/21 19:53]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)  
 `[01/21 19:51]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `4` commits in [IgorKowalczyk/blog](https://github.com/IgorKowalczyk/blog)  
 `[01/21 19:45]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/pr-close.png" align="top" height="18"></a> Closed PR [`#513`](https://github.com//IgorKowalczyk/blog/pull/513 'New comment by top-kreditka.ru') in [IgorKowalczyk/blog](https://github.com/IgorKowalczyk/blog)  
@@ -131,7 +131,6 @@ Windows                  1 hr 26 mins        ██░░░░░░░░░�
 `[01/19 12:27]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum)  
 `[01/16 17:57]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in <span title="Private Repo">`🔒IgorKowalczyk/discord-ssh`</span>  
 `[01/16 12:25]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in <span title="Private Repo">`🔒IgorKowalczyk/discord-ssh`</span>  
-`[01/16 11:48]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in <span title="Private Repo">`🔒IgorKowalczyk/discord-ssh`</span>  
 
 </details>
 <!--END_SECTION:activity-->
