@@ -99,6 +99,7 @@ Windows                  1 hr 26 mins        ██░░░░░░░░░�
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+`[01/21 17:55]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczykBot/waka-readme-stats](https://github.com/IgorKowalczykBot/waka-readme-stats)  
 `[01/21 17:38]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majobot](https://github.com/IgorKowalczyk/majobot)  
 `[01/21 17:35]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczykBot/waka-readme-stats](https://github.com/IgorKowalczykBot/waka-readme-stats)  
 `[01/19 19:15]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)  
@@ -108,10 +109,10 @@ Windows                  1 hr 26 mins        ██░░░░░░░░░�
 `[01/19 16:05]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [Phineas/lanyard](https://github.com/Phineas/lanyard)  
 `[01/19 12:29]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [heroku/node-js-getting-started](https://github.com/heroku/node-js-getting-started)  
 `[01/19 12:29]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [webpack/webpack.js.org](https://github.com/webpack/webpack.js.org)  
-`[01/19 12:27]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [nodejs/nodejs.org](https://github.com/nodejs/nodejs.org)  
 
 <details><summary>⚡ Show more activity</summary>
 
+`[01/19 12:27]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [nodejs/nodejs.org](https://github.com/nodejs/nodejs.org)  
 `[01/19 12:27]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [modood/Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China)  
 `[01/19 12:27]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum)  
 `[01/16 17:57]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in <span title="Private Repo">`🔒IgorKowalczyk/discord-ssh`</span>  
