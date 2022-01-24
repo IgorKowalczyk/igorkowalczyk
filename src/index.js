@@ -21,6 +21,7 @@ try {
   const feed_before_final = readme.substring(0, feed_before);
   const feed_after_final = readme.substring(feed_after);
   const posts = await fetchArticles();
+  console.log(posts);
   const readme_feed = `
    ${feed_before_final}
    ${posts}
