@@ -18,6 +18,35 @@
  <img src="https://lanyard.cnrad.dev/api/544164729354977282?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="right" />
 </a>
 
+<p align="left">
+ <a href="https://www.instagram.com/majonezexe/" target="_blank">
+  <img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/instagram.svg" alt="Instagram" width="32" align="center"/>
+ </a>
+ <a href="https://twitter.com/majonezexe" target="_blank">
+  <img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/twitter.svg" alt="Twitter" width="32" align="center"/>
+ </a>
+ <a href="https://profile.codersrank.io/user/igorkowalczyk/" target="_blank">
+  <img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/codersrank.png" alt="Codersrank" width="34" align="center"/>
+ </a>
+ <a href="https://discord.com/users/544164729354977282" target="_blank">
+  <img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/discord.svg" alt="Discord" width="32" align="center"/>
+ </a>
+ <a href="mailto:majonezexe@protonmail.com" target="_blank">
+  <img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/gmail.svg" alt="Email" width="32" align="center"/>
+ </a>
+ <a href="https://www.youtube.com/c/Majonezexe" target="_blank">
+  <img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/youtube.svg" alt="YouTube" width="32" align="center"/>
+ </a>
+ <a href="https://steamcommunity.com/id/m-exe/" target="_blank">
+  <img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/steam.svg" alt="Steam" width="32" align="center"/>
+ </a>
+ <a href="https://open.spotify.com/user/1w9osz9cvrop0cn3yd09di21x" target="_blank">
+  <img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/spotify.svg" alt="Spotify" width="32" align="center"/>
+ </a>
+ <!--<a href="https://wakatime.com/@Majonezexe" target="_blank">
+  <img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/wakatime.svg" alt="Wakatime" width="32" align="center"/>
+ </a>-->
+</p>
 
 ### 💪 Experience & History
 I'm coding for over 3 years. I started my journey in late 2018 / early 2019.<br>
