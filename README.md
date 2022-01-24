@@ -156,7 +156,6 @@ Unknown OS               2 mins              ░░░░░░░░░░░�
 `[01/19 19:11]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/what-is-my-ip](https://github.com/IgorKowalczyk/what-is-my-ip)  
 `[01/19 18:26]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `19` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)  
 `[01/19 16:08]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [cnrad/lanyard-profile-readme](https://github.com/cnrad/lanyard-profile-readme)  
-`[01/19 16:05]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [Phineas/lanyard](https://github.com/Phineas/lanyard)  
 
 </details>
 <!--END_SECTION:activity-->
