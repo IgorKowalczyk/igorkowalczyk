@@ -1,6 +1,7 @@
 const fs = require("fs");
 const parser = require("xml2json");
 const moment = require("moment");
+const fetch = require("node-fetch")
 const date = new Date();
 const feed_open = `<!-- START_SECTION:feed -->`;
 const feed_close = `<!-- END_SECTION:feed -->`;
@@ -14,19 +15,14 @@ try {
   return newC.map(({ title, link, pubDate }) => `- [${title}](${link}) \`[${moment(pubDate).format("DD/MM/YYYY")}]\``).join("\n") + `\n<!-- Posts last updated on ${date.toString()} -->`;
  };
  (async () => {
-  const readme = fs.readFileSync("./README.md", "utf8");
-  const feed_before = readme.indexOf(feed_open) + feed_open.length;
-  const feed_after = readme.indexOf(feed_close);
-  const feed_before_final = readme.substring(0, feed_before);
-  const feed_after_final = readme.substring(feed_after);
   const posts = await fetchArticles();
-  console.log(posts);
   const readme_feed = `
-   ${feed_before_final}
-   ${posts}
-   ${feed_after_final}
-  `;
-  fs.writeFileSync("./README.md", readme_feed.trim());
+${feed_open}
+${posts}
+${feed_close}
+`;
+   console.log(readme_feed)
+   return readme_feed;
  })();
 } catch (err) {
  return console.error(err);
