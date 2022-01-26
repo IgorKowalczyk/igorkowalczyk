@@ -182,7 +182,6 @@ Unknown OS               2 mins              ░░░░░░░░░░░�
 `[01/21 19:58]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `3` commits in [IgorKowalczyk/blog](https://github.com/IgorKowalczyk/blog)  
 `[01/21 19:53]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)  
 `[01/21 19:51]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `4` commits in [IgorKowalczyk/blog](https://github.com/IgorKowalczyk/blog)  
-`[01/21 19:45]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/pr-close.png" align="top" height="18"></a> Closed PR [`#513`](https://github.com//IgorKowalczyk/blog/pull/513 'New comment by top-kreditka.ru') in [IgorKowalczyk/blog](https://github.com/IgorKowalczyk/blog)  
 
 </details>
 <!--END_SECTION:activity-->
