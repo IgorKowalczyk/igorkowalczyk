@@ -175,7 +175,6 @@ Unknown OS               2 mins              ░░░░░░░░░░░�
 `[01/22 18:21]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [jekyll/jekyll-import](https://github.com/jekyll/jekyll-import)  
 `[01/22 18:21]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [jekyll/jekyll-redirect-from](https://github.com/jekyll/jekyll-redirect-from)  
 `[01/22 18:21]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [jekyll/jekyll](https://github.com/jekyll/jekyll)  
-`[01/22 18:21]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [jekyll/jekyll-feed](https://github.com/jekyll/jekyll-feed)  
 
 </details>
 <!--END_SECTION:activity-->
