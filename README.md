@@ -173,7 +173,6 @@ Unknown OS               2 mins              ░░░░░░░░░░░�
 `[01/22 19:03]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)  
 `[01/22 18:22]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [jekyll/github-metadata](https://github.com/jekyll/github-metadata)  
 `[01/22 18:21]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [jekyll/jekyll-import](https://github.com/jekyll/jekyll-import)  
-`[01/22 18:21]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [jekyll/jekyll-redirect-from](https://github.com/jekyll/jekyll-redirect-from)  
 
 </details>
 <!--END_SECTION:activity-->
