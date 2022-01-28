@@ -165,7 +165,6 @@ Unknown OS               2 mins              ░░░░░░░░░░░�
 `[01/22 19:48]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/mailer](https://github.com/IgorKowalczyk/mailer)  
 `[01/22 19:45]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/color-picker](https://github.com/IgorKowalczyk/color-picker)  
 `[01/22 19:44]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/ip.addr](https://github.com/IgorKowalczyk/ip.addr)  
-`[01/22 19:44]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/webhook.js](https://github.com/IgorKowalczyk/webhook.js)  
 
 </details>
 <!--END_SECTION:activity-->
