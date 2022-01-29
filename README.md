@@ -171,7 +171,7 @@ Unknown OS               2 mins              ░░░░░░░░░░░�
 `[01/24 18:01]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [Annihil/github-spray](https://github.com/Annihil/github-spray)  
 `[01/24 12:58]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/blog](https://github.com/IgorKowalczyk/blog)  
 `[01/24 12:56]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/pr-close.png" align="top" height="18"></a> Closed PR [`#5`](https://github.com//IgorKowalczyk/igorkowalczyk/pull/5 'Bump node-fetch from 2.6.1 to 3.1.1') in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)  
-`[01/24 12:55]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `14` commits in [IgorKowalczyk/blog](https://github.com/IgorKowalczyk/blog)  
+`[01/24 12:55]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `13` commits in [IgorKowalczyk/blog](https://github.com/IgorKowalczyk/blog)  
 
 </details>
 <!--END_SECTION:activity-->
