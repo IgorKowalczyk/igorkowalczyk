@@ -161,7 +161,6 @@ Unknown OS               2 mins              ░░░░░░░░░░░�
 `[01/23 12:21]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [htop-dev/htop](https://github.com/htop-dev/htop)  
 `[01/23 12:05]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/star.png" align="top" height="18"></a> Starred [yeyushengfan258/We10XOS-kde](https://github.com/yeyushengfan258/We10XOS-kde)  
 `[01/23 11:26]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)  
-`[01/23 11:20]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczykbot/github-activity/raw/master/icons/pr-close.png" align="top" height="18"></a> Closed PR [`#38`](https://github.com//IgorKowalczyk/majo.exe/pull/38 'Bump node-fetch from 2.6.4 to 3.1.1') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)  
 
 </details>
 <!--END_SECTION:activity-->
