@@ -22,7 +22,7 @@ ${feed_before_final}
 ${post_list}
 ${feed_after_final}
 `;
-  await fs.writeFileSync("../README.md", readme_feed.trim());
+  await fs.writeFileSync("./README.md", readme_feed.trim());
  }
  async function update_activity() {
   const activity_before = readme.indexOf(activity_start) + activity_start.length;
@@ -36,7 +36,7 @@ ${feed_after_final}
  ${activity_list.join("<br>")}
  ${activity_after_final}
  `;
-  await fs.writeFileSync("../README.md", activity_table.trim());
+  await fs.writeFileSync("./README.md", activity_table.trim());
  }
  update_blog();
  update_activity();
