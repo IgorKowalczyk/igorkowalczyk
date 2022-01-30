@@ -5,7 +5,7 @@ const feed_open = `<!-- START_SECTION:feed -->`;
 const feed_close = `<!-- END_SECTION:feed -->`;
 const activity_start = `<!--START_SECTION:activity-->`;
 const activity_end = `<!--END_SECTION:activity-->`;
-const readme = fs.readFileSync("../README.md", "utf8");
+const readme = fs.readFileSync("./README.md", "utf8");
 
 (async () => {
  const post_list = await posts("https://igorkowalczyk.github.io/blog/feeds/feed.xml");
