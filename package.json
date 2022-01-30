@@ -2,7 +2,7 @@
   "name": "igorkowalczyk",
   "version": "0.0.0",
   "description": "A script to auto-update readme with something cool",
-  "main": "src/index.js",
+  "main": "src/update_all.js",
   "author": "Igor Kowalczyk",
   "license": "MIT",
   "repository": {
@@ -13,7 +13,7 @@
     "url": "https://github.com/igorkowalczyk/igorkowalczyk/issues"
   },
   "scripts": {
-    "build": "node --experimental-modules src/index.js",
+    "build": "node --experimental-modules src/update_all.js",
     "format": "prettier --write src --ignore-unknown",
     "format:check": "prettier --check src"
   },
