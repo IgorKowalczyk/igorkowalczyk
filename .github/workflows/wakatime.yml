@@ -1,4 +1,4 @@
-name: README Wakatime stats
+name: Wakatime stats
 
 on:
  schedule:

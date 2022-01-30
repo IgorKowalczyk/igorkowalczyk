@@ -1,4 +1,4 @@
-name: README blog feed
+name: Update readme
 
 on:
  schedule:
@@ -20,6 +20,8 @@ jobs:
       cd ${GITHUB_WORKSPACE}/
       npm i
       node src/update_all.js
+     env:
+      GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
    - name: 🚀 Deploy
      run: |
       if [[ "$(git status --porcelain)" != "" ]]; then
