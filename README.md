@@ -54,9 +54,10 @@ My first project was a simple music player made with HTML, CSS and Javascript (p
 In the beginning I learned HTML and CSS to build websites, I also learned website design and basic JS.<br>
 In March 2020 I started learning [Node.js](https://github.com/IgorKowalczyk?tab=repositories&q=&type=&language=javascript&sort=stargazers).<br>
 Over these years I have learned
- * Node.js, Javascript, CSS/SCSS/SACSS (Advanced)
- * Express.js, C++, Typescript, Shell (Medium)
+ * Node.js, Express.js, JavaScript, CSS (Advanced)
+ * C++, Shell (Medium)
  * PHP, Python, Bash (Medium/Low)
+ * And many other languages and libraries!
 
 ### 📕 Blog Posts
 <!-- START_SECTION:feed -->
