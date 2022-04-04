@@ -7,7 +7,7 @@ const limit_lines = 15;
 module.exports = async function (username) {
  if (!username) throw new Error("Invaild github username!");
  GH_USERNAME = username.toString();
- console.log(`Fetching activity for ${GH_USERNAME}`);
+ console.log(`::debug:: Fetching activity for ${GH_USERNAME}`);
  const capitalize = (str) => str.slice(0, 1).toUpperCase() + str.slice(1);
  const serializers = {
   CommitCommentEvent: (item) => {
@@ -59,7 +59,7 @@ module.exports = async function (username) {
  };
  const actionIcon = (name, alt) => `<a href="https://github.com/igorkowalczyk" title="${alt}"><img alt="${alt}" src="https://github.com/${GH_USERNAME}/${GH_USERNAME}/raw/master/src/images/icons/${name}.png" align="top" height="18"></a>`;
  await Toolkit.run(async (tools) => {
-  //console.info(`::debug:: Getting activity for ${GH_USERNAME}`);
+  console.info(`::debug:: Getting activity for ${GH_USERNAME}`);
   let eventArrs = [];
   for (let i = 0; i < 3; i++) {
    eventArrs[i] = await tools.github.activity.listEventsForAuthenticatedUser({
@@ -69,7 +69,7 @@ module.exports = async function (username) {
    });
   }
 
-  //console.info(`::debug:: Activity for ${GH_USERNAME}, ${eventArrs.reduce((a, c) => a + c.data.length, 0)} events found.`);
+  console.info(`::debug:: Activity for ${GH_USERNAME}, ${eventArrs.reduce((a, c) => a + c.data.length, 0)} events found.`);
   const last = (array) => array[array.length - 1];
   let arr = [];
   for (const events of eventArrs) {
