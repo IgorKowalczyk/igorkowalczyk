@@ -39,7 +39,7 @@ module.exports = async function (username) {
    return `${actionIcon("review", "🔍")} Reviewed ${toUrlFormat(item, null, item.public)} in ${toUrlFormat(item.repo.name, null, item.public)}`;
   },
   PushEvent: (item) => {
-   console.log(item.repo.name)
+   console.log(item.repo.name.split("/")[1])
    if (item.repo.name == `${GH_USERNAME}/${GH_USERNAME}`) return;
    return `${actionIcon("commit", "📝")} Made \`${item.payload.size}\` commit${item.payload.size === 1 ? "" : "s"} in ${toUrlFormat(item.repo.name, null, item.public)}`;
   },
