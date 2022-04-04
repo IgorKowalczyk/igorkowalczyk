@@ -7,6 +7,7 @@ const limit_lines = 15;
 module.exports = async function (username) {
  if (!username) throw new Error("Invaild github username!");
  GH_USERNAME = username.toString();
+ console.log(`Fetching activity for ${GH_USERNAME}`);
  const capitalize = (str) => str.slice(0, 1).toUpperCase() + str.slice(1);
  const serializers = {
   CommitCommentEvent: (item) => {
