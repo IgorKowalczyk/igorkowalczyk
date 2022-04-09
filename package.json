@@ -20,7 +20,7 @@
   "dependencies": {
     "actions-toolkit": "^6.0.1",
     "dotenv": "^14.3.2",
-    "moment": "^2.29.1",
+    "moment": "^2.29.2",
     "moment-duration-format": "^2.3.2",
     "moment-timezone": "^0.5.31",
     "node-fetch": "^2.6.1",
