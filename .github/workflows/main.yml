@@ -19,7 +19,7 @@ jobs:
      run: |
       cd ${GITHUB_WORKSPACE}/
       npm i
-      node src/update_all.js
+      node src/index.js
      env:
       GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
    - name: 🚀 Deploy
