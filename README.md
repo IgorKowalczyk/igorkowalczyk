@@ -49,7 +49,7 @@
 </p>
 
 ### 💪 Experience & History
-I'm coding for over 3 years. I started my journey in late 2018 / early 2019.<br>
+I'm coding for over 4 years. I started my journey in late 2018 / early 2019.<br>
 My first project was a simple music player made with HTML, CSS and Javascript (probably January 2019).<br>
 In the beginning I learned HTML and CSS to build websites, I also learned website design and basic JS.<br>
 In March 2020 I started learning [Node.js](https://github.com/IgorKowalczyk?tab=repositories&q=&type=&language=javascript&sort=stargazers).<br>
