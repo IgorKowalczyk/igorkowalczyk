@@ -1,13 +1,10 @@
 //Inspired by https://github.com/cheesits456/github-activity-readme
 
-const { Toolkit } = require("actions-toolkit");
 require("dotenv").config();
-const limit_lines = 15;
+const { Toolkit } = require("actions-toolkit");
 
-module.exports = async function (username) {
- if (!username) throw new Error("Invaild github username!");
- GH_USERNAME = username.toString();
- console.log(`::debug:: Fetching activity for ${GH_USERNAME}`);
+module.exports = async (username, max_lines) => {
+ if (!username) throw new Error("You must provide a Github username!");
  const capitalize = (str) => str.slice(0, 1).toUpperCase() + str.slice(1);
  const serializers = {
   CommitCommentEvent: (item) => {
@@ -39,7 +36,7 @@ module.exports = async function (username) {
    return `${actionIcon("review", "🔍")} Reviewed ${toUrlFormat(item, null, item.public)} in ${toUrlFormat(item.repo.name, null, item.public)}`;
   },
   PushEvent: (item) => {
-   if (item.repo.name.split("/")[1] == GH_USERNAME) return;
+   if (item.repo.name.split("/")[1] == username) return;
    return `${actionIcon("commit", "📝")} Made \`${item.payload.size}\` commit${item.payload.size === 1 ? "" : "s"} in ${toUrlFormat(item.repo.name, null, item.public)}`;
   },
   ReleaseEvent: (item) => {
@@ -57,34 +54,35 @@ module.exports = async function (username) {
   }
   return !public ? (branch ? `\`${branch}\`` : `<span title="Private Repo">\`🔒${item}\`</span>`) : `[${branch ? `\`${branch}\`` : item}](https://github.com/${item}${branch ? `/tree/${branch}` : ""})`;
  };
- const actionIcon = (name, alt) => `<a href="https://github.com/igorkowalczyk" title="${alt}"><img alt="${alt}" src="https://github.com/${GH_USERNAME}/${GH_USERNAME}/raw/master/src/images/icons/${name}.png" align="top" height="18"></a>`;
+ const actionIcon = (name, alt) => `<a href="https://github.com/igorkowalczyk" title="${alt}"><img alt="${alt}" src="https://github.com/${username}/${username}/raw/master/src/images/icons/${name}.png" align="top" height="18"></a>`;
  await Toolkit.run(async (tools) => {
-  console.info(`::debug:: Getting activity for ${GH_USERNAME}`);
+  console.info(`::debug:: Getting activity for ${username}`);
   let eventArrs = [];
   for (let i = 0; i < 3; i++) {
    eventArrs[i] = await tools.github.activity.listEventsForAuthenticatedUser({
-    username: GH_USERNAME,
+    username: username,
     per_page: 100,
     page: i + 1,
    });
   }
 
-  console.info(`::debug:: Activity for ${GH_USERNAME}, ${eventArrs.reduce((a, c) => a + c.data.length, 0)} events found.`);
+  console.info(`::debug:: Activity for ${username}, ${eventArrs.reduce((a, c) => a + c.data.length, 0)} events found.`);
   const last = (array) => array[array.length - 1];
   let arr = [];
   for (const events of eventArrs) {
    for (const data of events.data) {
-    if (arr.length && data.type === "PushEvent" && last(arr).type === "PushEvent" && data.repo.name === last(arr).repo.name) arr[arr.length - 1].payload.size += data.payload.size;
-    else arr.push(data);
+    if (arr.length && data.type === "PushEvent" && last(arr).type === "PushEvent" && data.repo.name === last(arr).repo.name) {
+     arr[arr.length - 1].payload.size += data.payload.size;
+    } else {
+    arr.push(data);
+    }
    }
   }
   content = arr
    .filter((event) => {
-    let r = serializers.hasOwnProperty(event.type);
-    // if (!r) console.info(event);
-    return r;
+    return serializers.hasOwnProperty(event.type);
    })
-   .slice(0, limit_lines)
+   .slice(0, max_lines || 15)
    .map((item) => `${timestamper(item)} ${serializers[item.type](item)}`)
    .filter((item) => !item.match(/^`\[\d{1,2}\/\d{1,2} \d{1,2}:\d{2}]` undefined$/));
   if (!content.length) throw new Error("No events found!");
