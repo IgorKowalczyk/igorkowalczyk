@@ -74,7 +74,7 @@ module.exports = async (username, max_lines) => {
     if (arr.length && data.type === "PushEvent" && last(arr).type === "PushEvent" && data.repo.name === last(arr).repo.name) {
      arr[arr.length - 1].payload.size += data.payload.size;
     } else {
-    arr.push(data);
+     arr.push(data);
     }
    }
   }
