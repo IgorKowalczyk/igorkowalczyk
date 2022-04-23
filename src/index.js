@@ -6,8 +6,8 @@ const { writeFileSync, readFileSync } = require("fs");
 (async () => {
  const readme = readFileSync("./README.md", "utf8");
  const post_list = await posts(config.feed.link, config.feed.max_lines);
- const feed_section_end = readme.split(config.feed.open).join(config.feed.open + "\n" + post_list).split(config.feed.close).join(config.feed.close + "\n");
  const activity_list = await activity(config.user, config.activity.max_lines);
- const activity_section_end = feed_section_end.split(config.activity.open).join(config.activity.open + "\n" + activity_list).split(config.activity.close).join(config.activity.close + "\n");
- writeFileSync("./README.md", activity_section_end);
+ const readme_posts = `${readme.substring(0, readme.indexOf(config.feed.open) + config.feed.open.length)}\n${post_list}\n${readme.substring(readme.indexOf(config.feed.close))}`;
+ const readme_activity= `${readme_posts.substring(0, readme_posts.indexOf(config.activity.open) + config.activity.open.length)}\n${activity_list.join("<br>")}\n${readme_posts.substring(readme_posts.indexOf(config.activity.close))}`;
+ writeFileSync("./README.md", readme_activity.trim());
 })();
