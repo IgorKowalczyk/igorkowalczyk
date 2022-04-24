@@ -22,7 +22,7 @@ jobs:
       node src/index.js
      env:
       GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-   - name: 🚀 Deploy
+   - name: 🚀 Save changes
      run: |
       if [[ "$(git status --porcelain)" != "" ]]; then
       git config user.name IgorKowalczykBot
