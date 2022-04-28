@@ -66,7 +66,7 @@ Over these years I have learned
 - [Dlaczego Jquery jest złe?](https://igorkowalczyk.github.io/blog/internet/programowanie/javascript/2020/01/19/Dlaczego-Jquery-jest-z%C5%82e) `[28/04/2022]`
 - [Jasna i ciemna strona internetu](https://igorkowalczyk.github.io/blog/internet/2019/12/28/Jasna-i-ciemna-strona-internetu) `[28/04/2022]`
 - [Pierwszy wpis, nowy blog](https://igorkowalczyk.github.io/blog/offtop/2019/12/22/Pierwszy-wpis,-nowy-blog) `[28/04/2022]`
-<!-- Posts last updated on Thu Apr 28 2022 06:57:42 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Thu Apr 28 2022 07:14:24 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 
