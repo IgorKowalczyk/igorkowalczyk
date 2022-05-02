@@ -82,7 +82,7 @@ Over these years I have learned
  | 🏆 Contributions (Total) | 7610 |
 |:-:|:-:|
 | **🏆 Contributions in 2022:** | **523**|
-| **📦 Github Storage:** | **99.4 kB used**|
+| **📦 Github Storage:** | **99.5 kB used**|
 | **📝 Total lines of code:** | **1.8 million**|
 | **📚 Public Repositories:** | **17** |
 | **🔑 Private Repositories:** | **only 1** |
@@ -113,18 +113,15 @@ Sunday       85 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JSON                     38 mins             ████████████████████░░░░░   81.94% 
-JavaScript               8 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.58% 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.26% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.21%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    47 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 ```
 
 </details>
 
-<!-- Wakatime stats generated at 2022-05-02 22:46:15.136306 -->
+<!-- Wakatime stats generated at 2022-05-02 23:49:08.369052 -->
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
