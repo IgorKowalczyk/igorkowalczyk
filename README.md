@@ -2,7 +2,7 @@
 
 <img width="170" height="170" align="left" style="float: left; margin: 0 10px 0 0; border-radius: 50%;" src="https://media.discordapp.net/attachments/710425657003212810/933327129305821184/circle.png">  
 
-## <img src="https://raw.githubusercontent.com/igorkowalczyk/igorkowalczyk/master/src/images/wave.gif" width="27px"> Hi! I'm Igor Kowalczyk
+## <img width="26" height="26" src="https://raw.githubusercontent.com/igorkowalczyk/igorkowalczyk/master/src/images/wave.gif" width="27px"> Hi! I'm Igor Kowalczyk
 > This is the place where I opensource stuff and break things :rofl:<br>
 
 [![Discord](https://img.shields.io/discord/666599184844980224?color=333&label=Chat&logo=discord&logoColor=fff&style=flat-square)](https://igorkowalczyk.github.io/r/discord-server)
