@@ -82,7 +82,7 @@ Over these years I have learned
  | 🏆 Contributions (Total) | 7644 |
 |:-:|:-:|
 | **🏆 Contributions in 2022:** | **557**|
-| **📦 Github Storage:** | **101.7 kB used**|
+| **📦 Github Storage:** | **101.6 kB used**|
 | **📝 Total lines of code:** | **1.8 million**|
 | **📚 Public Repositories:** | **18** |
 | **🔑 Private Repositories:** | **only 1** |
@@ -125,7 +125,7 @@ Linux                    55 hrs 17 mins      ███████████�
 
 </details>
 
-<!-- Wakatime stats generated at 2022-06-02 23:54:28.857742 -->
+<!-- Wakatime stats generated at 2022-06-03 00:55:48.044072 -->
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
