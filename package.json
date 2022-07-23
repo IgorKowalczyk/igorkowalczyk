@@ -1,10 +1,11 @@
 {
   "name": "@igorkowalczyk/igorkowalczyk",
-  "version": "1.5.0",
+  "version": "2.0.0",
   "description": "A script to auto-update my profile readme with latest statisics",
   "main": "src/index.js",
   "author": "Igor Kowalczyk",
   "license": "MIT",
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "https://github.com/igorkowalczyk/igorkowalczyk"
@@ -13,7 +14,7 @@
     "url": "https://github.com/igorkowalczyk/igorkowalczyk/issues"
   },
   "scripts": {
-    "build": "node --experimental-modules src/index.js",
+    "build": "node src/index.js",
     "format": "prettier --write src --ignore-unknown",
     "format:check": "prettier --check src"
   },
@@ -21,7 +22,7 @@
     "actions-toolkit": "^6.0.1",
     "dotenv": "^16.0.1",
     "moment": "^2.29.4",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^3.2.9",
     "xml2json": "^0.12.0"
   },
   "devDependencies": {

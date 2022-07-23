@@ -1,9 +1,9 @@
 //Inspired by https://github.com/cheesits456/github-activity-readme
 
-require("dotenv").config();
-const { Toolkit } = require("actions-toolkit");
+import { Toolkit } from "actions-toolkit";
+import { activity } from "../config.js";
 
-module.exports = async (username, max_lines) => {
+export async function fetch_activities(username) {
  if (!username) throw new Error("You must provide a Github username!");
  const capitalize = (str) => str.slice(0, 1).toUpperCase() + str.slice(1);
  const serializers = {
@@ -48,11 +48,11 @@ module.exports = async (username, max_lines) => {
  };
 
  const timestamper = (item) => `\`[${item.created_at.split("T")[0].split("-").slice(1, 3).join("/")} ${item.created_at.split("T")[1].split(":").slice(0, 2).join(":")}]\``;
- const toUrlFormat = (item, branch, public = true) => {
+ const toUrlFormat = (item, branch, repo_public) => {
   if (typeof item === "object") {
-   return Object.hasOwnProperty.call(item.payload, "issue") ? (public ? `[\`#${item.payload.issue.number}\`](https://github.com//${item.repo.name}/issues/${item.payload.issue.number} '${item.payload.issue.title.replace(/'/g, "\\'")}')` : `\`#${item.payload.issue.number}\``) : public ? `[\`#${item.payload.pull_request.number}\`](https://github.com//${item.repo.name}/pull/${item.payload.pull_request.number} '${item.payload.pull_request.title.replace(/'/g, "\\'")}')` : `\`#${item.payload.pull_request.number}\``;
+   return Object.hasOwnProperty.call(item.payload, "issue") ? (repo_public ? `[\`#${item.payload.issue.number}\`](https://github.com//${item.repo.name}/issues/${item.payload.issue.number} '${item.payload.issue.title.replace(/'/g, "\\'")}')` : `\`#${item.payload.issue.number}\``) : repo_public ? `[\`#${item.payload.pull_request.number}\`](https://github.com//${item.repo.name}/pull/${item.payload.pull_request.number} '${item.payload.pull_request.title.replace(/'/g, "\\'")}')` : `\`#${item.payload.pull_request.number}\``;
   }
-  return !public ? (branch ? `\`${branch}\`` : `<span title="Private Repo">\`🔒${item}\`</span>`) : `[${branch ? `\`${branch}\`` : item}](https://github.com/${item}${branch ? `/tree/${branch}` : ""})`;
+  return !repo_public ? (branch ? `\`${branch}\`` : `<span title="Private Repo">\`🔒${item}\`</span>`) : `[${branch ? `\`${branch}\`` : item}](https://github.com/${item}${branch ? `/tree/${branch}` : ""})`;
  };
  const actionIcon = (name, alt) => `<a href="https://github.com/igorkowalczyk" title="${alt}"><img alt="${alt}" src="https://github.com/${username}/${username}/raw/master/src/images/icons/${name}.png" align="top" height="18"></a>`;
  await Toolkit.run(async (tools) => {
@@ -82,11 +82,11 @@ module.exports = async (username, max_lines) => {
    .filter((event) => {
     return serializers.hasOwnProperty(event.type);
    })
-   .slice(0, max_lines || 15)
+   .slice(0, activity.max_lines || 15)
    .map((item) => `${timestamper(item)} ${serializers[item.type](item)}`)
    .filter((item) => !item.match(/^`\[\d{1,2}\/\d{1,2} \d{1,2}:\d{2}]` undefined$/));
   if (!content.length) throw new Error("No events found!");
   if (content.length < 5) throw new Error("Found less than 5 activities!");
  });
  return content;
-};
+}
