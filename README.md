@@ -73,11 +73,6 @@ Over the years, I've learned
    
 ### 📊 Stats
 
-<a href="https://github.com/igorkowalczyk/igorkowalczyk">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorkowalczyk&title_color=ffffff&text_color=c9cacc&hide=html&icon_color=2bbc8a&bg_color=161b22&layout=compact&hide_border=true"/>
-</a>
-<br><br>
-
 <!--START_SECTION:waka-->
  | 🏆 Contributions (Total) | 8201 |
 |:-:|:-:|
