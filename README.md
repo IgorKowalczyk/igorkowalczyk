@@ -71,7 +71,7 @@ Over the years, I've learned
 <!-- Posts last updated on Sat Jul 23 2022 09:26:38 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
    
-### 📊 Stats
+### 📊 Github Statistics
 
 <!--START_SECTION:waka-->
  | 🏆 Contributions (Total) | 8201 |
