@@ -49,13 +49,15 @@
 </p>
 
 ### 💪 Experience & History
-I'm coding for over 4 years. I started my journey in late 2018 / early 2019.<br>
-My first project was a simple music player made with HTML, CSS and Javascript (probably January 2019).<br>
-In the beginning I learned HTML and CSS to build websites, I also learned website design and basic JS.<br>
-In March 2020 I started learning [Node.js](https://github.com/IgorKowalczyk?tab=repositories&q=&type=&language=javascript&sort=stargazers).<br>
-Over these years I have learned
+I have been coding for more than 5 years. I started my journey at the end of 2018.<br/>
+At first, I learned HTML, CSS and base Javascript to build websites<br/>
+My first project was a simple music player made with Javascript (~January 2019).<br/>
+In March 2020, I started learning [Node.js](https://github.com/IgorKowalczyk?tab=repositories&q=&type=&language=javascript&sort=stargazers) & [Express.js](https://expressjs.com/), I also created my first major project - [Majo.exe](https://github.com/igorkowalczyk/majo.exe)<br/>
+In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](https://nextjs.org/) and [Tailwind.css](https://tailwindcss.com/)...
+<br/><br/>
+Over the years, I've learned
  * Node.js, Express.js, JavaScript, CSS (Advanced)
- * C++, Shell (Medium)
+ * C++, Shell (Intermediate)
  * PHP, Python, Bash (Medium/Low)
  * And many other languages and libraries!
 
@@ -68,8 +70,6 @@ Over these years I have learned
 - [Pierwszy wpis, nowy blog](https://igorkowalczyk.github.io/blog/offtop/2019/12/22/Pierwszy-wpis,-nowy-blog) `[23/07/2022]`
 <!-- Posts last updated on Sat Jul 23 2022 09:26:38 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
-
-
    
 ### 📊 Stats
 
@@ -79,9 +79,9 @@ Over these years I have learned
 <br><br>
 
 <!--START_SECTION:waka-->
- | 🏆 Contributions (Total) | 8198 |
+ | 🏆 Contributions (Total) | 8201 |
 |:-:|:-:|
-| **🏆 Contributions in 2022:** | **1,209**|
+| **🏆 Contributions in 2022:** | **1,212**|
 | **📦 Github Storage:** | **103.0 kB used**|
 | **📝 Total lines of code:** | **1.8 million**|
 | **📚 Public Repositories:** | **19** |
@@ -91,8 +91,8 @@ Over these years I have learned
 #### 🌞 I work most during day 
 
 ```text
-🌞 Morning    150 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.03% 
-🌆 Daytime    405 commits    █████████░░░░░░░░░░░░░░░░   37.89% 
+🌞 Morning    152 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.22% 
+🌆 Daytime    403 commits    █████████░░░░░░░░░░░░░░░░   37.7% 
 🌃 Evening    472 commits    ███████████░░░░░░░░░░░░░░   44.15% 
 🌙 Night      42 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.93%
 ```
@@ -102,9 +102,9 @@ Over these years I have learned
 Monday       262 commits    ██████░░░░░░░░░░░░░░░░░░░   24.51% 
 Tuesday      230 commits    █████░░░░░░░░░░░░░░░░░░░░   21.52% 
 Wednesday    137 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.82% 
-Thursday     104 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.73% 
+Thursday     107 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.01% 
 Friday       102 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.54% 
-Saturday     126 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.79% 
+Saturday     123 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.51% 
 Sunday       108 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.1%
 ```
 
@@ -125,7 +125,7 @@ Linux                    17 hrs 53 mins      ███████████�
 
 </details>
 
-<!-- Wakatime stats generated at 2022-07-23 11:02:50.416410 -->
+<!-- Wakatime stats generated at 2022-07-23 10:39:59.571279 -->
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
