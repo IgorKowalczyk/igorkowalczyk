@@ -26,7 +26,7 @@
   <img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/svg/twitter.svg" alt="Twitter" width="32" align="center"/>
  </a>
  <a href="https://profile.codersrank.io/user/igorkowalczyk/" target="_blank">
-  <img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/svg/codersrank.png" alt="Codersrank" width="34" align="center"/>
+  <img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/png/codersrank.png" alt="Codersrank" width="34" align="center"/>
  </a>
  <a href="https://discord.com/users/544164729354977282" target="_blank">
   <img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/svg/discord.svg" alt="Discord" width="32" align="center"/>
