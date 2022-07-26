@@ -1,4 +1,4 @@
-//Inspired by https://github.com/cheesits456/github-activity-readme
+// Inspired by https://github.com/cheesits456/github-activity-readme
 
 import { Toolkit } from "actions-toolkit";
 import { activity } from "../config.js";
