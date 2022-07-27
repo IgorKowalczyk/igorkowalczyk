@@ -1,6 +1,6 @@
 {
   "name": "@igorkowalczyk/igorkowalczyk",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "A script to auto-update my profile readme with latest statisics",
   "main": "src/index.js",
   "author": "Igor Kowalczyk",
