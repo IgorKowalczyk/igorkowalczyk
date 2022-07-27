@@ -4,6 +4,7 @@ import { Toolkit } from "actions-toolkit";
 import { activity } from "../config.js";
 
 export async function fetch_activities(username) {
+ let content;
  if (!username) throw new Error("You must provide a Github username!");
  const capitalize = (str) => str.slice(0, 1).toUpperCase() + str.slice(1);
  const serializers = {
