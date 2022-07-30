@@ -1,3 +1,4 @@
+// todo: fix returning undefined
 import { toJson } from "xml2json";
 import { feed } from "../config.js";
 import fetch from "node-fetch";
