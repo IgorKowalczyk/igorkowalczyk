@@ -9,7 +9,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/igorkowalczyk?color=333&label=Follow&logo=github&logoColor=fff&style=flat-square)](https://github.com/IgorKowalczyk?tab=followers)
 [![Twitter Follow](https://img.shields.io/twitter/follow/majonezexe?color=333&label=Follow&logo=twitter&logoColor=fff&style=flat-square)](https://twitter.com/majonezexe)
 [![Website](https://img.shields.io/website?down_color=333&down_message=off&label=Website&logo=firefox&logoColor=fff&style=flat-square&up_color=333&up_message=up&url=https%3A%2F%2Figorkowalczyk.dev)](https://igorkowalczyk.dev)
-[![Website](https://komarev.com/ghpvc/?username=igorkowalczyk&style=flat-square&color=333333&label=Views)](https://igorkowalczyk.dev)
+<c[![Website](https://komarev.com/ghpvc/?username=igorkowalczyk&style=flat-square&color=333333&label=Views)](https://igorkowalczyk.dev)
 <br><br><br>
 
 ---
@@ -19,33 +19,14 @@
 </a>
 
 <p align="left">
- <a href="https://www.instagram.com/majonezexe/" target="_blank">
-  <img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/svg/instagram.svg" alt="Instagram" width="32" align="center"/>
- </a>
- <a href="https://twitter.com/majonezexe" target="_blank">
-  <img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/svg/twitter.svg" alt="Twitter" width="32" align="center"/>
- </a>
- <a href="https://profile.codersrank.io/user/igorkowalczyk/" target="_blank">
-  <img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/png/codersrank.png" alt="Codersrank" width="34" align="center"/>
- </a>
- <a href="https://discord.com/users/544164729354977282" target="_blank">
-  <img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/svg/discord.svg" alt="Discord" width="32" align="center"/>
- </a>
- <a href="mailto:majonezexe@protonmail.com" target="_blank">
-  <img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/svg/gmail.svg" alt="Email" width="32" align="center"/>
- </a>
- <a href="https://www.youtube.com/c/Majonezexe" target="_blank">
-  <img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/svg/youtube.svg" alt="YouTube" width="32" align="center"/>
- </a>
- <a href="https://steamcommunity.com/id/m-exe/" target="_blank">
-  <img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/svg/steam.svg" alt="Steam" width="32" align="center"/>
- </a>
- <a href="https://open.spotify.com/user/1w9osz9cvrop0cn3yd09di21x" target="_blank">
-  <img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/svg/spotify.svg" alt="Spotify" width="32" align="center"/>
- </a>
- <!--<a href="https://wakatime.com/@Majonezexe" target="_blank">
-  <img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/svg/wakatime.svg" alt="Wakatime" width="32" align="center"/>
- </a>-->
+<code><a href="https://www.instagram.com/majonezexe/" target="_blank"><img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/svg/instagram.svg" alt="Instagram" width="30" height="30"/></a></code>
+<code><a href="https://twitter.com/majonezexe" target="_blank"><img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/svg/twitter.svg" alt="Twitter" width="30" height="30"/></a></code>
+<code><a href="https://profile.codersrank.io/user/igorkowalczyk/" target="_blank"><img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/png/codersrank.png" alt="Codersrank" width="30" height="30"/></a></code>
+<code><a href="https://discord.com/users/544164729354977282" target="_blank"><img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/svg/discord.svg" alt="Discord" width="30" height="30"/></a></code>
+<code><a href="mailto:majonezexe@protonmail.com" target="_blank"><img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/svg/gmail.svg" alt="Email" width="30" height="30"/></a></code>
+<code><a href="https://www.youtube.com/c/Majonezexe" target="_blank"><img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/svg/youtube.svg" alt="YouTube" width="30" height="30"/></a></code>
+<code><a href="https://steamcommunity.com/id/m-exe/" target="_blank"><img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/svg/steam.svg" alt="Steam" width="30" height="30"/></a></code>
+<code><a href="https://open.spotify.com/user/1w9osz9cvrop0cn3yd09di21x" target="_blank"><img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/svg/spotify.svg" alt="Spotify" width="30" height="30"/></a></code>
 </p>
 
 ### 💪 Experience & History
@@ -140,8 +121,6 @@ Linux                    23 hrs 8 mins       ███████████�
 <!--START_SECTION:activity-->
 `[07/31 17:59]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred [devicons/devicon](https://github.com/devicons/devicon)<br>`[07/31 15:42]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred [IonicaBizau/scrape-it](https://github.com/IonicaBizau/scrape-it)<br>`[07/31 15:41]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred [IonicaBizau/git-stats](https://github.com/IonicaBizau/git-stats)<br>`[07/30 18:44]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred [vercel/nextjs-subscription-payments](https://github.com/vercel/nextjs-subscription-payments)<br>`[07/30 18:42]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred [vercel/virtual-event-starter-kit](https://github.com/vercel/virtual-event-starter-kit)<br>`[07/30 18:42]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred [vercel/styled-jsx](https://github.com/vercel/styled-jsx)<br>`[07/30 18:42]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred [vercel/og-image](https://github.com/vercel/og-image)<br>`[07/30 18:42]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred [vercel/commerce](https://github.com/vercel/commerce)<br>`[07/30 18:41]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred [vercel/examples](https://github.com/vercel/examples)<br>`[07/30 18:41]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred [vercel/platforms](https://github.com/vercel/platforms)<br>`[07/30 18:41]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred [vercel/edge-runtime](https://github.com/vercel/edge-runtime)<br>`[07/30 18:41]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred [vercel/turborepo](https://github.com/vercel/turborepo)
 <!--END_SECTION:activity-->
-
-
 
 ---
 
