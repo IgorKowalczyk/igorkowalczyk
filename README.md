@@ -63,7 +63,12 @@ Over the years, I've learned
 
 ### 📕 Blog Posts
 <!-- START_SECTION:feed -->
-undefined
+- [Niebezpieczne pliki](https://igorkowalczyk.github.io/blog/internet/2020/07/27/Niebezpieczne-pliki) `[31/07/2022]`
+- [Bezpieczeństwo w sieci - Nasze dane](https://igorkowalczyk.github.io/blog/internet/2020/01/22/Bezpiecze%C5%84stwo-w-sieci-nasze-dane) `[31/07/2022]`
+- [Dlaczego Jquery jest złe?](https://igorkowalczyk.github.io/blog/internet/programowanie/javascript/2020/01/19/Dlaczego-Jquery-jest-z%C5%82e) `[31/07/2022]`
+- [Jasna i ciemna strona internetu](https://igorkowalczyk.github.io/blog/internet/2019/12/28/Jasna-i-ciemna-strona-internetu) `[31/07/2022]`
+- [Pierwszy wpis, nowy blog](https://igorkowalczyk.github.io/blog/offtop/2019/12/22/Pierwszy-wpis,-nowy-blog) `[31/07/2022]`
+<!-- Posts last updated on Sun Jul 31 2022 19:33:47 GMT+0200 (czas środkowoeuropejski letni) -->
 <!-- END_SECTION:feed -->
    
 ### 📊 Github Statistics
