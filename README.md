@@ -102,15 +102,15 @@ Sunday       111 commits    ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+No Activity Tracked This Week
 ```
 
 </details>
 
-<!-- Wakatime stats generated at 2022-08-11 21:56:32.891363 -->
+<!-- Wakatime stats generated at 2022-08-11 22:35:48.464326 -->
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
