@@ -102,15 +102,17 @@ Sunday       114 commits    ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               42 mins             █████████████░░░░░░░░░░░░   53.12% 
+JSON                     37 mins             ███████████░░░░░░░░░░░░░░   46.4% 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.48%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 20 mins        █████████████████████████   100.0%
 ```
 
 </details>
 
-<!-- Wakatime stats generated at 2022-08-17 22:06:21.013964 -->
+<!-- Wakatime stats generated at 2022-08-17 22:44:59.267308 -->
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
