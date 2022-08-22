@@ -62,7 +62,7 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 - [Dlaczego Jquery jest złe?](https://igorkowalczyk.github.io/blog/internet/programowanie/javascript/2020/01/19/Dlaczego-Jquery-jest-z%C5%82e) `[22/08/2022]`
 - [Jasna i ciemna strona internetu](https://igorkowalczyk.github.io/blog/internet/2019/12/28/Jasna-i-ciemna-strona-internetu) `[22/08/2022]`
 - [Pierwszy wpis, nowy blog](https://igorkowalczyk.github.io/blog/offtop/2019/12/22/Pierwszy-wpis,-nowy-blog) `[22/08/2022]`
-<!-- Posts last updated on Mon Aug 22 2022 04:39:11 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Mon Aug 22 2022 05:34:39 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
    
 ### 📊 Github Statistics
