@@ -9,7 +9,6 @@ export async function fetch_posts(xml) {
  let content;
  console.log(`::debug:: Fetching ${xml}`);
  await fetch(xml).then(async (res) => {
-  console.log(res.headers)
   if (!res.headers.get("content-type").includes("xml")) throw new Error("Link must be an xml file!");
   const xml_body = await res.text();
   parseString(xml_body, function (err, result) {
