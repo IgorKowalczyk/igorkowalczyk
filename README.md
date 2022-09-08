@@ -57,8 +57,8 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 ### 📕 Blog Posts
 <!-- START_SECTION:feed -->
-- [How i built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[Invalid date]`
-<!-- Posts last updated on Thu Sep 08 2022 16:54:56 GMT+0000 (Coordinated Universal Time) -->
+- [How i built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
+<!-- Posts last updated on Thu Sep 08 2022 16:58:47 GMT+0000 (Coordinated Universal Time) -->}
 <!-- END_SECTION:feed -->
    
 ### 📊 Github Statistics
