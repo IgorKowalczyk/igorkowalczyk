@@ -16,7 +16,7 @@ export async function fetch_posts(xml) {
     result.rss.channel[0].item
      .slice(0, feed.max_lines || 5)
      .map(({ title, link, pubDate }) => `- [${title}](${link}) \`[${format(new Date(pubDate[0]), "MMMM dd, yyyy")}]\``)
-     .join("\n") + `\n<!-- Posts last updated on ${new Date().toString()} -->}`;
+     .join("\n") + `\n<!-- Posts last updated on ${new Date().toString()} -->`;
   });
  });
  return content;
