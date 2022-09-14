@@ -9,6 +9,7 @@ export async function fetch_activities(username) {
  const capitalize = (str) => str.slice(0, 1).toUpperCase() + str.slice(1);
  const serializers = {
   CommitCommentEvent: (item) => {
+   console.log(item);
    const hash = item.payload.comment.commit_id.slice(0, 7);
    return `${actionIcon("comment", "🗣")} Commented on ${item.public ? `[\`${hash}\`](${item.payload.comment.html_url})` : `\`${hash}\``} in ${toUrlFormat(item.repo.name, null, item.public)}`;
   },
