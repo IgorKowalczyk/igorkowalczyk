@@ -1,7 +1,24 @@
+<!-- ## Hi! I'm Igor Kowalczyk 🖐️ -->
 
-![Export](https://user-images.githubusercontent.com/49127376/191839562-1f5a425a-e9df-4524-9e5d-ecf4e0c26acc.png)
+<img width="170" height="170" align="left" style="float: left; margin: 0 10px 0 0; border-radius: 50%;" src="https://media.discordapp.net/attachments/710425657003212810/933327129305821184/circle.png">  
 
-<p align="center">
+## <img width="26" height="26" src="https://raw.githubusercontent.com/igorkowalczyk/igorkowalczyk/master/src/images/wave.gif" width="27px"> Hi! I'm Igor Kowalczyk
+> This is the place where I opensource stuff and break things :rofl:<br>
+
+[![Discord](https://img.shields.io/discord/666599184844980224?color=333&label=Chat&logo=discord&logoColor=fff&style=flat-square)](https://igorkowalczyk.dev/r/discord-server)
+[![GitHub followers](https://img.shields.io/github/followers/igorkowalczyk?color=333&label=Follow&logo=github&logoColor=fff&style=flat-square)](https://github.com/IgorKowalczyk?tab=followers)
+[![Twitter Follow](https://img.shields.io/twitter/follow/majonezexe?color=333&label=Follow&logo=twitter&logoColor=fff&style=flat-square)](https://twitter.com/majonezexe)
+[![Website](https://img.shields.io/website?down_color=333&down_message=off&label=Website&logo=firefox&logoColor=fff&style=flat-square&up_color=333&up_message=up&url=https%3A%2F%2Figorkowalczyk.dev)](https://igorkowalczyk.dev)
+[![Website](https://komarev.com/ghpvc/?username=igorkowalczyk&style=flat-square&color=333333&label=Views)](https://igorkowalczyk.dev)
+<br><br><br>
+
+---
+
+<a href="https://discord.com/users/544164729354977282">
+ <img src="https://lanyard.cnrad.dev/api/544164729354977282?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment...&bg=161a23&animated=true" align="right" />
+</a>
+
+<p align="left">
 <code><a href="https://www.instagram.com/majonezexe/" target="_blank"><img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/svg/instagram.svg" alt="Instagram" width="30" height="30"/></a></code>
 <code><a href="https://twitter.com/majonezexe" target="_blank"><img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/svg/twitter.svg" alt="Twitter" width="30" height="30"/></a></code>
 <code><a href="https://profile.codersrank.io/user/igorkowalczyk/" target="_blank"><img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/png/codersrank.png" alt="Codersrank" width="30" height="30"/></a></code>
@@ -11,13 +28,6 @@
 <code><a href="https://steamcommunity.com/id/m-exe/" target="_blank"><img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/svg/steam.svg" alt="Steam" width="30" height="30"/></a></code>
 <code><a href="https://open.spotify.com/user/1w9osz9cvrop0cn3yd09di21x" target="_blank"><img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/svg/spotify.svg" alt="Spotify" width="30" height="30"/></a></code>
 </p>
-
----
-<br/>
-
-<a href="https://discord.com/users/544164729354977282">
- <img src="https://lanyard.cnrad.dev/api/544164729354977282?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment...&bg=161a23&animated=true" align="right" />
-</a>
 
 ### 💪 Experience & History
 I have been coding for more than 5 years. I started my journey at the end of 2018.<br/>
