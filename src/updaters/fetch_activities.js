@@ -85,8 +85,10 @@ export async function fetch_activities(username) {
    })
    .slice(0, activity.max_lines || 15)
    .map((item) => {
-   if(!item.public) return ""; // Hide private events
-   return `${timestamper(item)} ${serializers[item.type](item)}`}).filter((item) => !item.match(/^`\[\d{1,2}\/\d{1,2} \d{1,2}:\d{2}]` undefined$/))
+    if (!item.public) return ""; // Hide private events
+    return `${timestamper(item)} ${serializers[item.type](item)}`;
+   })
+   .filter((item) => !item.match(/^`\[\d{1,2}\/\d{1,2} \d{1,2}:\d{2}]` undefined$/));
   if (!content.length) throw new Error("No events found!");
   if (content.length < 5) throw new Error("Found less than 5 activities!");
  });
