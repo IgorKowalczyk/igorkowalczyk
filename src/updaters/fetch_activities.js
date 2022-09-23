@@ -54,7 +54,7 @@ export async function fetch_activities(username) {
   if (typeof item === "object") {
    return Object.hasOwnProperty.call(item.payload, "issue") ? (repo_public ? `[\`#${item.payload.issue.number}\`](https://github.com//${item.repo.name}/issues/${item.payload.issue.number} '${item.payload.issue.title.replace(/'/g, "\\'")}')` : `\`#${item.payload.issue.number}\``) : repo_public ? `[\`#${item.payload.pull_request.number}\`](https://github.com//${item.repo.name}/pull/${item.payload.pull_request.number} '${item.payload.pull_request.title.replace(/'/g, "\\'")}')` : `\`#${item.payload.pull_request.number}\``;
   }
-  return !repo_public ? (branch ? `\`${branch}\`` : `<span title="Private Repo">\`🔒${Array(text.split("/")[0].length).join("*")}/${Array(text.split("/")[1].length).join("*")}/\`</span>`) : `[${branch ? `\`${branch}\`` : item}](https://github.com/${item}${branch ? `/tree/${branch}` : ""})`;
+  return !repo_public ? (branch ? `\`${branch}\`` : `<span title="Private Repo">\`🔒${Array(item.split("/")[0].length).join("*")}/${Array(item.split("/")[1].length).join("*")}/\`</span>`) : `[${branch ? `\`${branch}\`` : item}](https://github.com/${item}${branch ? `/tree/${branch}` : ""})`;
  };
  const actionIcon = (name, alt) => `<a href="https://github.com/igorkowalczyk" title="${alt}"><img alt="${alt}" src="https://github.com/${username}/${username}/raw/master/src/images/icons/${name}.png" align="top" height="18"></a>`;
  await Toolkit.run(async (tools) => {
