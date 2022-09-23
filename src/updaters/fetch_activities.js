@@ -17,7 +17,7 @@ export async function fetch_activities(username) {
    if (item.payload.ref_type === "branch") return `${actionIcon("create-branch", "📂")} Created branch ${toUrlFormat(item.repo.name, item.payload.ref, item.public)} in ${toUrlFormat(item.repo.name, null, item.public)}`;
   },
   DeleteEvent: (item) => {
-   return `${actionIcon("delete", "❌")} Deleted \`${item.payload.ref}\` from ${toUrlFormat(item.repo.name, null, item.public)}`;
+   return `${actionIcon("delete", "❌")} Deleted \`${item.payload.ref.slice(0, 30)}${item.payload.ref.length >= 30 ? "..." : ""}\` from ${toUrlFormat(item.repo.name, null, item.public)}`;
   },
   ForkEvent: (item) => {
    return `${actionIcon("fork", "🍴")} Forked ${toUrlFormat(item.repo.name, null, item.public)} to ${toUrlFormat(item.payload.forkee.full_name, null, item.payload.forkee.public)}`;
@@ -85,10 +85,10 @@ export async function fetch_activities(username) {
    })
    .slice(0, activity.max_lines || 15)
    .map((item) => {
-    if (!item.public) return ""; // Hide private events
+    if (!item.public) return null; // Hide private events
     return `${timestamper(item)} ${serializers[item.type](item)}`;
    })
-   .filter((item) => !item.match(/^`\[\d{1,2}\/\d{1,2} \d{1,2}:\d{2}]` undefined$/));
+   .filter((item) => (item ? !item.match(/^`\[\d{1,2}\/\d{1,2} \d{1,2}:\d{2}]` undefined$/) : false));
   if (!content.length) throw new Error("No events found!");
   if (content.length < 5) throw new Error("Found less than 5 activities!");
  });
