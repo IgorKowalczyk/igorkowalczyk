@@ -52,9 +52,9 @@ export async function fetch_activities(username) {
  const timestamper = (item) => `\`[${item.created_at.split("T")[0].split("-").slice(1, 3).join("/")} ${item.created_at.split("T")[1].split(":").slice(0, 2).join(":")}]\``;
  const toUrlFormat = (item, branch, repo_public) => {
   if (typeof item === "object") {
-   return Object.hasOwnProperty.call(item.payload, "issue") ? (repo_public ? `[\`#${item.payload.issue.number}\`](https://github.com//${item.repo.name}/issues/${item.payload.issue.number} '${item.payload.issue.title.replace(/'/g, "\\'")}')` : `\`#${item.payload.issue.number}\``) : repo_public ? `[\`#${item.payload.pull_request.number}\`](https://github.com//${item.repo.name}/pull/${item.payload.pull_request.number} '${item.payload.pull_request.title.replace(/'/g, "\\'")}')` : `\`#${item.payload.pull_request.number}\``;
+   return Object.hasOwnProperty.call(item.payload, "issue") ? (repo_public ? `[\`#${item.payload.issue.number}\`](https://github.com/${item.repo.name}/issues/${item.payload.issue.number} '${item.payload.issue.title.replace(/'/g, "\\'")}')` : `\`#${item.payload.issue.number}\``) : repo_public ? `[\`#${item.payload.pull_request.number}\`](https://github.com/${item.repo.name}/pull/${item.payload.pull_request.number} '${item.payload.pull_request.title.replace(/'/g, "\\'")}')` : `\`#${item.payload.pull_request.number}\``;
   }
-  return !repo_public ? (branch ? `\`${branch}\`` : `<span title="Private Repo">\`🔒${Array(item.split("/")[0].length).join("*")}/${Array(item.split("/")[1].length).join("*")}/\`</span>`) : `[${branch ? `\`${branch}\`` : item}](https://github.com/${item}${branch ? `/tree/${branch}` : ""})`;
+  return `[${branch ? `\`${branch}\`` : item}](https://github.com/${item}${branch ? `/tree/${branch}` : ""})`;
  };
  const actionIcon = (name, alt) => `<a href="https://github.com/igorkowalczyk" title="${alt}"><img alt="${alt}" src="https://github.com/${username}/${username}/raw/master/src/images/icons/${name}.png" align="top" height="18"></a>`;
  await Toolkit.run(async (tools) => {
