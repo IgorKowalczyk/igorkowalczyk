@@ -9,7 +9,6 @@ export async function fetch_activities(username) {
  const capitalize = (str) => str.slice(0, 1).toUpperCase() + str.slice(1);
  const serializers = {
   CommitCommentEvent: (item) => {
-   console.log(item);
    const hash = item.payload.comment.commit_id.slice(0, 7);
    return `${actionIcon("comment", "🗣")} Commented on ${item.public ? `[\`${hash}\`](${item.payload.comment.html_url})` : `\`${hash}\``} in ${toUrlFormat(item.repo.name, null, item.public)}`;
   },
@@ -85,8 +84,9 @@ export async function fetch_activities(username) {
     return serializers.hasOwnProperty(event.type);
    })
    .slice(0, activity.max_lines || 15)
-   .map((item) => `${timestamper(item)} ${serializers[item.type](item)}`)
-   .filter((item) => !item.match(/^`\[\d{1,2}\/\d{1,2} \d{1,2}:\d{2}]` undefined$/));
+   .map((item) => {
+   if(!item.public) return ""; // Hide private events
+   return `${timestamper(item)} ${serializers[item.type](item)}`}).filter((item) => !item.match(/^`\[\d{1,2}\/\d{1,2} \d{1,2}:\d{2}]` undefined$/))
   if (!content.length) throw new Error("No events found!");
   if (content.length < 5) throw new Error("Found less than 5 activities!");
  });
