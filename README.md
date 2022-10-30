@@ -98,15 +98,17 @@ Sunday       92 commits     █░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Docker                   40 mins             ██████████████░░░░░░░░░░░   58.38% 
+JavaScript               28 mins             ██████████░░░░░░░░░░░░░░░   41.46% 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 9 mins         █████████████████████████   100.0%
 ```
 
 </details>
 
-<!-- Wakatime stats generated at 2022-10-30 23:00:49.573787 -->
+<!-- Wakatime stats generated at 2022-10-30 23:47:35.832336 -->
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
