@@ -22,7 +22,7 @@
     "actions-toolkit": "^6.0.1",
     "date-fns": "^2.29.3",
     "dotenv": "^16.0.3",
-    "node-fetch": "^3.2.10",
+    "node-fetch": "^3.3.0",
     "xml2js": "^0.4.23"
   },
   "devDependencies": {
