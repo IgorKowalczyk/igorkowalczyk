@@ -1,31 +1,32 @@
 {
-  "name": "@igorkowalczyk/igorkowalczyk",
-  "version": "3.0.2",
-  "description": "A script to auto-update my profile readme with latest statisics",
-  "main": "src/index.js",
-  "author": "Igor Kowalczyk",
-  "license": "MIT",
-  "type": "module",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/igorkowalczyk/igorkowalczyk"
-  },
-  "bugs": {
-    "url": "https://github.com/igorkowalczyk/igorkowalczyk/issues"
-  },
-  "scripts": {
-    "build": "node src/index.js",
-    "format": "prettier --write src --ignore-unknown",
-    "format:check": "prettier --check src"
-  },
-  "dependencies": {
-    "actions-toolkit": "^6.0.1",
-    "date-fns": "^2.29.3",
-    "dotenv": "^16.0.3",
-    "node-fetch": "^3.3.0",
-    "xml2js": "^0.4.23"
-  },
-  "devDependencies": {
-    "prettier": "^2.8.0"
-  }
+ "name": "@igorkowalczyk/igorkowalczyk",
+ "version": "3.0.2",
+ "description": "A script to auto-update my profile readme with latest statisics",
+ "main": "src/index.js",
+ "author": "Igor Kowalczyk",
+ "license": "MIT",
+ "type": "module",
+ "repository": {
+  "type": "git",
+  "url": "https://github.com/igorkowalczyk/igorkowalczyk"
+ },
+ "bugs": {
+  "url": "https://github.com/igorkowalczyk/igorkowalczyk/issues"
+ },
+ "scripts": {
+  "build": "node src/index.js",
+  "format": "prettier --write ./ --ignore-unknown",
+  "format:check": "prettier --check ./ --ignore-unknown"
+ },
+ "dependencies": {
+  "actions-toolkit": "^6.0.1",
+  "date-fns": "^2.29.3",
+  "dotenv": "^16.0.3",
+  "node-fetch": "^3.3.0",
+  "xml2js": "^0.4.23"
+ },
+ "devDependencies": {
+  "prettier": "^2.8.0"
+ },
+ "packageManager": "pnpm@7.17.1"
 }

@@ -2,27 +2,36 @@ name: Update readme
 
 on:
  schedule:
-  - cron: '*/5 * * * *'
+  - cron: "*/5 * * * *"
  workflow_dispatch:
 
 jobs:
  main:
-  runs-on: ubuntu-latest
   name: ✨ README Stats
+  runs-on: ubuntu-latest
+  strategy:
+   fail-fast: false
+   matrix:
+    language: ["javascript"]
+    node: ["16.x"]
   steps:
    - name: 🧱 Checkout repository
      uses: actions/checkout@v3
      with:
       fetch-depth: 1
-   - name: 🔩 Setup Node
+   - name: 🔩 Setup PNPM
+     uses: pnpm/action-setup@v2
+     with:
+      version: 7
+   - name: 🔩 Setup Node ${{ matrix.node }}
      uses: actions/setup-node@v3
      with:
-      node-version: 16
-      cache: "npm"
+      node-version: ${{ matrix.node }}
+      cache: "pnpm"
    - name: 🚀 Install dependencies
-     run: npm ci --legacy-peer-deps
+     run: npm install
    - name: ✨ Generate README.md
-     run: node src/index.js
+     run: pnpm run build
      env:
       GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
    - name: 🚀 Save changes
