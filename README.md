@@ -58,39 +58,39 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sun Dec 04 2022 10:16:51 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sat Dec 10 2022 14:51:33 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
    
 ### 📊 Github Statistics
 
 <!--START_SECTION:waka-->
- | 🏆 Contributions (Total) | 9509 |
+ | 🏆 Contributions (Total) | 9571 |
 |:-:|:-:|
-| **🏆 Contributions in 2022:** | **2,538**|
-| **📦 Github Storage:** | **407.1 kB used**|
+| **🏆 Contributions in 2022:** | **2,600**|
+| **📦 Github Storage:** | **407.4 kB used**|
 | **📝 Total lines of code:** | **1.8 million**|
 | **📚 Public Repositories:** | **20** |
 | **🔑 Private Repositories:** | **0** |
 <details><summary>✨ Show more stats</summary>
 
-#### 🌙 I work most during night. 
+#### 🌞 I work most during day 
 
 ```text
-🌞 Morning    158 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.79% 
-🌆 Daytime    504 commits    █████████░░░░░░░░░░░░░░░░   37.61% 
-🌃 Evening    641 commits    ████████████░░░░░░░░░░░░░   47.84% 
-🌙 Night      37 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.76%
+🌞 Morning    165 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.91% 
+🌆 Daytime    533 commits    █████████░░░░░░░░░░░░░░░░   38.48% 
+🌃 Evening    650 commits    ███████████░░░░░░░░░░░░░░   46.93% 
+🌙 Night      37 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.67%
 ```
 #### 📅 I'm most productive on Monday 
 
 ```text
-Monday       318 commits    ██████░░░░░░░░░░░░░░░░░░░   23.73% 
-Tuesday      294 commits    █████░░░░░░░░░░░░░░░░░░░░   21.94% 
-Wednesday    211 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.75% 
-Thursday     135 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.07% 
-Friday       120 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.96% 
-Saturday     164 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.24% 
-Sunday       98 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.31%
+Monday       317 commits    █████░░░░░░░░░░░░░░░░░░░░   22.89% 
+Tuesday      294 commits    █████░░░░░░░░░░░░░░░░░░░░   21.23% 
+Wednesday    213 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
+Thursday     139 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.04% 
+Friday       130 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.39% 
+Saturday     168 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.13% 
+Sunday       124 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.95%
 ```
 
 
@@ -98,24 +98,24 @@ Sunday       98 commits     █░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-YAML                     4 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   34.16% 
-JavaScript               3 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   27.61% 
-Other                    2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.64% 
-JSON                     1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.58% 
-CSS                      1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.85%
+JavaScript               18 hrs 4 mins       █████████████████░░░░░░░░   69.6% 
+JSON                     2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.39% 
+Bash                     2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.95% 
+CSS                      1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.08% 
+Other                    57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.71%
 
 💻 Operating System: 
-Linux                    13 hrs 27 mins      █████████████████████████   100.0%
+Linux                    25 hrs 57 mins      █████████████████████████   100.0%
 ```
 
 </details>
 
-<!-- Wakatime stats generated at 2022-12-04 10:11:11.822317 -->
+<!-- Wakatime stats generated at 2022-12-11 19:08:23.037482 -->
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[12/04 09:50]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#24`](https://github.com/IgorKowalczyk/igorkowalczyk/pull/24 'Update pnpm to v7.18.0') in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)<br>`[12/04 09:50]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/pnpm-7.x` from [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)<br>`[12/04 09:47]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[12/04 09:47]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/pnpm-7.x` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[12/04 09:47]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#230`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/230 'Update pnpm to v7.18.0') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[12/04 09:45]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/pnpm-7.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[12/04 09:45]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[12/04 09:45]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#207`](https://github.com/IgorKowalczyk/majo.exe/pull/207 'Update pnpm to v7.18.0') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
+`[12/10 08:26]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[12/10 08:26]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/swr-2.x` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[12/10 08:26]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#232`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/232 'Update dependency swr to v2') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[12/10 08:24]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [roundcube/roundcubemail](https://github.com/roundcube/roundcubemail)<br>`[12/09 18:32]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/node-18.x` from [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)
 <!--END_SECTION:activity-->
 
 ---
