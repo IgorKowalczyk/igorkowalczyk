@@ -37,23 +37,33 @@ In March 2020, I started learning [Node.js](https://github.com/IgorKowalczyk?tab
 In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](https://nextjs.org/) and [Tailwind.css](https://tailwindcss.com/)...
 
 ### 🧠 Over the years, I've learned
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="30" alt="javascript logo"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="30" alt="react logo"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" height="30" width="30" alt="nextjs logo"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="30" alt="nodejs logo"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="30" width="30" alt="webpack logo"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" width="30" alt="express logo"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="30" alt="mysql logo"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" width="30" alt="tailwindcss logo"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" width="30" alt="npm logo"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="30" alt="css3 logo"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="30" width="30" alt="electron logo"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" width="30" alt="graphql logo"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="30" alt="python logo"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" width="30" alt="sass logo"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" width="30" alt="cplusplus logo"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30" width="30" alt="markdown logo"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="30" alt="html5 logo"/></code>
+ <code><img src="https://igorkowalczyk.dev/assets/tech/react.svg" height="30" width="30" alt="React logo"/></code>
+ <code><img src="https://igorkowalczyk.dev/assets/tech/next.svg" height="30" width="30" alt="Next.js logo"/></code>
+ <code><img src="https://igorkowalczyk.dev/assets/tech/tailwindcss.svg" height="30" width="30" alt="TailwindCSS logo"/></code>
+ <code><img src="https://igorkowalczyk.dev/assets/tech/javascript.svg" height="30" width="30" alt="Javascript logo"/></code>
+ <code><img src="https://igorkowalczyk.dev/assets/tech/nodejs.svg" height="30" width="30" alt="Node.js logo"/></code>
+ <code><img src="https://igorkowalczyk.dev/assets/tech/express.svg" height="30" width="30" alt="Express.js logo"/></code>
+ <code><img src="https://igorkowalczyk.dev/assets/tech/npm.svg" height="30" width="30" alt="NPM logo"/></code>
+ <code><img src="https://igorkowalczyk.dev/assets/tech/pnpm.svg" height="30" width="30" alt="PNPM logo"/></code>
+ <code><img src="https://igorkowalczyk.dev/assets/tech/git.svg" height="30" width="30" alt="Git logo"/></code>
+ <code><img src="https://igorkowalczyk.dev/assets/tech/github.svg" height="30" width="30" alt="Github logo"/></code>
+ <code><img src="https://igorkowalczyk.dev/assets/tech/graphql.svg" height="30" width="30" alt="GraphQL logo"/></code>
+ <code><img src="https://igorkowalczyk.dev/assets/tech/figma.svg" height="30" width="30" alt="Figma logo"/></code>
+ <code><img src="https://igorkowalczyk.dev/assets/tech/webpack.svg" height="30" width="30" alt="Webpack logo"/></code>
+ <code><img src="https://igorkowalczyk.dev/assets/tech/turborepo.svg" height="30" width="30" alt="Turborepo logo"/></code>
+ <code><img src="https://igorkowalczyk.dev/assets/tech/framer.svg" height="30" width="30" alt="Framer Motion logo"/></code>
+ <code><img src="https://igorkowalczyk.dev/assets/tech/cpp.svg" height="30" width="30" alt="C++ logo"/></code>
+ <code><img src="https://igorkowalczyk.dev/assets/tech/mysql.svg" height="30" width="30" alt="MySQL logo"/></code>
+ <code><img src="https://igorkowalczyk.dev/assets/tech/mongodb.svg" height="30" width="30" alt="MongoDB logo"/></code>
+ <code><img src="https://igorkowalczyk.dev/assets/tech/discordjs.svg" height="30" width="30" alt="Discord.js logo"/></code>
+ <code><img src="https://igorkowalczyk.dev/assets/tech/heroicons.svg" height="30" width="30" alt="Heroicons logo"/></code>
+ <code><img src="https://igorkowalczyk.dev/assets/tech/headlessui.svg" height="30" width="30" alt="Headless UI logo"/></code>
+ <code><img src="https://igorkowalczyk.dev/assets/tech/docker.svg" height="30" width="30" alt="Docker logo"/></code> 
+ <code><img src="https://igorkowalczyk.dev/assets/tech/vercel.svg" height="30" width="30" alt="Vercel logo"/></code>
+ <code><img src="https://igorkowalczyk.dev/assets/tech/css.svg" height="30" width="30" alt="CSS logo"/></code>
+ <code><img src="https://igorkowalczyk.dev/assets/tech/eslint.svg" height="30" width="30" alt="Eslint logo"/></code>
+ 
+ **...and many others!**
 
 ### 📕 Blog Posts
 <!-- START_SECTION:feed -->
