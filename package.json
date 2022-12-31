@@ -19,14 +19,14 @@
   "format:check": "prettier --check ./ --ignore-unknown"
  },
  "dependencies": {
-  "actions-toolkit": "^6.0.1",
-  "date-fns": "^2.29.3",
-  "dotenv": "^16.0.3",
-  "node-fetch": "^3.3.0",
-  "xml2js": "^0.4.23"
+  "actions-toolkit": "6.0.1",
+  "date-fns": "2.29.3",
+  "dotenv": "16.0.3",
+  "node-fetch": "3.3.0",
+  "xml2js": "0.4.23"
  },
  "devDependencies": {
-  "prettier": "^2.8.0"
+  "prettier": "2.8.0"
  },
  "packageManager": "pnpm@7.21.0"
 }
