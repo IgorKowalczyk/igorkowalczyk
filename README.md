@@ -77,7 +77,7 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
  | 🏆 Contributions (Total) | 10201 |
 |:-:|:-:|
 | **🏆 Contributions in 2023:** | **205**|
-| **📦 Github Storage:** | **408.3 kB used**|
+| **📦 Github Storage:** | **408.4 kB used**|
 | **📝 Total lines of code:** | **1.8 million**|
 | **📚 Public Repositories:** | **23** |
 | **🔑 Private Repositories:** | **only 1** |
@@ -120,7 +120,7 @@ Linux                    36 hrs 57 mins      ███████████�
 
 </details>
 
-<!-- Wakatime stats generated at 2023-01-10 20:11:08.429534 -->
+<!-- Wakatime stats generated at 2023-01-10 21:11:04.933745 -->
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
