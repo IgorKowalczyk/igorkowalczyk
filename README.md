@@ -77,7 +77,7 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
  | 🏆 Contributions (Total) | 10255 |
 |:-:|:-:|
 | **🏆 Contributions in 2023:** | **259**|
-| **📦 Github Storage:** | **408.4 kB used**|
+| **📦 Github Storage:** | **408.6 kB used**|
 | **📝 Total lines of code:** | **1.8 million**|
 | **📚 Public Repositories:** | **23** |
 | **🔑 Private Repositories:** | **only 1** |
@@ -95,8 +95,8 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 ```text
 Monday       375 commits    █████░░░░░░░░░░░░░░░░░░░░   22.03% 
-Tuesday      325 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.1% 
-Wednesday    271 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.92% 
+Tuesday      323 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.98% 
+Wednesday    273 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.04% 
 Thursday     175 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.28% 
 Friday       145 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.52% 
 Saturday     255 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.98% 
@@ -120,7 +120,7 @@ Linux                    45 hrs 42 mins      ███████████�
 
 </details>
 
-<!-- Wakatime stats generated at 2023-01-11 14:13:09.835598 -->
+<!-- Wakatime stats generated at 2023-01-11 15:21:01.392254 -->
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
