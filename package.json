@@ -16,7 +16,8 @@
  "scripts": {
   "build": "node src/index.js",
   "format": "prettier --write ./ --ignore-unknown",
-  "format:check": "prettier --check ./ --ignore-unknown"
+  "format:check": "prettier --check ./ --ignore-unknown",
+  "lint": "eslint . --ext .js,.ts"
  },
  "dependencies": {
   "actions-toolkit": "6.0.1",
@@ -26,6 +27,8 @@
   "xml2js": "0.4.23"
  },
  "devDependencies": {
+  "eslint": "^8.32.0",
+  "eslint-config-prettier": "^8.6.0",
   "prettier": "2.8.3"
  },
  "packageManager": "pnpm@7.25.1"

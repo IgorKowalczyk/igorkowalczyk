@@ -3,7 +3,7 @@
 import { Toolkit } from "actions-toolkit";
 import { activity } from "../config.js";
 
-export async function fetch_activities(username) {
+export async function fetchActivities(username) {
  let content;
  if (!username) throw new Error("You must provide a Github username!");
  const capitalize = (str) => str.slice(0, 1).toUpperCase() + str.slice(1);
@@ -49,9 +49,9 @@ export async function fetch_activities(username) {
  };
 
  const timestamper = (item) => `\`[${item.created_at.split("T")[0].split("-").slice(1, 3).join("/")} ${item.created_at.split("T")[1].split(":").slice(0, 2).join(":")}]\``;
- const toUrlFormat = (item, branch, repo_public) => {
+ const toUrlFormat = (item, branch, repoPublic) => {
   if (typeof item === "object") {
-   return Object.hasOwnProperty.call(item.payload, "issue") ? (repo_public ? `[\`#${item.payload.issue.number}\`](https://github.com/${item.repo.name}/issues/${item.payload.issue.number} '${item.payload.issue.title.replace(/'/g, "\\'")}')` : `\`#${item.payload.issue.number}\``) : repo_public ? `[\`#${item.payload.pull_request.number}\`](https://github.com/${item.repo.name}/pull/${item.payload.pull_request.number} '${item.payload.pull_request.title.replace(/'/g, "\\'")}')` : `\`#${item.payload.pull_request.number}\``;
+   return Object.hasOwnProperty.call(item.payload, "issue") ? (repoPublic ? `[\`#${item.payload.issue.number}\`](https://github.com/${item.repo.name}/issues/${item.payload.issue.number} '${item.payload.issue.title.replace(/'/g, "\\'")}')` : `\`#${item.payload.issue.number}\``) : repoPublic ? `[\`#${item.payload.pull_request.number}\`](https://github.com/${item.repo.name}/pull/${item.payload.pull_request.number} '${item.payload.pull_request.title.replace(/'/g, "\\'")}')` : `\`#${item.payload.pull_request.number}\``;
   }
   return `[${branch ? `\`${branch}\`` : item}](https://github.com/${item}${branch ? `/tree/${branch}` : ""})`;
  };
@@ -62,7 +62,7 @@ export async function fetch_activities(username) {
   for (let i = 0; i < 3; i++) {
    eventArrs[i] = await tools.github.activity.listEventsForAuthenticatedUser({
     username: username,
-    per_page: 100,
+    perPage: 100,
     page: i + 1,
    });
   }
@@ -81,14 +81,14 @@ export async function fetch_activities(username) {
   }
   content = arr
    .filter((event) => {
-    return serializers.hasOwnProperty(event.type);
+    return Object.prototype.hasOwnProperty.call(serializers, event.type);
    })
-   .slice(0, activity.max_lines || 15)
    .map((item) => {
     if (!item.public) return null; // Hide private events
     return `${timestamper(item)} ${serializers[item.type](item)}`;
    })
-   .filter((item) => (item ? !item.match(/^`\[\d{1,2}\/\d{1,2} \d{1,2}:\d{2}]` undefined$/) : false));
+   .filter((item) => (item ? !item.match(/^`\[\d{1,2}\/\d{1,2} \d{1,2}:\d{2}]` undefined$/) : false))
+   .slice(0, activity.maxLines || 15);
   if (!content.length) throw new Error("No events found!");
   if (content.length < 5) throw new Error("Found less than 5 activities!");
  });
