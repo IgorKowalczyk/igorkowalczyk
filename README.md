@@ -8,7 +8,6 @@
 [![Discord](https://img.shields.io/discord/666599184844980224?color=333&label=Chat&logo=discord&logoColor=fff&style=flat-square)](https://igorkowalczyk.dev/r/discord-server)
 [![GitHub followers](https://img.shields.io/github/followers/igorkowalczyk?color=333&label=Follow&logo=github&logoColor=fff&style=flat-square)](https://github.com/IgorKowalczyk?tab=followers)
 [![Twitter Follow](https://img.shields.io/twitter/follow/majonezexe?color=333&label=Follow&logo=twitter&logoColor=fff&style=flat-square)](https://twitter.com/majonezexe)
-[![Website](https://img.shields.io/website?down_color=333&down_message=off&label=Website&logo=firefox&logoColor=fff&style=flat-square&up_color=333&up_message=up&url=https%3A%2F%2Figorkowalczyk.dev)](https://igorkowalczyk.dev)
 [![Views](https://views.igorkowalczyk.dev/api/badge/igorkowalczyk?style=flat-square&color=333)](https://igorkowalczyk.dev)
 [![Views](https://wakatime-hours.vercel.app/api/badge?style=flat-square&color=333)](https://igorkowalczyk.dev)
 <br><br><br>
