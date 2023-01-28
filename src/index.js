@@ -6,8 +6,7 @@ import "dotenv/config";
 
 const readme = readFileSync("./README.md", "utf8");
 
-const posts = await fetchPosts(feed.link);
-const activityList = await fetchActivities(activity.gitUsername);
+const [posts, activityList] = await Promise.all([fetchPosts(feed.link), fetchActivities(activity.gitUsername)]);
 
 const readmePosts = `${readme.substring(0, readme.indexOf(feed.open) + feed.open.length)}\n${posts}\n${readme.substring(readme.indexOf(feed.close))}`;
 const readmeActivity = `${readmePosts.substring(0, readmePosts.indexOf(activity.open) + activity.open.length)}\n${activityList.join("<br>")}\n${readmePosts.substring(readmePosts.indexOf(activity.close))}`;
