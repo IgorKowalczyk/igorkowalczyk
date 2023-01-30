@@ -57,7 +57,7 @@ export async function fetchActivities(username) {
  };
  const actionIcon = (name, alt) => `<a href="https://github.com/igorkowalczyk" title="${alt}"><img alt="${alt}" src="https://github.com/${username}/${username}/raw/master/src/images/icons/${name}.png" align="top" height="18"></a>`;
  await Toolkit.run(async (tools) => {
-  console.info(`::debug:: Getting activity for ${username}`);
+  console.info(`::debug:: [Github] Getting activity for ${username}`);
   let eventArrs = [];
   for (let i = 0; i < 3; i++) {
    eventArrs[i] = await tools.github.activity.listEventsForAuthenticatedUser({
@@ -67,7 +67,7 @@ export async function fetchActivities(username) {
    });
   }
 
-  console.info(`::debug:: Activity for ${username}, ${eventArrs.reduce((a, c) => a + c.data.length, 0)} events found.`);
+  console.info(`::debug:: [Github] Activity for ${username}, ${eventArrs.reduce((a, c) => a + c.data.length, 0)} events found.`);
   const last = (array) => array[array.length - 1];
   let arr = [];
   for (const events of eventArrs) {

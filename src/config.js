@@ -11,3 +11,9 @@ export const activity = {
  gitUsername: "igorkowalczyk",
  maxLines: 10,
 };
+
+export const wakatime = {
+ open: `<!--START_SECTION:wakatime-->`,
+ close: `<!--END_SECTION:wakatime-->`,
+ apiKey: process.env.WAKATIME_API_KEY,
+};

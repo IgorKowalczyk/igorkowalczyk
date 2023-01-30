@@ -67,65 +67,37 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 ### 📕 Blog Posts
 <!-- START_SECTION:feed -->
-- [How I built my website](undefined) `[August 12, 2022]`
-<!-- Posts last updated on Mon Jan 30 2023 16:22:43 GMT+0000 (Coordinated Universal Time) -->
+- [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
+<!-- Posts last updated on Mon Jan 30 2023 20:42:51 GMT+0100 (czas środkowoeuropejski standardowy) -->
 <!-- END_SECTION:feed -->
    
 ### 📊 Github Statistics
 
-<!--START_SECTION:waka-->
- | 🏆 Contributions (Total) | 10853 |
-|:-:|:-:|
-| **🏆 Contributions in 2023:** | **858**|
-| **📦 Github Storage:** | **462.1 kB used**|
-| **📝 Total lines of code:** | **1.8 million**|
-| **📚 Public Repositories:** | **25** |
-| **🔑 Private Repositories:** | **0** |
 <details><summary>✨ Show more stats</summary>
+<!--START_SECTION:wakatime-->
 
-#### 🌞 I work most during day 
+#### 📅 I'm most productive on Friday (10 hrs 44 mins)
 
-```text
-🌞 Morning    283 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.34% 
-🌆 Daytime    692 commits    ██████████░░░░░░░░░░░░░░░   42.4% 
-🌃 Evening    612 commits    █████████░░░░░░░░░░░░░░░░   37.5% 
-🌙 Night      45 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.76%
+#### 📊 Weekly work stats (last 7 days)
+
 ```
-#### 📅 I'm most productive on Tuesday 
+💬 Programming Languages:
 
-```text
-Monday       239 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.64% 
-Tuesday      290 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.77% 
-Wednesday    263 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.12% 
-Thursday     171 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.48% 
-Friday       203 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.44% 
-Saturday     266 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.3% 
-Sunday       200 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.25%
+JavaScript - [███░░░░░░░] 36.95%
+Astro      - [█░░░░░░░░░] 17.79%
+TypeScript - [█░░░░░░░░░] 16.40%
+JSON       - [█░░░░░░░░░] 11.17%
+Other      - [█░░░░░░░░░] 17.67%
+
+💻 Operating Systems:
+Linux      - [██████████] 100.00%
 ```
-
-
-#### 📊 Weekly work stats 
-
-```text
-💬 Programming Languages: 
-JavaScript               22 hrs 46 mins      █████████░░░░░░░░░░░░░░░░   36.95% 
-Astro                    10 hrs 58 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.79% 
-TypeScript               10 hrs 6 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.4% 
-JSON                     6 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   11.17% 
-Other                    3 hrs 37 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.89%
-
-💻 Operating System: 
-Linux                    61 hrs 38 mins      █████████████████████████   100.0%
-```
-
+<!--END_SECTION:wakatime-->
 </details>
-
-<!-- Wakatime stats generated at 2023-01-30 16:13:59.712402 -->
-<!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[01/30 08:23]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br>`[01/30 08:23]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/systeminformation-5.x...` from [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br>`[01/30 08:23]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#43`](https://github.com/IgorKowalczyk/discord-ssh/pull/43 'Update dependency systeminformation to v5.17.8') in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br>`[01/30 08:23]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#43`](https://github.com/IgorKowalczyk/discord-ssh/pull/43 'Update dependency systeminformation to v5.17.8') in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br>`[01/29 20:31]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/systeminformation-5.x...` from [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br>`[01/29 20:31]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br>`[01/29 20:31]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#42`](https://github.com/IgorKowalczyk/discord-ssh/pull/42 'Update dependency systeminformation to v5.17.7') in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br>`[01/29 20:26]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#42`](https://github.com/IgorKowalczyk/discord-ssh/pull/42 'Update dependency systeminformation to v5.17.7') in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br>`[01/29 18:24]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#2476`](https://github.com/withastro/docs/pull/2476 'i18n(pl) - Polish translation') in [withastro/docs](https://github.com/withastro/docs)<br>`[01/29 17:55]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `6` commits in [IgorKowalczyk/astro-docs-pl](https://github.com/IgorKowalczyk/astro-docs-pl)
+`[01/30 18:30]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [searx/searx](https://github.com/searx/searx)<br>`[01/30 08:23]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br>`[01/30 08:23]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/systeminformation-5.x...` from [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br>`[01/30 08:23]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#43`](https://github.com/IgorKowalczyk/discord-ssh/pull/43 'Update dependency systeminformation to v5.17.8') in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br>`[01/30 08:23]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#43`](https://github.com/IgorKowalczyk/discord-ssh/pull/43 'Update dependency systeminformation to v5.17.8') in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br>`[01/29 20:31]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/systeminformation-5.x...` from [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br>`[01/29 20:31]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br>`[01/29 20:31]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#42`](https://github.com/IgorKowalczyk/discord-ssh/pull/42 'Update dependency systeminformation to v5.17.7') in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br>`[01/29 20:26]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#42`](https://github.com/IgorKowalczyk/discord-ssh/pull/42 'Update dependency systeminformation to v5.17.7') in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br>`[01/29 18:24]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#2476`](https://github.com/withastro/docs/pull/2476 'i18n(pl) - Polish translation') in [withastro/docs](https://github.com/withastro/docs)
 <!--END_SECTION:activity-->
 
 ---
