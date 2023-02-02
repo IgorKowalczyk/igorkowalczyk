@@ -1,35 +1,37 @@
 {
- "name": "@igorkowalczyk/igorkowalczyk",
- "version": "3.0.3",
- "description": "A script to auto-update my profile readme with latest statisics",
- "main": "src/index.js",
- "author": "Igor Kowalczyk",
- "license": "MIT",
- "type": "module",
- "repository": {
-  "type": "git",
-  "url": "https://github.com/igorkowalczyk/igorkowalczyk"
- },
- "bugs": {
-  "url": "https://github.com/igorkowalczyk/igorkowalczyk/issues"
- },
- "scripts": {
-  "build": "node src/index.js",
-  "format": "prettier --write ./ --ignore-unknown",
-  "format:check": "prettier --check ./ --ignore-unknown",
-  "lint": "eslint . --ext .js,.ts"
- },
- "dependencies": {
-  "actions-toolkit": "6.0.1",
-  "date-fns": "2.29.3",
-  "dotenv": "16.0.3",
-  "node-fetch": "3.3.0",
-  "xml2js": "0.4.23"
- },
- "devDependencies": {
-  "eslint": "^8.32.0",
-  "eslint-config-prettier": "^8.6.0",
-  "prettier": "2.8.3"
- },
- "packageManager": "pnpm@7.26.2"
+  "name": "@igorkowalczyk/igorkowalczyk",
+  "version": "3.0.3",
+  "description": "A script to auto-update my profile readme with latest statisics",
+  "main": "src/index.js",
+  "author": "Igor Kowalczyk",
+  "license": "MIT",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/igorkowalczyk/igorkowalczyk"
+  },
+  "bugs": {
+    "url": "https://github.com/igorkowalczyk/igorkowalczyk/issues"
+  },
+  "scripts": {
+    "build": "node src/index.js",
+    "format": "prettier --write ./ --ignore-unknown",
+    "format:check": "prettier --check ./ --ignore-unknown",
+    "lint": "eslint . --ext .js,.ts"
+  },
+  "dependencies": {
+    "actions-toolkit": "6.0.1",
+    "date-fns": "2.29.3",
+    "dotenv": "16.0.3",
+    "graphql": "^16.6.0",
+    "graphql-request": "^5.1.0",
+    "node-fetch": "3.3.0",
+    "xml2js": "0.4.23"
+  },
+  "devDependencies": {
+    "eslint": "^8.32.0",
+    "eslint-config-prettier": "^8.6.0",
+    "prettier": "2.8.3"
+  },
+  "packageManager": "pnpm@7.26.2"
 }

@@ -68,7 +68,7 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Mon Jan 30 2023 20:42:51 GMT+0100 (czas środkowoeuropejski standardowy) -->
+<!-- Posts last updated on Tue Jan 31 2023 14:13:05 GMT+0100 (czas środkowoeuropejski standardowy) -->
 <!-- END_SECTION:feed -->
    
 ### 📊 Github Statistics
@@ -76,18 +76,19 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 <details><summary>✨ Show more stats</summary>
 <!--START_SECTION:wakatime-->
 
-#### 📅 I'm most productive on Friday (10 hrs 44 mins)
+#### 📅 I'm most productive on Monday (13 hrs 7 mins)
 
 #### 📊 Weekly work stats (last 7 days)
 
-```
+```text
 💬 Programming Languages:
 
-JavaScript - [███░░░░░░░] 36.95%
-Astro      - [█░░░░░░░░░] 17.79%
-TypeScript - [█░░░░░░░░░] 16.40%
-JSON       - [█░░░░░░░░░] 11.17%
-Other      - [█░░░░░░░░░] 17.67%
+JavaScript - [███░░░░░░░] 36.14%
+Astro      - [█░░░░░░░░░] 16.52%
+TypeScript - [█░░░░░░░░░] 15.00%
+JSON       - [░░░░░░░░░░] 9.44%
+MDX        - [░░░░░░░░░░] 7.83%
+Other      - [█░░░░░░░░░] 15.07%
 
 💻 Operating Systems:
 Linux      - [██████████] 100.00%
@@ -97,7 +98,7 @@ Linux      - [██████████] 100.00%
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[01/30 18:30]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [searx/searx](https://github.com/searx/searx)<br>`[01/30 08:23]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br>`[01/30 08:23]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/systeminformation-5.x...` from [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br>`[01/30 08:23]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#43`](https://github.com/IgorKowalczyk/discord-ssh/pull/43 'Update dependency systeminformation to v5.17.8') in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br>`[01/30 08:23]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#43`](https://github.com/IgorKowalczyk/discord-ssh/pull/43 'Update dependency systeminformation to v5.17.8') in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br>`[01/29 20:31]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/systeminformation-5.x...` from [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br>`[01/29 20:31]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br>`[01/29 20:31]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#42`](https://github.com/IgorKowalczyk/discord-ssh/pull/42 'Update dependency systeminformation to v5.17.7') in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br>`[01/29 20:26]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#42`](https://github.com/IgorKowalczyk/discord-ssh/pull/42 'Update dependency systeminformation to v5.17.7') in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br>`[01/29 18:24]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#2476`](https://github.com/withastro/docs/pull/2476 'i18n(pl) - Polish translation') in [withastro/docs](https://github.com/withastro/docs)
+`[01/31 12:02]` <a href="https://github.com/igorkowalczyk" title="🍴"><img alt="🍴" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/fork.png" align="top" height="18"></a> Forked [IgorKowalczykBot/igorkowalczykbot](https://github.com/IgorKowalczykBot/igorkowalczykbot) to [IgorKowalczyk/igorkowalczykbot](https://github.com/IgorKowalczyk/igorkowalczykbot)<br>`[01/31 08:38]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/astrojs-tailwind-3.x` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[01/31 08:38]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[01/31 08:38]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#44`](https://github.com/IgorKowalczyk/github-views/pull/44 'Update dependency @astrojs/tailwind to v3.0.1') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[01/31 08:08]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/astro-2.x` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[01/31 08:08]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[01/31 08:08]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#45`](https://github.com/IgorKowalczyk/github-views/pull/45 'Update dependency astro to v2.0.4') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[01/31 08:08]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#45`](https://github.com/IgorKowalczyk/github-views/pull/45 'Update dependency astro to v2.0.4') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[01/31 08:07]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/typescript-4.x` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[01/31 08:07]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)
 <!--END_SECTION:activity-->
 
 ---

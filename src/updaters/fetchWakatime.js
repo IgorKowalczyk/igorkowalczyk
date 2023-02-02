@@ -25,15 +25,16 @@ export async function fetchWakatime(apiToken) {
     return `${name}${spaces}- ${percentageBar(100, percent)}`;
    });
    // prettier-ignore
-   const languagesList = `${restLanguages.join("\n")}${otherLanguages > 0 ? `Other${Array(maxNameLength - 5 + 1).fill(" ").join("")}- ${percentageBar(100, otherLanguages + other)}` : ""}`;
+   const languagesList = `${restLanguages.join("\n")}${otherLanguages > 0 ? `\nOther${Array(maxNameLength - 5 + 1).fill(" ").join("")}- ${percentageBar(100, otherLanguages + other)}` : ""}`;
    const operatingSystemsList = operatingSystems.map(({ name, percent }) => {
     let spaces = Array(maxNameLength - name.length + 1)
      .fill(" ")
      .join("");
     return `${name}${spaces}- ${percentageBar(100, percent)}`;
    });
+
    const mostProductiveDay = `#### 📅 I'm most productive on ${new Date(bestDay.date).toLocaleDateString("EN", { weekday: "long" })} (${bestDay.text})`;
-   const weekly = `#### 📊 Weekly work stats (last 7 days)\n\n\`\`\`\n💬 Programming Languages:\n\n${languagesList}\n\n💻 Operating Systems:\n${operatingSystemsList.join("\n")}\n\`\`\``;
+   const weekly = `#### 📊 Weekly work stats (last 7 days)\n\n\`\`\`text\n💬 Programming Languages:\n\n${languagesList}\n\n💻 Operating Systems:\n${operatingSystemsList.join("\n")}\n\`\`\``;
    console.log(`::debug:: [Wakatime] Saving Wakatime data!`);
    content = `\n${mostProductiveDay}\n\n${weekly}`;
   });
