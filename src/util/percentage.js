@@ -4,10 +4,10 @@ export function percentageBar(full, curr) {
  if (curr > full) return "Error: Current value must be less than or equal to full value.";
  const percent = (curr / full) * 100;
  let str = "[";
- for (let i = 0; i < 10; i++) {
-  str += percent >= (100 / 10) * (i + 1) ? "█" : "░";
+ for (let i = 0; i < 25; i++) {
+  str += percent >= (100 / 25) * (i + 1) ? "█" : "░";
  }
- str += `] ${percent.toFixed(2)}%`;
+ str += `]   ${percent.toFixed(2)}%`;
 
  return str;
 }

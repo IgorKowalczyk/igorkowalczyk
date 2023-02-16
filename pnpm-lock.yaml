@@ -8,6 +8,7 @@ specifiers:
   eslint-config-prettier: ^8.6.0
   graphql: ^16.6.0
   graphql-request: ^5.1.0
+  markdown-table: ^3.0.3
   node-fetch: 3.3.0
   prettier: 2.8.3
   xml2js: 0.4.23
@@ -18,6 +19,7 @@ dependencies:
   dotenv: 16.0.3
   graphql: 16.6.0
   graphql-request: 5.1.0_graphql@16.6.0
+  markdown-table: 3.0.3
   node-fetch: 3.3.0
   xml2js: 0.4.23
 
@@ -913,6 +915,10 @@ packages:
   /macos-release/2.5.0:
     resolution: {integrity: sha512-EIgv+QZ9r+814gjJj0Bt5vSLJLzswGmSUbUpbi9AIr/fsN2IWFBl2NucV9PAiek+U1STK468tEkxmVYUtuAN3g==}
     engines: {node: '>=6'}
+    dev: false
+
+  /markdown-table/3.0.3:
+    resolution: {integrity: sha512-Z1NL3Tb1M9wH4XESsCDEksWoKTdlUafKc4pt0GRwjUyXaCFZ+dc3g2erqB6zm3szA2IUSi7VnPI+o/9jnxh9hw==}
     dev: false
 
   /mime-db/1.52.0:

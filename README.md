@@ -68,37 +68,64 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Tue Jan 31 2023 14:13:05 GMT+0100 (czas środkowoeuropejski standardowy) -->
+<!-- Posts last updated on Thu Feb 16 2023 20:38:04 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
    
 ### 📊 Github Statistics
 
-<details><summary>✨ Show more stats</summary>
 <!--START_SECTION:wakatime-->
+|    🏆 Contributions (Total)   |     11215    |
+| :---------------------------: | :----------: |
+| **🏆 Contributions in 2023:** |   **1222**   |
+|     **📦 Github Storage:**    | **489.0 MB** |
+|  **📚 Public Repositories:**  |    **26**    |
+|  **🔑 Private Repositories:** |     **1**    |
 
-#### 📅 I'm most productive on Monday (13 hrs 7 mins)
+<details><summary>✨ Show more stats</summary>
+
+#### 📅 I work mostly during the night
+
+```text
+🌞 Morning   180 commits    [███░░░░░░░░░░░░░░░░░░░░░░]   12.15%
+🌆 Daytime   379 commits    [██████░░░░░░░░░░░░░░░░░░░]   25.57%
+🌃 Evening   923 commits    [███████████████░░░░░░░░░░]   62.28%
+```
+
+#### 📅 I'm most productive on Wednesday
+
+```text
+Monday      298 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.11%
+Tuesday     229 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.45%
+Wednesday   298 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.11%
+Thursday    179 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.08%
+Friday      180 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.15%
+Saturday    217 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.64%
+Sunday      81 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   5.47%
+```
 
 #### 📊 Weekly work stats (last 7 days)
 
 ```text
 💬 Programming Languages:
-
-JavaScript - [███░░░░░░░] 36.14%
-Astro      - [█░░░░░░░░░] 16.52%
-TypeScript - [█░░░░░░░░░] 15.00%
-JSON       - [░░░░░░░░░░] 9.44%
-MDX        - [░░░░░░░░░░] 7.83%
-Other      - [█░░░░░░░░░] 15.07%
+JavaScript   [49 hrs 48 mins]   [███████████████████████░░]   92.08%
+CSV          [1 hr 52 mins]     [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.46%
+JSON         [58 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.79%
+TypeScript   [37 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.16%
+YAML         [27 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.85%
+Other        [0h 21m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.65%
 
 💻 Operating Systems:
-Linux      - [██████████] 100.00%
+Linux        [54 hrs 5 mins]   [█████████████████████████]   100.00%
 ```
-<!--END_SECTION:wakatime-->
+
+<!-- Wakatime last updated on Thu Feb 16 2023 20:38:16 GMT+0000 (Coordinated Universal Time) -->
 </details>
+   
+<!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[01/31 12:02]` <a href="https://github.com/igorkowalczyk" title="🍴"><img alt="🍴" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/fork.png" align="top" height="18"></a> Forked [IgorKowalczykBot/igorkowalczykbot](https://github.com/IgorKowalczykBot/igorkowalczykbot) to [IgorKowalczyk/igorkowalczykbot](https://github.com/IgorKowalczyk/igorkowalczykbot)<br>`[01/31 08:38]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/astrojs-tailwind-3.x` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[01/31 08:38]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[01/31 08:38]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#44`](https://github.com/IgorKowalczyk/github-views/pull/44 'Update dependency @astrojs/tailwind to v3.0.1') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[01/31 08:08]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/astro-2.x` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[01/31 08:08]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[01/31 08:08]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#45`](https://github.com/IgorKowalczyk/github-views/pull/45 'Update dependency astro to v2.0.4') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[01/31 08:08]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#45`](https://github.com/IgorKowalczyk/github-views/pull/45 'Update dependency astro to v2.0.4') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[01/31 08:07]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/typescript-4.x` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[01/31 08:07]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)
+`[02/16 12:07]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/headlessui-react-1.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[02/16 12:07]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[02/16 12:07]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#277`](https://github.com/IgorKowalczyk/majo.exe/pull/277 'Update dependency @headlessui/react to v1.7.11') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[02/16 12:07]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#277`](https://github.com/IgorKowalczyk/majo.exe/pull/277 'Update dependency @headlessui/react to v1.7.11') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[02/16 11:58]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[02/16 11:58]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/prettier-plugin-tailw...` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[02/16 11:58]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#278`](https://github.com/IgorKowalczyk/majo.exe/pull/278 'Update dependency prettier-plugin-tailwindcss to v0.2.3') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[02/16 11:58]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/apollo-graphql-packag...` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[02/16 11:58]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[02/16 11:58]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#318`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/318 'Update dependency @apollo/client to v3.7.8') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)
 <!--END_SECTION:activity-->
 
 ---
