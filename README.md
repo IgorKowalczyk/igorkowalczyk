@@ -72,7 +72,6 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 <!-- END_SECTION:feed -->
    
 ### 📊 Github Statistics
-
 <!--START_SECTION:wakatime-->
 |    🏆 Contributions (Total)   |     11215    |
 | :---------------------------: | :----------: |
