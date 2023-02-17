@@ -1,10 +1,4 @@
-import { GraphQLClient } from "graphql-request";
-
-const client = new GraphQLClient("https://api.github.com/graphql", {
- headers: {
-  Authorization: `Bearer ${process.env.GITHUB_TOKEN}`,
- },
-});
+import { client } from "./graphQlClient.js";
 
 async function getTotalYears(username) {
  const query = `

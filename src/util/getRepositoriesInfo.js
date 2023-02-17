@@ -1,10 +1,4 @@
-import { GraphQLClient } from "graphql-request";
-
-const client = new GraphQLClient("https://api.github.com/graphql", {
- headers: {
-  Authorization: `Bearer ${process.env.GITHUB_TOKEN}`,
- },
-});
+import { client } from "./graphQlClient.js";
 
 export async function getRepositories(username) {
  const publicQuery = `
@@ -34,8 +28,7 @@ export async function getRepositories(username) {
     }
   `;
 
- const publicRepositories = await client.request(publicQuery);
- const privateRepositories = await client.request(privateQuery);
+ const [publicRepositories, privateRepositories] = await Promise.all([client.request(publicQuery), client.request(privateQuery)]);
 
  return {
   publicRepositories: publicRepositories.user.repositories.nodes,

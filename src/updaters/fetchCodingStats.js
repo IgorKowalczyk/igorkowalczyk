@@ -4,13 +4,13 @@ import { getTotalContributionsForYears } from "../util/getContributions.js";
 import { markdownTable } from "markdown-table";
 import { getRepositoriesInfo } from "../util/getRepositoriesInfo.js";
 import { getCommits } from "../util/getCommits.js";
+import { getLinesOfCode } from "../util/getLinesOfCode.js";
 import { ConvertBytes } from "../util/convertBytes.js";
+import { ConvertNumber } from "../util/convertNumber.js";
 
 export async function fetchCodingStats(apiToken, username) {
  console.log(`::debug:: [Github] Fetching Github data...`);
- const contributions = await getTotalContributionsForYears(username).then((data) => data.sort());
- const repositories = await getRepositoriesInfo(username);
- const contributionsLastYear = await getCommits(username);
+ const [contributions, repositories, contributionsLastYear, linesOfCode] = await Promise.all([getTotalContributionsForYears(username).then((data) => data.sort()), getRepositoriesInfo(username), getCommits(username), getLinesOfCode(username)]);
  console.log(`::debug:: [Github] Done fetching Github data!`);
  const totalContributions = contributions.reduce((acc, { totalContributions }) => acc + totalContributions, 0);
  const contributionsInLastYear = contributions[contributions.length - 1].totalContributions;
@@ -107,6 +107,7 @@ export async function fetchCodingStats(apiToken, username) {
     [
      [`🏆 Contributions (Total)`, `${totalContributions}`],
      [`**🏆 Contributions in ${lastYear}:**`, `**${contributionsInLastYear}**`],
+     [`**📝 Total lines of code:**`, `**${ConvertNumber(linesOfCode)}**`],
      [`**📦 Github Storage:**`, `**${ConvertBytes(repositories.size * 1000)}**`],
      [`**📚 Public Repositories:**`, `**${repositories.publicRepositories}**`],
      [`**🔑 Private Repositories:**`, `**${repositories.privateRepositories}**`],
