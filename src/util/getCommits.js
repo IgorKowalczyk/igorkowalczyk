@@ -51,28 +51,44 @@ async function getContributionsGraphQl(username) {
 }
 
 export async function getCommits(username) {
- let contributions = [];
+ let contributions = {};
  await getContributionsGraphQl(username).then(async (weeks) => {
-  const groupedWeekdays = Object.values(weeks).reduce((acc, week) => {
+  const weekdayCounts = Object.values(weeks).reduce((acc, week) => {
    const key = week.weekday;
    if (!acc[key]) {
     acc[key] = {
      weekday: getWeekday(week.weekday),
-     number: week.weekday,
-     timeOfDay: week.timeOfDay,
+     counts: [],
      count: 0,
     };
    }
+   acc[key].counts.push(week.count);
    acc[key].count += week.count;
    return acc;
   }, {});
-  contributions = Object.values(groupedWeekdays);
+
+  const weekdaySums = {};
+
+  for (const weekdayCount of Object.values(weekdayCounts)) {
+   weekdaySums[weekdayCount.weekday] = weekdayCount.count;
+  }
+
+  const timeOfDayCounts = Object.values(weeks).sort((a, b) => {
+   if (a.weekday < b.weekday) return -1;
+   if (a.weekday > b.weekday) return 1;
+   if (a.timeOfDay < b.timeOfDay) return -1;
+   if (a.timeOfDay > b.timeOfDay) return 1;
+   return 0;
+  });
+
+  contributions.timeOfDayCounts = timeOfDayCounts;
+  contributions.weekdaySums = weekdaySums;
  });
  return contributions;
 }
 
 function getWeekday(number) {
- const weekdays = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
+ const weekdays = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"];
  return weekdays[number];
 }
 
@@ -81,7 +97,7 @@ function getTimeOfDay(hour) {
   return "🌞 Morning";
  } else if (hour >= 12 && hour < 18) {
   return "🌆 Daytime";
- } else if (hour >= 18 && hour < 24) {
+ } else if (hour >= 18 && hour < 23) {
   return "🌃 Evening";
  } else {
   return "🌙 Night";

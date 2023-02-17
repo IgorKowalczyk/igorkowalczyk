@@ -55,66 +55,53 @@ export async function fetchCodingStats(apiToken, username) {
    });
 
    const weekly = `#### 📊 Weekly work stats (last 7 days)\n\n\`\`\`text\n💬 Programming Languages:\n${languagesList}\n\n💻 Operating Systems:\n${operatingSystemsList.join("\n")}\n\`\`\``;
-   const totalCount = contributionsLastYear.reduce((accumulator, currentValue) => {
-    return accumulator + currentValue.count;
-   }, 0);
 
-   const mostProductiveDays = contributionsLastYear
-    .sort((a, b) => {
-     if (a.weekday === "Monday") {
-      return -1;
-     } else if (b.weekday === "Monday") {
-      return 1;
-     } else {
-      return 0;
-     }
-    })
-    .map((item) => {
-     return `${item.weekday}${Array(9 - item.weekday.length + 3)
-      .fill(" ")
-      .join("")}${item.count} commits   ${percentageBar(totalCount, item.count)}`;
-    });
+   const mostProductiveDay = Object.entries(contributionsLastYear.weekdaySums).sort((a, b) => b[1] - a[1])[0][0];
+   const maxCount = contributionsLastYear.weekdaySums[mostProductiveDay];
 
-   const mostProductiveDay = contributionsLastYear.reduce((prev, current) => {
-    return prev.count > current.count ? prev : current;
+   const totalCount = Object.values(contributionsLastYear.weekdaySums).reduce((acc, curr) => acc + curr, 0);
+   const mostProductiveDays = Object.entries(contributionsLastYear.weekdaySums).map(([weekday, count]) => {
+    return `${weekday} ${Array(9 - weekday.length + 1)
+     .fill(" ")
+     .join("")} ${count.toString()} commits ${Array(maxCount.toString().length - count.toString().length + 1)
+     .fill(" ")
+     .join("")} ${percentageBar(totalCount, count)}`;
    });
 
-   const maxCount = contributionsLastYear.reduce((prev, current) => {
-    return prev.count > current.count ? prev.count : current.count;
-   });
-
-   const times = contributionsLastYear.reduce((accumulator, current) => {
-    const { ...rest } = current;
-    const timeOfDay = current.timeOfDay;
-    if (!accumulator[timeOfDay]) {
-     accumulator[timeOfDay] = { ...rest, count: current.count };
+   const result = contributionsLastYear.timeOfDayCounts.reduce((acc, curr) => {
+    const timeOfDay = curr.timeOfDay;
+    const count = curr.count;
+    if (acc[timeOfDay]) {
+     acc[timeOfDay].count += count;
     } else {
-     accumulator[timeOfDay].count += current.count;
+     acc[timeOfDay] = { count: count, timeOfDay: timeOfDay };
     }
-    return accumulator;
+    return acc;
    }, {});
 
-   // Todo: Sotring is not working properly
-   const sortedTimes = Object.entries(times)
-    .map(([timeOfDay, { count }]) => ({ timeOfDay, count }))
-    .sort((a, b) => {
-     if (a.timeOfDay === "🌞 Morning") return -1;
-     if (b.timeOfDay === "🌞 Morning") return 1;
-     if (a.timeOfDay === "🌃 Evening" && b.timeOfDay === "🌆 Daytime") return 1;
-     if (a.timeOfDay === "🌆 Daytime" && b.timeOfDay === "🌃 Evening") return -1;
-     return 0;
-    })
-    .map((item) => {
-     return `${item.timeOfDay}${Array(9 - item.timeOfDay.length + 3)
-      .fill(" ")
-      .join("")} ${item.count} commits${Array(maxCount.toString().length - item.count.toString().length + 3)
-      .fill(" ")
-      .join("")} ${percentageBar(totalCount, item.count)}`;
-    });
+   const timeOfDayOrder = {
+    "🌞 Morning": 0,
+    "🌆 Daytime": 1,
+    "🌃 Evening": 2,
+    "🌙 Night": 3,
+   };
+
+   const sortedResult = Object.values(result).sort((a, b) => {
+    return timeOfDayOrder[a.timeOfDay] - timeOfDayOrder[b.timeOfDay];
+   });
+
+   const lines = Object.values(sortedResult).map((item) => {
+    const count = item.count;
+    return `${item.timeOfDay} ${Array(9 - item.timeOfDay.toString().length + 2)
+     .fill(" ")
+     .join("")} ${count} ${count > 1 ? "commits" : "commit"} ${Array(maxCount.toString().length - count.toString().length + 1)
+     .fill(" ")
+     .join("")} ${percentageBar(totalCount, count)}`;
+   });
 
    const productiveOn = ["🌙 Night", "🌃 Evening"].includes(mostProductiveDay.weekday) ? "day" : "night";
-   const mostProductiveDaysText = `#### 📅 I'm most productive on ${mostProductiveDay.weekday}\n\n\`\`\`text\n${mostProductiveDays.join("\n")}\n\`\`\``;
-   const mostProductiveParts = `#### 📅 I work mostly during the ${productiveOn}\n\n\`\`\`text\n${sortedTimes.join("\n")}\n\`\`\``;
+   const mostProductiveDaysText = `#### 📅 I'm most productive on ${mostProductiveDay}\n\n\`\`\`text\n${mostProductiveDays.join("\n")}\n\`\`\``;
+   const mostProductiveParts = `#### 📅 I work mostly during the ${productiveOn}\n\n\`\`\`text\n${lines.join("\n")}\n\`\`\``;
 
    const table = markdownTable(
     [
