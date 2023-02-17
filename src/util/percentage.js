@@ -5,9 +5,11 @@ export function percentageBar(full, curr) {
  const percent = (curr / full) * 100;
  let str = "[";
  for (let i = 0; i < 25; i++) {
-  str += percent >= (100 / 25) * (i + 1) ? "█" : "░";
+  str += percent >= (100 / 25) * (i + 1) ? "▓" : "░";
  }
  str += `]   ${percent.toFixed(2)}%`;
 
  return str;
 }
+
+// █
