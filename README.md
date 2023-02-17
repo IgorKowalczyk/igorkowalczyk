@@ -68,14 +68,14 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Fri Feb 17 2023 14:51:48 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Fri Feb 17 2023 15:17:24 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
    
 ### 📊 Github Statistics
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |     11241    |
+|    🏆 Contributions (Total)   |     11243    |
 | :---------------------------: | :----------: |
-| **🏆 Contributions in 2023:** |   **1248**   |
+| **🏆 Contributions in 2023:** |   **1250**   |
 |     **📦 Github Storage:**    | **488.9 MB** |
 |  **📚 Public Repositories:**  |    **26**    |
 |  **🔑 Private Repositories:** |     **1**    |
@@ -85,47 +85,47 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   448 commits   [███████░░░░░░░░░░░░░░░░░░]   30.23%
-🌆 Daytime   482 commits   [████████░░░░░░░░░░░░░░░░░]   32.52%
-🌃 Evening   534 commits   [█████████░░░░░░░░░░░░░░░░]   36.03%
+🌞 Morning   448 commits   [▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░]   30.23%
+🌆 Daytime   482 commits   [▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░]   32.52%
+🌃 Evening   534 commits   [▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░]   36.03%
 🌙 Night     18 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.21%
 ```
 
 #### 📅 I'm most productive on Tuesday
 
 ```text
-Monday      81 commits    [█░░░░░░░░░░░░░░░░░░░░░░░░]   5.47%
-Tuesday     296 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.97%
-Wednesday   229 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.45%
-Thursday    296 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.97%
-Friday      183 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.35%
-Saturday    186 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.55%
-Sunday      211 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.24%
+Monday      80 commits    [▓░░░░░░░░░░░░░░░░░░░░░░░░]   5.40%
+Tuesday     296 commits   [▓▓▓▓░░░░░░░░░░░░░░░░░░░░░]   19.97%
+Wednesday   229 commits   [▓▓▓░░░░░░░░░░░░░░░░░░░░░░]   15.45%
+Thursday    295 commits   [▓▓▓▓░░░░░░░░░░░░░░░░░░░░░]   19.91%
+Friday      183 commits   [▓▓▓░░░░░░░░░░░░░░░░░░░░░░]   12.35%
+Saturday    188 commits   [▓▓▓░░░░░░░░░░░░░░░░░░░░░░]   12.69%
+Sunday      211 commits   [▓▓▓░░░░░░░░░░░░░░░░░░░░░░]   14.24%
 ```
 
 #### 📊 Weekly work stats (last 7 days)
 
 ```text
 💬 Programming Languages:
-JavaScript   [38 hrs 58 mins]   [███████████████████████░░]   93.36%
-CSV          [1 hr 52 mins]     [█░░░░░░░░░░░░░░░░░░░░░░░░]   4.48%
+JavaScript   [38 hrs 58 mins]   [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░]   93.36%
+CSV          [1 hr 52 mins]     [▓░░░░░░░░░░░░░░░░░░░░░░░░]   4.48%
 YAML         [18 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.72%
 JSON         [14 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.58%
 TypeScript   [11 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.45%
 Other        [0h 10m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.41%
 
 💻 Operating Systems:
-Linux        [41 hrs 44 mins]  [█████████████████████████]   100.00%
+Linux        [41 hrs 44 mins]  [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓]   100.00%
 ```
 
-<!-- Wakatime last updated on Fri Feb 17 2023 14:51:56 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Fri Feb 17 2023 15:17:33 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[02/17 14:37]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `wakatime` from [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)<br>`[02/17 14:37]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#49`](https://github.com/IgorKowalczyk/igorkowalczyk/pull/49 'Add wakatime stats updater') in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)<br>`[02/17 14:16]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [boyter/scc](https://github.com/boyter/scc)<br>`[02/17 14:15]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [npm/npm](https://github.com/npm/npm)<br>`[02/17 05:55]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/tailwindcss-3.x` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[02/17 05:55]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[02/17 05:55]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#320`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/320 'Update dependency tailwindcss to v3.2.7') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[02/17 05:55]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#320`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/320 'Update dependency tailwindcss to v3.2.7') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[02/16 22:38]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[02/16 22:38]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/mongoose-6.x` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)
+`[02/17 14:54]` <a href="https://github.com/igorkowalczyk" title="🏷"><img alt="🏷" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/release.png" align="top" height="18"></a> Released [`v3.1.0`](https://github.com/IgorKowalczyk/igorkowalczyk/releases/tag/v3.1.0) in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)<br>`[02/17 14:37]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `wakatime` from [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)<br>`[02/17 14:37]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#49`](https://github.com/IgorKowalczyk/igorkowalczyk/pull/49 'Add wakatime stats updater') in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)<br>`[02/17 14:16]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [boyter/scc](https://github.com/boyter/scc)<br>`[02/17 14:15]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [npm/npm](https://github.com/npm/npm)<br>`[02/17 05:55]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/tailwindcss-3.x` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[02/17 05:55]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[02/17 05:55]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#320`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/320 'Update dependency tailwindcss to v3.2.7') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[02/17 05:55]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#320`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/320 'Update dependency tailwindcss to v3.2.7') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[02/16 22:38]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)
 <!--END_SECTION:activity-->
 
 ---
