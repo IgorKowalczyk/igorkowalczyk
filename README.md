@@ -68,14 +68,14 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sun Feb 19 2023 19:36:35 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sun Feb 19 2023 19:51:30 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
    
 ### 📊 Github Statistics
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       11304      |
+|    🏆 Contributions (Total)   |       11306      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **1311**     |
+| **🏆 Contributions in 2023:** |     **1313**     |
 |  **📝 Total lines of code:**  | **9.65 million** |
 |     **📦 Github Storage:**    |   **636.3 MB**   |
 |  **📚 Public Repositories:**  |      **27**      |
@@ -87,16 +87,16 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 ```text
 🌞 Morning   462 commits   [███████░░░░░░░░░░░░░░░░░░]   31.05%
-🌆 Daytime   481 commits   [████████░░░░░░░░░░░░░░░░░]   32.33%
-🌃 Evening   527 commits   [████████░░░░░░░░░░░░░░░░░]   35.42%
+🌆 Daytime   480 commits   [████████░░░░░░░░░░░░░░░░░]   32.26%
+🌃 Evening   528 commits   [████████░░░░░░░░░░░░░░░░░]   35.48%
 🌙 Night     18 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.21%
 ```
 
 #### 📅 I'm most productive on Tuesday
 
 ```text
-Monday      78 commits    [█░░░░░░░░░░░░░░░░░░░░░░░░]   5.24%
-Tuesday     292 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.62%
+Monday      79 commits    [█░░░░░░░░░░░░░░░░░░░░░░░░]   5.31%
+Tuesday     291 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.56%
 Wednesday   229 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.39%
 Thursday    291 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.56%
 Friday      180 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.10%
@@ -119,14 +119,14 @@ Other        [0h 16m]           [░░░░░░░░░░░░░░░�
 Linux        [25 hrs 54 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Sun Feb 19 2023 19:36:44 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Sun Feb 19 2023 19:51:37 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[02/19 12:49]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [shikijs/shiki](https://github.com/shikijs/shiki)<br>`[02/19 11:08]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [validatorjs/validator.js](https://github.com/validatorjs/validator.js)<br>`[02/19 09:29]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[02/18 20:38]` <a href="https://github.com/igorkowalczyk" title="✅"><img alt="✅" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/pr-open.png" align="top" height="18"></a> Opened PR [`#323`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/323 'Rebuild to app dir') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[02/18 20:37]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[02/18 20:37]` <a href="https://github.com/igorkowalczyk" title="📂"><img alt="📂" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/create-branch.png" align="top" height="18"></a> Created branch [`next-13`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/tree/next-13) in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[02/18 18:25]` <a href="https://github.com/igorkowalczyk" title="✅"><img alt="✅" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/pr-open.png" align="top" height="18"></a> Opened PR [`#6303`](https://github.com/withastro/astro/pull/6303 'Bump undici to 5.20.0 (Fix ReDoS)') in [withastro/astro](https://github.com/withastro/astro)<br>`[02/18 18:17]` <a href="https://github.com/igorkowalczyk" title="📂"><img alt="📂" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/create-branch.png" align="top" height="18"></a> Created branch [`update-undici`](https://github.com/IgorKowalczyk/astro/tree/update-undici) in [IgorKowalczyk/astro](https://github.com/IgorKowalczyk/astro)<br>`[02/18 18:17]` <a href="https://github.com/igorkowalczyk" title="🍴"><img alt="🍴" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/fork.png" align="top" height="18"></a> Forked [withastro/astro](https://github.com/withastro/astro) to [IgorKowalczyk/astro](https://github.com/IgorKowalczyk/astro)<br>`[02/18 17:52]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [nodejs/undici](https://github.com/nodejs/undici)
+`[02/19 19:46]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[02/19 19:38]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br>`[02/19 19:38]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/esbuild-0.x` from [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br>`[02/19 19:38]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#48`](https://github.com/IgorKowalczyk/is-browser/pull/48 'Update dependency esbuild to v0.17.9') in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br>`[02/19 19:38]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#48`](https://github.com/IgorKowalczyk/is-browser/pull/48 'Update dependency esbuild to v0.17.9') in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br>`[02/19 12:49]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [shikijs/shiki](https://github.com/shikijs/shiki)<br>`[02/19 11:08]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [validatorjs/validator.js](https://github.com/validatorjs/validator.js)<br>`[02/19 09:29]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[02/18 20:38]` <a href="https://github.com/igorkowalczyk" title="✅"><img alt="✅" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/pr-open.png" align="top" height="18"></a> Opened PR [`#323`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/323 'Rebuild to app dir') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[02/18 20:37]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)
 <!--END_SECTION:activity-->
 
 ---
