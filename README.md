@@ -68,14 +68,14 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Mon Feb 20 2023 17:51:47 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Mon Feb 20 2023 18:20:50 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
    
 ### 📊 Github Statistics
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       11310      |
+|    🏆 Contributions (Total)   |       11312      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **1317**     |
+| **🏆 Contributions in 2023:** |     **1319**     |
 |  **📝 Total lines of code:**  | **9.65 million** |
 |     **📦 Github Storage:**    |   **636.3 MB**   |
 |  **📚 Public Repositories:**  |      **27**      |
@@ -87,8 +87,8 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 ```text
 🌞 Morning   462 commits   [███████░░░░░░░░░░░░░░░░░░]   31.05%
-🌆 Daytime   480 commits   [████████░░░░░░░░░░░░░░░░░]   32.26%
-🌃 Evening   528 commits   [████████░░░░░░░░░░░░░░░░░]   35.48%
+🌆 Daytime   479 commits   [████████░░░░░░░░░░░░░░░░░]   32.19%
+🌃 Evening   529 commits   [████████░░░░░░░░░░░░░░░░░]   35.55%
 🌙 Night     18 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.21%
 ```
 
@@ -96,8 +96,8 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 ```text
 Monday      79 commits    [█░░░░░░░░░░░░░░░░░░░░░░░░]   5.31%
-Tuesday     291 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.56%
-Wednesday   229 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.39%
+Tuesday     292 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.62%
+Wednesday   228 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.32%
 Thursday    291 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.56%
 Friday      180 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.10%
 Saturday    196 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.17%
@@ -119,14 +119,14 @@ Other        [0h 28m]           [░░░░░░░░░░░░░░░�
 Linux        [24 hrs 57 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Mon Feb 20 2023 17:52:02 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Mon Feb 20 2023 18:20:59 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[02/19 19:52]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `3` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[02/19 19:38]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br>`[02/19 19:38]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/esbuild-0.x` from [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br>`[02/19 19:38]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#48`](https://github.com/IgorKowalczyk/is-browser/pull/48 'Update dependency esbuild to v0.17.9') in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br>`[02/19 19:38]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#48`](https://github.com/IgorKowalczyk/is-browser/pull/48 'Update dependency esbuild to v0.17.9') in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br>`[02/19 12:49]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [shikijs/shiki](https://github.com/shikijs/shiki)<br>`[02/19 11:08]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [validatorjs/validator.js](https://github.com/validatorjs/validator.js)<br>`[02/19 09:29]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[02/18 20:38]` <a href="https://github.com/igorkowalczyk" title="✅"><img alt="✅" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/pr-open.png" align="top" height="18"></a> Opened PR [`#323`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/323 'Rebuild to app dir') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[02/18 20:37]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)
+`[02/20 18:06]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[02/20 18:06]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/typescript-eslint-mon...` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[02/20 18:06]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#77`](https://github.com/IgorKowalczyk/github-views/pull/77 'Update typescript-eslint monorepo to v5.53.0') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[02/20 18:05]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#77`](https://github.com/IgorKowalczyk/github-views/pull/77 'Update typescript-eslint monorepo to v5.53.0') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[02/19 19:52]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `3` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[02/19 19:38]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br>`[02/19 19:38]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/esbuild-0.x` from [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br>`[02/19 19:38]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#48`](https://github.com/IgorKowalczyk/is-browser/pull/48 'Update dependency esbuild to v0.17.9') in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br>`[02/19 19:38]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#48`](https://github.com/IgorKowalczyk/is-browser/pull/48 'Update dependency esbuild to v0.17.9') in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br>`[02/19 12:49]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [shikijs/shiki](https://github.com/shikijs/shiki)
 <!--END_SECTION:activity-->
 
 ---
