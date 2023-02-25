@@ -68,7 +68,7 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sat Feb 25 2023 18:40:00 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sat Feb 25 2023 18:51:36 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
    
 ### 📊 Github Statistics
@@ -86,22 +86,22 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   469 commits   [███████░░░░░░░░░░░░░░░░░░]   31.46%
-🌆 Daytime   477 commits   [███████░░░░░░░░░░░░░░░░░░]   31.99%
-🌃 Evening   526 commits   [████████░░░░░░░░░░░░░░░░░]   35.28%
+🌞 Morning   469 commits   [███████░░░░░░░░░░░░░░░░░░]   31.43%
+🌆 Daytime   477 commits   [███████░░░░░░░░░░░░░░░░░░]   31.97%
+🌃 Evening   527 commits   [████████░░░░░░░░░░░░░░░░░]   35.32%
 🌙 Night     19 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.27%
 ```
 
 #### 📅 I'm most productive on Thursday
 
 ```text
-Monday      79 commits    [█░░░░░░░░░░░░░░░░░░░░░░░░]   5.30%
-Tuesday     288 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.32%
-Wednesday   230 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.43%
-Thursday    291 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.52%
-Friday      181 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.14%
-Saturday    199 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.35%
-Sunday      223 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.96%
+Monday      79 commits    [█░░░░░░░░░░░░░░░░░░░░░░░░]   5.29%
+Tuesday     288 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.30%
+Wednesday   230 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.42%
+Thursday    291 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.50%
+Friday      181 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.13%
+Saturday    199 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.34%
+Sunday      224 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.01%
 ```
 
 #### 📊 Weekly work stats (last 7 days)
@@ -119,14 +119,14 @@ Other        [0h 48m]           [░░░░░░░░░░░░░░░�
 Linux        [60 hrs 26 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Sat Feb 25 2023 18:40:16 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Sat Feb 25 2023 18:51:43 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[02/25 14:31]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#2737`](https://github.com/withastro/docs/pull/2737 'i18n(pl): Polish translation of the `/install/manual.mdx` page') in [withastro/docs](https://github.com/withastro/docs)<br>`[02/25 14:26]` <a href="https://github.com/igorkowalczyk" title="✅"><img alt="✅" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/pr-open.png" align="top" height="18"></a> Opened PR [`#2737`](https://github.com/withastro/docs/pull/2737 'i18n(pl): Polish translation of the `/install/manual.mdx` page') in [withastro/docs](https://github.com/withastro/docs)<br>`[02/25 14:26]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `103` commits in [IgorKowalczyk/docs](https://github.com/IgorKowalczyk/docs)<br>`[02/25 13:47]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [cli/cli](https://github.com/cli/cli)<br>`[02/25 13:26]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `29` commits in [IgorKowalczyk/astro](https://github.com/IgorKowalczyk/astro)<br>`[02/25 13:09]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[02/24 21:14]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/nextjs-monorepo` from [squarestack/invite](https://github.com/squarestack/invite)<br>`[02/24 21:14]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [squarestack/invite](https://github.com/squarestack/invite)<br>`[02/24 21:14]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#74`](https://github.com/squarestack/invite/pull/74 'Update nextjs monorepo to v13.2.1') in [squarestack/invite](https://github.com/squarestack/invite)<br>`[02/24 21:13]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)
+`[02/25 18:46]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/docs](https://github.com/IgorKowalczyk/docs)<br>`[02/25 14:31]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#2737`](https://github.com/withastro/docs/pull/2737 'i18n(pl): Polish translation of the `/install/manual.mdx` page') in [withastro/docs](https://github.com/withastro/docs)<br>`[02/25 14:26]` <a href="https://github.com/igorkowalczyk" title="✅"><img alt="✅" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/pr-open.png" align="top" height="18"></a> Opened PR [`#2737`](https://github.com/withastro/docs/pull/2737 'i18n(pl): Polish translation of the `/install/manual.mdx` page') in [withastro/docs](https://github.com/withastro/docs)<br>`[02/25 14:26]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `103` commits in [IgorKowalczyk/docs](https://github.com/IgorKowalczyk/docs)<br>`[02/25 13:47]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [cli/cli](https://github.com/cli/cli)<br>`[02/25 13:26]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `29` commits in [IgorKowalczyk/astro](https://github.com/IgorKowalczyk/astro)<br>`[02/25 13:09]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[02/24 21:14]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/nextjs-monorepo` from [squarestack/invite](https://github.com/squarestack/invite)<br>`[02/24 21:14]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [squarestack/invite](https://github.com/squarestack/invite)<br>`[02/24 21:14]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#74`](https://github.com/squarestack/invite/pull/74 'Update nextjs monorepo to v13.2.1') in [squarestack/invite](https://github.com/squarestack/invite)
 <!--END_SECTION:activity-->
 
 ---
