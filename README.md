@@ -68,7 +68,7 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sat Feb 25 2023 13:36:22 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sat Feb 25 2023 13:51:31 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
    
 ### 📊 Github Statistics
@@ -77,8 +77,8 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 | :---------------------------: | :--------------: |
 | **🏆 Contributions in 2023:** |     **1356**     |
 |  **📝 Total lines of code:**  | **9.65 million** |
-|     **📦 Github Storage:**    |   **635.9 MB**   |
-|  **📚 Public Repositories:**  |      **27**      |
+|     **📦 Github Storage:**    |   **488.9 MB**   |
+|  **📚 Public Repositories:**  |      **26**      |
 |  **🔑 Private Repositories:** |       **1**      |
 
 <details><summary>✨ Show more stats</summary>
@@ -86,22 +86,22 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   469 commits   [███████░░░░░░░░░░░░░░░░░░]   31.50%
-🌆 Daytime   475 commits   [███████░░░░░░░░░░░░░░░░░░]   31.90%
-🌃 Evening   526 commits   [████████░░░░░░░░░░░░░░░░░]   35.33%
+🌞 Morning   469 commits   [███████░░░░░░░░░░░░░░░░░░]   31.48%
+🌆 Daytime   476 commits   [███████░░░░░░░░░░░░░░░░░░]   31.95%
+🌃 Evening   526 commits   [████████░░░░░░░░░░░░░░░░░]   35.30%
 🌙 Night     19 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.28%
 ```
 
 #### 📅 I'm most productive on Thursday
 
 ```text
-Monday      79 commits    [█░░░░░░░░░░░░░░░░░░░░░░░░]   5.31%
-Tuesday     288 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.34%
-Wednesday   230 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.45%
-Thursday    291 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.54%
-Friday      180 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.09%
+Monday      79 commits    [█░░░░░░░░░░░░░░░░░░░░░░░░]   5.30%
+Tuesday     288 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.33%
+Wednesday   230 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.44%
+Thursday    291 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.53%
+Friday      181 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.15%
 Saturday    199 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.36%
-Sunday      222 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.91%
+Sunday      222 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.90%
 ```
 
 #### 📊 Weekly work stats (last 7 days)
@@ -119,14 +119,14 @@ Other        [0h 48m]           [░░░░░░░░░░░░░░░�
 Linux        [60 hrs 26 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Sat Feb 25 2023 13:36:28 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Sat Feb 25 2023 13:51:37 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[02/25 13:26]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `29` commits in [IgorKowalczyk/astro](https://github.com/IgorKowalczyk/astro)<br>`[02/25 13:09]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[02/24 21:14]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/nextjs-monorepo` from [squarestack/invite](https://github.com/squarestack/invite)<br>`[02/24 21:14]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [squarestack/invite](https://github.com/squarestack/invite)<br>`[02/24 21:14]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#74`](https://github.com/squarestack/invite/pull/74 'Update nextjs monorepo to v13.2.1') in [squarestack/invite](https://github.com/squarestack/invite)<br>`[02/24 21:13]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[02/24 21:10]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[02/24 21:10]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/headlessui-react-1.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[02/24 21:10]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#287`](https://github.com/IgorKowalczyk/majo.exe/pull/287 'Update dependency @headlessui/react to v1.7.12') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[02/24 21:08]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#287`](https://github.com/IgorKowalczyk/majo.exe/pull/287 'Update dependency @headlessui/react to v1.7.12') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
+`[02/25 13:48]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `102` commits in [IgorKowalczyk/docs](https://github.com/IgorKowalczyk/docs)<br>`[02/25 13:47]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [cli/cli](https://github.com/cli/cli)<br>`[02/25 13:26]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `29` commits in [IgorKowalczyk/astro](https://github.com/IgorKowalczyk/astro)<br>`[02/25 13:09]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[02/24 21:14]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/nextjs-monorepo` from [squarestack/invite](https://github.com/squarestack/invite)<br>`[02/24 21:14]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [squarestack/invite](https://github.com/squarestack/invite)<br>`[02/24 21:14]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#74`](https://github.com/squarestack/invite/pull/74 'Update nextjs monorepo to v13.2.1') in [squarestack/invite](https://github.com/squarestack/invite)<br>`[02/24 21:13]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[02/24 21:10]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[02/24 21:10]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/headlessui-react-1.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
 <!--END_SECTION:activity-->
 
 ---
