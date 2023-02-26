@@ -4,11 +4,11 @@ specifiers:
   actions-toolkit: 6.0.1
   date-fns: 2.29.3
   dotenv: 16.0.3
-  eslint: ^8.32.0
-  eslint-config-prettier: ^8.6.0
-  graphql: ^16.6.0
-  graphql-request: ^5.1.0
-  markdown-table: ^3.0.3
+  eslint: 8.32.0
+  eslint-config-prettier: 8.6.0
+  graphql: 16.6.0
+  graphql-request: 5.1.0
+  markdown-table: 3.0.3
   node-fetch: 3.3.0
   prettier: 2.8.4
   xml2js: 0.4.23
