@@ -68,7 +68,7 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sun Feb 26 2023 15:16:05 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sun Feb 26 2023 15:36:44 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
    
 ### 📊 Github Statistics
@@ -86,22 +86,22 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   472 commits   [███████░░░░░░░░░░░░░░░░░░]   31.22%
-🌆 Daytime   492 commits   [████████░░░░░░░░░░░░░░░░░]   32.54%
-🌃 Evening   517 commits   [████████░░░░░░░░░░░░░░░░░]   34.19%
+🌞 Morning   472 commits   [███████░░░░░░░░░░░░░░░░░░]   31.18%
+🌆 Daytime   494 commits   [████████░░░░░░░░░░░░░░░░░]   32.63%
+🌃 Evening   517 commits   [████████░░░░░░░░░░░░░░░░░]   34.15%
 🌙 Night     31 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.05%
 ```
 
 #### 📅 I'm most productive on Thursday
 
 ```text
-Monday      104 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.88%
-Tuesday     282 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.65%
-Wednesday   228 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.08%
-Thursday    287 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.98%
-Friday      178 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.77%
-Saturday    197 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.03%
-Sunday      236 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.61%
+Monday      106 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   7.00%
+Tuesday     282 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.63%
+Wednesday   228 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.06%
+Thursday    287 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.96%
+Friday      178 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.76%
+Saturday    197 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.01%
+Sunday      236 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.59%
 ```
 
 #### 📊 Weekly work stats (last 7 days)
@@ -119,14 +119,14 @@ Other        [1h 17m]           [░░░░░░░░░░░░░░░�
 Linux        [64 hrs 39 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Sun Feb 26 2023 15:16:15 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Sun Feb 26 2023 15:36:51 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[02/26 15:03]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#2737`](https://github.com/withastro/docs/pull/2737 'i18n(pl): Polish translation of the `/install/manual.mdx` page') in [withastro/docs](https://github.com/withastro/docs)<br>`[02/26 15:01]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#2737`](https://github.com/withastro/docs/pull/2737 'i18n(pl): Polish translation of the `/install/manual.mdx` page') in [withastro/docs](https://github.com/withastro/docs)<br>`[02/26 14:56]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#2737`](https://github.com/withastro/docs/pull/2737 'i18n(pl): Polish translation of the `/install/manual.mdx` page') in [withastro/docs](https://github.com/withastro/docs)<br>`[02/26 14:54]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#2737`](https://github.com/withastro/docs/pull/2737 'i18n(pl): Polish translation of the `/install/manual.mdx` page') in [withastro/docs](https://github.com/withastro/docs)<br>`[02/26 14:49]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/vercel-og-0.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[02/26 14:49]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[02/26 14:49]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#290`](https://github.com/IgorKowalczyk/majo.exe/pull/290 'Update dependency @vercel/og to v0.2.0') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[02/26 14:49]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#290`](https://github.com/IgorKowalczyk/majo.exe/pull/290 'Update dependency @vercel/og to v0.2.0') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[02/26 14:48]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#2737`](https://github.com/withastro/docs/pull/2737 'i18n(pl): Polish translation of the `/install/manual.mdx` page') in [withastro/docs](https://github.com/withastro/docs)<br>`[02/26 14:45]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/docs](https://github.com/IgorKowalczyk/docs)
+`[02/26 15:23]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#2737`](https://github.com/withastro/docs/pull/2737 'i18n(pl): Polish translation of the `/install/manual.mdx` page') in [withastro/docs](https://github.com/withastro/docs)<br>`[02/26 15:22]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/docs](https://github.com/IgorKowalczyk/docs)<br>`[02/26 15:17]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#2737`](https://github.com/withastro/docs/pull/2737 'i18n(pl): Polish translation of the `/install/manual.mdx` page') in [withastro/docs](https://github.com/withastro/docs)<br>`[02/26 15:03]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#2737`](https://github.com/withastro/docs/pull/2737 'i18n(pl): Polish translation of the `/install/manual.mdx` page') in [withastro/docs](https://github.com/withastro/docs)<br>`[02/26 15:01]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#2737`](https://github.com/withastro/docs/pull/2737 'i18n(pl): Polish translation of the `/install/manual.mdx` page') in [withastro/docs](https://github.com/withastro/docs)<br>`[02/26 14:56]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#2737`](https://github.com/withastro/docs/pull/2737 'i18n(pl): Polish translation of the `/install/manual.mdx` page') in [withastro/docs](https://github.com/withastro/docs)<br>`[02/26 14:54]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#2737`](https://github.com/withastro/docs/pull/2737 'i18n(pl): Polish translation of the `/install/manual.mdx` page') in [withastro/docs](https://github.com/withastro/docs)<br>`[02/26 14:49]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/vercel-og-0.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[02/26 14:49]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[02/26 14:49]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#290`](https://github.com/IgorKowalczyk/majo.exe/pull/290 'Update dependency @vercel/og to v0.2.0') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
 <!--END_SECTION:activity-->
 
 ---
