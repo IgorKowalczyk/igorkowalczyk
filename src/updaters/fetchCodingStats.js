@@ -26,13 +26,15 @@ export async function fetchCodingStats(apiToken, username) {
   .then((res) => res.json())
   .then((data) => {
    console.log(`::debug:: [Wakatime] Done fetching Wakatime data!`);
-   const { languages, operating_systems: operatingSystems, status, best_day: bestDay } = data.data;
+   const { languages, operating_systems: operatingSystems, status } = data.data;
    if (status !== "ok") throw new Error("Wakatime API returned an error");
    let other = 0;
    const maxNameLength = Math.max(...languages.map(({ name }) => name.length), ...operatingSystems.map(({ name }) => name.length));
    const maxTimeLength = Math.max(...languages.map(({ text }) => text.length), ...operatingSystems.map(({ text }) => text.length));
    const otherLanguages = languages.slice(5).reduce((acc, { percent }) => acc + percent, 0);
+   /* eslint-disable camelcase */
    const otherLanguagesTime = otherLanguages ? languages.slice(5).reduce((acc, { total_seconds }) => acc + total_seconds, 0) : 0;
+   /* eslint-enable camelcase */
    const otherLanguagesText = otherLanguages ? `${Math.floor(otherLanguagesTime / 3600)}h ${Math.floor((otherLanguagesTime % 3600) / 60)}m` : "";
 
    // prettier-ignore
