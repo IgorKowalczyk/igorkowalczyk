@@ -24,7 +24,7 @@
   "date-fns": "2.29.3",
   "dotenv": "16.0.3",
   "graphql": "16.6.0",
-  "graphql-request": "5.1.0",
+  "graphql-request": "5.2.0",
   "markdown-table": "3.0.3",
   "node-fetch": "3.3.0",
   "xml2js": "0.4.23"
