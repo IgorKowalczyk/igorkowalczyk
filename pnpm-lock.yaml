@@ -7,7 +7,7 @@ specifiers:
   eslint: 8.35.0
   eslint-config-prettier: 8.6.0
   graphql: 16.6.0
-  graphql-request: 5.1.0
+  graphql-request: 5.2.0
   markdown-table: 3.0.3
   node-fetch: 3.3.0
   prettier: 2.8.4
@@ -18,7 +18,7 @@ dependencies:
   date-fns: 2.29.3
   dotenv: 16.0.3
   graphql: 16.6.0
-  graphql-request: 5.1.0_graphql@16.6.0
+  graphql-request: 5.2.0_graphql@16.6.0
   markdown-table: 3.0.3
   node-fetch: 3.3.0
   xml2js: 0.4.23
@@ -766,8 +766,8 @@ packages:
     resolution: {integrity: sha512-bzh50DW9kTPM00T8y4o8vQg89Di9oLJVLW/KaOGIXJWP/iqCN6WKYkbNOF04vFLJhwcpYUh9ydh/+5vpOqV4YQ==}
     dev: true
 
-  /graphql-request/5.1.0_graphql@16.6.0:
-    resolution: {integrity: sha512-0OeRVYigVwIiXhNmqnPDt+JhMzsjinxHE7TVy3Lm6jUzav0guVcL0lfSbi6jVTRAxcbwgyr6yrZioSHxf9gHzw==}
+  /graphql-request/5.2.0_graphql@16.6.0:
+    resolution: {integrity: sha512-pLhKIvnMyBERL0dtFI3medKqWOz/RhHdcgbZ+hMMIb32mEPa5MJSzS4AuXxfI4sRAu6JVVk5tvXuGfCWl9JYWQ==}
     peerDependencies:
       graphql: 14 - 16
     dependencies:
