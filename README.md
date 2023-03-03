@@ -68,7 +68,7 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Fri Mar 03 2023 20:37:22 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Fri Mar 03 2023 20:51:34 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
    
 ### 📊 Github Statistics
@@ -86,22 +86,22 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   467 commits   [███████░░░░░░░░░░░░░░░░░░]   30.76%
-🌆 Daytime   496 commits   [████████░░░░░░░░░░░░░░░░░]   32.67%
-🌃 Evening   524 commits   [████████░░░░░░░░░░░░░░░░░]   34.52%
+🌞 Morning   467 commits   [███████░░░░░░░░░░░░░░░░░░]   30.74%
+🌆 Daytime   496 commits   [████████░░░░░░░░░░░░░░░░░]   32.65%
+🌃 Evening   525 commits   [████████░░░░░░░░░░░░░░░░░]   34.56%
 🌙 Night     31 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.04%
 ```
 
 #### 📅 I'm most productive on Thursday
 
 ```text
-Monday      105 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.92%
-Tuesday     283 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.64%
-Wednesday   226 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.89%
-Thursday    288 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.97%
-Friday      187 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.32%
-Saturday    196 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.91%
-Sunday      233 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.35%
+Monday      105 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.91%
+Tuesday     283 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.63%
+Wednesday   226 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.88%
+Thursday    288 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.96%
+Friday      187 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.31%
+Saturday    197 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.97%
+Sunday      233 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.34%
 ```
 
 #### 📊 Weekly work stats (last 7 days)
@@ -119,14 +119,14 @@ Other        [1h 44m]           [█░░░░░░░░░░░░░░�
 Linux        [37 hrs 50 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Fri Mar 03 2023 20:37:28 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Fri Mar 03 2023 20:51:40 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[03/03 17:58]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[03/03 11:51]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [squarestack/invite](https://github.com/squarestack/invite)<br>`[03/03 11:51]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/prettier-plugin-tailw...` from [squarestack/invite](https://github.com/squarestack/invite)<br>`[03/03 11:51]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#80`](https://github.com/squarestack/invite/pull/80 'Update dependency prettier-plugin-tailwindcss to v0.2.4') in [squarestack/invite](https://github.com/squarestack/invite)<br>`[03/03 11:51]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#80`](https://github.com/squarestack/invite/pull/80 'Update dependency prettier-plugin-tailwindcss to v0.2.4') in [squarestack/invite](https://github.com/squarestack/invite)<br>`[03/02 22:49]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/next-auth-4.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[03/02 22:49]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[03/02 22:49]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#295`](https://github.com/IgorKowalczyk/majo.exe/pull/295 'Update dependency next-auth to v4.20.1') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[03/02 22:49]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#295`](https://github.com/IgorKowalczyk/majo.exe/pull/295 'Update dependency next-auth to v4.20.1') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[03/02 22:48]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [squarestack/invite](https://github.com/squarestack/invite)
+`[03/03 20:47]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/docs](https://github.com/IgorKowalczyk/docs)<br>`[03/03 17:58]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[03/03 11:51]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [squarestack/invite](https://github.com/squarestack/invite)<br>`[03/03 11:51]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/prettier-plugin-tailw...` from [squarestack/invite](https://github.com/squarestack/invite)<br>`[03/03 11:51]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#80`](https://github.com/squarestack/invite/pull/80 'Update dependency prettier-plugin-tailwindcss to v0.2.4') in [squarestack/invite](https://github.com/squarestack/invite)<br>`[03/03 11:51]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#80`](https://github.com/squarestack/invite/pull/80 'Update dependency prettier-plugin-tailwindcss to v0.2.4') in [squarestack/invite](https://github.com/squarestack/invite)<br>`[03/02 22:49]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/next-auth-4.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[03/02 22:49]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[03/02 22:49]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#295`](https://github.com/IgorKowalczyk/majo.exe/pull/295 'Update dependency next-auth to v4.20.1') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[03/02 22:49]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#295`](https://github.com/IgorKowalczyk/majo.exe/pull/295 'Update dependency next-auth to v4.20.1') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
 <!--END_SECTION:activity-->
 
 ---
