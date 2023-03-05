@@ -68,15 +68,15 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sun Mar 05 2023 20:37:01 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sun Mar 05 2023 20:51:32 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
    
 ### 📊 Github Statistics
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       11507      |
+|    🏆 Contributions (Total)   |       11536      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **1514**     |
-|  **📝 Total lines of code:**  | **9.64 million** |
+| **🏆 Contributions in 2023:** |     **1543**     |
+|  **📝 Total lines of code:**  | **9.65 million** |
 |     **📦 Github Storage:**    |   **490.2 MB**   |
 |  **📚 Public Repositories:**  |      **26**      |
 |  **🔑 Private Repositories:** |       **1**      |
@@ -86,22 +86,22 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   469 commits   [███████░░░░░░░░░░░░░░░░░░]   30.73%
-🌆 Daytime   492 commits   [████████░░░░░░░░░░░░░░░░░]   32.24%
-🌃 Evening   534 commits   [████████░░░░░░░░░░░░░░░░░]   34.99%
-🌙 Night     31 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.03%
+🌞 Morning   466 commits   [███████░░░░░░░░░░░░░░░░░░]   30.54%
+🌆 Daytime   481 commits   [███████░░░░░░░░░░░░░░░░░░]   31.52%
+🌃 Evening   549 commits   [████████░░░░░░░░░░░░░░░░░]   35.98%
+🌙 Night     30 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.97%
 ```
 
 #### 📅 I'm most productive on Thursday
 
 ```text
-Monday      105 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.88%
+Monday      121 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   7.93%
 Tuesday     281 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.41%
 Wednesday   226 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.81%
-Thursday    285 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.68%
-Friday      185 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.12%
-Saturday    208 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.63%
-Sunday      236 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.47%
+Thursday    282 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.48%
+Friday      183 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.99%
+Saturday    194 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.71%
+Sunday      239 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.66%
 ```
 
 #### 📊 Weekly work stats (last 7 days)
@@ -119,14 +119,14 @@ Other        [1h 39m]           [█░░░░░░░░░░░░░░�
 Linux        [40 hrs 44 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Sun Mar 05 2023 20:37:11 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Sun Mar 05 2023 20:51:44 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[03/05 20:35]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `8` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[03/04 19:41]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `7` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[03/04 12:00]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[03/04 12:00]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/headlessui-react-1.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[03/04 12:00]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#297`](https://github.com/IgorKowalczyk/majo.exe/pull/297 'Update dependency @headlessui/react to v1.7.13') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[03/04 11:43]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#297`](https://github.com/IgorKowalczyk/majo.exe/pull/297 'Update dependency @headlessui/react to v1.7.13') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[03/04 11:43]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[03/04 11:43]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/vercel-og-0.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[03/04 11:43]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#298`](https://github.com/IgorKowalczyk/majo.exe/pull/298 'Update dependency @vercel/og to v0.3.0') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[03/04 11:41]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)
+`[03/05 20:42]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `29` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[03/05 20:42]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `next-13` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[03/05 20:42]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#323`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/323 'Rebuild to app dir') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[03/05 20:35]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `8` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[03/04 19:41]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `7` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[03/04 12:00]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[03/04 12:00]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/headlessui-react-1.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[03/04 12:00]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#297`](https://github.com/IgorKowalczyk/majo.exe/pull/297 'Update dependency @headlessui/react to v1.7.13') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[03/04 11:43]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#297`](https://github.com/IgorKowalczyk/majo.exe/pull/297 'Update dependency @headlessui/react to v1.7.13') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[03/04 11:43]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
 <!--END_SECTION:activity-->
 
 ---
