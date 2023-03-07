@@ -68,7 +68,7 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Tue Mar 07 2023 22:51:36 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Tue Mar 07 2023 23:37:14 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
    
 ### 📊 Github Statistics
@@ -77,7 +77,7 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 | :---------------------------: | :--------------: |
 | **🏆 Contributions in 2023:** |     **1639**     |
 |  **📝 Total lines of code:**  | **9.65 million** |
-|     **📦 Github Storage:**    |   **490.6 MB**   |
+|     **📦 Github Storage:**    |   **490.7 MB**   |
 |  **📚 Public Repositories:**  |      **26**      |
 |  **🔑 Private Repositories:** |       **1**      |
 
@@ -108,25 +108,25 @@ Sunday      236 commits   [███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages:
-JavaScript   [31 hrs 39 mins]   [███████████████████░░░░░░]   77.97%
-JSON         [5 hrs 51 mins]    [███░░░░░░░░░░░░░░░░░░░░░░]   14.44%
-TSConfig     [1 hr 15 mins]     [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.10%
-TypeScript   [49 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.02%
-Bash         [26 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.09%
-Other        [0h 33m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.37%
+JavaScript   [34 hrs 58 mins]   [███████████████████░░░░░░]   76.44%
+JSON         [7 hrs 29 mins]    [████░░░░░░░░░░░░░░░░░░░░░]   16.39%
+TSConfig     [1 hr 15 mins]     [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.75%
+TypeScript   [49 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.82%
+Bash         [30 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.12%
+Other        [0h 41m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.50%
 
 💻 Operating Systems:
-Linux        [40 hrs 36 mins]  [█████████████████████████]   100.00%
+Linux        [45 hrs 45 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Tue Mar 07 2023 22:51:43 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Tue Mar 07 2023 23:37:23 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[03/07 19:21]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [moment/luxon](https://github.com/moment/luxon)<br>`[03/07 19:04]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/vercel-og-0.x` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[03/07 19:04]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[03/07 19:04]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#331`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/331 'Update dependency @vercel/og to v0.4.0') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[03/07 18:59]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#331`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/331 'Update dependency @vercel/og to v0.3.0') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[03/07 18:55]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [snyk/cli](https://github.com/snyk/cli)<br>`[03/07 17:35]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[03/07 15:17]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/vercel-og-0.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[03/07 15:17]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[03/07 15:17]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#301`](https://github.com/IgorKowalczyk/majo.exe/pull/301 'Update dependency @vercel/og to v0.4.0') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
+`[03/07 22:03]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[03/07 19:21]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [moment/luxon](https://github.com/moment/luxon)<br>`[03/07 19:04]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/vercel-og-0.x` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[03/07 19:04]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[03/07 19:04]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#331`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/331 'Update dependency @vercel/og to v0.4.0') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[03/07 18:59]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#331`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/331 'Update dependency @vercel/og to v0.3.0') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[03/07 18:55]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [snyk/cli](https://github.com/snyk/cli)<br>`[03/07 17:35]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[03/07 15:17]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/vercel-og-0.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[03/07 15:17]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
 <!--END_SECTION:activity-->
 
 ---
