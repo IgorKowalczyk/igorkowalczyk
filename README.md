@@ -68,16 +68,16 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Wed Mar 08 2023 22:51:23 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Wed Mar 08 2023 23:37:21 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
    
 ### 📊 Github Statistics
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       11662      |
+|    🏆 Contributions (Total)   |       11664      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **1669**     |
+| **🏆 Contributions in 2023:** |     **1671**     |
 |  **📝 Total lines of code:**  | **9.65 million** |
-|     **📦 Github Storage:**    |   **490.8 MB**   |
+|     **📦 Github Storage:**    |   **490.5 MB**   |
 |  **📚 Public Repositories:**  |      **26**      |
 |  **🔑 Private Repositories:** |       **1**      |
 
@@ -87,9 +87,9 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 ```text
 🌞 Morning   473 commits   [███████░░░░░░░░░░░░░░░░░░]   30.77%
-🌆 Daytime   463 commits   [███████░░░░░░░░░░░░░░░░░░]   30.12%
+🌆 Daytime   462 commits   [███████░░░░░░░░░░░░░░░░░░]   30.06%
 🌃 Evening   567 commits   [█████████░░░░░░░░░░░░░░░░]   36.89%
-🌙 Night     34 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.21%
+🌙 Night     35 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.28%
 ```
 
 #### 📅 I'm most productive on Tuesday
@@ -97,8 +97,8 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ```text
 Monday      114 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   7.42%
 Tuesday     311 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.23%
-Wednesday   230 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.96%
-Thursday    290 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.87%
+Wednesday   229 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.90%
+Thursday    291 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.93%
 Friday      171 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.13%
 Saturday    185 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.04%
 Sunday      236 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.35%
@@ -108,25 +108,25 @@ Sunday      236 commits   [███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages:
-JavaScript   [34 hrs 58 mins]   [███████████████████░░░░░░]   76.44%
-JSON         [7 hrs 29 mins]    [████░░░░░░░░░░░░░░░░░░░░░]   16.39%
-TSConfig     [1 hr 15 mins]     [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.75%
-TypeScript   [49 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.82%
-Bash         [30 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.12%
-Other        [0h 41m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.50%
+JavaScript   [40 hrs 10 mins]   [███████████████████░░░░░░]   78.46%
+JSON         [7 hrs 36 mins]    [███░░░░░░░░░░░░░░░░░░░░░░]   14.85%
+TSConfig     [1 hr 15 mins]     [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.45%
+TypeScript   [50 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.65%
+Bash         [30 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.00%
+Other        [0h 48m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.58%
 
 💻 Operating Systems:
-Linux        [45 hrs 45 mins]  [█████████████████████████]   100.00%
+Linux        [51 hrs 12 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Wed Mar 08 2023 22:51:39 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Wed Mar 08 2023 23:37:30 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[03/08 17:04]` <a href="https://github.com/igorkowalczyk" title="📂"><img alt="📂" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/create-branch.png" align="top" height="18"></a> Created branch [`graphql-api`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/tree/graphql-api) in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[03/08 16:37]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#2796`](https://github.com/withastro/docs/pull/2796 'i18n(pl): `concepts/why-astro` translation') in [withastro/docs](https://github.com/withastro/docs)<br>`[03/08 16:35]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#2796`](https://github.com/withastro/docs/pull/2796 'i18n(pl): `concepts/why-astro` translation') in [withastro/docs](https://github.com/withastro/docs)<br>`[03/08 16:32]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#2796`](https://github.com/withastro/docs/pull/2796 'i18n(pl): `concepts/why-astro` translation') in [withastro/docs](https://github.com/withastro/docs)<br>`[03/08 16:31]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#2796`](https://github.com/withastro/docs/pull/2796 'i18n(pl): `concepts/why-astro` translation') in [withastro/docs](https://github.com/withastro/docs)<br>`[03/08 16:28]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#2796`](https://github.com/withastro/docs/pull/2796 'i18n(pl): `concepts/why-astro` translation') in [withastro/docs](https://github.com/withastro/docs)<br>`[03/08 16:24]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#2796`](https://github.com/withastro/docs/pull/2796 'i18n(pl): `concepts/why-astro` translation') in [withastro/docs](https://github.com/withastro/docs)<br>`[03/08 16:22]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#2796`](https://github.com/withastro/docs/pull/2796 'i18n(pl): `concepts/why-astro` translation') in [withastro/docs](https://github.com/withastro/docs)<br>`[03/08 16:20]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#2796`](https://github.com/withastro/docs/pull/2796 'i18n(pl): `concepts/why-astro` translation') in [withastro/docs](https://github.com/withastro/docs)<br>`[03/08 06:02]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/pnpm-7.x` from [squarestack/invite](https://github.com/squarestack/invite)
+`[03/08 21:41]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[03/08 21:41]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/webpack-5.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[03/08 21:41]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#303`](https://github.com/IgorKowalczyk/majo.exe/pull/303 'Update dependency webpack to v5.76.0') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[03/08 21:41]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#303`](https://github.com/IgorKowalczyk/majo.exe/pull/303 'Update dependency webpack to v5.76.0') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[03/08 21:40]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/nextjs-monorepo` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[03/08 21:40]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[03/08 21:40]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#339`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/339 'Update nextjs monorepo to v13.2.4-canary.7') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[03/08 21:40]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#339`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/339 'Update nextjs monorepo to v13.2.4-canary.7') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[03/08 17:04]` <a href="https://github.com/igorkowalczyk" title="📂"><img alt="📂" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/create-branch.png" align="top" height="18"></a> Created branch [`graphql-api`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/tree/graphql-api) in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[03/08 16:37]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#2796`](https://github.com/withastro/docs/pull/2796 'i18n(pl): `concepts/why-astro` translation') in [withastro/docs](https://github.com/withastro/docs)
 <!--END_SECTION:activity-->
 
 ---
