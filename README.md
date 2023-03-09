@@ -68,16 +68,16 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Thu Mar 09 2023 17:51:40 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Thu Mar 09 2023 18:20:19 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
    
 ### 📊 Github Statistics
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       11673      |
+|    🏆 Contributions (Total)   |       11679      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **1680**     |
+| **🏆 Contributions in 2023:** |     **1686**     |
 |  **📝 Total lines of code:**  | **9.65 million** |
-|     **📦 Github Storage:**    |   **490.3 MB**   |
+|     **📦 Github Storage:**    |   **490.4 MB**   |
 |  **📚 Public Repositories:**  |      **26**      |
 |  **🔑 Private Repositories:** |       **1**      |
 
@@ -87,19 +87,19 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 ```text
 🌞 Morning   474 commits   [███████░░░░░░░░░░░░░░░░░░]   30.84%
-🌆 Daytime   461 commits   [███████░░░░░░░░░░░░░░░░░░]   29.99%
-🌃 Evening   567 commits   [█████████░░░░░░░░░░░░░░░░]   36.89%
+🌆 Daytime   459 commits   [███████░░░░░░░░░░░░░░░░░░]   29.86%
+🌃 Evening   569 commits   [█████████░░░░░░░░░░░░░░░░]   37.02%
 🌙 Night     35 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.28%
 ```
 
 #### 📅 I'm most productive on Tuesday
 
 ```text
-Monday      114 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   7.42%
-Tuesday     311 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.23%
-Wednesday   229 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.90%
-Thursday    290 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.87%
-Friday      174 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.32%
+Monday      112 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   7.29%
+Tuesday     310 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.17%
+Wednesday   226 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.70%
+Thursday    293 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.06%
+Friday      177 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.52%
 Saturday    185 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.04%
 Sunday      234 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.22%
 ```
@@ -119,14 +119,14 @@ Other        [0h 48m]           [░░░░░░░░░░░░░░░�
 Linux        [51 hrs 12 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Thu Mar 09 2023 17:51:47 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Thu Mar 09 2023 18:20:35 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[03/09 11:57]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [squarestack/invite](https://github.com/squarestack/invite)<br>`[03/09 11:57]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/webpack-5.x` from [squarestack/invite](https://github.com/squarestack/invite)<br>`[03/09 11:57]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#84`](https://github.com/squarestack/invite/pull/84 'Update dependency webpack to v5.76.0') in [squarestack/invite](https://github.com/squarestack/invite)<br>`[03/09 11:52]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[03/09 11:52]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/terser-webpack-plugin...` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[03/09 11:52]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#304`](https://github.com/IgorKowalczyk/majo.exe/pull/304 'Update dependency terser-webpack-plugin to v5.3.7') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[03/09 11:52]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#304`](https://github.com/IgorKowalczyk/majo.exe/pull/304 'Update dependency terser-webpack-plugin to v5.3.7') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[03/09 11:52]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/nextjs-monorepo` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[03/09 11:52]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[03/09 11:52]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#341`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/341 'Update nextjs monorepo to v13.2.4-canary.8') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)
+`[03/09 17:25]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-plugin-astro-0...` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[03/09 17:25]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[03/09 17:25]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#101`](https://github.com/IgorKowalczyk/github-views/pull/101 'Update dependency eslint-plugin-astro to v0.24.0') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[03/09 17:19]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#101`](https://github.com/IgorKowalczyk/github-views/pull/101 'Update dependency eslint-plugin-astro to v0.24.0') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[03/09 11:57]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [squarestack/invite](https://github.com/squarestack/invite)<br>`[03/09 11:57]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/webpack-5.x` from [squarestack/invite](https://github.com/squarestack/invite)<br>`[03/09 11:57]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#84`](https://github.com/squarestack/invite/pull/84 'Update dependency webpack to v5.76.0') in [squarestack/invite](https://github.com/squarestack/invite)<br>`[03/09 11:52]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[03/09 11:52]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/terser-webpack-plugin...` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[03/09 11:52]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#304`](https://github.com/IgorKowalczyk/majo.exe/pull/304 'Update dependency terser-webpack-plugin to v5.3.7') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
 <!--END_SECTION:activity-->
 
 ---
