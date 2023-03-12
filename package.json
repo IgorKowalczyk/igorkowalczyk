@@ -1,40 +1,40 @@
 {
- "name": "@igorkowalczyk/igorkowalczyk",
- "version": "3.1.0",
- "description": "A script to auto-update my profile readme with latest statisics",
- "main": "src/index.js",
- "author": "Igor Kowalczyk",
- "license": "MIT",
- "type": "module",
- "repository": {
-  "type": "git",
-  "url": "https://github.com/igorkowalczyk/igorkowalczyk"
- },
- "bugs": {
-  "url": "https://github.com/igorkowalczyk/igorkowalczyk/issues"
- },
- "scripts": {
-  "build": "node src/index.js",
-  "format": "prettier --write . --ignore-unknown --cache",
-  "format:check": "prettier --check . --ignore-unknown --cache",
-  "lint": "eslint . --ext .js,.ts",
-  "lint:fix": "eslint . --ext .js,.ts --fix"
- },
- "dependencies": {
-  "@igorkowalczyk/eslint-config": "1.0.0",
-  "@igorkowalczyk/prettier-config": "1.0.0",
-  "actions-toolkit": "6.0.1",
-  "date-fns": "2.29.3",
-  "dotenv": "16.0.3",
-  "graphql": "16.6.0",
-  "graphql-request": "5.2.0",
-  "markdown-table": "3.0.3",
-  "node-fetch": "3.3.1",
-  "xml2js": "0.4.23"
- },
- "devDependencies": {
-  "eslint": "8.36.0",
-  "prettier": "2.8.4"
- },
- "packageManager": "pnpm@7.29.1"
+  "name": "@igorkowalczyk/igorkowalczyk",
+  "version": "3.1.0",
+  "description": "A script to auto-update my profile readme with latest statisics",
+  "main": "src/index.js",
+  "author": "Igor Kowalczyk",
+  "license": "MIT",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/igorkowalczyk/igorkowalczyk"
+  },
+  "bugs": {
+    "url": "https://github.com/igorkowalczyk/igorkowalczyk/issues"
+  },
+  "scripts": {
+    "build": "node src/index.js",
+    "format": "prettier --write . --ignore-unknown --cache",
+    "format:check": "prettier --check . --ignore-unknown --cache",
+    "lint": "eslint . --ext .js,.ts",
+    "lint:fix": "eslint . --ext .js,.ts --fix"
+  },
+  "dependencies": {
+    "@igorkowalczyk/eslint-config": "1.0.3",
+    "@igorkowalczyk/prettier-config": "1.0.3",
+    "actions-toolkit": "6.0.1",
+    "date-fns": "2.29.3",
+    "dotenv": "16.0.3",
+    "graphql": "16.6.0",
+    "graphql-request": "5.2.0",
+    "markdown-table": "3.0.3",
+    "node-fetch": "3.3.1",
+    "xml2js": "0.4.23"
+  },
+  "devDependencies": {
+    "eslint": "8.36.0",
+    "prettier": "2.8.4"
+  },
+  "packageManager": "pnpm@7.29.1"
 }

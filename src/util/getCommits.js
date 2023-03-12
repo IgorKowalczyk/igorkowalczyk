@@ -1,6 +1,23 @@
 import { getRepositories } from "./getRepositoriesInfo.js";
 import { client } from "./graphQlClient.js";
 
+function getWeekday(number) {
+ const weekdays = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"];
+ return weekdays[number];
+}
+
+function getTimeOfDay(hour) {
+ if (hour >= 6 && hour < 12) {
+  return "🌞 Morning";
+ } else if (hour >= 12 && hour < 18) {
+  return "🌆 Daytime";
+ } else if (hour >= 18 && hour < 23) {
+  return "🌃 Evening";
+ } else {
+  return "🌙 Night";
+ }
+}
+
 async function getContributionsGraphQl(username) {
  const contributions = [];
  const repositories = await getRepositories(username);
@@ -79,21 +96,4 @@ export async function getCommits(username) {
   contributions.weekdaySums = weekdaySums;
  });
  return contributions;
-}
-
-function getWeekday(number) {
- const weekdays = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"];
- return weekdays[number];
-}
-
-function getTimeOfDay(hour) {
- if (hour >= 6 && hour < 12) {
-  return "🌞 Morning";
- } else if (hour >= 12 && hour < 18) {
-  return "🌆 Daytime";
- } else if (hour >= 18 && hour < 23) {
-  return "🌃 Evening";
- } else {
-  return "🌙 Night";
- }
 }

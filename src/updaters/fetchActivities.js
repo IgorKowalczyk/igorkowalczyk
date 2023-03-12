@@ -7,6 +7,13 @@ export async function fetchActivities(username) {
  let content;
  if (!username) throw new Error("You must provide a Github username!");
  const capitalize = (str) => str.slice(0, 1).toUpperCase() + str.slice(1);
+ const toUrlFormat = (item, branch, repoPublic) => {
+  if (typeof item === "object") {
+   return Object.hasOwnProperty.call(item.payload, "issue") ? (repoPublic ? `[\`#${item.payload.issue.number}\`](https://github.com/${item.repo.name}/issues/${item.payload.issue.number} '${item.payload.issue.title.replace(/'/g, "\\'")}')` : `\`#${item.payload.issue.number}\``) : repoPublic ? `[\`#${item.payload.pull_request.number}\`](https://github.com/${item.repo.name}/pull/${item.payload.pull_request.number} '${item.payload.pull_request.title.replace(/'/g, "\\'")}')` : `\`#${item.payload.pull_request.number}\``;
+  }
+  return `[${branch ? `\`${branch}\`` : item}](https://github.com/${item}${branch ? `/tree/${branch}` : ""})`;
+ };
+ const actionIcon = (name, alt) => `<a href="https://github.com/igorkowalczyk" title="${alt}"><img alt="${alt}" src="https://github.com/${username}/${username}/raw/master/src/images/icons/${name}.png" align="top" height="18"></a>`;
  const serializers = {
   CommitCommentEvent: (item) => {
    const hash = item.payload.comment.commit_id.slice(0, 7);
@@ -49,13 +56,6 @@ export async function fetchActivities(username) {
  };
 
  const timestamper = (item) => `\`[${item.created_at.split("T")[0].split("-").slice(1, 3).join("/")} ${item.created_at.split("T")[1].split(":").slice(0, 2).join(":")}]\``;
- const toUrlFormat = (item, branch, repoPublic) => {
-  if (typeof item === "object") {
-   return Object.hasOwnProperty.call(item.payload, "issue") ? (repoPublic ? `[\`#${item.payload.issue.number}\`](https://github.com/${item.repo.name}/issues/${item.payload.issue.number} '${item.payload.issue.title.replace(/'/g, "\\'")}')` : `\`#${item.payload.issue.number}\``) : repoPublic ? `[\`#${item.payload.pull_request.number}\`](https://github.com/${item.repo.name}/pull/${item.payload.pull_request.number} '${item.payload.pull_request.title.replace(/'/g, "\\'")}')` : `\`#${item.payload.pull_request.number}\``;
-  }
-  return `[${branch ? `\`${branch}\`` : item}](https://github.com/${item}${branch ? `/tree/${branch}` : ""})`;
- };
- const actionIcon = (name, alt) => `<a href="https://github.com/igorkowalczyk" title="${alt}"><img alt="${alt}" src="https://github.com/${username}/${username}/raw/master/src/images/icons/${name}.png" align="top" height="18"></a>`;
  await Toolkit.run(async (tools) => {
   console.info(`::debug:: [Activity] Getting activity for ${username}`);
   let eventArrs = [];
