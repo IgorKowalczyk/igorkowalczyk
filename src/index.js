@@ -1,9 +1,9 @@
 import "dotenv/config";
 import { feed, activity, wakatime } from "./config.js";
-import { fetchPosts } from "./updaters/fetchPosts.js";
 import { fetchActivities } from "./updaters/fetchActivities.js";
-import { writeFileSync, readFileSync } from "fs";
 import { fetchCodingStats } from "./updaters/fetchCodingStats.js";
+import { fetchPosts } from "./updaters/fetchPosts.js";
+import { writeFileSync, readFileSync } from "fs";
 
 const start = new Date().getTime();
 const readme = readFileSync("./README.md", "utf8");

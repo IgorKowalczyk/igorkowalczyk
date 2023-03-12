@@ -1,7 +1,7 @@
-import { feed } from "../config.js";
-import { parseString } from "xml2js";
 import { format } from "date-fns";
 import fetch from "node-fetch";
+import { parseString } from "xml2js";
+import { feed } from "../config.js";
 
 export async function fetchPosts(xml) {
  if (!xml) throw new Error("You must provide a link to get feed!");
@@ -11,7 +11,7 @@ export async function fetchPosts(xml) {
  await fetch(xml).then(async (res) => {
   if (!res.headers.get("content-type").includes("xml")) throw new Error("Link must be an xml file!");
   const xmlBody = await res.text();
-  parseString(xmlBody, function (err, result) {
+  parseString(xmlBody, (err, result) => {
    if (err) throw new Error(err);
    content =
     result.rss.channel[0].item

@@ -1,22 +1,22 @@
-import fetch from "node-fetch";
-import { percentageBar } from "../util/percentage.js";
-import { getTotalContributionsForYears } from "../util/getContributions.js";
 import { markdownTable } from "markdown-table";
-import { getRepositoriesInfo } from "../util/getRepositoriesInfo.js";
-import { getCommits } from "../util/getCommits.js";
-import { getLinesOfCode } from "../util/getLinesOfCode.js";
+import fetch from "node-fetch";
 import { ConvertBytes } from "../util/convertBytes.js";
 import { ConvertNumber } from "../util/convertNumber.js";
+import { getCommits } from "../util/getCommits.js";
+import { getTotalContributionsForYears } from "../util/getContributions.js";
+import { getLinesOfCode } from "../util/getLinesOfCode.js";
+import { getRepositoriesInfo } from "../util/getRepositoriesInfo.js";
+import { percentageBar } from "../util/percentage.js";
 
 export async function fetchCodingStats(apiToken, username) {
- console.log(`::debug:: [Github] Fetching Github data...`);
+ console.log("::debug:: [Github] Fetching Github data...");
  const [contributions, repositories, contributionsLastYear, linesOfCode] = await Promise.all([getTotalContributionsForYears(username).then((data) => data.sort()), getRepositoriesInfo(username), getCommits(username), getLinesOfCode(username)]);
- console.log(`::debug:: [Github] Done fetching Github data!`);
+ console.log("::debug:: [Github] Done fetching Github data!");
  const totalContributions = contributions.reduce((acc, { totalContributions }) => acc + totalContributions, 0);
  const contributionsInLastYear = contributions[contributions.length - 1].totalContributions;
  const lastYear = contributions[contributions.length - 1].year;
 
- console.log(`::debug:: [Wakatime] Fetching Wakatime data...`);
+ console.log("::debug:: [Wakatime] Fetching Wakatime data...");
  let content = "";
  await fetch("https://wakatime.com/api/v1/users/current/stats/last_7_days", {
   headers: {
@@ -25,7 +25,7 @@ export async function fetchCodingStats(apiToken, username) {
  })
   .then((res) => res.json())
   .then((data) => {
-   console.log(`::debug:: [Wakatime] Done fetching Wakatime data!`);
+   console.log("::debug:: [Wakatime] Done fetching Wakatime data!");
    const { languages, operating_systems: operatingSystems, status } = data.data;
    if (status !== "ok") throw new Error("Wakatime API returned an error");
    let other = 0;
@@ -39,7 +39,9 @@ export async function fetchCodingStats(apiToken, username) {
 
    // prettier-ignore
    const restLanguages = languages.slice(0, 5).map(({ name, text, percent }) => {
-      if (name === "Other") { other += percent; return }
+      if (name === "Other") {
+ other += percent; return; 
+}
       const spaces = Array(maxNameLength - name.length + 1).fill(" ").join("");
       const timeSpaces = Array(maxTimeLength - text.length + 1).fill(" ").join("");
       return `${name} ${spaces} [${text}] ${timeSpaces} ${percentageBar(100, percent)}`;
@@ -105,21 +107,23 @@ export async function fetchCodingStats(apiToken, username) {
    const mostProductiveDaysText = `#### 📅 I'm most productive on ${mostProductiveDay}\n\n\`\`\`text\n${mostProductiveDays.join("\n")}\n\`\`\``;
    const mostProductiveParts = `#### 📅 I work mostly during the ${productiveOn}\n\n\`\`\`text\n${lines.join("\n")}\n\`\`\``;
 
+   /* eslint-disable comma-dangle */
    const table = markdownTable(
     [
-     [`🏆 Contributions (Total)`, `${totalContributions}`],
+     ["🏆 Contributions (Total)", `${totalContributions}`],
      [`**🏆 Contributions in ${lastYear}:**`, `**${contributionsInLastYear}**`],
-     [`**📝 Total lines of code:**`, `**${ConvertNumber(linesOfCode)}**`],
-     [`**📦 Github Storage:**`, `**${ConvertBytes(repositories.size * 1000)}**`],
-     [`**📚 Public Repositories:**`, `**${repositories.publicRepositories}**`],
-     [`**🔑 Private Repositories:**`, `**${repositories.privateRepositories}**`],
+     ["**📝 Total lines of code:**", `**${ConvertNumber(linesOfCode)}**`],
+     ["**📦 Github Storage:**", `**${ConvertBytes(repositories.size * 1000)}**`],
+     ["**📚 Public Repositories:**", `**${repositories.publicRepositories}**`],
+     ["**🔑 Private Repositories:**", `**${repositories.privateRepositories}**`],
     ],
     {
      align: ["c", "c"],
     }
    );
+   /* eslint-enable comma-dangle */
 
-   console.log(`::debug:: [Wakatime] Saving Wakatime data!`);
+   console.log("::debug:: [Wakatime] Saving Wakatime data!");
    content = `${table}\n\n<details><summary>✨ Show more stats</summary>\n\n${mostProductiveParts}\n\n${mostProductiveDaysText}\n\n${weekly}\n\n<!-- Wakatime last updated on ${new Date().toString()} -->\n</details>
    `;
   });
