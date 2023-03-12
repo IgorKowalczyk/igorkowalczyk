@@ -68,14 +68,14 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sun Mar 12 2023 16:20:05 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sun Mar 12 2023 16:42:11 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
    
 ### 📊 Github Statistics
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       11744      |
+|    🏆 Contributions (Total)   |       11746      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **1751**     |
+| **🏆 Contributions in 2023:** |     **1753**     |
 |  **📝 Total lines of code:**  | **9.65 million** |
 |     **📦 Github Storage:**    |   **490.9 MB**   |
 |  **📚 Public Repositories:**  |      **27**      |
@@ -86,22 +86,22 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   475 commits   [███████░░░░░░░░░░░░░░░░░░]   30.66%
-🌆 Daytime   470 commits   [███████░░░░░░░░░░░░░░░░░░]   30.34%
-🌃 Evening   568 commits   [█████████░░░░░░░░░░░░░░░░]   36.67%
+🌞 Morning   475 commits   [███████░░░░░░░░░░░░░░░░░░]   30.61%
+🌆 Daytime   473 commits   [███████░░░░░░░░░░░░░░░░░░]   30.48%
+🌃 Evening   568 commits   [█████████░░░░░░░░░░░░░░░░]   36.60%
 🌙 Night     36 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.32%
 ```
 
 #### 📅 I'm most productive on Tuesday
 
 ```text
-Monday      118 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   7.62%
-Tuesday     310 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.01%
-Wednesday   222 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.33%
-Thursday    289 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.66%
-Friday      180 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.62%
-Saturday    190 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.27%
-Sunday      240 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.49%
+Monday      121 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   7.80%
+Tuesday     310 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.97%
+Wednesday   222 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.30%
+Thursday    289 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.62%
+Friday      180 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.60%
+Saturday    190 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.24%
+Sunday      240 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.46%
 ```
 
 #### 📊 Weekly work stats (last 7 days)
@@ -119,14 +119,14 @@ Other        [0h 53m]           [░░░░░░░░░░░░░░░�
 Linux        [53 hrs 49 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Sun Mar 12 2023 16:20:12 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Sun Mar 12 2023 16:42:29 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[03/12 16:10]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br>`[03/12 16:03]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/pr-close.png" align="top" height="18"></a> Closed PR [`#2`](https://github.com/IgorKowalczyk/shared-configs/pull/2 'Update EndBug/add-and-commit action to v9') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br>`[03/12 16:03]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `7` commits in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br>`[03/12 14:00]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [tailwindlabs/prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss)<br>`[03/12 11:22]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [IgorKowalczyk/eslint-config](https://github.com/IgorKowalczyk/eslint-config)<br>`[03/12 11:22]` <a href="https://github.com/igorkowalczyk" title="➕"><img alt="➕" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/create-repo.png" align="top" height="18"></a> Created repository [IgorKowalczyk/eslint-config](https://github.com/IgorKowalczyk/eslint-config)<br>`[03/12 11:22]` <a href="https://github.com/igorkowalczyk" title="📂"><img alt="📂" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/create-branch.png" align="top" height="18"></a> Created branch [`main`](https://github.com/IgorKowalczyk/eslint-config/tree/main) in [IgorKowalczyk/eslint-config](https://github.com/IgorKowalczyk/eslint-config)<br>`[03/11 18:38]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[03/11 18:27]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [squarestack/community](https://github.com/squarestack/community)<br>`[03/11 18:25]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [squarestack/.github](https://github.com/squarestack/.github)
+`[03/12 16:42]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `v1.0.0` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br>`[03/12 16:38]` <a href="https://github.com/igorkowalczyk" title="🏷"><img alt="🏷" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/release.png" align="top" height="18"></a> Released [`v1.0.0`](https://github.com/IgorKowalczyk/shared-configs/releases/tag/v1.0.0) in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br>`[03/12 16:37]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br>`[03/12 16:32]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `v1.0.0` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br>`[03/12 16:31]` <a href="https://github.com/igorkowalczyk" title="🏷"><img alt="🏷" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/release.png" align="top" height="18"></a> Released [`v1.0.0`](https://github.com/IgorKowalczyk/shared-configs/releases/tag/v1.0.0) in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br>`[03/12 16:23]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `3` commits in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br>`[03/12 16:03]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/pr-close.png" align="top" height="18"></a> Closed PR [`#2`](https://github.com/IgorKowalczyk/shared-configs/pull/2 'Update EndBug/add-and-commit action to v9') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br>`[03/12 16:03]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `7` commits in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br>`[03/12 14:00]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [tailwindlabs/prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss)<br>`[03/12 11:22]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [IgorKowalczyk/eslint-config](https://github.com/IgorKowalczyk/eslint-config)
 <!--END_SECTION:activity-->
 
 ---
