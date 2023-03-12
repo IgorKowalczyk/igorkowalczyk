@@ -68,16 +68,16 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sun Mar 12 2023 22:51:30 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sun Mar 12 2023 23:36:45 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
    
 ### 📊 Github Statistics
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       11781      |
+|    🏆 Contributions (Total)   |       11800      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **1788**     |
+| **🏆 Contributions in 2023:** |     **1807**     |
 |  **📝 Total lines of code:**  | **9.65 million** |
-|     **📦 Github Storage:**    |   **491.2 MB**   |
+|     **📦 Github Storage:**    |   **491.1 MB**   |
 |  **📚 Public Repositories:**  |      **27**      |
 |  **🔑 Private Repositories:** |       **1**      |
 
@@ -86,47 +86,47 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   475 commits   [███████░░░░░░░░░░░░░░░░░░]   30.47%
-🌆 Daytime   466 commits   [███████░░░░░░░░░░░░░░░░░░]   29.89%
-🌃 Evening   582 commits   [█████████░░░░░░░░░░░░░░░░]   37.33%
-🌙 Night     36 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.31%
+🌞 Morning   475 commits   [███████░░░░░░░░░░░░░░░░░░]   30.39%
+🌆 Daytime   464 commits   [███████░░░░░░░░░░░░░░░░░░]   29.69%
+🌃 Evening   577 commits   [█████████░░░░░░░░░░░░░░░░]   36.92%
+🌙 Night     47 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.01%
 ```
 
 #### 📅 I'm most productive on Tuesday
 
 ```text
-Monday      142 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.11%
-Tuesday     309 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.82%
-Wednesday   221 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.18%
-Thursday    281 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.02%
-Friday      180 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.55%
-Saturday    188 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.06%
-Sunday      238 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.27%
+Monday      155 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.92%
+Tuesday     309 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.77%
+Wednesday   220 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.08%
+Thursday    277 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.72%
+Friday      180 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.52%
+Saturday    186 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.90%
+Sunday      236 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.10%
 ```
 
 #### 📊 Weekly work stats (last 7 days)
 
 ```text
 💬 Programming Languages:
-JavaScript   [43 hrs 17 mins]   [████████████████████░░░░░]   80.41%
-JSON         [5 hrs 6 mins]     [██░░░░░░░░░░░░░░░░░░░░░░░]   9.48%
-Markdown     [1 hr 53 mins]     [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.53%
-YAML         [1 hr 23 mins]     [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.59%
-CSS          [1 hr 15 mins]     [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.35%
-Other        [0h 53m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.65%
+JavaScript   [38 hrs 56 mins]   [█████████████████░░░░░░░░]   71.31%
+JSON         [7 hrs 25 mins]    [███░░░░░░░░░░░░░░░░░░░░░░]   13.60%
+Markdown     [2 hrs 51 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   5.23%
+YAML         [2 hrs]            [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.68%
+
+Other        [1h 49m]           [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.18%
 
 💻 Operating Systems:
-Linux        [53 hrs 49 mins]  [█████████████████████████]   100.00%
+Linux        [54 hrs 36 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Sun Mar 12 2023 22:51:38 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Sun Mar 12 2023 23:36:50 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[03/12 22:40]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[03/12 22:31]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/igorkowalczyk-prettie...` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[03/12 22:31]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[03/12 22:31]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#345`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/345 'Update dependency @igorkowalczyk/prettier-config to v1.0.2') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[03/12 22:31]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#345`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/345 'Update dependency @igorkowalczyk/prettier-config to v1.0.2') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[03/12 22:18]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/igorkowalczyk-eslint-...` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[03/12 22:18]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `4` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[03/12 22:18]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#344`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/344 'Update dependency @igorkowalczyk/eslint-config to v1.0.1') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[03/12 22:12]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#344`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/344 'Update dependency @igorkowalczyk/eslint-config to v1.0.1') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[03/12 22:12]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)
+`[03/12 23:32]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[03/12 23:31]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br>`[03/12 23:31]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/discord.js-14.x` from [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br>`[03/12 23:31]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#60`](https://github.com/IgorKowalczyk/discord-ssh/pull/60 'Update dependency discord.js to v14.8.0') in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br>`[03/12 23:30]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#60`](https://github.com/IgorKowalczyk/discord-ssh/pull/60 'Update dependency discord.js to v14.8.0') in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br>`[03/12 23:28]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br>`[03/12 23:26]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/discord.js-14.x` from [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br>`[03/12 23:26]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br>`[03/12 23:26]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#32`](https://github.com/IgorKowalczyk/active-dev/pull/32 'Update dependency discord.js to v14.8.0') in [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br>`[03/12 23:26]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#32`](https://github.com/IgorKowalczyk/active-dev/pull/32 'Update dependency discord.js to v14.8.0') in [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)
 <!--END_SECTION:activity-->
 
 ---
