@@ -68,16 +68,16 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Mon Mar 13 2023 16:46:19 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Mon Mar 13 2023 17:15:05 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
    
 ### 📊 Github Statistics
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       11810      |
+|    🏆 Contributions (Total)   |       11813      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **1817**     |
+| **🏆 Contributions in 2023:** |     **1820**     |
 |  **📝 Total lines of code:**  | **9.66 million** |
-|     **📦 Github Storage:**    |   **491.1 MB**   |
+|     **📦 Github Storage:**    |   **491.2 MB**   |
 |  **📚 Public Repositories:**  |      **27**      |
 |  **🔑 Private Repositories:** |       **1**      |
 
@@ -86,9 +86,9 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   475 commits   [███████░░░░░░░░░░░░░░░░░░]   30.25%
-🌆 Daytime   471 commits   [███████░░░░░░░░░░░░░░░░░░]   30.00%
-🌃 Evening   576 commits   [█████████░░░░░░░░░░░░░░░░]   36.69%
+🌞 Morning   474 commits   [███████░░░░░░░░░░░░░░░░░░]   30.19%
+🌆 Daytime   474 commits   [███████░░░░░░░░░░░░░░░░░░]   30.19%
+🌃 Evening   574 commits   [█████████░░░░░░░░░░░░░░░░]   36.56%
 🌙 Night     48 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.06%
 ```
 
@@ -96,11 +96,11 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 ```text
 Monday      156 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.94%
-Tuesday     316 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.13%
+Tuesday     319 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.32%
 Wednesday   220 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.01%
-Thursday    277 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.64%
+Thursday    275 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.52%
 Friday      180 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.46%
-Saturday    185 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.78%
+Saturday    184 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.72%
 Sunday      236 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.03%
 ```
 
@@ -119,14 +119,14 @@ Other        [1h 49m]           [█░░░░░░░░░░░░░░�
 Linux        [54 hrs 36 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Mon Mar 13 2023 16:46:33 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Mon Mar 13 2023 17:15:17 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[03/13 16:12]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/tweet-ai](https://github.com/IgorKowalczyk/tweet-ai)<br>`[03/13 15:58]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs)<br>`[03/13 15:47]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br>`[03/13 13:13]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#2796`](https://github.com/withastro/docs/pull/2796 'i18n(pl): `concepts/why-astro` translation') in [withastro/docs](https://github.com/withastro/docs)<br>`[03/13 09:07]` <a href="https://github.com/igorkowalczyk" title="🗣"><img alt="🗣" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/comment.png" align="top" height="18"></a> Commented on [`#2796`](https://github.com/withastro/docs/issues/2796 'i18n(pl): `concepts/why-astro` translation') in [withastro/docs](https://github.com/withastro/docs)<br>`[03/12 23:50]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/igorkowalczyk-eslint-...` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[03/12 23:50]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/pr-close.png" align="top" height="18"></a> Closed PR [`#346`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/346 'Roll back dependency @igorkowalczyk/eslint-config to 1.0.2') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[03/12 23:50]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/igorkowalczyk-prettie...` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[03/12 23:50]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/pr-close.png" align="top" height="18"></a> Closed PR [`#347`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/347 'Roll back dependency @igorkowalczyk/prettier-config to 1.0.2') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[03/12 23:49]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/discord.js-14.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
+`[03/13 16:35]` <a href="https://github.com/igorkowalczyk" title="🏷"><img alt="🏷" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/release.png" align="top" height="18"></a> Released [`v2.0.2`](https://github.com/IgorKowalczyk/ngrok/releases/tag/v2.0.2) in [IgorKowalczyk/ngrok](https://github.com/IgorKowalczyk/ngrok)<br>`[03/13 16:31]` <a href="https://github.com/igorkowalczyk" title="🏷"><img alt="🏷" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/release.png" align="top" height="18"></a> Released [`v1.0.2`](https://github.com/IgorKowalczyk/tweet-ai/releases/tag/v1.0.2) in [IgorKowalczyk/tweet-ai](https://github.com/IgorKowalczyk/tweet-ai)<br>`[03/13 16:30]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/tweet-ai](https://github.com/IgorKowalczyk/tweet-ai)<br>`[03/13 16:29]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/ngrok](https://github.com/IgorKowalczyk/ngrok)<br>`[03/13 16:28]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-config-prettie...` from [IgorKowalczyk/tweet-ai](https://github.com/IgorKowalczyk/tweet-ai)<br>`[03/13 16:28]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/tweet-ai](https://github.com/IgorKowalczyk/tweet-ai)<br>`[03/13 16:28]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#29`](https://github.com/IgorKowalczyk/tweet-ai/pull/29 'Update dependency eslint-config-prettier to v8.7.0') in [IgorKowalczyk/tweet-ai](https://github.com/IgorKowalczyk/tweet-ai)<br>`[03/13 16:28]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#29`](https://github.com/IgorKowalczyk/tweet-ai/pull/29 'Update dependency eslint-config-prettier to v8.7.0') in [IgorKowalczyk/tweet-ai](https://github.com/IgorKowalczyk/tweet-ai)<br>`[03/13 16:28]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/ngrok](https://github.com/IgorKowalczyk/ngrok)<br>`[03/13 16:14]` <a href="https://github.com/igorkowalczyk" title="🏷"><img alt="🏷" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/release.png" align="top" height="18"></a> Released [`v1.0.1`](https://github.com/IgorKowalczyk/tweet-ai/releases/tag/v1.0.1) in [IgorKowalczyk/tweet-ai](https://github.com/IgorKowalczyk/tweet-ai)
 <!--END_SECTION:activity-->
 
 ---
