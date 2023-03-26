@@ -68,14 +68,14 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sun Mar 26 2023 09:36:30 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sun Mar 26 2023 09:51:27 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
    
 ### 📊 Github Statistics
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       12314      |
+|    🏆 Contributions (Total)   |       12318      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **2321**     |
+| **🏆 Contributions in 2023:** |     **2325**     |
 |  **📝 Total lines of code:**  | **9.65 million** |
 |     **📦 Github Storage:**    |   **492.2 MB**   |
 |  **📚 Public Repositories:**  |      **27**      |
@@ -86,20 +86,20 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   510 commits   [███████░░░░░░░░░░░░░░░░░░]   30.54%
-🌆 Daytime   515 commits   [███████░░░░░░░░░░░░░░░░░░]   30.84%
-🌃 Evening   599 commits   [████████░░░░░░░░░░░░░░░░░]   35.87%
+🌞 Morning   512 commits   [███████░░░░░░░░░░░░░░░░░░]   30.64%
+🌆 Daytime   515 commits   [███████░░░░░░░░░░░░░░░░░░]   30.82%
+🌃 Evening   598 commits   [████████░░░░░░░░░░░░░░░░░]   35.79%
 🌙 Night     46 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.75%
 ```
 
 #### 📅 I'm most productive on Tuesday
 
 ```text
-Monday      164 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.82%
-Tuesday     336 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.12%
-Wednesday   241 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.43%
-Thursday    305 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.26%
-Friday      193 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.56%
+Monday      166 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.93%
+Tuesday     335 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.05%
+Wednesday   241 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.42%
+Thursday    305 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.25%
+Friday      193 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.55%
 Saturday    212 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.69%
 Sunday      219 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.11%
 ```
@@ -119,14 +119,14 @@ Other        [3h 26m]           [█░░░░░░░░░░░░░░�
 Linux        [51 hrs 57 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Sun Mar 26 2023 09:36:44 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Sun Mar 26 2023 09:51:44 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[03/25 19:59]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [rescript-association/rescript-lang.org](https://github.com/rescript-association/rescript-lang.org)<br>`[03/25 12:55]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [microsoft/vscode-eslint](https://github.com/microsoft/vscode-eslint)<br>`[03/25 12:05]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/node-18.x` from [IgorKowalczyk/wakatime-hours](https://github.com/IgorKowalczyk/wakatime-hours)<br>`[03/25 12:05]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/wakatime-hours](https://github.com/IgorKowalczyk/wakatime-hours)<br>`[03/25 12:05]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#31`](https://github.com/IgorKowalczyk/wakatime-hours/pull/31 'Update dependency @types/node to v18.15.9') in [IgorKowalczyk/wakatime-hours](https://github.com/IgorKowalczyk/wakatime-hours)<br>`[03/25 12:05]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#31`](https://github.com/IgorKowalczyk/wakatime-hours/pull/31 'Update dependency @types/node to v18.15.9') in [IgorKowalczyk/wakatime-hours](https://github.com/IgorKowalczyk/wakatime-hours)<br>`[03/25 06:30]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/node-18.x` from [IgorKowalczyk/wakatime-hours](https://github.com/IgorKowalczyk/wakatime-hours)<br>`[03/25 06:30]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/wakatime-hours](https://github.com/IgorKowalczyk/wakatime-hours)<br>`[03/25 06:30]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#30`](https://github.com/IgorKowalczyk/wakatime-hours/pull/30 'Update dependency @types/node to v18.15.8') in [IgorKowalczyk/wakatime-hours](https://github.com/IgorKowalczyk/wakatime-hours)<br>`[03/25 06:30]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#30`](https://github.com/IgorKowalczyk/wakatime-hours/pull/30 'Update dependency @types/node to v18.15.8') in [IgorKowalczyk/wakatime-hours](https://github.com/IgorKowalczyk/wakatime-hours)
+`[03/26 09:38]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/node-18.x` from [IgorKowalczyk/wakatime-hours](https://github.com/IgorKowalczyk/wakatime-hours)<br>`[03/26 09:38]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/wakatime-hours](https://github.com/IgorKowalczyk/wakatime-hours)<br>`[03/26 09:38]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#32`](https://github.com/IgorKowalczyk/wakatime-hours/pull/32 'Update dependency @types/node to v18.15.10') in [IgorKowalczyk/wakatime-hours](https://github.com/IgorKowalczyk/wakatime-hours)<br>`[03/26 09:38]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#32`](https://github.com/IgorKowalczyk/wakatime-hours/pull/32 'Update dependency @types/node to v18.15.10') in [IgorKowalczyk/wakatime-hours](https://github.com/IgorKowalczyk/wakatime-hours)<br>`[03/26 09:38]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/esbuild-0.x` from [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br>`[03/26 09:38]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br>`[03/26 09:38]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#70`](https://github.com/IgorKowalczyk/is-browser/pull/70 'Update dependency esbuild to v0.17.14') in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br>`[03/26 09:37]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#70`](https://github.com/IgorKowalczyk/is-browser/pull/70 'Update dependency esbuild to v0.17.14') in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br>`[03/25 19:59]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [rescript-association/rescript-lang.org](https://github.com/rescript-association/rescript-lang.org)<br>`[03/25 12:55]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [microsoft/vscode-eslint](https://github.com/microsoft/vscode-eslint)
 <!--END_SECTION:activity-->
 
 ---
