@@ -68,14 +68,14 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Tue Mar 28 2023 09:16:26 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Tue Mar 28 2023 09:37:05 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
    
 ### 📊 Github Statistics
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       12396      |
+|    🏆 Contributions (Total)   |       12400      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **2403**     |
+| **🏆 Contributions in 2023:** |     **2407**     |
 |  **📝 Total lines of code:**  | **9.66 million** |
 |     **📦 Github Storage:**    |   **492.0 MB**   |
 |  **📚 Public Repositories:**  |      **27**      |
@@ -86,22 +86,22 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   528 commits   [███████░░░░░░░░░░░░░░░░░░]   31.41%
-🌆 Daytime   518 commits   [███████░░░░░░░░░░░░░░░░░░]   30.81%
-🌃 Evening   591 commits   [████████░░░░░░░░░░░░░░░░░]   35.16%
-🌙 Night     44 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.62%
+🌞 Morning   530 commits   [███████░░░░░░░░░░░░░░░░░░]   31.49%
+🌆 Daytime   518 commits   [███████░░░░░░░░░░░░░░░░░░]   30.78%
+🌃 Evening   591 commits   [████████░░░░░░░░░░░░░░░░░]   35.12%
+🌙 Night     44 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.61%
 ```
 
 #### 📅 I'm most productive on Tuesday
 
 ```text
-Monday      168 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.99%
-Tuesday     338 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.11%
-Wednesday   261 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.53%
-Thursday    300 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.85%
-Friday      191 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.36%
-Saturday    206 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.25%
-Sunday      217 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.91%
+Monday      168 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.98%
+Tuesday     338 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.08%
+Wednesday   263 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.63%
+Thursday    300 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.83%
+Friday      191 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.35%
+Saturday    206 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.24%
+Sunday      217 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.89%
 ```
 
 #### 📊 Weekly work stats (last 7 days)
@@ -119,14 +119,14 @@ Other        [3h 45m]          [██░░░░░░░░░░░░░░
 Linux        [50 hrs 9 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Tue Mar 28 2023 09:16:33 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Tue Mar 28 2023 09:37:11 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[03/28 08:18]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/contentlayer-0.x` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[03/28 08:17]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[03/28 08:17]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#365`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/365 'Update dependency contentlayer to v0.3.1') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[03/28 08:15]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#365`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/365 'Update dependency contentlayer to v0.3.1') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[03/28 08:15]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#365`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/365 'Update dependency contentlayer to v0.3.1') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[03/28 08:14]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/next-contentlayer-0.x...` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[03/28 08:14]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[03/28 08:14]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#366`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/366 'Update dependency next-contentlayer to v0.3.1') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[03/28 08:14]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#366`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/366 'Update dependency next-contentlayer to v0.3.1') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[03/28 06:20]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/pnpm-7.x` from [IgorKowalczyk/tweet-ai](https://github.com/IgorKowalczyk/tweet-ai)
+`[03/28 09:07]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/pnpm-8.x` from [IgorKowalczyk/ngrok](https://github.com/IgorKowalczyk/ngrok)<br>`[03/28 09:07]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/ngrok](https://github.com/IgorKowalczyk/ngrok)<br>`[03/28 09:07]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#58`](https://github.com/IgorKowalczyk/ngrok/pull/58 'Update pnpm to v8') in [IgorKowalczyk/ngrok](https://github.com/IgorKowalczyk/ngrok)<br>`[03/28 09:07]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#58`](https://github.com/IgorKowalczyk/ngrok/pull/58 'Update pnpm to v8') in [IgorKowalczyk/ngrok](https://github.com/IgorKowalczyk/ngrok)<br>`[03/28 09:07]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br>`[03/28 09:07]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/pnpm-8.x` from [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br>`[03/28 09:07]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#50`](https://github.com/IgorKowalczyk/repl-uptime/pull/50 'Update pnpm to v8') in [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br>`[03/28 09:07]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#50`](https://github.com/IgorKowalczyk/repl-uptime/pull/50 'Update pnpm to v8') in [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br>`[03/28 08:18]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/contentlayer-0.x` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[03/28 08:17]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)
 <!--END_SECTION:activity-->
 
 ---
