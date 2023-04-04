@@ -9,9 +9,8 @@
 [![GitHub followers](https://img.shields.io/github/followers/igorkowalczyk?color=333&label=Follow&logo=github&logoColor=fff&style=flat-square)](https://github.com/IgorKowalczyk?tab=followers)
 [![Twitter Follow](https://img.shields.io/static/v1?message=Twitter&color=333&label=@majonezexe&logo=twitter&logoColor=fff&style=flat-square)](https://twitter.com/majonezexe)
 [![Views](https://views.igorkowalczyk.dev/api/badge/igorkowalczyk?style=flat-square&color=333)](https://igorkowalczyk.dev)
-[![Wakatime Hours](https://wakatime-hours.vercel.app/api/badge?style=flat-square&color=333)](https://igorkowalczyk.dev)
+[![Wakatime Hours](https://wakatime-hours.deno.dev/api/badge?style=flat-square&color=333)](https://igorkowalczyk.dev)
 <br><br><br>
-
 ---
 
 <a href="https://discord.com/users/544164729354977282">
