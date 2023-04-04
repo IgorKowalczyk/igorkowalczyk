@@ -67,7 +67,7 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Tue Apr 04 2023 21:51:34 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Tue Apr 04 2023 22:26:50 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
    
 ### 📊 Github Statistics
@@ -107,26 +107,26 @@ Sunday      201 commits   [██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages:
-CSS          [10 hrs 40 mins]   [██████░░░░░░░░░░░░░░░░░░░]   27.45%
-JSON         [6 hrs 51 mins]    [████░░░░░░░░░░░░░░░░░░░░░]   17.61%
-JavaScript   [5 hrs 55 mins]    [███░░░░░░░░░░░░░░░░░░░░░░]   15.20%
-TypeScript   [4 hrs 15 mins]    [██░░░░░░░░░░░░░░░░░░░░░░░]   10.92%
+CSS          [8 hrs 29 mins]    [█████░░░░░░░░░░░░░░░░░░░░]   22.78%
+TypeScript   [6 hrs 47 mins]    [████░░░░░░░░░░░░░░░░░░░░░]   18.20%
+JSON         [6 hrs 1 min]      [████░░░░░░░░░░░░░░░░░░░░░]   16.17%
 
-Other        [7h 9m]            [███████░░░░░░░░░░░░░░░░░░]   28.83%
+JavaScript   [3 hrs 56 mins]    [██░░░░░░░░░░░░░░░░░░░░░░░]   10.59%
+Other        [7h 56m]           [████████░░░░░░░░░░░░░░░░░]   32.27%
 
 💻 Operating Systems:
-Linux        [29 hrs 59 mins]  [███████████████████░░░░░░]   77.08%
-Windows      [8 hrs 55 mins]   [█████░░░░░░░░░░░░░░░░░░░░]   22.92%
+Linux        [28 hrs 21 mins]  [███████████████████░░░░░░]   76.06%
+Windows      [8 hrs 55 mins]   [█████░░░░░░░░░░░░░░░░░░░░]   23.94%
 ```
 
-<!-- Wakatime last updated on Tue Apr 04 2023 21:51:43 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Tue Apr 04 2023 22:26:59 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[04/04 18:19]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [isaacs/ttlcache](https://github.com/isaacs/ttlcache)<br>`[04/04 18:02]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [reactjs/react.dev](https://github.com/reactjs/react.dev)<br>`[04/04 17:36]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/manual](https://github.com/IgorKowalczyk/manual)<br>`[04/04 17:30]` <a href="https://github.com/igorkowalczyk" title="✅"><img alt="✅" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/pr-open.png" align="top" height="18"></a> Opened PR [`#605`](https://github.com/denoland/manual/pull/605 'fix(typo): Fix typo in `manual/basics/react.md`') in [denoland/manual](https://github.com/denoland/manual)<br>`[04/04 17:29]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/manual](https://github.com/IgorKowalczyk/manual)<br>`[04/04 17:26]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [denoland/manual](https://github.com/denoland/manual)<br>`[04/04 17:26]` <a href="https://github.com/igorkowalczyk" title="🍴"><img alt="🍴" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/fork.png" align="top" height="18"></a> Forked [denoland/manual](https://github.com/denoland/manual) to [IgorKowalczyk/manual](https://github.com/IgorKowalczyk/manual)<br>`[04/04 07:59]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/pnpm-8.x` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[04/04 07:59]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[04/04 07:59]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#145`](https://github.com/IgorKowalczyk/github-views/pull/145 'Update pnpm to v8.1.1') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)
+`[04/04 20:34]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/wakatime-hours](https://github.com/IgorKowalczyk/wakatime-hours)<br>`[04/04 20:30]` <a href="https://github.com/igorkowalczyk" title="🏷"><img alt="🏷" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/release.png" align="top" height="18"></a> Released [`v2.1.0`](https://github.com/IgorKowalczyk/wakatime-hours/releases/tag/v2.1.0) in [IgorKowalczyk/wakatime-hours](https://github.com/IgorKowalczyk/wakatime-hours)<br>`[04/04 20:23]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/wakatime-hours](https://github.com/IgorKowalczyk/wakatime-hours)<br>`[04/04 18:19]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [isaacs/ttlcache](https://github.com/isaacs/ttlcache)<br>`[04/04 18:02]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [reactjs/react.dev](https://github.com/reactjs/react.dev)<br>`[04/04 17:36]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/manual](https://github.com/IgorKowalczyk/manual)<br>`[04/04 17:30]` <a href="https://github.com/igorkowalczyk" title="✅"><img alt="✅" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/pr-open.png" align="top" height="18"></a> Opened PR [`#605`](https://github.com/denoland/manual/pull/605 'fix(typo): Fix typo in `manual/basics/react.md`') in [denoland/manual](https://github.com/denoland/manual)<br>`[04/04 17:29]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/manual](https://github.com/IgorKowalczyk/manual)<br>`[04/04 17:26]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [denoland/manual](https://github.com/denoland/manual)<br>`[04/04 17:26]` <a href="https://github.com/igorkowalczyk" title="🍴"><img alt="🍴" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/fork.png" align="top" height="18"></a> Forked [denoland/manual](https://github.com/denoland/manual) to [IgorKowalczyk/manual](https://github.com/IgorKowalczyk/manual)
 <!--END_SECTION:activity-->
 
 ---
