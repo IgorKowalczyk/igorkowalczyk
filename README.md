@@ -67,16 +67,16 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Fri Apr 07 2023 21:51:33 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Fri Apr 07 2023 22:26:23 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
    
 ### 📊 Github Statistics
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       12789      |
+|    🏆 Contributions (Total)   |       12790      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **2796**     |
+| **🏆 Contributions in 2023:** |     **2797**     |
 |  **📝 Total lines of code:**  | **9.66 million** |
-|     **📦 Github Storage:**    |   **474.0 MB**   |
+|     **📦 Github Storage:**    |   **473.9 MB**   |
 |  **📚 Public Repositories:**  |      **27**      |
 |  **🔑 Private Repositories:** |       **2**      |
 
@@ -85,9 +85,9 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   559 commits   [████████░░░░░░░░░░░░░░░░░]   32.54%
+🌞 Morning   558 commits   [████████░░░░░░░░░░░░░░░░░]   32.48%
 🌆 Daytime   501 commits   [███████░░░░░░░░░░░░░░░░░░]   29.16%
-🌃 Evening   597 commits   [████████░░░░░░░░░░░░░░░░░]   34.75%
+🌃 Evening   598 commits   [████████░░░░░░░░░░░░░░░░░]   34.81%
 🌙 Night     61 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.55%
 ```
 
@@ -99,34 +99,34 @@ Tuesday     333 commits   [████░░░░░░░░░░░░░�
 Wednesday   288 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.76%
 Thursday    343 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.97%
 Friday      192 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.18%
-Saturday    210 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.22%
-Sunday      199 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.58%
+Saturday    211 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.28%
+Sunday      198 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.53%
 ```
 
 #### 📊 Weekly work stats (last 7 days)
 
 ```text
 💬 Programming Languages:
-JavaScript   [16 hrs 3 mins]    [████████░░░░░░░░░░░░░░░░░]   32.92%
-CSS          [8 hrs 54 mins]    [████░░░░░░░░░░░░░░░░░░░░░]   18.28%
-JSON         [8 hrs 33 mins]    [████░░░░░░░░░░░░░░░░░░░░░]   17.56%
-TypeScript   [6 hrs 49 mins]    [███░░░░░░░░░░░░░░░░░░░░░░]   13.99%
-Markdown     [3 hrs]            [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.17%
-Other        [5h 24m]           [██░░░░░░░░░░░░░░░░░░░░░░░]   11.08%
+JavaScript   [27 hrs 56 mins]   [████████████░░░░░░░░░░░░░]   49.06%
+JSON         [8 hrs 43 mins]    [███░░░░░░░░░░░░░░░░░░░░░░]   15.32%
+TypeScript   [6 hrs 50 mins]    [███░░░░░░░░░░░░░░░░░░░░░░]   12.01%
+CSS          [6 hrs 24 mins]    [██░░░░░░░░░░░░░░░░░░░░░░░]   11.25%
+Markdown     [3 hrs]            [█░░░░░░░░░░░░░░░░░░░░░░░░]   5.29%
+Other        [4h 1m]            [█░░░░░░░░░░░░░░░░░░░░░░░░]   7.07%
 
 💻 Operating Systems:
-Linux        [43 hrs 46 mins]  [██████████████████████░░░]   89.76%
-Windows      [4 hrs 59 mins]   [██░░░░░░░░░░░░░░░░░░░░░░░]   10.24%
+Linux        [56 hrs 30 mins]  [████████████████████████░]   99.25%
+Windows      [25 mins]         [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.75%
 ```
 
-<!-- Wakatime last updated on Fri Apr 07 2023 21:51:40 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Fri Apr 07 2023 22:26:33 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[04/07 21:47]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/nextjs-monorepo` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[04/07 21:47]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `9` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[04/07 21:47]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#350`](https://github.com/IgorKowalczyk/majo.exe/pull/350 'Update nextjs monorepo to v13.3.0') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[04/07 21:46]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/typescript-5.x` from [squarestack/invite](https://github.com/squarestack/invite)<br>`[04/07 21:46]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [squarestack/invite](https://github.com/squarestack/invite)<br>`[04/07 21:46]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#117`](https://github.com/squarestack/invite/pull/117 'Update dependency typescript to v5.0.4') in [squarestack/invite](https://github.com/squarestack/invite)<br>`[04/07 21:45]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#117`](https://github.com/squarestack/invite/pull/117 'Update dependency typescript to v5.0.4') in [squarestack/invite](https://github.com/squarestack/invite)<br>`[04/07 21:45]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[04/07 21:25]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `slash-commands-handler` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[04/07 21:25]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/pr-close.png" align="top" height="18"></a> Closed PR [`#351`](https://github.com/IgorKowalczyk/majo.exe/pull/351 'Slash commands handler') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
+`[04/07 22:08]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[04/07 22:08]` <a href="https://github.com/igorkowalczyk" title="📂"><img alt="📂" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/create-branch.png" align="top" height="18"></a> Created branch [`renovate/nextjs-monorepo`](https://github.com/IgorKowalczyk/majo.exe/tree/renovate/nextjs-monorepo) in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[04/07 21:47]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/nextjs-monorepo` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[04/07 21:47]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `9` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[04/07 21:47]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#350`](https://github.com/IgorKowalczyk/majo.exe/pull/350 'Update nextjs monorepo to v13.3.0') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[04/07 21:46]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/typescript-5.x` from [squarestack/invite](https://github.com/squarestack/invite)<br>`[04/07 21:46]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [squarestack/invite](https://github.com/squarestack/invite)<br>`[04/07 21:46]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#117`](https://github.com/squarestack/invite/pull/117 'Update dependency typescript to v5.0.4') in [squarestack/invite](https://github.com/squarestack/invite)<br>`[04/07 21:45]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#117`](https://github.com/squarestack/invite/pull/117 'Update dependency typescript to v5.0.4') in [squarestack/invite](https://github.com/squarestack/invite)<br>`[04/07 21:45]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
 <!--END_SECTION:activity-->
 
 ---
