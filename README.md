@@ -67,14 +67,14 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Tue Apr 18 2023 09:51:26 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Tue Apr 18 2023 10:15:59 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
    
 ### 📊 Github Statistics
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       13181      |
+|    🏆 Contributions (Total)   |       13196      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **3188**     |
+| **🏆 Contributions in 2023:** |     **3203**     |
 |  **📝 Total lines of code:**  | **9.67 million** |
 |     **📦 Github Storage:**    |   **474.5 MB**   |
 |  **📚 Public Repositories:**  |      **27**      |
@@ -85,22 +85,22 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   565 commits   [████████░░░░░░░░░░░░░░░░░]   32.53%
-🌆 Daytime   521 commits   [███████░░░░░░░░░░░░░░░░░░]   29.99%
-🌃 Evening   587 commits   [████████░░░░░░░░░░░░░░░░░]   33.79%
-🌙 Night     64 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.68%
+🌞 Morning   568 commits   [████████░░░░░░░░░░░░░░░░░]   32.68%
+🌆 Daytime   521 commits   [███████░░░░░░░░░░░░░░░░░░]   29.98%
+🌃 Evening   586 commits   [████████░░░░░░░░░░░░░░░░░]   33.72%
+🌙 Night     63 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.62%
 ```
 
 #### 📅 I'm most productive on Thursday
 
 ```text
-Monday      161 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.27%
-Tuesday     339 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.52%
-Wednesday   319 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.36%
-Thursday    345 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.86%
-Friday      170 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.79%
-Saturday    201 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.57%
-Sunday      202 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.63%
+Monday      161 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.26%
+Tuesday     338 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.45%
+Wednesday   324 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.64%
+Thursday    345 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.85%
+Friday      170 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.78%
+Saturday    200 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.51%
+Sunday      200 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.51%
 ```
 
 #### 📊 Weekly work stats (last 7 days)
@@ -118,14 +118,14 @@ Other        [0h 36m]           [░░░░░░░░░░░░░░░�
 Linux        [57 hrs 24 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Tue Apr 18 2023 09:51:35 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Tue Apr 18 2023 10:16:06 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[04/18 06:53]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/pnpm-8.x` from [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br>`[04/18 06:53]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br>`[04/18 06:53]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#56`](https://github.com/IgorKowalczyk/active-dev/pull/56 'Update pnpm to v8.3.0') in [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br>`[04/18 06:53]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#56`](https://github.com/IgorKowalczyk/active-dev/pull/56 'Update pnpm to v8.3.0') in [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br>`[04/18 06:53]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/turbo-1.x` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br>`[04/18 06:53]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br>`[04/18 06:53]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#27`](https://github.com/IgorKowalczyk/shared-configs/pull/27 'Update dependency turbo to v1.9.3') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br>`[04/18 06:52]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#27`](https://github.com/IgorKowalczyk/shared-configs/pull/27 'Update dependency turbo to v1.9.3') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br>`[04/18 06:52]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-config-turbo-1...` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[04/18 06:52]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
+`[04/18 10:02]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/nextjs-monorepo` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[04/18 10:02]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[04/18 10:02]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#400`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/400 'Update dependency next to v13.3.1-canary.11') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[04/18 10:02]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#400`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/400 'Update dependency next to v13.3.1-canary.11') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[04/18 09:58]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#369`](https://github.com/IgorKowalczyk/majo.exe/pull/369 'Update dependency turbo to v1.9.3') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[04/18 09:58]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[04/18 09:58]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/typescript-eslint-mon...` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[04/18 09:58]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#164`](https://github.com/IgorKowalczyk/github-views/pull/164 'Update typescript-eslint monorepo to v5.59.0') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[04/18 09:58]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#164`](https://github.com/IgorKowalczyk/github-views/pull/164 'Update typescript-eslint monorepo to v5.59.0') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[04/18 09:57]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/pnpm-8.x` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)
 <!--END_SECTION:activity-->
 
 ---
