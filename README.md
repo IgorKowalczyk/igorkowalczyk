@@ -67,14 +67,14 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sat Apr 22 2023 12:27:29 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sat Apr 22 2023 12:51:02 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
    
 ### 📊 Github Statistics
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       13327      |
+|    🏆 Contributions (Total)   |       13357      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **3334**     |
+| **🏆 Contributions in 2023:** |     **3364**     |
 |  **📝 Total lines of code:**  | **9.66 million** |
 |     **📦 Github Storage:**    |   **474.9 MB**   |
 |  **📚 Public Repositories:**  |      **27**      |
@@ -85,22 +85,22 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   565 commits   [████████░░░░░░░░░░░░░░░░░]   32.43%
-🌆 Daytime   515 commits   [███████░░░░░░░░░░░░░░░░░░]   29.56%
-🌃 Evening   605 commits   [████████░░░░░░░░░░░░░░░░░]   34.73%
-🌙 Night     57 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.27%
+🌞 Morning   561 commits   [████████░░░░░░░░░░░░░░░░░]   32.15%
+🌆 Daytime   525 commits   [███████░░░░░░░░░░░░░░░░░░]   30.09%
+🌃 Evening   603 commits   [████████░░░░░░░░░░░░░░░░░]   34.56%
+🌙 Night     56 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.21%
 ```
 
 #### 📅 I'm most productive on Thursday
 
 ```text
-Monday      149 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   8.55%
-Tuesday     335 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.23%
-Wednesday   336 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.29%
-Thursday    358 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.55%
-Friday      166 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.53%
-Saturday    203 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.65%
-Sunday      195 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.19%
+Monday      146 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   8.37%
+Tuesday     333 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.08%
+Wednesday   336 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.26%
+Thursday    358 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.52%
+Friday      164 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.40%
+Saturday    203 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.63%
+Sunday      205 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.75%
 ```
 
 #### 📊 Weekly work stats (last 7 days)
@@ -118,14 +118,14 @@ Other        [0h 14m]           [░░░░░░░░░░░░░░░�
 Linux        [52 hrs 52 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Sat Apr 22 2023 12:27:41 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Sat Apr 22 2023 12:51:11 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[04/21 18:26]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[04/21 12:49]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[04/21 10:03]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/nextjs-monorepo` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[04/21 10:03]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#408`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/408 'Update dependency next to v13.3.1-canary.17') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[04/21 10:03]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[04/21 10:03]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#408`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/408 'Update dependency next to v13.3.1-canary.17') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[04/20 19:03]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[04/20 18:59]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [lukeed/clsx](https://github.com/lukeed/clsx)<br>`[04/20 11:55]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#376`](https://github.com/IgorKowalczyk/majo.exe/pull/376 'Update dependency @next-auth/mongodb-adapter to v1.1.3') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[04/20 11:55]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/next-auth-mongodb-ada...` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
+`[04/22 12:40]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[04/22 12:40]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/astro-compress-1.x` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[04/22 12:40]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#171`](https://github.com/IgorKowalczyk/github-views/pull/171 'Update dependency astro-compress to v1.1.40') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[04/22 12:40]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#171`](https://github.com/IgorKowalczyk/github-views/pull/171 'Update dependency astro-compress to v1.1.40') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[04/22 12:33]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-8.x` from [IgorKowalczyk/tweet-ai](https://github.com/IgorKowalczyk/tweet-ai)<br>`[04/22 12:33]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-8.x` from [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br>`[04/22 12:33]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/tweet-ai](https://github.com/IgorKowalczyk/tweet-ai)<br>`[04/22 12:33]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#54`](https://github.com/IgorKowalczyk/tweet-ai/pull/54 'Update dependency eslint to v8.39.0') in [IgorKowalczyk/tweet-ai](https://github.com/IgorKowalczyk/tweet-ai)<br>`[04/22 12:33]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#91`](https://github.com/IgorKowalczyk/is-browser/pull/91 'Update dependency eslint to v8.39.0') in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br>`[04/22 12:33]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)
 <!--END_SECTION:activity-->
 
 ---
