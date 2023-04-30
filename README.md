@@ -67,14 +67,14 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sun Apr 30 2023 19:36:29 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sun Apr 30 2023 19:51:27 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
    
 ### 📊 Github Statistics
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       13526      |
+|    🏆 Contributions (Total)   |       13528      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **3533**     |
+| **🏆 Contributions in 2023:** |     **3535**     |
 |  **📝 Total lines of code:**  | **9.66 million** |
 |     **📦 Github Storage:**    |   **475.0 MB**   |
 |  **📚 Public Repositories:**  |      **27**      |
@@ -86,17 +86,17 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 ```text
 🌞 Morning   573 commits   [████████░░░░░░░░░░░░░░░░░]   32.78%
-🌆 Daytime   516 commits   [███████░░░░░░░░░░░░░░░░░░]   29.52%
-🌃 Evening   606 commits   [████████░░░░░░░░░░░░░░░░░]   34.67%
+🌆 Daytime   515 commits   [███████░░░░░░░░░░░░░░░░░░]   29.46%
+🌃 Evening   607 commits   [████████░░░░░░░░░░░░░░░░░]   34.73%
 🌙 Night     53 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.03%
 ```
 
 #### 📅 I'm most productive on Thursday
 
 ```text
-Monday      160 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.15%
+Monday      161 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.21%
 Tuesday     323 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.48%
-Wednesday   339 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.39%
+Wednesday   338 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.34%
 Thursday    353 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.19%
 Friday      159 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.10%
 Saturday    206 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.78%
@@ -118,14 +118,14 @@ Other        [0h 24m]           [░░░░░░░░░░░░░░░�
 Linux        [30 hrs 26 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Sun Apr 30 2023 19:36:41 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Sun Apr 30 2023 19:51:36 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[04/30 19:00]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[04/30 18:57]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#410`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/410 'Update dependency @vercel/og to v0.5.4') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[04/30 18:56]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#419`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/419 'Update dependency tailwindcss to v3.3.2') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[04/30 18:55]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/nextjs-monorepo` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[04/30 18:55]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#420`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/420 'Update nextjs monorepo to v13.3.2') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[04/30 18:55]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[04/30 18:55]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#420`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/420 'Update nextjs monorepo to v13.3.2') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[04/30 11:59]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#411`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/411 'Update dependency contentlayer to v0.3.2') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[04/30 11:59]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/nextjs-monorepo` from [squarestack/invite](https://github.com/squarestack/invite)<br>`[04/30 11:59]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [squarestack/invite](https://github.com/squarestack/invite)
+`[04/30 19:45]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#421`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/421 'Update contentlayer to v0.3.2') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[04/30 19:42]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/tailwindcss-3.x` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[04/30 19:42]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[04/30 19:42]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#419`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/419 'Update dependency tailwindcss to v3.3.2') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[04/30 19:00]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[04/30 18:57]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#410`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/410 'Update dependency @vercel/og to v0.5.4') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[04/30 18:56]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#419`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/419 'Update dependency tailwindcss to v3.3.2') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[04/30 18:55]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/nextjs-monorepo` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[04/30 18:55]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#420`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/420 'Update nextjs monorepo to v13.3.2') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[04/30 18:55]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)
 <!--END_SECTION:activity-->
 
 ---
