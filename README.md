@@ -67,14 +67,14 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sun Apr 30 2023 11:51:27 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sun Apr 30 2023 12:26:52 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
    
 ### 📊 Github Statistics
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       13505      |
+|    🏆 Contributions (Total)   |       13515      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **3512**     |
+| **🏆 Contributions in 2023:** |     **3522**     |
 |  **📝 Total lines of code:**  | **9.66 million** |
 |     **📦 Github Storage:**    |   **474.9 MB**   |
 |  **📚 Public Repositories:**  |      **27**      |
@@ -85,8 +85,8 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   572 commits   [████████░░░░░░░░░░░░░░░░░]   32.72%
-🌆 Daytime   519 commits   [███████░░░░░░░░░░░░░░░░░░]   29.69%
+🌞 Morning   575 commits   [████████░░░░░░░░░░░░░░░░░]   32.89%
+🌆 Daytime   516 commits   [███████░░░░░░░░░░░░░░░░░░]   29.52%
 🌃 Evening   604 commits   [████████░░░░░░░░░░░░░░░░░]   34.55%
 🌙 Night     53 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.03%
 ```
@@ -94,13 +94,13 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I'm most productive on Thursday
 
 ```text
-Monday      156 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   8.92%
+Monday      158 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.04%
 Tuesday     324 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.54%
 Wednesday   340 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.45%
 Thursday    353 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.19%
 Friday      159 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.10%
 Saturday    206 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.78%
-Sunday      210 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.01%
+Sunday      208 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.90%
 ```
 
 #### 📊 Weekly work stats (last 7 days)
@@ -118,14 +118,14 @@ Other        [0h 24m]           [░░░░░░░░░░░░░░░�
 Linux        [30 hrs 26 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Sun Apr 30 2023 11:51:36 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Sun Apr 30 2023 12:27:03 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[04/30 11:48]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[04/30 11:44]` <a href="https://github.com/igorkowalczyk" title="✅"><img alt="✅" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/pr-open.png" align="top" height="18"></a> Opened PR [`#409`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/409 'Fix settings and photography page') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[04/30 11:44]` <a href="https://github.com/igorkowalczyk" title="📂"><img alt="📂" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/create-branch.png" align="top" height="18"></a> Created branch [`settings-fix`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/tree/settings-fix) in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[04/29 11:15]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [ValentinH/react-easy-crop](https://github.com/ValentinH/react-easy-crop)<br>`[04/28 20:28]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[04/28 19:43]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/prettier-plugin-tailw...` from [squarestack/invite](https://github.com/squarestack/invite)<br>`[04/28 19:43]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#132`](https://github.com/squarestack/invite/pull/132 'Update dependency prettier-plugin-tailwindcss to v0.2.8') in [squarestack/invite](https://github.com/squarestack/invite)<br>`[04/28 19:43]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [squarestack/invite](https://github.com/squarestack/invite)<br>`[04/28 19:43]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#132`](https://github.com/squarestack/invite/pull/132 'Update dependency prettier-plugin-tailwindcss to v0.2.8') in [squarestack/invite](https://github.com/squarestack/invite)<br>`[04/28 19:43]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/prettier-plugin-tailw...` from [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)
+`[04/30 11:59]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#411`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/411 'Update dependency contentlayer to v0.3.2') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[04/30 11:59]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/nextjs-monorepo` from [squarestack/invite](https://github.com/squarestack/invite)<br>`[04/30 11:59]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [squarestack/invite](https://github.com/squarestack/invite)<br>`[04/30 11:59]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#133`](https://github.com/squarestack/invite/pull/133 'Update nextjs monorepo to v13.3.2') in [squarestack/invite](https://github.com/squarestack/invite)<br>`[04/30 11:57]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#133`](https://github.com/squarestack/invite/pull/133 'Update nextjs monorepo to v13.3.2') in [squarestack/invite](https://github.com/squarestack/invite)<br>`[04/30 11:57]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/date-fns-2.x` from [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)<br>`[04/30 11:57]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#91`](https://github.com/IgorKowalczyk/igorkowalczyk/pull/91 'Update dependency date-fns to v2.30.0') in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)<br>`[04/30 11:56]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#91`](https://github.com/IgorKowalczyk/igorkowalczyk/pull/91 'Update dependency date-fns to v2.30.0') in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)<br>`[04/30 11:55]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `settings-fix` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[04/30 11:55]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `3` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)
 <!--END_SECTION:activity-->
 
 ---
