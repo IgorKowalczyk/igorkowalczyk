@@ -67,16 +67,16 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Tue May 02 2023 09:25:49 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Tue May 02 2023 09:36:53 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
    
 ### 📊 Github Statistics
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       13552      |
+|    🏆 Contributions (Total)   |       13572      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **3559**     |
-|  **📝 Total lines of code:**  | **9.66 million** |
-|     **📦 Github Storage:**    |   **475.4 MB**   |
+| **🏆 Contributions in 2023:** |     **3579**     |
+|  **📝 Total lines of code:**  | **9.67 million** |
+|     **📦 Github Storage:**    |   **475.3 MB**   |
 |  **📚 Public Repositories:**  |      **27**      |
 |  **🔑 Private Repositories:** |       **3**      |
 
@@ -85,22 +85,22 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   570 commits   [████████░░░░░░░░░░░░░░░░░]   32.61%
-🌆 Daytime   513 commits   [███████░░░░░░░░░░░░░░░░░░]   29.35%
-🌃 Evening   612 commits   [████████░░░░░░░░░░░░░░░░░]   35.01%
+🌞 Morning   574 commits   [████████░░░░░░░░░░░░░░░░░]   32.82%
+🌆 Daytime   512 commits   [███████░░░░░░░░░░░░░░░░░░]   29.27%
+🌃 Evening   610 commits   [████████░░░░░░░░░░░░░░░░░]   34.88%
 🌙 Night     53 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.03%
 ```
 
 #### 📅 I'm most productive on Thursday
 
 ```text
-Monday      169 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.67%
-Tuesday     324 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.54%
-Wednesday   336 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.22%
-Thursday    352 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.14%
+Monday      167 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.55%
+Tuesday     324 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.52%
+Wednesday   340 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.44%
+Thursday    351 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.07%
 Friday      157 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   8.98%
-Saturday    202 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.56%
-Sunday      208 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.90%
+Saturday    202 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.55%
+Sunday      208 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.89%
 ```
 
 #### 📊 Weekly work stats (last 7 days)
@@ -118,14 +118,14 @@ Other        [1h 26m]           [█░░░░░░░░░░░░░░�
 Linux        [27 hrs 51 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Tue May 02 2023 09:26:00 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Tue May 02 2023 09:37:00 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[05/01 12:00]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/react-parallax-tilt-1...` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[05/01 12:00]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[05/01 12:00]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#422`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/422 'Update dependency react-parallax-tilt to v1.7.133') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[05/01 12:00]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#422`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/422 'Update dependency react-parallax-tilt to v1.7.133') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[05/01 11:59]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/nextjs-monorepo` from [squarestack/invite](https://github.com/squarestack/invite)<br>`[05/01 11:59]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#134`](https://github.com/squarestack/invite/pull/134 'Update nextjs monorepo to v13.3.3') in [squarestack/invite](https://github.com/squarestack/invite)<br>`[05/01 11:59]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [squarestack/invite](https://github.com/squarestack/invite)<br>`[05/01 11:59]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#134`](https://github.com/squarestack/invite/pull/134 'Update nextjs monorepo to v13.3.3') in [squarestack/invite](https://github.com/squarestack/invite)<br>`[04/30 21:17]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/prettier-plugin-tailw...` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[04/30 21:17]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)
+`[05/02 09:32]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/nextjs-monorepo` from [squarestack/invite](https://github.com/squarestack/invite)<br>`[05/02 09:32]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [squarestack/invite](https://github.com/squarestack/invite)<br>`[05/02 09:32]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#135`](https://github.com/squarestack/invite/pull/135 'Update nextjs monorepo to v13.3.4') in [squarestack/invite](https://github.com/squarestack/invite)<br>`[05/02 09:32]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/nextjs-monorepo` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[05/02 09:32]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[05/02 09:32]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#423`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/423 'Update nextjs monorepo to v13.3.4') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[05/02 09:32]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/typescript-eslint-mon...` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[05/02 09:32]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#185`](https://github.com/IgorKowalczyk/github-views/pull/185 'Update typescript-eslint monorepo to v5.59.2') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[05/02 09:32]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[05/02 09:32]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#185`](https://github.com/IgorKowalczyk/github-views/pull/185 'Update typescript-eslint monorepo to v5.59.2') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)
 <!--END_SECTION:activity-->
 
 ---
