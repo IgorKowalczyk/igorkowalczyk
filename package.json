@@ -33,7 +33,7 @@
     "xml2js": "0.5.0"
   },
   "devDependencies": {
-    "eslint": "8.39.0",
+    "eslint": "8.40.0",
     "prettier": "2.8.8"
   },
   "packageManager": "pnpm@8.4.0"
