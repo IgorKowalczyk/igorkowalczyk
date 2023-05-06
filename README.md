@@ -67,16 +67,16 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sat May 06 2023 21:51:26 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sat May 06 2023 22:26:06 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
    
 ### 📊 Github Statistics
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       13799      |
+|    🏆 Contributions (Total)   |       13801      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **3806**     |
+| **🏆 Contributions in 2023:** |     **3808**     |
 |  **📝 Total lines of code:**  | **9.66 million** |
-|     **📦 Github Storage:**    |   **475.8 MB**   |
+|     **📦 Github Storage:**    |   **475.9 MB**   |
 |  **📚 Public Repositories:**  |      **27**      |
 |  **🔑 Private Repositories:** |       **3**      |
 
@@ -85,9 +85,9 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   573 commits   [████████░░░░░░░░░░░░░░░░░]   32.43%
+🌞 Morning   572 commits   [████████░░░░░░░░░░░░░░░░░]   32.37%
 🌆 Daytime   520 commits   [███████░░░░░░░░░░░░░░░░░░]   29.43%
-🌃 Evening   629 commits   [████████░░░░░░░░░░░░░░░░░]   35.60%
+🌃 Evening   630 commits   [████████░░░░░░░░░░░░░░░░░]   35.65%
 🌙 Night     45 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.55%
 ```
 
@@ -95,37 +95,37 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 ```text
 Monday      155 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   8.77%
-Tuesday     315 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.83%
-Wednesday   328 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.56%
+Tuesday     314 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.77%
+Wednesday   327 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.51%
 Thursday    361 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.43%
 Friday      161 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.11%
 Saturday    212 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   12.00%
-Sunday      235 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.30%
+Sunday      237 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.41%
 ```
 
 #### 📊 Weekly work stats (last 7 days)
 
 ```text
 💬 Programming Languages:
-JavaScript   [41 hrs 19 mins]   [█████████████████████░░░░]   86.15%
-HTML         [2 hrs 39 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   5.54%
-CSS          [2 hrs 4 mins]     [█░░░░░░░░░░░░░░░░░░░░░░░░]   4.34%
-Bash         [49 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.72%
-JSON         [26 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.91%
-Other        [0h 38m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.33%
+JavaScript   [42 hrs 59 mins]   [███████████████████░░░░░░]   78.28%
+JSON         [4 hrs 19 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   7.86%
+HTML         [2 hrs 39 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   4.84%
+CSS          [2 hrs 5 mins]     [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.79%
+YAML         [1 hr 3 mins]      [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.92%
+Other        [1h 49m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.32%
 
 💻 Operating Systems:
-Linux        [47 hrs 57 mins]  [█████████████████████████]   100.00%
+Linux        [54 hrs 55 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Sat May 06 2023 21:51:38 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Sat May 06 2023 22:26:16 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[05/06 21:05]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[05/06 20:09]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `3` commits in [just-that/invite](https://github.com/just-that/invite)<br>`[05/06 19:34]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [octokit/octokit.js](https://github.com/octokit/octokit.js)<br>`[05/06 18:15]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/igorkowalczyk-is-brow...` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[05/06 18:15]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[05/06 18:15]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#434`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/434 'Update dependency @igorkowalczyk/is-browser to v3.2.0') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[05/06 18:15]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/igorkowalczyk-is-brow...` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[05/06 18:15]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[05/06 18:15]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#396`](https://github.com/IgorKowalczyk/majo.exe/pull/396 'Update dependency @igorkowalczyk/is-browser to v3.2.0') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[05/06 18:15]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/igorkowalczyk-is-brow...` from [just-that/invite](https://github.com/just-that/invite)
+`[05/06 22:15]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[05/06 22:14]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[05/06 21:05]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[05/06 20:09]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `3` commits in [just-that/invite](https://github.com/just-that/invite)<br>`[05/06 19:34]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [octokit/octokit.js](https://github.com/octokit/octokit.js)<br>`[05/06 18:15]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/igorkowalczyk-is-brow...` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[05/06 18:15]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[05/06 18:15]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#434`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/434 'Update dependency @igorkowalczyk/is-browser to v3.2.0') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[05/06 18:15]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/igorkowalczyk-is-brow...` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[05/06 18:15]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
 <!--END_SECTION:activity-->
 
 ---
