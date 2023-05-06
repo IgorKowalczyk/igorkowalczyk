@@ -67,14 +67,14 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sat May 06 2023 13:15:43 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sat May 06 2023 13:36:31 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
    
 ### 📊 Github Statistics
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       13722      |
+|    🏆 Contributions (Total)   |       13723      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **3729**     |
+| **🏆 Contributions in 2023:** |     **3730**     |
 |  **📝 Total lines of code:**  | **9.66 million** |
 |     **📦 Github Storage:**    |   **475.9 MB**   |
 |  **📚 Public Repositories:**  |      **27**      |
@@ -85,22 +85,22 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   580 commits   [████████░░░░░░░░░░░░░░░░░]   32.94%
-🌆 Daytime   504 commits   [███████░░░░░░░░░░░░░░░░░░]   28.62%
-🌃 Evening   629 commits   [████████░░░░░░░░░░░░░░░░░]   35.72%
-🌙 Night     48 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.73%
+🌞 Morning   580 commits   [████████░░░░░░░░░░░░░░░░░]   32.92%
+🌆 Daytime   505 commits   [███████░░░░░░░░░░░░░░░░░░]   28.66%
+🌃 Evening   629 commits   [████████░░░░░░░░░░░░░░░░░]   35.70%
+🌙 Night     48 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.72%
 ```
 
 #### 📅 I'm most productive on Thursday
 
 ```text
-Monday      160 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.09%
-Tuesday     317 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.00%
-Wednesday   340 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.31%
-Thursday    362 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.56%
-Friday      162 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.20%
-Saturday    212 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.04%
-Sunday      208 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.81%
+Monday      160 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.08%
+Tuesday     317 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.99%
+Wednesday   340 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.30%
+Thursday    362 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.54%
+Friday      162 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.19%
+Saturday    212 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.03%
+Sunday      209 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.86%
 ```
 
 #### 📊 Weekly work stats (last 7 days)
@@ -118,14 +118,14 @@ Other        [0h 38m]           [░░░░░░░░░░░░░░░�
 Linux        [47 hrs 57 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Sat May 06 2023 13:15:51 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Sat May 06 2023 13:36:45 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[05/06 11:08]` <a href="https://github.com/igorkowalczyk" title="🏷"><img alt="🏷" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/release.png" align="top" height="18"></a> Released [`v1.3.2`](https://github.com/IgorKowalczyk/shared-configs/releases/tag/v1.3.2) in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br>`[05/06 11:03]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br>`[05/06 11:03]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `v1.3.2` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br>`[05/06 10:54]` <a href="https://github.com/igorkowalczyk" title="🏷"><img alt="🏷" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/release.png" align="top" height="18"></a> Released [`v1.3.2`](https://github.com/IgorKowalczyk/shared-configs/releases/tag/v1.3.2) in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br>`[05/06 10:53]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `v1.3.2` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br>`[05/06 10:51]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br>`[05/06 10:49]` <a href="https://github.com/igorkowalczyk" title="🏷"><img alt="🏷" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/release.png" align="top" height="18"></a> Released [`v1.3.2`](https://github.com/IgorKowalczyk/shared-configs/releases/tag/v1.3.2) in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br>`[05/06 10:48]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br>`[05/06 10:15]` <a href="https://github.com/igorkowalczyk" title="🏷"><img alt="🏷" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/release.png" align="top" height="18"></a> Released [`v1.3.1`](https://github.com/IgorKowalczyk/shared-configs/releases/tag/v1.3.1) in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br>`[05/06 10:09]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)
+`[05/06 13:33]` <a href="https://github.com/igorkowalczyk" title="🏷"><img alt="🏷" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/release.png" align="top" height="18"></a> Released [`v1.3.2`](https://github.com/IgorKowalczyk/shared-configs/releases/tag/v1.3.2) in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br>`[05/06 13:32]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `v1.3.2` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br>`[05/06 13:31]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br>`[05/06 11:08]` <a href="https://github.com/igorkowalczyk" title="🏷"><img alt="🏷" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/release.png" align="top" height="18"></a> Released [`v1.3.2`](https://github.com/IgorKowalczyk/shared-configs/releases/tag/v1.3.2) in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br>`[05/06 11:03]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br>`[05/06 11:03]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `v1.3.2` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br>`[05/06 10:54]` <a href="https://github.com/igorkowalczyk" title="🏷"><img alt="🏷" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/release.png" align="top" height="18"></a> Released [`v1.3.2`](https://github.com/IgorKowalczyk/shared-configs/releases/tag/v1.3.2) in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br>`[05/06 10:53]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `v1.3.2` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br>`[05/06 10:51]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br>`[05/06 10:49]` <a href="https://github.com/igorkowalczyk" title="🏷"><img alt="🏷" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/release.png" align="top" height="18"></a> Released [`v1.3.2`](https://github.com/IgorKowalczyk/shared-configs/releases/tag/v1.3.2) in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)
 <!--END_SECTION:activity-->
 
 ---
