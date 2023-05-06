@@ -67,16 +67,16 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sat May 06 2023 17:51:29 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sat May 06 2023 18:17:35 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
    
 ### 📊 Github Statistics
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       13742      |
+|    🏆 Contributions (Total)   |       13795      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **3749**     |
+| **🏆 Contributions in 2023:** |     **3802**     |
 |  **📝 Total lines of code:**  | **9.66 million** |
-|     **📦 Github Storage:**    |   **476.1 MB**   |
+|     **📦 Github Storage:**    |   **476.0 MB**   |
 |  **📚 Public Repositories:**  |      **27**      |
 |  **🔑 Private Repositories:** |       **3**      |
 
@@ -85,22 +85,22 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   578 commits   [████████░░░░░░░░░░░░░░░░░]   32.75%
-🌆 Daytime   515 commits   [███████░░░░░░░░░░░░░░░░░░]   29.18%
-🌃 Evening   625 commits   [████████░░░░░░░░░░░░░░░░░]   35.41%
-🌙 Night     47 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.66%
+🌞 Morning   573 commits   [████████░░░░░░░░░░░░░░░░░]   32.43%
+🌆 Daytime   520 commits   [███████░░░░░░░░░░░░░░░░░░]   29.43%
+🌃 Evening   629 commits   [████████░░░░░░░░░░░░░░░░░]   35.60%
+🌙 Night     45 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.55%
 ```
 
 #### 📅 I'm most productive on Thursday
 
 ```text
-Monday      158 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   8.95%
-Tuesday     317 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.96%
-Wednesday   337 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.09%
-Thursday    362 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.51%
-Friday      161 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.12%
-Saturday    212 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.01%
-Sunday      218 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.35%
+Monday      155 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   8.77%
+Tuesday     315 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.83%
+Wednesday   329 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.62%
+Thursday    361 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.43%
+Friday      161 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.11%
+Saturday    212 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   12.00%
+Sunday      234 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.24%
 ```
 
 #### 📊 Weekly work stats (last 7 days)
@@ -118,14 +118,14 @@ Other        [0h 38m]           [░░░░░░░░░░░░░░░�
 Linux        [47 hrs 57 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Sat May 06 2023 17:51:37 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Sat May 06 2023 18:17:46 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[05/06 14:59]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/igorkowalczyk-prettie...` from [IgorKowalczyk/ngrok](https://github.com/IgorKowalczyk/ngrok)<br>`[05/06 14:59]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/ngrok](https://github.com/IgorKowalczyk/ngrok)<br>`[05/06 14:59]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#77`](https://github.com/IgorKowalczyk/ngrok/pull/77 'Update dependency @igorkowalczyk/prettier-config to v1.3.2') in [IgorKowalczyk/ngrok](https://github.com/IgorKowalczyk/ngrok)<br>`[05/06 14:59]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/igorkowalczyk-eslint-...` from [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)<br>`[05/06 14:59]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#94`](https://github.com/IgorKowalczyk/igorkowalczyk/pull/94 'Update dependency @igorkowalczyk/eslint-config to v1.3.2') in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)<br>`[05/06 14:59]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/igorkowalczyk-prettie...` from [IgorKowalczyk/tweet-ai](https://github.com/IgorKowalczyk/tweet-ai)<br>`[05/06 14:59]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/tweet-ai](https://github.com/IgorKowalczyk/tweet-ai)<br>`[05/06 14:59]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#59`](https://github.com/IgorKowalczyk/tweet-ai/pull/59 'Update dependency @igorkowalczyk/prettier-config to v1.3.2') in [IgorKowalczyk/tweet-ai](https://github.com/IgorKowalczyk/tweet-ai)<br>`[05/06 14:55]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/igorkowalczyk-eslint-...` from [IgorKowalczyk/ngrok](https://github.com/IgorKowalczyk/ngrok)<br>`[05/06 14:55]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/ngrok](https://github.com/IgorKowalczyk/ngrok)
+`[05/06 18:15]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/igorkowalczyk-is-brow...` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[05/06 18:15]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[05/06 18:15]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#434`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/434 'Update dependency @igorkowalczyk/is-browser to v3.2.0') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[05/06 18:15]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/igorkowalczyk-is-brow...` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[05/06 18:15]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[05/06 18:15]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#396`](https://github.com/IgorKowalczyk/majo.exe/pull/396 'Update dependency @igorkowalczyk/is-browser to v3.2.0') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[05/06 18:15]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/igorkowalczyk-is-brow...` from [just-that/invite](https://github.com/just-that/invite)<br>`[05/06 18:15]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [just-that/invite](https://github.com/just-that/invite)<br>`[05/06 18:15]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#143`](https://github.com/just-that/invite/pull/143 'Update dependency @igorkowalczyk/is-browser to v3.2.0') in [just-that/invite](https://github.com/just-that/invite)<br>`[05/06 18:15]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/igorkowalczyk-is-brow...` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)
 <!--END_SECTION:activity-->
 
 ---
