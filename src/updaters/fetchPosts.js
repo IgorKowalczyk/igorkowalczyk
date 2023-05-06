@@ -5,7 +5,6 @@ import { feed } from "../config.js";
 
 export async function fetchPosts(xml) {
  if (!xml) throw new Error("You must provide a link to get feed!");
- if (!xml.endsWith(".xml")) throw new Error("Link must have an .xml extension!");
  let content;
  console.log(`::debug:: [Posts] Fetching ${xml}`);
  await fetch(xml).then(async (res) => {
@@ -14,9 +13,9 @@ export async function fetchPosts(xml) {
   parseString(xmlBody, (err, result) => {
    if (err) throw new Error(err);
    content =
-    result.rss.channel[0].item
+    result.feed.entry
      .slice(0, feed.maxLines || 5)
-     .map(({ title, guid, pubDate }) => `- [${title}](${guid}) \`[${format(new Date(pubDate[0]), "MMMM dd, yyyy")}]\``)
+     .map(({ title, id, updated }) => `- [${title}](${id}) \`[${format(new Date(updated[0]), "MMMM dd, yyyy")}]\``)
      .join("\n") + `\n<!-- Posts last updated on ${new Date().toString()} -->`;
   });
  });

@@ -1,7 +1,7 @@
 export const feed = {
  open: "<!-- START_SECTION:feed -->",
  close: "<!-- END_SECTION:feed -->",
- link: "https://igorkowalczyk.dev/feed.xml",
+ link: "https://igorkowalczyk.dev/feed",
  maxLines: 5,
 };
 
