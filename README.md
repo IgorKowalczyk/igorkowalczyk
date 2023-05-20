@@ -67,14 +67,14 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sat May 20 2023 16:17:47 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sat May 20 2023 16:37:18 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
    
 ### 📊 Github Statistics
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       14129      |
+|    🏆 Contributions (Total)   |       14132      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **4136**     |
+| **🏆 Contributions in 2023:** |     **4139**     |
 |  **📝 Total lines of code:**  | **9.67 million** |
 |     **📦 Github Storage:**    |   **477.3 MB**   |
 |  **📚 Public Repositories:**  |      **27**      |
@@ -86,8 +86,8 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 ```text
 🌞 Morning   586 commits   [████████░░░░░░░░░░░░░░░░░]   32.81%
-🌆 Daytime   524 commits   [███████░░░░░░░░░░░░░░░░░░]   29.34%
-🌃 Evening   631 commits   [████████░░░░░░░░░░░░░░░░░]   35.33%
+🌆 Daytime   525 commits   [███████░░░░░░░░░░░░░░░░░░]   29.40%
+🌃 Evening   630 commits   [████████░░░░░░░░░░░░░░░░░]   35.27%
 🌙 Night     45 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.52%
 ```
 
@@ -99,8 +99,8 @@ Tuesday     324 commits   [████░░░░░░░░░░░░░�
 Wednesday   326 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.25%
 Thursday    346 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.37%
 Friday      162 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.07%
-Saturday    209 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.70%
-Sunday      248 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.89%
+Saturday    208 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.65%
+Sunday      249 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.94%
 ```
 
 #### 📊 Weekly work stats (last 7 days)
@@ -118,14 +118,14 @@ Other        [0h 7m]            [█░░░░░░░░░░░░░░�
 Linux        [30 hrs 54 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Sat May 20 2023 16:18:00 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Sat May 20 2023 16:37:27 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[05/20 09:13]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/octokit-rest-19.x` from [just-that/invite](https://github.com/just-that/invite)<br>`[05/20 09:13]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [just-that/invite](https://github.com/just-that/invite)<br>`[05/20 09:13]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#151`](https://github.com/just-that/invite/pull/151 'Update dependency @octokit/rest to v19.0.9') in [just-that/invite](https://github.com/just-that/invite)<br>`[05/20 09:13]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#151`](https://github.com/just-that/invite/pull/151 'Update dependency @octokit/rest to v19.0.9') in [just-that/invite](https://github.com/just-that/invite)<br>`[05/20 09:12]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/mongoose-7.x` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[05/20 09:12]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[05/20 09:12]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#217`](https://github.com/IgorKowalczyk/github-views/pull/217 'Update dependency mongoose to v7.2.0') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[05/20 09:12]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#217`](https://github.com/IgorKowalczyk/github-views/pull/217 'Update dependency mongoose to v7.2.0') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[05/20 09:03]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-8.x` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br>`[05/20 09:03]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)
+`[05/20 16:26]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#220`](https://github.com/IgorKowalczyk/github-views/pull/220 'Update dependency astro to v2.5.1') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[05/20 16:24]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/astro-compress-1.x` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[05/20 16:24]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[05/20 16:24]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#219`](https://github.com/IgorKowalczyk/github-views/pull/219 'Update dependency astro-compress to v1.1.44') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[05/20 16:24]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#219`](https://github.com/IgorKowalczyk/github-views/pull/219 'Update dependency astro-compress to v1.1.44') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[05/20 09:13]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/octokit-rest-19.x` from [just-that/invite](https://github.com/just-that/invite)<br>`[05/20 09:13]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [just-that/invite](https://github.com/just-that/invite)<br>`[05/20 09:13]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#151`](https://github.com/just-that/invite/pull/151 'Update dependency @octokit/rest to v19.0.9') in [just-that/invite](https://github.com/just-that/invite)<br>`[05/20 09:13]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#151`](https://github.com/just-that/invite/pull/151 'Update dependency @octokit/rest to v19.0.9') in [just-that/invite](https://github.com/just-that/invite)<br>`[05/20 09:12]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/mongoose-7.x` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)
 <!--END_SECTION:activity-->
 
 ---
