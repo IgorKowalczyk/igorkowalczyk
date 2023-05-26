@@ -67,16 +67,16 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Fri May 26 2023 21:51:28 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Fri May 26 2023 22:26:59 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
    
 ### 📊 Github Statistics
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       14329      |
+|    🏆 Contributions (Total)   |       14331      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **4336**     |
+| **🏆 Contributions in 2023:** |     **4338**     |
 |  **📝 Total lines of code:**  | **9.67 million** |
-|     **📦 Github Storage:**    |   **476.9 MB**   |
+|     **📦 Github Storage:**    |   **476.8 MB**   |
 |  **📚 Public Repositories:**  |      **27**      |
 |  **🔑 Private Repositories:** |       **3**      |
 
@@ -85,9 +85,9 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   593 commits   [████████░░░░░░░░░░░░░░░░░]   33.02%
+🌞 Morning   592 commits   [████████░░░░░░░░░░░░░░░░░]   32.96%
 🌆 Daytime   502 commits   [██████░░░░░░░░░░░░░░░░░░░]   27.95%
-🌃 Evening   658 commits   [█████████░░░░░░░░░░░░░░░░]   36.64%
+🌃 Evening   659 commits   [█████████░░░░░░░░░░░░░░░░]   36.69%
 🌙 Night     43 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.39%
 ```
 
@@ -95,11 +95,11 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 ```text
 Monday      169 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.41%
-Tuesday     332 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.49%
-Wednesday   317 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.65%
+Tuesday     331 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.43%
+Wednesday   316 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.59%
 Thursday    344 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.15%
 Friday      180 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   10.02%
-Saturday    213 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.86%
+Saturday    215 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.97%
 Sunday      241 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.42%
 ```
 
@@ -107,25 +107,25 @@ Sunday      241 commits   [███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages:
-JavaScript   [31 hrs 48 mins]   [███████████████████░░░░░░]   79.86%
-JSON         [2 hrs 47 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   7.00%
+JavaScript   [32 hrs 21 mins]   [███████████████████░░░░░░]   76.31%
+JSON         [4 hrs 3 mins]     [██░░░░░░░░░░░░░░░░░░░░░░░]   9.59%
 
-YAML         [1 hr 28 mins]     [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.70%
-Bash         [46 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.95%
-Other        [0h 22m]           [█░░░░░░░░░░░░░░░░░░░░░░░░]   7.47%
+YAML         [1 hr 30 mins]     [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.54%
+Bash         [46 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.84%
+Other        [0h 42m]           [██░░░░░░░░░░░░░░░░░░░░░░░]   8.72%
 
 💻 Operating Systems:
-Linux        [39 hrs 49 mins]  [█████████████████████████]   100.00%
+Linux        [42 hrs 24 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Fri May 26 2023 21:51:35 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Fri May 26 2023 22:27:09 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[05/26 21:50]` <a href="https://github.com/igorkowalczyk" title="🏷"><img alt="🏷" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/release.png" align="top" height="18"></a> Released [`v4.0.1`](https://github.com/IgorKowalczyk/is-browser/releases/tag/v4.0.1) in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br>`[05/26 21:49]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br>`[05/26 21:42]` <a href="https://github.com/igorkowalczyk" title="🏷"><img alt="🏷" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/release.png" align="top" height="18"></a> Released [`v4.0.0`](https://github.com/IgorKowalczyk/is-browser/releases/tag/v4.0.0) in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br>`[05/26 21:11]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `3` commits in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br>`[05/26 20:37]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br>`[05/26 20:35]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br>`[05/26 20:33]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `3` commits in [IgorKowalczyk/ngrok](https://github.com/IgorKowalczyk/ngrok)<br>`[05/26 20:19]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `3` commits in [IgorKowalczyk/ngrok](https://github.com/IgorKowalczyk/ngrok)<br>`[05/26 20:13]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[05/26 17:32]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/prettier-plugin-astro...` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)
+`[05/26 22:13]` <a href="https://github.com/igorkowalczyk" title="🏷"><img alt="🏷" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/release.png" align="top" height="18"></a> Released [`v4.0.2`](https://github.com/IgorKowalczyk/is-browser/releases/tag/v4.0.2) in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br>`[05/26 22:12]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br>`[05/26 21:50]` <a href="https://github.com/igorkowalczyk" title="🏷"><img alt="🏷" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/release.png" align="top" height="18"></a> Released [`v4.0.1`](https://github.com/IgorKowalczyk/is-browser/releases/tag/v4.0.1) in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br>`[05/26 21:49]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br>`[05/26 21:42]` <a href="https://github.com/igorkowalczyk" title="🏷"><img alt="🏷" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/release.png" align="top" height="18"></a> Released [`v4.0.0`](https://github.com/IgorKowalczyk/is-browser/releases/tag/v4.0.0) in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br>`[05/26 21:11]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `3` commits in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br>`[05/26 20:37]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br>`[05/26 20:35]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br>`[05/26 20:33]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `3` commits in [IgorKowalczyk/ngrok](https://github.com/IgorKowalczyk/ngrok)<br>`[05/26 20:19]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `3` commits in [IgorKowalczyk/ngrok](https://github.com/IgorKowalczyk/ngrok)
 <!--END_SECTION:activity-->
 
 ---
