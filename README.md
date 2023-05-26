@@ -67,14 +67,14 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Fri May 26 2023 20:51:22 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Fri May 26 2023 21:12:21 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
    
 ### 📊 Github Statistics
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       14325      |
+|    🏆 Contributions (Total)   |       14328      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **4332**     |
+| **🏆 Contributions in 2023:** |     **4335**     |
 |  **📝 Total lines of code:**  | **9.67 million** |
 |     **📦 Github Storage:**    |   **477.0 MB**   |
 |  **📚 Public Repositories:**  |      **27**      |
@@ -85,9 +85,9 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   596 commits   [████████░░░░░░░░░░░░░░░░░]   33.18%
-🌆 Daytime   501 commits   [██████░░░░░░░░░░░░░░░░░░░]   27.90%
-🌃 Evening   656 commits   [█████████░░░░░░░░░░░░░░░░]   36.53%
+🌞 Morning   594 commits   [████████░░░░░░░░░░░░░░░░░]   33.07%
+🌆 Daytime   502 commits   [██████░░░░░░░░░░░░░░░░░░░]   27.95%
+🌃 Evening   657 commits   [█████████░░░░░░░░░░░░░░░░]   36.58%
 🌙 Night     43 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.39%
 ```
 
@@ -96,11 +96,11 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ```text
 Monday      169 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.41%
 Tuesday     332 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.49%
-Wednesday   316 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.59%
+Wednesday   317 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.65%
 Thursday    344 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.15%
-Friday      181 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   10.08%
-Saturday    211 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.75%
-Sunday      243 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.53%
+Friday      180 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   10.02%
+Saturday    212 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.80%
+Sunday      242 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.47%
 ```
 
 #### 📊 Weekly work stats (last 7 days)
@@ -118,14 +118,14 @@ Other        [0h 22m]           [█░░░░░░░░░░░░░░�
 Linux        [39 hrs 49 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Fri May 26 2023 20:51:29 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Fri May 26 2023 21:12:29 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[05/26 20:37]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br>`[05/26 20:35]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br>`[05/26 20:33]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `3` commits in [IgorKowalczyk/ngrok](https://github.com/IgorKowalczyk/ngrok)<br>`[05/26 20:19]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `3` commits in [IgorKowalczyk/ngrok](https://github.com/IgorKowalczyk/ngrok)<br>`[05/26 20:13]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[05/26 17:32]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/prettier-plugin-astro...` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[05/26 17:32]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[05/26 17:32]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#230`](https://github.com/IgorKowalczyk/github-views/pull/230 'Update dependency prettier-plugin-astro to v0.9.1') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[05/26 17:32]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#230`](https://github.com/IgorKowalczyk/github-views/pull/230 'Update dependency prettier-plugin-astro to v0.9.1') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[05/26 10:31]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)
+`[05/26 21:07]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br>`[05/26 20:37]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br>`[05/26 20:35]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br>`[05/26 20:33]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `3` commits in [IgorKowalczyk/ngrok](https://github.com/IgorKowalczyk/ngrok)<br>`[05/26 20:19]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `3` commits in [IgorKowalczyk/ngrok](https://github.com/IgorKowalczyk/ngrok)<br>`[05/26 20:13]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[05/26 17:32]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/prettier-plugin-astro...` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[05/26 17:32]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[05/26 17:32]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#230`](https://github.com/IgorKowalczyk/github-views/pull/230 'Update dependency prettier-plugin-astro to v0.9.1') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[05/26 17:32]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#230`](https://github.com/IgorKowalczyk/github-views/pull/230 'Update dependency prettier-plugin-astro to v0.9.1') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)
 <!--END_SECTION:activity-->
 
 ---
