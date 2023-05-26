@@ -2,7 +2,7 @@
   "name": "@igorkowalczyk/igorkowalczyk",
   "version": "3.1.0",
   "description": "A script to auto-update my profile readme with latest statisics",
-  "main": "src/index.js",
+  "exports": "src/index.js",
   "author": "Igor Kowalczyk",
   "license": "MIT",
   "type": "module",
