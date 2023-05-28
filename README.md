@@ -67,15 +67,15 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sun May 28 2023 11:36:30 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sun May 28 2023 11:51:24 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
    
 ### 📊 Github Statistics
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       14362      |
+|    🏆 Contributions (Total)   |       14364      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **4369**     |
-|  **📝 Total lines of code:**  | **9.68 million** |
+| **🏆 Contributions in 2023:** |     **4371**     |
+|  **📝 Total lines of code:**  | **9.67 million** |
 |     **📦 Github Storage:**    |   **477.2 MB**   |
 |  **📚 Public Repositories:**  |      **27**      |
 |  **🔑 Private Repositories:** |       **3**      |
@@ -85,8 +85,8 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   598 commits   [████████░░░░░░░░░░░░░░░░░]   33.30%
-🌆 Daytime   498 commits   [██████░░░░░░░░░░░░░░░░░░░]   27.73%
+🌞 Morning   599 commits   [████████░░░░░░░░░░░░░░░░░]   33.35%
+🌆 Daytime   497 commits   [██████░░░░░░░░░░░░░░░░░░░]   27.67%
 🌃 Evening   658 commits   [█████████░░░░░░░░░░░░░░░░]   36.64%
 🌙 Night     42 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.34%
 ```
@@ -94,8 +94,8 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I'm most productive on Thursday
 
 ```text
-Monday      171 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.52%
-Tuesday     330 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.37%
+Monday      172 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.58%
+Tuesday     329 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.32%
 Wednesday   316 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.59%
 Thursday    340 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.93%
 Friday      179 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.97%
@@ -118,14 +118,14 @@ Other        [0h 45m]           [██░░░░░░░░░░░░░�
 Linux        [42 hrs 36 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Sun May 28 2023 11:36:37 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Sun May 28 2023 11:51:34 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[05/28 11:09]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/strip-ansi-7.x` from [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br>`[05/28 11:09]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br>`[05/28 11:09]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#98`](https://github.com/IgorKowalczyk/discord-ssh/pull/98 'Update dependency strip-ansi to v7.1.0') in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br>`[05/28 11:09]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/postcss-8.x` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[05/28 11:09]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[05/28 11:09]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#232`](https://github.com/IgorKowalczyk/github-views/pull/232 'Update dependency postcss to v8.4.24') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[05/28 11:09]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#232`](https://github.com/IgorKowalczyk/github-views/pull/232 'Update dependency postcss to v8.4.24') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[05/28 11:09]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#98`](https://github.com/IgorKowalczyk/discord-ssh/pull/98 'Update dependency strip-ansi to v7.1.0') in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br>`[05/27 20:55]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br>`[05/27 12:40]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [just-that/invite](https://github.com/just-that/invite)
+`[05/28 11:50]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/postcss-8.x` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[05/28 11:50]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[05/28 11:50]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#455`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/455 'Update dependency postcss to v8.4.24') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[05/28 11:50]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#455`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/455 'Update dependency postcss to v8.4.24') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[05/28 11:09]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/strip-ansi-7.x` from [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br>`[05/28 11:09]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br>`[05/28 11:09]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#98`](https://github.com/IgorKowalczyk/discord-ssh/pull/98 'Update dependency strip-ansi to v7.1.0') in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br>`[05/28 11:09]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/postcss-8.x` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[05/28 11:09]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[05/28 11:09]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#232`](https://github.com/IgorKowalczyk/github-views/pull/232 'Update dependency postcss to v8.4.24') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)
 <!--END_SECTION:activity-->
 
 ---
