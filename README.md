@@ -67,14 +67,14 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Wed May 31 2023 19:22:21 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Wed May 31 2023 19:36:29 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
    
 ### 📊 Github Statistics
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       14511      |
+|    🏆 Contributions (Total)   |       14522      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **4518**     |
+| **🏆 Contributions in 2023:** |     **4529**     |
 |  **📝 Total lines of code:**  | **9.68 million** |
 |     **📦 Github Storage:**    |    **2.7 GB**    |
 |  **📚 Public Repositories:**  |      **28**      |
@@ -85,9 +85,9 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   604 commits   [████████░░░░░░░░░░░░░░░░░]   33.52%
+🌞 Morning   602 commits   [████████░░░░░░░░░░░░░░░░░]   33.41%
 🌆 Daytime   492 commits   [██████░░░░░░░░░░░░░░░░░░░]   27.30%
-🌃 Evening   664 commits   [█████████░░░░░░░░░░░░░░░░]   36.85%
+🌃 Evening   666 commits   [█████████░░░░░░░░░░░░░░░░]   36.96%
 🌙 Night     42 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.33%
 ```
 
@@ -95,12 +95,12 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 ```text
 Monday      186 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   10.32%
-Tuesday     320 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.76%
+Tuesday     319 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.70%
 Wednesday   327 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.15%
-Thursday    344 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.09%
+Thursday    346 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.20%
 Friday      174 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.66%
 Saturday    210 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.65%
-Sunday      241 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.37%
+Sunday      240 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.32%
 ```
 
 #### 📊 Weekly work stats (last 7 days)
@@ -118,14 +118,14 @@ Other        [2h 3m]            [██░░░░░░░░░░░░░�
 Linux        [41 hrs 29 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Wed May 31 2023 19:22:31 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Wed May 31 2023 19:36:38 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[05/31 16:17]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/contentlayer` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[05/31 16:17]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#459`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/459 'Update contentlayer to v0.3.3') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[05/31 16:17]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[05/31 16:17]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#459`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/459 'Update contentlayer to v0.3.3') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[05/31 10:22]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [vitest-dev/vitest](https://github.com/vitest-dev/vitest)<br>`[05/31 07:02]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/astrojs-vercel-3.x` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[05/31 07:02]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#237`](https://github.com/IgorKowalczyk/github-views/pull/237 'Update dependency @astrojs/vercel to v3.4.1') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[05/31 07:02]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[05/31 07:00]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#237`](https://github.com/IgorKowalczyk/github-views/pull/237 'Update dependency @astrojs/vercel to v3.4.1') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[05/31 06:59]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/dotenv-16.x` from [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)
+`[05/31 17:13]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#69`](https://github.com/IgorKowalczyk/tweet-ai/pull/69 'Update dependency dotenv to v16.1.2') in [IgorKowalczyk/tweet-ai](https://github.com/IgorKowalczyk/tweet-ai)<br>`[05/31 17:13]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/dotenv-16.x` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[05/31 17:13]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[05/31 17:13]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#460`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/460 'Update dependency dotenv to v16.1.2') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[05/31 17:13]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#460`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/460 'Update dependency dotenv to v16.1.2') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[05/31 16:17]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/contentlayer` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[05/31 16:17]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#459`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/459 'Update contentlayer to v0.3.3') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[05/31 16:17]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[05/31 16:17]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#459`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/459 'Update contentlayer to v0.3.3') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[05/31 10:22]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [vitest-dev/vitest](https://github.com/vitest-dev/vitest)
 <!--END_SECTION:activity-->
 
 ---
