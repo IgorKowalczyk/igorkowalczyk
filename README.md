@@ -67,14 +67,14 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Fri Jun 02 2023 18:17:41 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Fri Jun 02 2023 18:36:44 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
    
 ### 📊 Github Statistics
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       14571      |
+|    🏆 Contributions (Total)   |       14572      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **4578**     |
+| **🏆 Contributions in 2023:** |     **4579**     |
 |  **📝 Total lines of code:**  | **9.68 million** |
 |     **📦 Github Storage:**    |    **2.7 GB**    |
 |  **📚 Public Repositories:**  |      **28**      |
@@ -86,8 +86,8 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 ```text
 🌞 Morning   603 commits   [████████░░░░░░░░░░░░░░░░░]   33.43%
-🌆 Daytime   495 commits   [██████░░░░░░░░░░░░░░░░░░░]   27.44%
-🌃 Evening   664 commits   [█████████░░░░░░░░░░░░░░░░]   36.81%
+🌆 Daytime   494 commits   [██████░░░░░░░░░░░░░░░░░░░]   27.38%
+🌃 Evening   665 commits   [█████████░░░░░░░░░░░░░░░░]   36.86%
 🌙 Night     42 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.33%
 ```
 
@@ -98,8 +98,8 @@ Monday      184 commits   [██░░░░░░░░░░░░░░░�
 Tuesday     319 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.68%
 Wednesday   321 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.79%
 Thursday    345 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.12%
-Friday      186 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   10.31%
-Saturday    213 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.81%
+Friday      185 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   10.25%
+Saturday    214 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.86%
 Sunday      236 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.08%
 ```
 
@@ -118,14 +118,14 @@ Other        [2h 4m]            [██░░░░░░░░░░░░░�
 Linux        [44 hrs 46 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Fri Jun 02 2023 18:17:51 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Fri Jun 02 2023 18:36:53 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[06/02 15:56]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[06/02 15:31]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#240`](https://github.com/IgorKowalczyk/github-views/pull/240 'Update dependency astro to v2.5.7') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[06/02 15:31]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/astro-2.x` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[06/02 15:31]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[06/02 15:31]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#240`](https://github.com/IgorKowalczyk/github-views/pull/240 'Update dependency astro to v2.5.7') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[06/02 15:17]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/prettier-plugin-astro...` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[06/02 15:17]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[06/02 15:17]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#239`](https://github.com/IgorKowalczyk/github-views/pull/239 'Update dependency prettier-plugin-astro to v0.10.0') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[06/02 15:17]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#239`](https://github.com/IgorKowalczyk/github-views/pull/239 'Update dependency prettier-plugin-astro to v0.10.0') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[06/01 21:16]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
+`[06/02 18:21]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[06/02 15:31]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#240`](https://github.com/IgorKowalczyk/github-views/pull/240 'Update dependency astro to v2.5.7') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[06/02 15:31]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/astro-2.x` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[06/02 15:31]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[06/02 15:31]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#240`](https://github.com/IgorKowalczyk/github-views/pull/240 'Update dependency astro to v2.5.7') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[06/02 15:17]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/prettier-plugin-astro...` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[06/02 15:17]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[06/02 15:17]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#239`](https://github.com/IgorKowalczyk/github-views/pull/239 'Update dependency prettier-plugin-astro to v0.10.0') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[06/02 15:17]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#239`](https://github.com/IgorKowalczyk/github-views/pull/239 'Update dependency prettier-plugin-astro to v0.10.0') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[06/01 21:16]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
 <!--END_SECTION:activity-->
 
 ---
