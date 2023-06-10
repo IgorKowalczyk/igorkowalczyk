@@ -67,14 +67,14 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sat Jun 10 2023 10:14:50 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sat Jun 10 2023 10:28:59 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
    
 ### 📊 Github Statistics
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       14768      |
+|    🏆 Contributions (Total)   |       14776      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **4775**     |
+| **🏆 Contributions in 2023:** |     **4783**     |
 |  **📝 Total lines of code:**  | **8.99 million** |
 |     **📦 Github Storage:**    |    **2.7 GB**    |
 |  **📚 Public Repositories:**  |      **28**      |
@@ -85,22 +85,22 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   601 commits   [████████░░░░░░░░░░░░░░░░░]   33.20%
-🌆 Daytime   504 commits   [██████░░░░░░░░░░░░░░░░░░░]   27.85%
-🌃 Evening   663 commits   [█████████░░░░░░░░░░░░░░░░]   36.63%
+🌞 Morning   602 commits   [████████░░░░░░░░░░░░░░░░░]   33.24%
+🌆 Daytime   504 commits   [██████░░░░░░░░░░░░░░░░░░░]   27.83%
+🌃 Evening   663 commits   [█████████░░░░░░░░░░░░░░░░]   36.61%
 🌙 Night     42 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.32%
 ```
 
 #### 📅 I'm most productive on Thursday
 
 ```text
-Monday      205 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.33%
-Tuesday     331 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.29%
-Wednesday   306 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.91%
-Thursday    337 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.62%
-Friday      186 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   10.28%
-Saturday    215 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.88%
-Sunday      230 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.71%
+Monday      204 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.26%
+Tuesday     331 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.28%
+Wednesday   305 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.84%
+Thursday    337 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.61%
+Friday      186 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   10.27%
+Saturday    215 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.87%
+Sunday      233 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.87%
 ```
 
 #### 📊 Weekly work stats (last 7 days)
@@ -118,14 +118,14 @@ Other        [2h 39m]           [████░░░░░░░░░░░�
 Linux        [63 hrs 49 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Sat Jun 10 2023 10:14:59 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Sat Jun 10 2023 10:29:10 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[06/09 21:15]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[06/09 20:09]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[06/09 19:16]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/turbo-monorepo` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[06/09 19:16]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[06/09 19:16]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#439`](https://github.com/IgorKowalczyk/majo.exe/pull/439 'Update turbo monorepo to v1.10.3') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[06/09 19:16]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#439`](https://github.com/IgorKowalczyk/majo.exe/pull/439 'Update turbo monorepo to v1.10.3') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[06/09 19:13]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `3` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[06/09 11:23]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [apple/swift-evolution](https://github.com/apple/swift-evolution)<br>`[06/09 11:01]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [apple/foundationdb](https://github.com/apple/foundationdb)<br>`[06/09 11:01]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [apple/swift](https://github.com/apple/swift)
+`[06/10 10:27]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/esbuild-0.x` from [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br>`[06/10 10:27]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br>`[06/10 10:27]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#110`](https://github.com/IgorKowalczyk/is-browser/pull/110 'Update dependency esbuild to v0.18.0') in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br>`[06/10 10:27]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#110`](https://github.com/IgorKowalczyk/is-browser/pull/110 'Update dependency esbuild to v0.18.0') in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br>`[06/10 10:25]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/mongoose-7.x` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[06/10 10:25]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[06/10 10:25]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#249`](https://github.com/IgorKowalczyk/github-views/pull/249 'Update dependency mongoose to v7.2.3') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[06/10 10:25]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#249`](https://github.com/IgorKowalczyk/github-views/pull/249 'Update dependency mongoose to v7.2.3') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[06/10 10:25]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/turbo-monorepo` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br>`[06/10 10:25]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)
 <!--END_SECTION:activity-->
 
 ---
