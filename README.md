@@ -67,14 +67,14 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sat Jun 10 2023 20:36:39 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sat Jun 10 2023 21:11:51 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
    
 ### 📊 Github Statistics
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       14777      |
+|    🏆 Contributions (Total)   |       14778      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **4784**     |
+| **🏆 Contributions in 2023:** |     **4785**     |
 |  **📝 Total lines of code:**  | **8.99 million** |
 |     **📦 Github Storage:**    |    **2.7 GB**    |
 |  **📚 Public Repositories:**  |      **28**      |
@@ -85,9 +85,9 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   601 commits   [████████░░░░░░░░░░░░░░░░░]   33.19%
+🌞 Morning   600 commits   [████████░░░░░░░░░░░░░░░░░]   33.13%
 🌆 Daytime   504 commits   [██████░░░░░░░░░░░░░░░░░░░]   27.83%
-🌃 Evening   664 commits   [█████████░░░░░░░░░░░░░░░░]   36.66%
+🌃 Evening   665 commits   [█████████░░░░░░░░░░░░░░░░]   36.72%
 🌙 Night     42 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.32%
 ```
 
@@ -98,9 +98,9 @@ Monday      204 commits   [██░░░░░░░░░░░░░░░�
 Tuesday     331 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.28%
 Wednesday   305 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.84%
 Thursday    337 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.61%
-Friday      185 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   10.22%
+Friday      184 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   10.16%
 Saturday    215 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.87%
-Sunday      234 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.92%
+Sunday      235 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.98%
 ```
 
 #### 📊 Weekly work stats (last 7 days)
@@ -118,14 +118,14 @@ Other        [2h 39m]           [████░░░░░░░░░░░�
 Linux        [63 hrs 49 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Sat Jun 10 2023 20:36:47 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Sat Jun 10 2023 21:12:05 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[06/10 20:07]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [hasura/graphql-engine](https://github.com/hasura/graphql-engine)<br>`[06/10 20:02]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[06/10 10:27]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/esbuild-0.x` from [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br>`[06/10 10:27]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br>`[06/10 10:27]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#110`](https://github.com/IgorKowalczyk/is-browser/pull/110 'Update dependency esbuild to v0.18.0') in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br>`[06/10 10:27]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#110`](https://github.com/IgorKowalczyk/is-browser/pull/110 'Update dependency esbuild to v0.18.0') in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br>`[06/10 10:25]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/mongoose-7.x` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[06/10 10:25]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[06/10 10:25]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#249`](https://github.com/IgorKowalczyk/github-views/pull/249 'Update dependency mongoose to v7.2.3') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[06/10 10:25]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#249`](https://github.com/IgorKowalczyk/github-views/pull/249 'Update dependency mongoose to v7.2.3') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)
+`[06/10 21:07]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[06/10 20:07]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [hasura/graphql-engine](https://github.com/hasura/graphql-engine)<br>`[06/10 20:02]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[06/10 10:27]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/esbuild-0.x` from [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br>`[06/10 10:27]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br>`[06/10 10:27]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#110`](https://github.com/IgorKowalczyk/is-browser/pull/110 'Update dependency esbuild to v0.18.0') in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br>`[06/10 10:27]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#110`](https://github.com/IgorKowalczyk/is-browser/pull/110 'Update dependency esbuild to v0.18.0') in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br>`[06/10 10:25]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/mongoose-7.x` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[06/10 10:25]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[06/10 10:25]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#249`](https://github.com/IgorKowalczyk/github-views/pull/249 'Update dependency mongoose to v7.2.3') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)
 <!--END_SECTION:activity-->
 
 ---
