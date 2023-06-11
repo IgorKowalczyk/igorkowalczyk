@@ -67,14 +67,14 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sun Jun 11 2023 14:25:37 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sun Jun 11 2023 14:36:49 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
    
 ### 📊 Github Statistics
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       14806      |
+|    🏆 Contributions (Total)   |       14808      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **4813**     |
+| **🏆 Contributions in 2023:** |     **4815**     |
 |  **📝 Total lines of code:**  | **8.99 million** |
 |     **📦 Github Storage:**    |    **2.7 GB**    |
 |  **📚 Public Repositories:**  |      **28**      |
@@ -85,19 +85,19 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   600 commits   [████████░░░░░░░░░░░░░░░░░]   33.13%
-🌆 Daytime   506 commits   [██████░░░░░░░░░░░░░░░░░░░]   27.94%
-🌃 Evening   663 commits   [█████████░░░░░░░░░░░░░░░░]   36.61%
+🌞 Morning   599 commits   [████████░░░░░░░░░░░░░░░░░]   33.08%
+🌆 Daytime   508 commits   [███████░░░░░░░░░░░░░░░░░░]   28.05%
+🌃 Evening   662 commits   [█████████░░░░░░░░░░░░░░░░]   36.55%
 🌙 Night     42 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.32%
 ```
 
 #### 📅 I'm most productive on Thursday
 
 ```text
-Monday      209 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.54%
-Tuesday     323 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.84%
+Monday      211 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.65%
+Tuesday     322 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.78%
 Wednesday   304 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.79%
-Thursday    336 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.55%
+Thursday    335 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.50%
 Friday      183 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   10.10%
 Saturday    215 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.87%
 Sunday      241 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.31%
@@ -118,14 +118,14 @@ Other        [2h 57m]           [████░░░░░░░░░░░�
 Linux        [71 hrs 43 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Sun Jun 11 2023 14:25:46 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Sun Jun 11 2023 14:36:58 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[06/11 14:18]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `6` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[06/11 12:53]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/nextjs-monorepo` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[06/11 12:53]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[06/11 12:53]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#471`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/471 'Update nextjs monorepo to v13.4.5') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[06/11 12:53]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/nextjs-monorepo` from [just-that/invite](https://github.com/just-that/invite)<br>`[06/11 12:53]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [just-that/invite](https://github.com/just-that/invite)<br>`[06/11 12:53]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#164`](https://github.com/just-that/invite/pull/164 'Update nextjs monorepo to v13.4.5') in [just-that/invite](https://github.com/just-that/invite)<br>`[06/11 12:53]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#471`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/471 'Update nextjs monorepo to v13.4.5') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[06/11 12:53]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#164`](https://github.com/just-that/invite/pull/164 'Update nextjs monorepo to v13.4.5') in [just-that/invite](https://github.com/just-that/invite)<br>`[06/11 10:51]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
+`[06/11 14:36]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `8` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[06/11 12:53]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/nextjs-monorepo` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[06/11 12:53]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[06/11 12:53]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#471`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/471 'Update nextjs monorepo to v13.4.5') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[06/11 12:53]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/nextjs-monorepo` from [just-that/invite](https://github.com/just-that/invite)<br>`[06/11 12:53]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [just-that/invite](https://github.com/just-that/invite)<br>`[06/11 12:53]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#164`](https://github.com/just-that/invite/pull/164 'Update nextjs monorepo to v13.4.5') in [just-that/invite](https://github.com/just-that/invite)<br>`[06/11 12:53]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#471`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/471 'Update nextjs monorepo to v13.4.5') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[06/11 12:53]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#164`](https://github.com/just-that/invite/pull/164 'Update nextjs monorepo to v13.4.5') in [just-that/invite](https://github.com/just-that/invite)<br>`[06/11 10:51]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
 <!--END_SECTION:activity-->
 
 ---
