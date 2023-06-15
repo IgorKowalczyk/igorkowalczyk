@@ -67,14 +67,14 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Thu Jun 15 2023 06:37:27 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Thu Jun 15 2023 06:51:39 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
    
 ### 📊 Github Statistics
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       14862      |
+|    🏆 Contributions (Total)   |       14864      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **4869**     |
+| **🏆 Contributions in 2023:** |     **4871**     |
 |  **📝 Total lines of code:**  | **9.03 million** |
 |     **📦 Github Storage:**    |    **2.7 GB**    |
 |  **📚 Public Repositories:**  |      **28**      |
@@ -85,10 +85,10 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   603 commits   [████████░░░░░░░░░░░░░░░░░]   33.24%
+🌞 Morning   604 commits   [████████░░░░░░░░░░░░░░░░░]   33.30%
 🌆 Daytime   508 commits   [███████░░░░░░░░░░░░░░░░░░]   28.00%
 🌃 Evening   661 commits   [█████████░░░░░░░░░░░░░░░░]   36.44%
-🌙 Night     42 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.32%
+🌙 Night     41 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.26%
 ```
 
 #### 📅 I'm most productive on Tuesday
@@ -97,8 +97,8 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 Monday      213 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.74%
 Tuesday     333 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.36%
 Wednesday   303 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.70%
-Thursday    328 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.08%
-Friday      185 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   10.20%
+Thursday    327 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.03%
+Friday      186 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   10.25%
 Saturday    212 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.69%
 Sunday      240 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.23%
 ```
@@ -118,14 +118,14 @@ Other        [0h 54m]           [██░░░░░░░░░░░░░�
 Linux        [60 hrs 52 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Thu Jun 15 2023 06:37:39 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Thu Jun 15 2023 06:51:47 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[06/15 06:31]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/graphql-request-6.x` from [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)<br>`[06/15 06:31]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#111`](https://github.com/IgorKowalczyk/igorkowalczyk/pull/111 'Update dependency graphql-request to v6') in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)<br>`[06/15 06:31]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/tweet-ai](https://github.com/IgorKowalczyk/tweet-ai)<br>`[06/15 06:31]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/openai-3.x` from [IgorKowalczyk/tweet-ai](https://github.com/IgorKowalczyk/tweet-ai)<br>`[06/15 06:31]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#75`](https://github.com/IgorKowalczyk/tweet-ai/pull/75 'Update dependency openai to v3.3.0') in [IgorKowalczyk/tweet-ai](https://github.com/IgorKowalczyk/tweet-ai)<br>`[06/15 06:31]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#75`](https://github.com/IgorKowalczyk/tweet-ai/pull/75 'Update dependency openai to v3.3.0') in [IgorKowalczyk/tweet-ai](https://github.com/IgorKowalczyk/tweet-ai)<br>`[06/15 06:31]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#111`](https://github.com/IgorKowalczyk/igorkowalczyk/pull/111 'Update dependency graphql-request to v6') in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)<br>`[06/15 06:30]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#252`](https://github.com/IgorKowalczyk/github-views/pull/252 'Update dependency mongoose to v7.3.0') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[06/15 06:30]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/mongoose-7.x` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[06/15 06:30]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)
+`[06/15 06:37]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/astro-2.x` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[06/15 06:37]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[06/15 06:37]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#254`](https://github.com/IgorKowalczyk/github-views/pull/254 'Update dependency astro to v2.6.4') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[06/15 06:37]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#254`](https://github.com/IgorKowalczyk/github-views/pull/254 'Update dependency astro to v2.6.4') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[06/15 06:31]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/graphql-request-6.x` from [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)<br>`[06/15 06:31]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#111`](https://github.com/IgorKowalczyk/igorkowalczyk/pull/111 'Update dependency graphql-request to v6') in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)<br>`[06/15 06:31]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/tweet-ai](https://github.com/IgorKowalczyk/tweet-ai)<br>`[06/15 06:31]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/openai-3.x` from [IgorKowalczyk/tweet-ai](https://github.com/IgorKowalczyk/tweet-ai)<br>`[06/15 06:31]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#75`](https://github.com/IgorKowalczyk/tweet-ai/pull/75 'Update dependency openai to v3.3.0') in [IgorKowalczyk/tweet-ai](https://github.com/IgorKowalczyk/tweet-ai)<br>`[06/15 06:31]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#75`](https://github.com/IgorKowalczyk/tweet-ai/pull/75 'Update dependency openai to v3.3.0') in [IgorKowalczyk/tweet-ai](https://github.com/IgorKowalczyk/tweet-ai)
 <!--END_SECTION:activity-->
 
 ---
