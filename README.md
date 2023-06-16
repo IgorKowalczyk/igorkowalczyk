@@ -67,14 +67,14 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Fri Jun 16 2023 07:36:43 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Fri Jun 16 2023 07:51:41 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
    
 ### 📊 Github Statistics
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       14870      |
+|    🏆 Contributions (Total)   |       14886      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **4877**     |
+| **🏆 Contributions in 2023:** |     **4893**     |
 |  **📝 Total lines of code:**  | **8.35 million** |
 |     **📦 Github Storage:**    |    **2.7 GB**    |
 |  **📚 Public Repositories:**  |      **28**      |
@@ -85,22 +85,22 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   604 commits   [████████░░░░░░░░░░░░░░░░░]   33.30%
-🌆 Daytime   507 commits   [██████░░░░░░░░░░░░░░░░░░░]   27.95%
-🌃 Evening   661 commits   [█████████░░░░░░░░░░░░░░░░]   36.44%
+🌞 Morning   609 commits   [████████░░░░░░░░░░░░░░░░░]   33.57%
+🌆 Daytime   506 commits   [██████░░░░░░░░░░░░░░░░░░░]   27.89%
+🌃 Evening   657 commits   [█████████░░░░░░░░░░░░░░░░]   36.22%
 🌙 Night     42 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.32%
 ```
 
 #### 📅 I'm most productive on Tuesday
 
 ```text
-Monday      213 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.74%
+Monday      211 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.63%
 Tuesday     333 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.36%
-Wednesday   303 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.70%
+Wednesday   302 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.65%
 Thursday    327 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.03%
-Friday      185 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   10.20%
-Saturday    213 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.74%
-Sunday      240 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.23%
+Friday      184 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   10.14%
+Saturday    218 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.02%
+Sunday      239 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.18%
 ```
 
 #### 📊 Weekly work stats (last 7 days)
@@ -118,14 +118,14 @@ Other        [0h 47m]           [██░░░░░░░░░░░░░�
 Linux        [52 hrs 15 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Fri Jun 16 2023 07:36:52 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Fri Jun 16 2023 07:51:53 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[06/16 05:26]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/dotenv-16.x` from [IgorKowalczyk/ngrok](https://github.com/IgorKowalczyk/ngrok)<br>`[06/16 05:26]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/ngrok](https://github.com/IgorKowalczyk/ngrok)<br>`[06/16 05:26]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#99`](https://github.com/IgorKowalczyk/ngrok/pull/99 'Update dependency dotenv to v16.2.0') in [IgorKowalczyk/ngrok](https://github.com/IgorKowalczyk/ngrok)<br>`[06/16 05:26]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#99`](https://github.com/IgorKowalczyk/ngrok/pull/99 'Update dependency dotenv to v16.2.0') in [IgorKowalczyk/ngrok](https://github.com/IgorKowalczyk/ngrok)<br>`[06/15 06:37]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/astro-2.x` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[06/15 06:37]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[06/15 06:37]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#254`](https://github.com/IgorKowalczyk/github-views/pull/254 'Update dependency astro to v2.6.4') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[06/15 06:37]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#254`](https://github.com/IgorKowalczyk/github-views/pull/254 'Update dependency astro to v2.6.4') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[06/15 06:31]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/graphql-request-6.x` from [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)<br>`[06/15 06:31]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#111`](https://github.com/IgorKowalczyk/igorkowalczyk/pull/111 'Update dependency graphql-request to v6') in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)
+`[06/16 07:46]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/dotenv-16.x` from [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br>`[06/16 07:46]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br>`[06/16 07:46]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#81`](https://github.com/IgorKowalczyk/active-dev/pull/81 'Update dependency dotenv to v16.2.0') in [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br>`[06/16 07:46]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#81`](https://github.com/IgorKowalczyk/active-dev/pull/81 'Update dependency dotenv to v16.2.0') in [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br>`[06/16 07:42]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/nextjs-monorepo` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[06/16 07:42]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[06/16 07:42]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#474`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/474 'Update nextjs monorepo to v13.4.6') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[06/16 07:42]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#474`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/474 'Update nextjs monorepo to v13.4.6') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[06/16 07:42]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/react-wrap-balancer-1...` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[06/16 07:42]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)
 <!--END_SECTION:activity-->
 
 ---
