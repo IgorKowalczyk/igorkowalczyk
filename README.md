@@ -67,14 +67,14 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sat Jun 17 2023 21:51:30 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sat Jun 17 2023 22:27:23 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
    
 ### 📊 Github Statistics
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       14970      |
+|    🏆 Contributions (Total)   |       14972      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **4977**     |
+| **🏆 Contributions in 2023:** |     **4979**     |
 |  **📝 Total lines of code:**  | **8.35 million** |
 |     **📦 Github Storage:**    |    **2.7 GB**    |
 |  **📚 Public Repositories:**  |      **28**      |
@@ -107,18 +107,18 @@ Sunday      255 commits   [███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages:
-JavaScript   [30 hrs 21 mins]   [███████████████████░░░░░░]   76.09%
-JSON         [3 hrs 16 mins]    [██░░░░░░░░░░░░░░░░░░░░░░░]   8.22%
-MDX          [2 hrs 25 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.06%
+JavaScript   [28 hrs 5 mins]    [███████████████████░░░░░░]   76.54%
+JSON         [3 hrs 18 mins]    [██░░░░░░░░░░░░░░░░░░░░░░░]   9.02%
+MDX          [2 hrs 25 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.59%
 
-Bash         [50 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.11%
-Other        [0h 37m]           [█░░░░░░░░░░░░░░░░░░░░░░░░]   7.51%
+Markdown     [23 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.05%
+Other        [0h 21m]           [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.81%
 
 💻 Operating Systems:
-Linux        [39 hrs 54 mins]  [█████████████████████████]   100.00%
+Linux        [36 hrs 41 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Sat Jun 17 2023 21:51:40 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Sat Jun 17 2023 22:27:32 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
