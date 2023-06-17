@@ -67,14 +67,14 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sat Jun 17 2023 14:51:30 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sat Jun 17 2023 15:14:43 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
    
 ### 📊 Github Statistics
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       14928      |
+|    🏆 Contributions (Total)   |       14968      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **4935**     |
+| **🏆 Contributions in 2023:** |     **4975**     |
 |  **📝 Total lines of code:**  | **8.35 million** |
 |     **📦 Github Storage:**    |    **2.7 GB**    |
 |  **📚 Public Repositories:**  |      **28**      |
@@ -85,22 +85,22 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   614 commits   [████████░░░░░░░░░░░░░░░░░]   33.83%
-🌆 Daytime   506 commits   [██████░░░░░░░░░░░░░░░░░░░]   27.88%
-🌃 Evening   653 commits   [████████░░░░░░░░░░░░░░░░░]   35.98%
-🌙 Night     42 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.31%
+🌞 Morning   611 commits   [████████░░░░░░░░░░░░░░░░░]   33.61%
+🌆 Daytime   520 commits   [███████░░░░░░░░░░░░░░░░░░]   28.60%
+🌃 Evening   646 commits   [████████░░░░░░░░░░░░░░░░░]   35.53%
+🌙 Night     41 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.26%
 ```
 
 #### 📅 I'm most productive on Tuesday
 
 ```text
-Monday      208 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.46%
-Tuesday     333 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.35%
-Wednesday   302 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.64%
-Thursday    327 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.02%
-Friday      183 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   10.08%
-Saturday    223 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.29%
-Sunday      239 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.17%
+Monday      207 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.39%
+Tuesday     332 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.26%
+Wednesday   300 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.50%
+Thursday    322 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.71%
+Friday      181 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.96%
+Saturday    222 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.21%
+Sunday      254 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.97%
 ```
 
 #### 📊 Weekly work stats (last 7 days)
@@ -118,14 +118,14 @@ Other        [0h 37m]           [█░░░░░░░░░░░░░░�
 Linux        [39 hrs 54 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Sat Jun 17 2023 14:51:37 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Sat Jun 17 2023 15:14:53 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[06/17 14:45]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#83`](https://github.com/IgorKowalczyk/active-dev/pull/83 'Update dependency eslint to v8.43.0') in [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br>`[06/17 14:45]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#51`](https://github.com/IgorKowalczyk/shared-configs/pull/51 'Update dependency eslint to v8.43.0') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br>`[06/17 14:45]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#116`](https://github.com/IgorKowalczyk/discord-ssh/pull/116 'Update dependency eslint to v8.43.0') in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br>`[06/17 14:45]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#101`](https://github.com/IgorKowalczyk/ngrok/pull/101 'Update dependency eslint to v8.43.0') in [IgorKowalczyk/ngrok](https://github.com/IgorKowalczyk/ngrok)<br>`[06/17 14:45]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#77`](https://github.com/IgorKowalczyk/repl-uptime/pull/77 'Update dependency eslint to v8.43.0') in [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br>`[06/17 14:45]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#479`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/479 'Update dependency eslint to v8.43.0') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[06/17 14:45]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#116`](https://github.com/IgorKowalczyk/is-browser/pull/116 'Update dependency eslint to v8.43.0') in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br>`[06/17 14:45]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#168`](https://github.com/just-that/invite/pull/168 'Update dependency eslint to v8.43.0') in [just-that/invite](https://github.com/just-that/invite)<br>`[06/17 11:19]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [TanStack/table](https://github.com/TanStack/table)<br>`[06/16 17:36]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/esbuild-0.x` from [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)
+`[06/17 15:14]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#443`](https://github.com/IgorKowalczyk/majo.exe/pull/443 'Update dependency dotenv to v16.3.0') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[06/17 15:14]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/dotenv-16.x` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[06/17 15:14]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[06/17 15:14]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#478`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/478 'Update dependency dotenv to v16.3.0') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[06/17 15:14]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/dotenv-16.x` from [IgorKowalczyk/tweet-ai](https://github.com/IgorKowalczyk/tweet-ai)<br>`[06/17 15:14]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/tweet-ai](https://github.com/IgorKowalczyk/tweet-ai)<br>`[06/17 15:14]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#77`](https://github.com/IgorKowalczyk/tweet-ai/pull/77 'Update dependency dotenv to v16.3.0') in [IgorKowalczyk/tweet-ai](https://github.com/IgorKowalczyk/tweet-ai)<br>`[06/17 15:14]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/dotenv-16.x` from [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br>`[06/17 15:14]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br>`[06/17 15:14]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#82`](https://github.com/IgorKowalczyk/active-dev/pull/82 'Update dependency dotenv to v16.3.0') in [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)
 <!--END_SECTION:activity-->
 
 ---
