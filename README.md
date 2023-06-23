@@ -67,14 +67,14 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Fri Jun 23 2023 08:21:03 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Fri Jun 23 2023 08:40:30 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
    
 ### 📊 Github Statistics
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       15106      |
+|    🏆 Contributions (Total)   |       15107      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **5113**     |
+| **🏆 Contributions in 2023:** |     **5114**     |
 |  **📝 Total lines of code:**  | **8.35 million** |
 |     **📦 Github Storage:**    |    **2.7 GB**    |
 |  **📚 Public Repositories:**  |      **28**      |
@@ -85,9 +85,9 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   611 commits   [████████░░░░░░░░░░░░░░░░░]   33.57%
+🌞 Morning   612 commits   [████████░░░░░░░░░░░░░░░░░]   33.63%
 🌆 Daytime   524 commits   [███████░░░░░░░░░░░░░░░░░░]   28.79%
-🌃 Evening   644 commits   [████████░░░░░░░░░░░░░░░░░]   35.38%
+🌃 Evening   643 commits   [████████░░░░░░░░░░░░░░░░░]   35.33%
 🌙 Night     41 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.25%
 ```
 
@@ -96,10 +96,10 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ```text
 Monday      215 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.81%
 Tuesday     349 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.18%
-Wednesday   288 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.82%
+Wednesday   287 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.77%
 Thursday    314 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.25%
 Friday      185 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   10.16%
-Saturday    219 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.03%
+Saturday    220 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.09%
 Sunday      250 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.74%
 ```
 
@@ -118,14 +118,14 @@ Other        [0h 5m]            [░░░░░░░░░░░░░░░�
 Linux        [51 hrs 2 mins]   [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Fri Jun 23 2023 08:21:13 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Fri Jun 23 2023 08:40:42 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[06/22 21:37]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#262`](https://github.com/IgorKowalczyk/github-views/pull/262 'Update dependency @astrojs/image to v0.17.1') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[06/22 20:53]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/astro-2.x` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[06/22 20:53]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[06/22 20:53]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#263`](https://github.com/IgorKowalczyk/github-views/pull/263 'Update dependency astro to v2.7.0') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[06/22 20:50]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#263`](https://github.com/IgorKowalczyk/github-views/pull/263 'Update dependency astro to v2.7.0') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[06/22 20:39]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/graphql-16.x` from [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)<br>`[06/22 20:39]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#118`](https://github.com/IgorKowalczyk/igorkowalczyk/pull/118 'Update dependency graphql to v16.7.1') in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)<br>`[06/22 20:38]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#118`](https://github.com/IgorKowalczyk/igorkowalczyk/pull/118 'Update dependency graphql to v16.7.1') in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)<br>`[06/22 20:38]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/systeminformation-5.x...` from [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br>`[06/22 20:38]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)
+`[06/23 08:28]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/astrojs-image-0.x` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[06/23 08:28]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[06/23 08:28]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#262`](https://github.com/IgorKowalczyk/github-views/pull/262 'Update dependency @astrojs/image to v0.17.1') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[06/22 21:37]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#262`](https://github.com/IgorKowalczyk/github-views/pull/262 'Update dependency @astrojs/image to v0.17.1') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[06/22 20:53]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/astro-2.x` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[06/22 20:53]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[06/22 20:53]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#263`](https://github.com/IgorKowalczyk/github-views/pull/263 'Update dependency astro to v2.7.0') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[06/22 20:50]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#263`](https://github.com/IgorKowalczyk/github-views/pull/263 'Update dependency astro to v2.7.0') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[06/22 20:39]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/graphql-16.x` from [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)<br>`[06/22 20:39]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#118`](https://github.com/IgorKowalczyk/igorkowalczyk/pull/118 'Update dependency graphql to v16.7.1') in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)
 <!--END_SECTION:activity-->
 
 ---
