@@ -67,14 +67,14 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Mon Jun 26 2023 21:51:42 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Mon Jun 26 2023 22:38:06 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
    
 ### 📊 Github Statistics
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       15227      |
+|    🏆 Contributions (Total)   |       15231      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **5234**     |
+| **🏆 Contributions in 2023:** |     **5238**     |
 |  **📝 Total lines of code:**  | **8.35 million** |
 |     **📦 Github Storage:**    |    **2.7 GB**    |
 |  **📚 Public Repositories:**  |      **28**      |
@@ -86,46 +86,46 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 ```text
 🌞 Morning   631 commits   [████████░░░░░░░░░░░░░░░░░]   34.61%
-🌆 Daytime   525 commits   [███████░░░░░░░░░░░░░░░░░░]   28.80%
-🌃 Evening   626 commits   [████████░░░░░░░░░░░░░░░░░]   34.34%
+🌆 Daytime   524 commits   [███████░░░░░░░░░░░░░░░░░░]   28.74%
+🌃 Evening   627 commits   [████████░░░░░░░░░░░░░░░░░]   34.39%
 🌙 Night     41 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.25%
 ```
 
 #### 📅 I'm most productive on Tuesday
 
 ```text
-Monday      211 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.57%
-Tuesday     378 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.74%
+Monday      210 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.52%
+Tuesday     380 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.84%
 Wednesday   287 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.74%
 Thursday    306 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.79%
 Friday      174 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.54%
 Saturday    218 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.96%
-Sunday      249 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.66%
+Sunday      248 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.60%
 ```
 
 #### 📊 Weekly work stats (last 7 days)
 
 ```text
 💬 Programming Languages:
-JavaScript   [29 hrs 20 mins]   [███████████████████████░░]   94.05%
-CSS          [1 hr 5 mins]      [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.51%
+JavaScript   [21 hrs 55 mins]   [████████████████████░░░░░]   80.62%
+JSON         [2 hrs 16 mins]    [██░░░░░░░░░░░░░░░░░░░░░░░]   8.37%
+CSS          [1 hr 13 mins]     [█░░░░░░░░░░░░░░░░░░░░░░░░]   4.51%
+YAML         [1 hr 13 mins]     [█░░░░░░░░░░░░░░░░░░░░░░░░]   4.50%
 
-JSON         [16 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.88%
-MDX          [7 mins]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.41%
-Other        [0h 4m]            [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.15%
+Other        [0h 11m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.00%
 
 💻 Operating Systems:
-Linux        [31 hrs 11 mins]  [█████████████████████████]   100.00%
+Linux        [27 hrs 11 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Mon Jun 26 2023 21:51:52 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Mon Jun 26 2023 22:38:17 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[06/26 20:59]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [atomiks/rehype-pretty-code](https://github.com/atomiks/rehype-pretty-code)<br>`[06/26 15:45]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/pnpm-8.x` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[06/26 15:45]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[06/26 15:45]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#497`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/497 'Update pnpm to v8.6.5') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[06/26 15:45]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#497`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/497 'Update pnpm to v8.6.5') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[06/26 15:05]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#493`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/493 'Update dependency @vercel/og to v0.5.8') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[06/26 15:05]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `3` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[06/26 15:05]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#495`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/495 'Update dependency rehype-pretty-code to ^0.10.0') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[06/26 15:05]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/systeminformation-5.x...` from [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br>`[06/26 15:05]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)
+`[06/26 21:56]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#493`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/493 'Update dependency @vercel/og to v0.5.8') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[06/26 21:52]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#493`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/493 'Update dependency @vercel/og to v0.5.8') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[06/26 21:52]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/react-parallax-tilt-1...` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[06/26 21:52]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[06/26 21:52]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#492`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/492 'Update dependency react-parallax-tilt to v1.7.150') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[06/26 21:52]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#492`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/492 'Update dependency react-parallax-tilt to v1.7.150') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[06/26 21:52]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/typescript-eslint-mon...` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[06/26 21:52]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[06/26 21:52]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#267`](https://github.com/IgorKowalczyk/github-views/pull/267 'Update typescript-eslint monorepo to v5.60.1') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[06/26 21:51]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#267`](https://github.com/IgorKowalczyk/github-views/pull/267 'Update typescript-eslint monorepo to v5.60.1') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)
 <!--END_SECTION:activity-->
 
 ---
