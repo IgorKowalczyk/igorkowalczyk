@@ -67,14 +67,14 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Wed Jun 28 2023 08:51:34 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Wed Jun 28 2023 09:16:21 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
    
 ### 📊 Github Statistics
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       15240      |
+|    🏆 Contributions (Total)   |       15251      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **5247**     |
+| **🏆 Contributions in 2023:** |     **5258**     |
 |  **📝 Total lines of code:**  | **8.35 million** |
 |     **📦 Github Storage:**    |    **2.7 GB**    |
 |  **📚 Public Repositories:**  |      **28**      |
@@ -85,19 +85,19 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   635 commits   [████████░░░░░░░░░░░░░░░░░]   34.83%
+🌞 Morning   636 commits   [████████░░░░░░░░░░░░░░░░░]   34.89%
 🌆 Daytime   523 commits   [███████░░░░░░░░░░░░░░░░░░]   28.69%
-🌃 Evening   624 commits   [████████░░░░░░░░░░░░░░░░░]   34.23%
+🌃 Evening   623 commits   [████████░░░░░░░░░░░░░░░░░]   34.17%
 🌙 Night     41 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.25%
 ```
 
 #### 📅 I'm most productive on Tuesday
 
 ```text
-Monday      207 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.35%
+Monday      205 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.25%
 Tuesday     380 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.84%
 Wednesday   292 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.02%
-Thursday    306 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.79%
+Thursday    308 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.90%
 Friday      174 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.54%
 Saturday    217 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.90%
 Sunday      247 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.55%
@@ -118,14 +118,14 @@ Other        [0h 4m]            [░░░░░░░░░░░░░░░�
 Linux        [26 hrs 51 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Wed Jun 28 2023 08:51:43 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Wed Jun 28 2023 09:16:31 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[06/27 14:11]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[06/27 14:11]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/astro-2.x` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[06/27 14:11]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#269`](https://github.com/IgorKowalczyk/github-views/pull/269 'Update dependency astro to v2.7.1') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[06/27 14:11]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#269`](https://github.com/IgorKowalczyk/github-views/pull/269 'Update dependency astro to v2.7.1') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[06/27 06:52]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/vercel-og-0.x` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[06/27 06:52]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[06/27 06:52]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#493`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/493 'Update dependency @vercel/og to v0.5.8') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[06/27 06:46]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/rehype-pretty-code-0....` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[06/27 06:46]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `3` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[06/27 06:46]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#495`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/495 'Update dependency rehype-pretty-code to ^0.10.0') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)
+`[06/28 09:05]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/astrojs-vercel-3.x` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[06/28 09:05]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[06/28 09:05]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#268`](https://github.com/IgorKowalczyk/github-views/pull/268 'Update dependency @astrojs/vercel to v3.5.1') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[06/28 09:05]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#268`](https://github.com/IgorKowalczyk/github-views/pull/268 'Update dependency @astrojs/vercel to v3.5.1') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[06/28 09:04]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[06/28 09:04]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/typescript-5.x` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[06/28 09:04]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#498`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/498 'Update dependency typescript to v5.1.5') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[06/28 09:04]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#498`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/498 'Update dependency typescript to v5.1.5') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[06/28 09:04]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/typescript-5.x` from [just-that/invite](https://github.com/just-that/invite)<br>`[06/28 09:04]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [just-that/invite](https://github.com/just-that/invite)
 <!--END_SECTION:activity-->
 
 ---
