@@ -67,14 +67,14 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Thu Jun 29 2023 21:51:34 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Thu Jun 29 2023 22:30:31 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
    
 ### 📊 Github Statistics
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       15413      |
+|    🏆 Contributions (Total)   |       15414      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **5420**     |
+| **🏆 Contributions in 2023:** |     **5421**     |
 |  **📝 Total lines of code:**  | **8.35 million** |
 |     **📦 Github Storage:**    |    **2.7 GB**    |
 |  **📚 Public Repositories:**  |      **28**      |
@@ -86,19 +86,19 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 ```text
 🌞 Morning   640 commits   [████████░░░░░░░░░░░░░░░░░]   35.11%
-🌆 Daytime   533 commits   [███████░░░░░░░░░░░░░░░░░░]   29.24%
-🌃 Evening   609 commits   [████████░░░░░░░░░░░░░░░░░]   33.41%
+🌆 Daytime   532 commits   [███████░░░░░░░░░░░░░░░░░░]   29.18%
+🌃 Evening   610 commits   [████████░░░░░░░░░░░░░░░░░]   33.46%
 🌙 Night     41 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.25%
 ```
 
 #### 📅 I'm most productive on Tuesday
 
 ```text
-Monday      183 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   10.04%
+Monday      182 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.98%
 Tuesday     375 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.57%
 Wednesday   285 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.63%
 Thursday    299 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.40%
-Friday      223 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.23%
+Friday      224 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.29%
 Saturday    214 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.74%
 Sunday      244 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.38%
 ```
@@ -107,25 +107,25 @@ Sunday      244 commits   [███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages:
-JavaScript   [26 hrs 6 mins]    [█████████████████████░░░░]   84.62%
-JSON         [2 hrs 9 mins]     [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.97%
-YAML         [1 hr 13 mins]     [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.97%
+JavaScript   [32 hrs 8 mins]   [███████████████████░░░░░░]   76.27%
+JSON         [3 hrs 43 mins]   [██░░░░░░░░░░░░░░░░░░░░░░░]   8.85%
+YAML         [2 hrs 31 mins]   [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.01%
+Markdown     [1 hr 21 mins]    [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.21%
 
-SQL          [10 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.59%
-Other        [0h 15m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.85%
+Other        [1h 12m]          [█░░░░░░░░░░░░░░░░░░░░░░░░]   5.67%
 
 💻 Operating Systems:
-Linux        [30 hrs 50 mins]  [█████████████████████████]   100.00%
+Linux        [42 hrs 9 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Thu Jun 29 2023 21:51:40 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Thu Jun 29 2023 22:30:41 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[06/29 21:28]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[06/29 19:26]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [Asjas/prisma-redis-middleware](https://github.com/Asjas/prisma-redis-middleware)<br>`[06/29 17:35]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/tweet-ai](https://github.com/IgorKowalczyk/tweet-ai)<br>`[06/29 17:35]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/igorkowalczyk-prettie...` from [IgorKowalczyk/tweet-ai](https://github.com/IgorKowalczyk/tweet-ai)<br>`[06/29 17:35]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#87`](https://github.com/IgorKowalczyk/tweet-ai/pull/87 'Update dependency @igorkowalczyk/prettier-config to v1.4.2') in [IgorKowalczyk/tweet-ai](https://github.com/IgorKowalczyk/tweet-ai)<br>`[06/29 17:35]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#87`](https://github.com/IgorKowalczyk/tweet-ai/pull/87 'Update dependency @igorkowalczyk/prettier-config to v1.4.2') in [IgorKowalczyk/tweet-ai](https://github.com/IgorKowalczyk/tweet-ai)<br>`[06/29 17:29]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[06/29 17:29]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/igorkowalczyk-eslint-...` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[06/29 17:29]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#273`](https://github.com/IgorKowalczyk/github-views/pull/273 'Update dependency @igorkowalczyk/eslint-config to v1.4.2') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[06/29 17:29]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#273`](https://github.com/IgorKowalczyk/github-views/pull/273 'Update dependency @igorkowalczyk/eslint-config to v1.4.2') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)
+`[06/29 22:02]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[06/29 19:26]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [Asjas/prisma-redis-middleware](https://github.com/Asjas/prisma-redis-middleware)<br>`[06/29 17:35]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/tweet-ai](https://github.com/IgorKowalczyk/tweet-ai)<br>`[06/29 17:35]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/igorkowalczyk-prettie...` from [IgorKowalczyk/tweet-ai](https://github.com/IgorKowalczyk/tweet-ai)<br>`[06/29 17:35]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#87`](https://github.com/IgorKowalczyk/tweet-ai/pull/87 'Update dependency @igorkowalczyk/prettier-config to v1.4.2') in [IgorKowalczyk/tweet-ai](https://github.com/IgorKowalczyk/tweet-ai)<br>`[06/29 17:35]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#87`](https://github.com/IgorKowalczyk/tweet-ai/pull/87 'Update dependency @igorkowalczyk/prettier-config to v1.4.2') in [IgorKowalczyk/tweet-ai](https://github.com/IgorKowalczyk/tweet-ai)<br>`[06/29 17:29]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[06/29 17:29]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/igorkowalczyk-eslint-...` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[06/29 17:29]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#273`](https://github.com/IgorKowalczyk/github-views/pull/273 'Update dependency @igorkowalczyk/eslint-config to v1.4.2') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[06/29 17:29]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#273`](https://github.com/IgorKowalczyk/github-views/pull/273 'Update dependency @igorkowalczyk/eslint-config to v1.4.2') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)
 <!--END_SECTION:activity-->
 
 ---
