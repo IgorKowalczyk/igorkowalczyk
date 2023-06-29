@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "@igorkowalczyk/eslint-config": "1.4.1",
-    "@igorkowalczyk/prettier-config": "1.4.0",
+    "@igorkowalczyk/prettier-config": "1.4.1",
     "actions-toolkit": "6.0.1",
     "date-fns": "2.30.0",
     "dotenv": "16.3.1",
