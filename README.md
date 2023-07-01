@@ -67,14 +67,14 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sat Jul 01 2023 20:36:49 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sat Jul 01 2023 21:13:15 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
    
 ### 📊 Github Statistics
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       15500      |
+|    🏆 Contributions (Total)   |       15502      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **5507**     |
+| **🏆 Contributions in 2023:** |     **5509**     |
 |  **📝 Total lines of code:**  | **8.35 million** |
 |     **📦 Github Storage:**    |    **2.7 GB**    |
 |  **📚 Public Repositories:**  |      **29**      |
@@ -85,22 +85,22 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   659 commits   [█████████░░░░░░░░░░░░░░░░]   36.07%
-🌆 Daytime   529 commits   [███████░░░░░░░░░░░░░░░░░░]   28.95%
-🌃 Evening   597 commits   [████████░░░░░░░░░░░░░░░░░]   32.68%
+🌞 Morning   659 commits   [█████████░░░░░░░░░░░░░░░░]   36.03%
+🌆 Daytime   529 commits   [███████░░░░░░░░░░░░░░░░░░]   28.92%
+🌃 Evening   599 commits   [████████░░░░░░░░░░░░░░░░░]   32.75%
 🌙 Night     42 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.30%
 ```
 
 #### 📅 I'm most productive on Tuesday
 
 ```text
-Monday      173 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.47%
-Tuesday     371 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.31%
-Wednesday   284 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.54%
-Thursday    293 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.04%
-Friday      219 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.99%
-Saturday    229 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.53%
-Sunday      258 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.12%
+Monday      173 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.46%
+Tuesday     371 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.28%
+Wednesday   284 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.53%
+Thursday    293 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.02%
+Friday      219 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.97%
+Saturday    229 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.52%
+Sunday      260 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.22%
 ```
 
 #### 📊 Weekly work stats (last 7 days)
@@ -118,14 +118,14 @@ Other        [1h 29m]           [█░░░░░░░░░░░░░░�
 Linux        [57 hrs 47 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Sat Jul 01 2023 20:36:56 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Sat Jul 01 2023 21:13:24 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[07/01 20:25]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/dotfiles](https://github.com/IgorKowalczyk/dotfiles)<br>`[07/01 14:48]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/pr-close.png" align="top" height="18"></a> Closed PR [`#1`](https://github.com/IgorKowalczyk/dotfiles/pull/1 'Configure Renovate') in [IgorKowalczyk/dotfiles](https://github.com/IgorKowalczyk/dotfiles)<br>`[07/01 14:48]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-8.x` from [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br>`[07/01 14:48]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br>`[07/01 14:48]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#93`](https://github.com/IgorKowalczyk/active-dev/pull/93 'Update dependency eslint to v8.44.0') in [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br>`[07/01 14:48]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-8.x` from [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br>`[07/01 14:48]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br>`[07/01 14:48]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#85`](https://github.com/IgorKowalczyk/repl-uptime/pull/85 'Update dependency eslint to v8.44.0') in [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br>`[07/01 14:48]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-8.x` from [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)<br>`[07/01 14:48]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#126`](https://github.com/IgorKowalczyk/igorkowalczyk/pull/126 'Update dependency eslint to v8.44.0') in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)
+`[07/01 20:54]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `3` commits in [IgorKowalczyk/dotfiles](https://github.com/IgorKowalczyk/dotfiles)<br>`[07/01 14:48]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/pr-close.png" align="top" height="18"></a> Closed PR [`#1`](https://github.com/IgorKowalczyk/dotfiles/pull/1 'Configure Renovate') in [IgorKowalczyk/dotfiles](https://github.com/IgorKowalczyk/dotfiles)<br>`[07/01 14:48]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-8.x` from [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br>`[07/01 14:48]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br>`[07/01 14:48]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#93`](https://github.com/IgorKowalczyk/active-dev/pull/93 'Update dependency eslint to v8.44.0') in [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br>`[07/01 14:48]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-8.x` from [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br>`[07/01 14:48]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br>`[07/01 14:48]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#85`](https://github.com/IgorKowalczyk/repl-uptime/pull/85 'Update dependency eslint to v8.44.0') in [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br>`[07/01 14:48]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-8.x` from [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)<br>`[07/01 14:48]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#126`](https://github.com/IgorKowalczyk/igorkowalczyk/pull/126 'Update dependency eslint to v8.44.0') in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)
 <!--END_SECTION:activity-->
 
 ---
