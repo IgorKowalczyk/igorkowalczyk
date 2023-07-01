@@ -67,14 +67,14 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sat Jul 01 2023 21:51:27 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sat Jul 01 2023 22:29:45 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
    
 ### 📊 Github Statistics
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       15502      |
+|    🏆 Contributions (Total)   |       15508      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **5509**     |
+| **🏆 Contributions in 2023:** |     **5515**     |
 |  **📝 Total lines of code:**  | **8.35 million** |
 |     **📦 Github Storage:**    |    **2.7 GB**    |
 |  **📚 Public Repositories:**  |      **29**      |
@@ -85,47 +85,47 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   659 commits   [█████████░░░░░░░░░░░░░░░░]   36.03%
-🌆 Daytime   529 commits   [███████░░░░░░░░░░░░░░░░░░]   28.92%
-🌃 Evening   599 commits   [████████░░░░░░░░░░░░░░░░░]   32.75%
-🌙 Night     42 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.30%
+🌞 Morning   659 commits   [████████░░░░░░░░░░░░░░░░░]   35.99%
+🌆 Daytime   529 commits   [███████░░░░░░░░░░░░░░░░░░]   28.89%
+🌃 Evening   601 commits   [████████░░░░░░░░░░░░░░░░░]   32.82%
+🌙 Night     42 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.29%
 ```
 
 #### 📅 I'm most productive on Tuesday
 
 ```text
-Monday      173 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.46%
-Tuesday     371 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.28%
-Wednesday   284 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.53%
-Thursday    293 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.02%
-Friday      219 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.97%
-Saturday    229 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.52%
-Sunday      260 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.22%
+Monday      172 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.39%
+Tuesday     371 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.26%
+Wednesday   284 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.51%
+Thursday    293 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.00%
+Friday      218 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.91%
+Saturday    229 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.51%
+Sunday      264 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.42%
 ```
 
 #### 📊 Weekly work stats (last 7 days)
 
 ```text
 💬 Programming Languages:
-JavaScript   [45 hrs 23 mins]   [███████████████████░░░░░░]   78.56%
-JSON         [4 hrs 55 mins]    [██░░░░░░░░░░░░░░░░░░░░░░░]   8.52%
-YAML         [2 hrs 32 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   4.39%
+JavaScript   [50 hrs 1 min]     [██████████████████░░░░░░░]   75.80%
+JSON         [4 hrs 55 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   7.47%
 
-Markdown     [1 hr 21 mins]     [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.34%
-Other        [1h 29m]           [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.19%
+YAML         [3 hrs]            [█░░░░░░░░░░░░░░░░░░░░░░░░]   4.55%
+Markdown     [1 hr 55 mins]     [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.92%
+Other        [2h 49m]           [██░░░░░░░░░░░░░░░░░░░░░░░]   9.26%
 
 💻 Operating Systems:
-Linux        [57 hrs 47 mins]  [█████████████████████████]   100.00%
+Linux        [65 hrs 59 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Sat Jul 01 2023 21:51:34 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Sat Jul 01 2023 22:29:51 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[07/01 20:54]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `3` commits in [IgorKowalczyk/dotfiles](https://github.com/IgorKowalczyk/dotfiles)<br>`[07/01 14:48]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/pr-close.png" align="top" height="18"></a> Closed PR [`#1`](https://github.com/IgorKowalczyk/dotfiles/pull/1 'Configure Renovate') in [IgorKowalczyk/dotfiles](https://github.com/IgorKowalczyk/dotfiles)<br>`[07/01 14:48]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-8.x` from [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br>`[07/01 14:48]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br>`[07/01 14:48]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#93`](https://github.com/IgorKowalczyk/active-dev/pull/93 'Update dependency eslint to v8.44.0') in [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br>`[07/01 14:48]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-8.x` from [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br>`[07/01 14:48]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br>`[07/01 14:48]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#85`](https://github.com/IgorKowalczyk/repl-uptime/pull/85 'Update dependency eslint to v8.44.0') in [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br>`[07/01 14:48]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-8.x` from [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)<br>`[07/01 14:48]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#126`](https://github.com/IgorKowalczyk/igorkowalczyk/pull/126 'Update dependency eslint to v8.44.0') in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)
+`[07/01 22:18]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/globby-13.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[07/01 22:18]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[07/01 22:18]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#465`](https://github.com/IgorKowalczyk/majo.exe/pull/465 'Update dependency globby to v13.2.1') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[07/01 22:18]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/globby-13.x` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[07/01 22:18]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[07/01 22:18]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#507`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/507 'Update dependency globby to v13.2.1') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[07/01 22:18]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#507`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/507 'Update dependency globby to v13.2.1') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[07/01 22:18]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#465`](https://github.com/IgorKowalczyk/majo.exe/pull/465 'Update dependency globby to v13.2.1') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[07/01 22:13]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [IgorKowalczyk/dotfiles](https://github.com/IgorKowalczyk/dotfiles)<br>`[07/01 22:12]` <a href="https://github.com/igorkowalczyk" title="🏷"><img alt="🏷" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/release.png" align="top" height="18"></a> Released [`v1.0.0`](https://github.com/IgorKowalczyk/dotfiles/releases/tag/v1.0.0) in [IgorKowalczyk/dotfiles](https://github.com/IgorKowalczyk/dotfiles)
 <!--END_SECTION:activity-->
 
 ---
