@@ -67,14 +67,14 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sat Jul 01 2023 04:19:15 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sat Jul 01 2023 04:39:03 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
    
 ### 📊 Github Statistics
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       15447      |
+|    🏆 Contributions (Total)   |       15449      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **5454**     |
+| **🏆 Contributions in 2023:** |     **5456**     |
 |  **📝 Total lines of code:**  | **8.35 million** |
 |     **📦 Github Storage:**    |    **2.7 GB**    |
 |  **📚 Public Repositories:**  |      **28**      |
@@ -87,20 +87,20 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ```text
 🌞 Morning   647 commits   [████████░░░░░░░░░░░░░░░░░]   35.49%
 🌆 Daytime   531 commits   [███████░░░░░░░░░░░░░░░░░░]   29.13%
-🌃 Evening   604 commits   [████████░░░░░░░░░░░░░░░░░]   33.13%
-🌙 Night     41 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.25%
+🌃 Evening   603 commits   [████████░░░░░░░░░░░░░░░░░]   33.08%
+🌙 Night     42 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.30%
 ```
 
 #### 📅 I'm most productive on Tuesday
 
 ```text
-Monday      178 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.76%
+Monday      177 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.71%
 Tuesday     373 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.46%
 Wednesday   284 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.58%
 Thursday    296 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.24%
 Friday      221 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.12%
 Saturday    229 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.56%
-Sunday      242 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.27%
+Sunday      243 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.33%
 ```
 
 #### 📊 Weekly work stats (last 7 days)
@@ -118,14 +118,14 @@ Other        [1h 29m]           [█░░░░░░░░░░░░░░�
 Linux        [57 hrs 47 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Sat Jul 01 2023 04:19:22 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Sat Jul 01 2023 04:39:11 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[06/30 22:17]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [anishathalye/dotbot](https://github.com/anishathalye/dotbot)<br>`[06/30 20:20]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[06/30 15:12]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/prisma-nextjs-monorep...` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[06/30 15:12]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[06/30 15:12]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#461`](https://github.com/IgorKowalczyk/majo.exe/pull/461 'Update dependency @prisma/nextjs-monorepo-workaround-plugin to v4.16.2') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[06/30 15:12]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#461`](https://github.com/IgorKowalczyk/majo.exe/pull/461 'Update dependency @prisma/nextjs-monorepo-workaround-plugin to v4.16.2') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[06/30 15:11]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/prisma-monorepo` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[06/30 15:11]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[06/30 15:11]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#462`](https://github.com/IgorKowalczyk/majo.exe/pull/462 'Update prisma monorepo to v4.16.2') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[06/30 15:11]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#462`](https://github.com/IgorKowalczyk/majo.exe/pull/462 'Update prisma monorepo to v4.16.2') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
+`[07/01 04:38]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/turbo-monorepo` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[07/01 04:38]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[07/01 04:38]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#463`](https://github.com/IgorKowalczyk/majo.exe/pull/463 'Update turbo monorepo to v1.10.7') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[07/01 04:38]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#463`](https://github.com/IgorKowalczyk/majo.exe/pull/463 'Update turbo monorepo to v1.10.7') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[06/30 22:17]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [anishathalye/dotbot](https://github.com/anishathalye/dotbot)<br>`[06/30 20:20]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[06/30 15:12]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/prisma-nextjs-monorep...` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[06/30 15:12]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[06/30 15:12]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#461`](https://github.com/IgorKowalczyk/majo.exe/pull/461 'Update dependency @prisma/nextjs-monorepo-workaround-plugin to v4.16.2') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[06/30 15:12]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#461`](https://github.com/IgorKowalczyk/majo.exe/pull/461 'Update dependency @prisma/nextjs-monorepo-workaround-plugin to v4.16.2') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
 <!--END_SECTION:activity-->
 
 ---
