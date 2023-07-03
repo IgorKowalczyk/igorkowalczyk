@@ -67,14 +67,14 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Mon Jul 03 2023 16:42:11 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Mon Jul 03 2023 16:53:29 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
    
 ### 📊 Github Statistics
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       15546      |
+|    🏆 Contributions (Total)   |       15555      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **5553**     |
+| **🏆 Contributions in 2023:** |     **5562**     |
 |  **📝 Total lines of code:**  | **8.35 million** |
 |     **📦 Github Storage:**    |    **2.7 GB**    |
 |  **📚 Public Repositories:**  |      **29**      |
@@ -85,9 +85,9 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   657 commits   [████████░░░░░░░░░░░░░░░░░]   35.80%
-🌆 Daytime   536 commits   [███████░░░░░░░░░░░░░░░░░░]   29.21%
-🌃 Evening   601 commits   [████████░░░░░░░░░░░░░░░░░]   32.75%
+🌞 Morning   656 commits   [████████░░░░░░░░░░░░░░░░░]   35.75%
+🌆 Daytime   539 commits   [███████░░░░░░░░░░░░░░░░░░]   29.37%
+🌃 Evening   599 commits   [████████░░░░░░░░░░░░░░░░░]   32.64%
 🌙 Night     41 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.23%
 ```
 
@@ -95,11 +95,11 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 ```text
 Monday      173 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.43%
-Tuesday     377 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.54%
+Tuesday     379 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.65%
 Wednesday   284 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.48%
 Thursday    291 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.86%
-Friday      217 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.83%
-Saturday    228 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.43%
+Friday      216 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.77%
+Saturday    227 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.37%
 Sunday      265 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.44%
 ```
 
@@ -118,14 +118,14 @@ Other        [3h 22m]           [██░░░░░░░░░░░░░�
 Linux        [71 hrs 23 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Mon Jul 03 2023 16:42:20 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Mon Jul 03 2023 16:53:39 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[07/03 15:13]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/pnpm-8.x` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[07/03 15:13]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[07/03 15:13]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#508`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/508 'Update pnpm to v8.6.6') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[07/03 15:12]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#508`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/508 'Update pnpm to v8.6.6') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[07/03 15:06]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/pnpm-8.x` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/03 15:06]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/03 15:06]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#279`](https://github.com/IgorKowalczyk/github-views/pull/279 'Update pnpm to v8.6.6') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/03 15:06]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/pnpm-8.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[07/03 15:06]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[07/03 15:06]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#466`](https://github.com/IgorKowalczyk/majo.exe/pull/466 'Update pnpm to v8.6.6') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
+`[07/03 16:51]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#280`](https://github.com/IgorKowalczyk/github-views/pull/280 'Update dependency @astrojs/vercel to v3.6.0') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/03 16:51]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/astro-2.x` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/03 16:51]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/03 16:51]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#278`](https://github.com/IgorKowalczyk/github-views/pull/278 'Update dependency astro to v2.7.3') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/03 16:51]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#278`](https://github.com/IgorKowalczyk/github-views/pull/278 'Update dependency astro to v2.7.3') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/03 16:50]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/pnpm-8.x` from [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)<br>`[07/03 16:49]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#127`](https://github.com/IgorKowalczyk/igorkowalczyk/pull/127 'Update pnpm to v8.6.6') in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)<br>`[07/03 16:49]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#127`](https://github.com/IgorKowalczyk/igorkowalczyk/pull/127 'Update pnpm to v8.6.6') in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)<br>`[07/03 16:42]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/pnpm-8.x` from [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br>`[07/03 16:42]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)
 <!--END_SECTION:activity-->
 
 ---
