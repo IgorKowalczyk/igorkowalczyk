@@ -67,14 +67,14 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Mon Jul 03 2023 19:13:30 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Mon Jul 03 2023 19:24:41 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
    
 ### 📊 Github Statistics
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       15559      |
+|    🏆 Contributions (Total)   |       15563      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **5566**     |
+| **🏆 Contributions in 2023:** |     **5570**     |
 |  **📝 Total lines of code:**  | **8.35 million** |
 |     **📦 Github Storage:**    |    **2.7 GB**    |
 |  **📚 Public Repositories:**  |      **29**      |
@@ -86,8 +86,8 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 ```text
 🌞 Morning   656 commits   [████████░░░░░░░░░░░░░░░░░]   35.75%
-🌆 Daytime   541 commits   [███████░░░░░░░░░░░░░░░░░░]   29.48%
-🌃 Evening   597 commits   [████████░░░░░░░░░░░░░░░░░]   32.53%
+🌆 Daytime   540 commits   [███████░░░░░░░░░░░░░░░░░░]   29.43%
+🌃 Evening   598 commits   [████████░░░░░░░░░░░░░░░░░]   32.59%
 🌙 Night     41 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.23%
 ```
 
@@ -95,11 +95,11 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 ```text
 Monday      173 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.43%
-Tuesday     381 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.76%
+Tuesday     382 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.82%
 Wednesday   284 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.48%
 Thursday    290 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.80%
 Friday      216 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.77%
-Saturday    226 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.32%
+Saturday    225 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.26%
 Sunday      265 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.44%
 ```
 
@@ -118,14 +118,14 @@ Other        [3h 22m]           [██░░░░░░░░░░░░░�
 Linux        [71 hrs 23 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Mon Jul 03 2023 19:13:39 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Mon Jul 03 2023 19:24:49 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[07/03 16:56]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#277`](https://github.com/IgorKowalczyk/github-views/pull/277 'Update dependency @astrojs/image to v0.17.2') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/03 16:55]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/03 16:55]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/astrojs-vercel-3.x` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/03 16:55]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#280`](https://github.com/IgorKowalczyk/github-views/pull/280 'Update dependency @astrojs/vercel to v3.6.0') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/03 16:55]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#280`](https://github.com/IgorKowalczyk/github-views/pull/280 'Update dependency @astrojs/vercel to v3.6.0') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/03 16:55]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/pnpm-8.x` from [IgorKowalczyk/tweet-ai](https://github.com/IgorKowalczyk/tweet-ai)<br>`[07/03 16:55]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/tweet-ai](https://github.com/IgorKowalczyk/tweet-ai)<br>`[07/03 16:55]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#89`](https://github.com/IgorKowalczyk/tweet-ai/pull/89 'Update pnpm to v8.6.6') in [IgorKowalczyk/tweet-ai](https://github.com/IgorKowalczyk/tweet-ai)<br>`[07/03 16:55]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#89`](https://github.com/IgorKowalczyk/tweet-ai/pull/89 'Update pnpm to v8.6.6') in [IgorKowalczyk/tweet-ai](https://github.com/IgorKowalczyk/tweet-ai)<br>`[07/03 16:51]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#280`](https://github.com/IgorKowalczyk/github-views/pull/280 'Update dependency @astrojs/vercel to v3.6.0') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)
+`[07/03 19:20]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/nextjs-monorepo` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[07/03 19:20]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[07/03 19:20]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#509`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/509 'Update nextjs monorepo to v13.4.8') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[07/03 19:19]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#509`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/509 'Update nextjs monorepo to v13.4.8') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[07/03 19:16]` <a href="https://github.com/igorkowalczyk" title="🗣"><img alt="🗣" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/comment.png" align="top" height="18"></a> Commented on [`#152`](https://github.com/just-that/invite/issues/152 'Is there anything i can help???') in [just-that/invite](https://github.com/just-that/invite)<br>`[07/03 16:56]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#277`](https://github.com/IgorKowalczyk/github-views/pull/277 'Update dependency @astrojs/image to v0.17.2') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/03 16:55]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/03 16:55]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/astrojs-vercel-3.x` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/03 16:55]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#280`](https://github.com/IgorKowalczyk/github-views/pull/280 'Update dependency @astrojs/vercel to v3.6.0') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/03 16:55]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#280`](https://github.com/IgorKowalczyk/github-views/pull/280 'Update dependency @astrojs/vercel to v3.6.0') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)
 <!--END_SECTION:activity-->
 
 ---
