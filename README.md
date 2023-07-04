@@ -67,14 +67,14 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Tue Jul 04 2023 12:35:29 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Tue Jul 04 2023 13:10:45 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
    
 ### 📊 Github Statistics
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       15578      |
+|    🏆 Contributions (Total)   |       15581      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **5585**     |
+| **🏆 Contributions in 2023:** |     **5588**     |
 |  **📝 Total lines of code:**  | **8.35 million** |
 |     **📦 Github Storage:**    |    **2.7 GB**    |
 |  **📚 Public Repositories:**  |      **29**      |
@@ -85,22 +85,22 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   654 commits   [████████░░░░░░░░░░░░░░░░░]   35.64%
-🌆 Daytime   540 commits   [███████░░░░░░░░░░░░░░░░░░]   29.43%
-🌃 Evening   600 commits   [████████░░░░░░░░░░░░░░░░░]   32.70%
+🌞 Morning   654 commits   [████████░░░░░░░░░░░░░░░░░]   35.62%
+🌆 Daytime   541 commits   [███████░░░░░░░░░░░░░░░░░░]   29.47%
+🌃 Evening   600 commits   [████████░░░░░░░░░░░░░░░░░]   32.68%
 🌙 Night     41 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.23%
 ```
 
 #### 📅 I'm most productive on Tuesday
 
 ```text
-Monday      173 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.43%
-Tuesday     384 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.93%
-Wednesday   282 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.37%
+Monday      173 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.42%
+Tuesday     383 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.86%
+Wednesday   284 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.47%
 Thursday    290 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.80%
-Friday      216 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.77%
-Saturday    225 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.26%
-Sunday      265 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.44%
+Friday      216 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.76%
+Saturday    225 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.25%
+Sunday      265 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.43%
 ```
 
 #### 📊 Weekly work stats (last 7 days)
@@ -118,14 +118,14 @@ Other        [3h 12m]           [██░░░░░░░░░░░░░�
 Linux        [67 hrs 29 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Tue Jul 04 2023 12:35:45 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Tue Jul 04 2023 13:10:57 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[07/04 07:42]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/astro-compress-1.x` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/04 07:42]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/04 07:42]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#282`](https://github.com/IgorKowalczyk/github-views/pull/282 'Update dependency astro-compress to v1.1.49') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/04 07:42]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#282`](https://github.com/IgorKowalczyk/github-views/pull/282 'Update dependency astro-compress to v1.1.49') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/03 19:35]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/typescript-eslint-mon...` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/03 19:35]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/03 19:35]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#281`](https://github.com/IgorKowalczyk/github-views/pull/281 'Update typescript-eslint monorepo to v5.61.0') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/03 19:35]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#281`](https://github.com/IgorKowalczyk/github-views/pull/281 'Update typescript-eslint monorepo to v5.61.0') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/03 19:28]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/nextjs-monorepo` from [just-that/invite](https://github.com/just-that/invite)<br>`[07/03 19:28]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [just-that/invite](https://github.com/just-that/invite)
+`[07/04 12:50]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/dotfiles](https://github.com/IgorKowalczyk/dotfiles)<br>`[07/04 12:47]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[07/04 07:42]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/astro-compress-1.x` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/04 07:42]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/04 07:42]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#282`](https://github.com/IgorKowalczyk/github-views/pull/282 'Update dependency astro-compress to v1.1.49') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/04 07:42]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#282`](https://github.com/IgorKowalczyk/github-views/pull/282 'Update dependency astro-compress to v1.1.49') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/03 19:35]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/typescript-eslint-mon...` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/03 19:35]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/03 19:35]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#281`](https://github.com/IgorKowalczyk/github-views/pull/281 'Update typescript-eslint monorepo to v5.61.0') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/03 19:35]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#281`](https://github.com/IgorKowalczyk/github-views/pull/281 'Update typescript-eslint monorepo to v5.61.0') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)
 <!--END_SECTION:activity-->
 
 ---
