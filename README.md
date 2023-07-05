@@ -67,14 +67,14 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Wed Jul 05 2023 07:37:10 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Wed Jul 05 2023 07:51:51 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
    
 ### 📊 Github Statistics
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       15584      |
+|    🏆 Contributions (Total)   |       15586      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **5591**     |
+| **🏆 Contributions in 2023:** |     **5593**     |
 |  **📝 Total lines of code:**  | **8.35 million** |
 |     **📦 Github Storage:**    |    **2.7 GB**    |
 |  **📚 Public Repositories:**  |      **29**      |
@@ -85,9 +85,9 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   654 commits   [████████░░░░░░░░░░░░░░░░░]   35.62%
+🌞 Morning   655 commits   [████████░░░░░░░░░░░░░░░░░]   35.68%
 🌆 Daytime   541 commits   [███████░░░░░░░░░░░░░░░░░░]   29.47%
-🌃 Evening   600 commits   [████████░░░░░░░░░░░░░░░░░]   32.68%
+🌃 Evening   599 commits   [████████░░░░░░░░░░░░░░░░░]   32.63%
 🌙 Night     41 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.23%
 ```
 
@@ -118,14 +118,14 @@ Other        [3h 19m]           [██░░░░░░░░░░░░░�
 Linux        [69 hrs 39 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Wed Jul 05 2023 07:37:22 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Wed Jul 05 2023 07:52:00 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[07/04 15:09]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `3` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[07/04 13:13]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [foreversd/forever](https://github.com/foreversd/forever)<br>`[07/04 12:50]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/dotfiles](https://github.com/IgorKowalczyk/dotfiles)<br>`[07/04 12:47]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[07/04 07:42]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/astro-compress-1.x` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/04 07:42]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/04 07:42]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#282`](https://github.com/IgorKowalczyk/github-views/pull/282 'Update dependency astro-compress to v1.1.49') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/04 07:42]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#282`](https://github.com/IgorKowalczyk/github-views/pull/282 'Update dependency astro-compress to v1.1.49') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/03 19:35]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/typescript-eslint-mon...` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/03 19:35]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)
+`[07/05 07:48]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/astro-2.x` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/05 07:48]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/05 07:48]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#283`](https://github.com/IgorKowalczyk/github-views/pull/283 'Update dependency astro to v2.7.4') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/05 07:47]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#283`](https://github.com/IgorKowalczyk/github-views/pull/283 'Update dependency astro to v2.7.4') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/04 15:09]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `3` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[07/04 13:13]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [foreversd/forever](https://github.com/foreversd/forever)<br>`[07/04 12:50]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/dotfiles](https://github.com/IgorKowalczyk/dotfiles)<br>`[07/04 12:47]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[07/04 07:42]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/astro-compress-1.x` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/04 07:42]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)
 <!--END_SECTION:activity-->
 
 ---
