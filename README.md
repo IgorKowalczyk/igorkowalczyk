@@ -67,14 +67,14 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Thu Jul 06 2023 07:51:42 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Thu Jul 06 2023 08:22:15 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
    
 ### 📊 Github Statistics
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       15588      |
+|    🏆 Contributions (Total)   |       15592      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **5595**     |
+| **🏆 Contributions in 2023:** |     **5599**     |
 |  **📝 Total lines of code:**  | **8.35 million** |
 |     **📦 Github Storage:**    |    **2.7 GB**    |
 |  **📚 Public Repositories:**  |      **29**      |
@@ -85,9 +85,9 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   655 commits   [████████░░░░░░░░░░░░░░░░░]   35.68%
-🌆 Daytime   541 commits   [███████░░░░░░░░░░░░░░░░░░]   29.47%
-🌃 Evening   599 commits   [████████░░░░░░░░░░░░░░░░░]   32.63%
+🌞 Morning   657 commits   [████████░░░░░░░░░░░░░░░░░]   35.78%
+🌆 Daytime   540 commits   [███████░░░░░░░░░░░░░░░░░░]   29.41%
+🌃 Evening   598 commits   [████████░░░░░░░░░░░░░░░░░]   32.57%
 🌙 Night     41 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.23%
 ```
 
@@ -95,11 +95,11 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 ```text
 Monday      173 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.42%
-Tuesday     380 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.70%
+Tuesday     379 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.64%
 Wednesday   287 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.63%
 Thursday    290 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.80%
-Friday      216 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.76%
-Saturday    225 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.25%
+Friday      218 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.87%
+Saturday    224 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.20%
 Sunday      265 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.43%
 ```
 
@@ -118,14 +118,14 @@ Other        [3h 7m]            [██░░░░░░░░░░░░░�
 Linux        [63 hrs 32 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Thu Jul 06 2023 07:51:53 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Thu Jul 06 2023 08:22:27 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[07/05 07:48]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/astro-2.x` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/05 07:48]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/05 07:48]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#283`](https://github.com/IgorKowalczyk/github-views/pull/283 'Update dependency astro to v2.7.4') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/05 07:47]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#283`](https://github.com/IgorKowalczyk/github-views/pull/283 'Update dependency astro to v2.7.4') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/04 15:09]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `3` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[07/04 13:13]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [foreversd/forever](https://github.com/foreversd/forever)<br>`[07/04 12:50]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/dotfiles](https://github.com/IgorKowalczyk/dotfiles)<br>`[07/04 12:47]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[07/04 07:42]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/astro-compress-1.x` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/04 07:42]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)
+`[07/06 07:54]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/globby-13.x` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[07/06 07:54]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[07/06 07:54]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#511`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/511 'Update dependency globby to v13.2.2') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[07/06 07:53]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#511`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/511 'Update dependency globby to v13.2.2') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[07/06 07:52]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/globby-13.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[07/06 07:52]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[07/06 07:52]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#468`](https://github.com/IgorKowalczyk/majo.exe/pull/468 'Update dependency globby to v13.2.2') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[07/06 07:51]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#468`](https://github.com/IgorKowalczyk/majo.exe/pull/468 'Update dependency globby to v13.2.2') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[07/05 07:48]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/astro-2.x` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/05 07:48]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)
 <!--END_SECTION:activity-->
 
 ---
