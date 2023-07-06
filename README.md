@@ -67,14 +67,14 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Thu Jul 06 2023 14:51:37 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Thu Jul 06 2023 15:18:07 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
    
 ### 📊 Github Statistics
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       15600      |
+|    🏆 Contributions (Total)   |       15602      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **5607**     |
+| **🏆 Contributions in 2023:** |     **5609**     |
 |  **📝 Total lines of code:**  | **8.35 million** |
 |     **📦 Github Storage:**    |    **2.7 GB**    |
 |  **📚 Public Repositories:**  |      **29**      |
@@ -86,19 +86,19 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 ```text
 🌞 Morning   657 commits   [████████░░░░░░░░░░░░░░░░░]   35.78%
-🌆 Daytime   543 commits   [███████░░░░░░░░░░░░░░░░░░]   29.58%
-🌃 Evening   595 commits   [████████░░░░░░░░░░░░░░░░░]   32.41%
+🌆 Daytime   545 commits   [███████░░░░░░░░░░░░░░░░░░]   29.68%
+🌃 Evening   593 commits   [████████░░░░░░░░░░░░░░░░░]   32.30%
 🌙 Night     41 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.23%
 ```
 
 #### 📅 I'm most productive on Tuesday
 
 ```text
-Monday      167 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.10%
+Monday      165 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   8.99%
 Tuesday     379 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.64%
 Wednesday   287 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.63%
 Thursday    290 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.80%
-Friday      224 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.20%
+Friday      226 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.31%
 Saturday    224 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.20%
 Sunday      265 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.43%
 ```
@@ -118,14 +118,14 @@ Other        [3h 7m]            [██░░░░░░░░░░░░░�
 Linux        [63 hrs 32 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Thu Jul 06 2023 14:51:48 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Thu Jul 06 2023 15:18:15 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[07/06 14:12]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br>`[07/06 14:10]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-plugin-prettie...` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br>`[07/06 14:10]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br>`[07/06 14:10]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#62`](https://github.com/IgorKowalczyk/shared-configs/pull/62 'Update dependency eslint-plugin-prettier to v5.0.0-alpha.2') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br>`[07/06 14:10]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#62`](https://github.com/IgorKowalczyk/shared-configs/pull/62 'Update dependency eslint-plugin-prettier to v5.0.0-alpha.2') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br>`[07/06 14:09]` <a href="https://github.com/igorkowalczyk" title="🏷"><img alt="🏷" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/release.png" align="top" height="18"></a> Released [`v1.5.0`](https://github.com/IgorKowalczyk/shared-configs/releases/tag/v1.5.0) in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br>`[07/06 14:07]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/prettier-3.x` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br>`[07/06 14:07]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `5` commits in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br>`[07/06 14:07]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#61`](https://github.com/IgorKowalczyk/shared-configs/pull/61 'Update dependency prettier to v3') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br>`[07/06 14:07]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#61`](https://github.com/IgorKowalczyk/shared-configs/pull/61 'Update dependency prettier to v3') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)
+`[07/06 14:59]` <a href="https://github.com/igorkowalczyk" title="🏷"><img alt="🏷" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/release.png" align="top" height="18"></a> Released [`v1.5.1`](https://github.com/IgorKowalczyk/shared-configs/releases/tag/v1.5.1) in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br>`[07/06 14:57]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br>`[07/06 14:10]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-plugin-prettie...` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br>`[07/06 14:10]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br>`[07/06 14:10]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#62`](https://github.com/IgorKowalczyk/shared-configs/pull/62 'Update dependency eslint-plugin-prettier to v5.0.0-alpha.2') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br>`[07/06 14:10]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#62`](https://github.com/IgorKowalczyk/shared-configs/pull/62 'Update dependency eslint-plugin-prettier to v5.0.0-alpha.2') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br>`[07/06 14:09]` <a href="https://github.com/igorkowalczyk" title="🏷"><img alt="🏷" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/release.png" align="top" height="18"></a> Released [`v1.5.0`](https://github.com/IgorKowalczyk/shared-configs/releases/tag/v1.5.0) in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br>`[07/06 14:07]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/prettier-3.x` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br>`[07/06 14:07]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `5` commits in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br>`[07/06 14:07]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#61`](https://github.com/IgorKowalczyk/shared-configs/pull/61 'Update dependency prettier to v3') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)
 <!--END_SECTION:activity-->
 
 ---
