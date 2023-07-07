@@ -67,40 +67,40 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Fri Jul 07 2023 15:17:04 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Fri Jul 07 2023 15:37:07 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
    
 ### 📊 Github Statistics
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       15680      |
+|    🏆 Contributions (Total)   |       15669      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **5687**     |
+| **🏆 Contributions in 2023:** |     **5677**     |
 |  **📝 Total lines of code:**  | **8.35 million** |
-|     **📦 Github Storage:**    |    **2.7 GB**    |
-|  **📚 Public Repositories:**  |      **29**      |
-|  **🔑 Private Repositories:** |       **3**      |
+|     **📦 Github Storage:**    |   **473.6 MB**   |
+|  **📚 Public Repositories:**  |      **27**      |
+|  **🔑 Private Repositories:** |       **2**      |
 
 <details><summary>✨ Show more stats</summary>
 
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   653 commits   [████████░░░░░░░░░░░░░░░░░]   35.57%
-🌆 Daytime   553 commits   [███████░░░░░░░░░░░░░░░░░░]   30.12%
-🌃 Evening   589 commits   [████████░░░░░░░░░░░░░░░░░]   32.08%
+🌞 Morning   651 commits   [████████░░░░░░░░░░░░░░░░░]   35.44%
+🌆 Daytime   557 commits   [███████░░░░░░░░░░░░░░░░░░]   30.32%
+🌃 Evening   588 commits   [████████░░░░░░░░░░░░░░░░░]   32.01%
 🌙 Night     41 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.23%
 ```
 
 #### 📅 I'm most productive on Tuesday
 
 ```text
-Monday      163 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   8.88%
-Tuesday     374 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.37%
-Wednesday   284 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.47%
-Thursday    286 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.58%
-Friday      242 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.18%
-Saturday    231 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.58%
-Sunday      256 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.94%
+Monday      163 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   8.87%
+Tuesday     374 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.36%
+Wednesday   284 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.46%
+Thursday    285 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.51%
+Friday      241 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.12%
+Saturday    236 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.85%
+Sunday      254 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.83%
 ```
 
 #### 📊 Weekly work stats (last 7 days)
@@ -118,14 +118,14 @@ Other        [1h 14m]           [█░░░░░░░░░░░░░░�
 Linux        [60 hrs 18 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Fri Jul 07 2023 15:17:13 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Fri Jul 07 2023 15:37:15 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[07/07 14:48]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/07 14:38]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [badgen/badgen](https://github.com/badgen/badgen)<br>`[07/07 14:29]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/07 13:10]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/prettier-3.x` from [IgorKowalczyk/ngrok](https://github.com/IgorKowalczyk/ngrok)<br>`[07/07 13:10]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `3` commits in [IgorKowalczyk/ngrok](https://github.com/IgorKowalczyk/ngrok)<br>`[07/07 13:10]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#113`](https://github.com/IgorKowalczyk/ngrok/pull/113 'Update dependency prettier to v3') in [IgorKowalczyk/ngrok](https://github.com/IgorKowalczyk/ngrok)<br>`[07/07 13:10]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#113`](https://github.com/IgorKowalczyk/ngrok/pull/113 'Update dependency prettier to v3') in [IgorKowalczyk/ngrok](https://github.com/IgorKowalczyk/ngrok)<br>`[07/07 13:05]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/ngrok](https://github.com/IgorKowalczyk/ngrok)<br>`[07/07 12:38]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/prettier-3.x` from [IgorKowalczyk/tweet-ai](https://github.com/IgorKowalczyk/tweet-ai)<br>`[07/07 12:38]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `3` commits in [IgorKowalczyk/tweet-ai](https://github.com/IgorKowalczyk/tweet-ai)
+`[07/07 15:32]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/pr-close.png" align="top" height="18"></a> Closed PR [`#300`](https://github.com/CodersCommunity/forum.pasja-informatyki.local/pull/300 'Naprawa przycisku logowania') in [CodersCommunity/forum.pasja-informatyki.local](https://github.com/CodersCommunity/forum.pasja-informatyki.local)<br>`[07/07 15:29]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/dotfiles](https://github.com/IgorKowalczyk/dotfiles)<br>`[07/07 15:29]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br>`[07/07 15:28]` <a href="https://github.com/igorkowalczyk" title="❗️"><img alt="❗️" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/issue.png" align="top" height="18"></a> Closed issue [`#96`](https://github.com/IgorKowalczyk/active-dev/issues/96 'readme.md -> README.md') in [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br>`[07/07 15:28]` <a href="https://github.com/igorkowalczyk" title="🗣"><img alt="🗣" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/comment.png" align="top" height="18"></a> Commented on [`#96`](https://github.com/IgorKowalczyk/active-dev/issues/96 'readme.md -> README.md') in [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br>`[07/07 15:27]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br>`[07/07 15:27]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br>`[07/07 15:26]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/ngrok](https://github.com/IgorKowalczyk/ngrok)<br>`[07/07 14:48]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/07 14:38]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [badgen/badgen](https://github.com/badgen/badgen)
 <!--END_SECTION:activity-->
 
 ---
