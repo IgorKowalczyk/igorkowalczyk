@@ -21,8 +21,6 @@
     "lint:fix": "eslint . --ext .js,.ts --fix"
   },
   "dependencies": {
-    "@igorkowalczyk/eslint-config": "1.4.2",
-    "@igorkowalczyk/prettier-config": "1.4.2",
     "actions-toolkit": "6.0.1",
     "date-fns": "2.30.0",
     "dotenv": "16.3.1",
@@ -33,8 +31,10 @@
     "xml2js": "0.6.0"
   },
   "devDependencies": {
+    "@igorkowalczyk/eslint-config": "1.5.2",
+    "@igorkowalczyk/prettier-config": "1.5.2",
     "eslint": "8.44.0",
-    "prettier": "2.8.8"
+    "prettier": "3.0.0"
   },
   "packageManager": "pnpm@8.6.6"
 }
