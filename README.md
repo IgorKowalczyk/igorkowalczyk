@@ -67,14 +67,14 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sun Jul 09 2023 08:51:34 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sun Jul 09 2023 09:14:35 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
    
 ### 📊 Github Statistics
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       15682      |
+|    🏆 Contributions (Total)   |       15686      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **5690**     |
+| **🏆 Contributions in 2023:** |     **5694**     |
 |  **📝 Total lines of code:**  | **8.35 million** |
 |     **📦 Github Storage:**    |   **473.6 MB**   |
 |  **📚 Public Repositories:**  |      **27**      |
@@ -85,19 +85,19 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   652 commits   [████████░░░░░░░░░░░░░░░░░]   35.49%
+🌞 Morning   653 commits   [████████░░░░░░░░░░░░░░░░░]   35.55%
 🌆 Daytime   556 commits   [███████░░░░░░░░░░░░░░░░░░]   30.27%
-🌃 Evening   588 commits   [████████░░░░░░░░░░░░░░░░░]   32.01%
+🌃 Evening   587 commits   [███████░░░░░░░░░░░░░░░░░░]   31.95%
 🌙 Night     41 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.23%
 ```
 
 #### 📅 I'm most productive on Tuesday
 
 ```text
-Monday      164 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   8.93%
+Monday      166 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.04%
 Tuesday     372 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.25%
-Wednesday   283 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.41%
-Thursday    285 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.51%
+Wednesday   282 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.35%
+Thursday    284 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.46%
 Friday      241 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.12%
 Saturday    236 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.85%
 Sunday      256 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.94%
@@ -118,14 +118,14 @@ Other        [1h 31m]           [█░░░░░░░░░░░░░░�
 Linux        [48 hrs 14 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Sun Jul 09 2023 08:51:42 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Sun Jul 09 2023 09:14:45 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[07/09 08:42]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[07/08 20:31]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[07/08 16:50]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)<br>`[07/08 16:49]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)<br>`[07/08 11:59]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [docker/cli](https://github.com/docker/cli)<br>`[07/07 15:32]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/pr-close.png" align="top" height="18"></a> Closed PR [`#300`](https://github.com/CodersCommunity/forum.pasja-informatyki.local/pull/300 'Naprawa przycisku logowania') in [CodersCommunity/forum.pasja-informatyki.local](https://github.com/CodersCommunity/forum.pasja-informatyki.local)<br>`[07/07 15:29]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/dotfiles](https://github.com/IgorKowalczyk/dotfiles)<br>`[07/07 15:29]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br>`[07/07 15:28]` <a href="https://github.com/igorkowalczyk" title="❗️"><img alt="❗️" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/issue.png" align="top" height="18"></a> Closed issue [`#96`](https://github.com/IgorKowalczyk/active-dev/issues/96 'readme.md -> README.md') in [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br>`[07/07 15:28]` <a href="https://github.com/igorkowalczyk" title="🗣"><img alt="🗣" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/comment.png" align="top" height="18"></a> Commented on [`#96`](https://github.com/IgorKowalczyk/active-dev/issues/96 'readme.md -> README.md') in [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)
+`[07/09 09:13]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/nodemon-3.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[07/09 09:13]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[07/09 09:13]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#474`](https://github.com/IgorKowalczyk/majo.exe/pull/474 'Update dependency nodemon to v3.0.1') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[07/09 09:13]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#474`](https://github.com/IgorKowalczyk/majo.exe/pull/474 'Update dependency nodemon to v3.0.1') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[07/09 09:10]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#473`](https://github.com/IgorKowalczyk/majo.exe/pull/473 'Update dependency nodemon to v3') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[07/09 09:10]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/nodemon-3.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[07/09 09:10]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[07/09 09:09]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#473`](https://github.com/IgorKowalczyk/majo.exe/pull/473 'Update dependency nodemon to v3') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[07/09 08:42]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[07/08 20:31]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
 <!--END_SECTION:activity-->
 
 ---
