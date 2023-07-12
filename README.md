@@ -67,14 +67,14 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Wed Jul 12 2023 21:51:28 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Wed Jul 12 2023 22:31:39 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
    
 ### 📊 Github Statistics
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       15832      |
+|    🏆 Contributions (Total)   |       15834      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **5840**     |
+| **🏆 Contributions in 2023:** |     **5842**     |
 |  **📝 Total lines of code:**  | **8.31 million** |
 |     **📦 Github Storage:**    |   **474.2 MB**   |
 |  **📚 Public Repositories:**  |      **27**      |
@@ -85,9 +85,9 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   647 commits   [████████░░░░░░░░░░░░░░░░░]   35.22%
+🌞 Morning   646 commits   [████████░░░░░░░░░░░░░░░░░]   35.17%
 🌆 Daytime   564 commits   [███████░░░░░░░░░░░░░░░░░░]   30.70%
-🌃 Evening   582 commits   [███████░░░░░░░░░░░░░░░░░░]   31.68%
+🌃 Evening   583 commits   [███████░░░░░░░░░░░░░░░░░░]   31.74%
 🌙 Night     44 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.40%
 ```
 
@@ -107,25 +107,25 @@ Sunday      243 commits   [███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages:
-JavaScript   [29 hrs 58 mins]   [██████████████████░░░░░░░]   74.22%
-JSON         [4 hrs 58 mins]    [███░░░░░░░░░░░░░░░░░░░░░░]   12.33%
-Markdown     [2 hrs 14 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   5.54%
-YAML         [1 hr 27 mins]     [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.63%
+JavaScript   [27 hrs 5 mins]    [████████████████░░░░░░░░░]   65.24%
+JSON         [5 hrs 33 mins]    [███░░░░░░░░░░░░░░░░░░░░░░]   13.37%
+YAML         [3 hrs 36 mins]    [██░░░░░░░░░░░░░░░░░░░░░░░]   8.69%
+Markdown     [2 hrs 14 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   5.41%
 
-Other        [0h 51m]           [█░░░░░░░░░░░░░░░░░░░░░░░░]   4.27%
+Other        [0h 57m]           [█░░░░░░░░░░░░░░░░░░░░░░░░]   7.28%
 
 💻 Operating Systems:
-Linux        [40 hrs 23 mins]  [█████████████████████████]   100.00%
+Linux        [41 hrs 32 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Wed Jul 12 2023 21:51:36 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Wed Jul 12 2023 22:31:48 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[07/12 21:44]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/systeminformation-5.x...` from [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br>`[07/12 21:44]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br>`[07/12 21:44]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#135`](https://github.com/IgorKowalczyk/discord-ssh/pull/135 'Update dependency systeminformation to v5.18.7') in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br>`[07/12 21:44]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#135`](https://github.com/IgorKowalczyk/discord-ssh/pull/135 'Update dependency systeminformation to v5.18.7') in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br>`[07/12 17:43]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#284`](https://github.com/IgorKowalczyk/github-views/pull/284 'Update dependency prettier to v3') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/12 17:34]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/igorkowalczyk-prettie...` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/12 17:34]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/12 17:34]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#287`](https://github.com/IgorKowalczyk/github-views/pull/287 'Update dependency @igorkowalczyk/prettier-config to v1.5.3') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/12 17:32]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#287`](https://github.com/IgorKowalczyk/github-views/pull/287 'Update dependency @igorkowalczyk/prettier-config to v1.5.3') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/12 17:32]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#286`](https://github.com/IgorKowalczyk/github-views/pull/286 'Update dependency @igorkowalczyk/eslint-config to v1.5.3') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)
+`[07/12 22:09]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/mongoose-7.x` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/12 22:09]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/12 22:09]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#298`](https://github.com/IgorKowalczyk/github-views/pull/298 'Update dependency mongoose to v7.3.4') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/12 22:09]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#298`](https://github.com/IgorKowalczyk/github-views/pull/298 'Update dependency mongoose to v7.3.4') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/12 21:44]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/systeminformation-5.x...` from [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br>`[07/12 21:44]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br>`[07/12 21:44]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#135`](https://github.com/IgorKowalczyk/discord-ssh/pull/135 'Update dependency systeminformation to v5.18.7') in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br>`[07/12 21:44]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#135`](https://github.com/IgorKowalczyk/discord-ssh/pull/135 'Update dependency systeminformation to v5.18.7') in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br>`[07/12 17:43]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#284`](https://github.com/IgorKowalczyk/github-views/pull/284 'Update dependency prettier to v3') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/12 17:34]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/igorkowalczyk-prettie...` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)
 <!--END_SECTION:activity-->
 
 ---
