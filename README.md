@@ -67,14 +67,14 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Thu Jul 13 2023 20:36:53 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Thu Jul 13 2023 20:51:25 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
    
 ### 📊 Github Statistics
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       15888      |
+|    🏆 Contributions (Total)   |       15894      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **5896**     |
+| **🏆 Contributions in 2023:** |     **5902**     |
 |  **📝 Total lines of code:**  | **8.31 million** |
 |     **📦 Github Storage:**    |   **474.5 MB**   |
 |  **📚 Public Repositories:**  |      **27**      |
@@ -94,11 +94,11 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I'm most productive on Tuesday
 
 ```text
-Monday      160 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   8.70%
+Monday      159 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   8.64%
 Tuesday     376 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.43%
 Wednesday   298 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.20%
 Thursday    287 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.60%
-Friday      251 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.64%
+Friday      252 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.70%
 Saturday    226 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.28%
 Sunday      242 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.15%
 ```
@@ -118,14 +118,14 @@ Other        [0h 57m]           [█░░░░░░░░░░░░░░�
 Linux        [41 hrs 32 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Thu Jul 13 2023 20:37:03 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Thu Jul 13 2023 20:51:33 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[07/13 19:31]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/tailwindcss-forms-0.x...` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/13 19:31]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/13 19:31]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#302`](https://github.com/IgorKowalczyk/github-views/pull/302 'Update dependency @tailwindcss/forms to v0.5.4') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/13 19:31]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#302`](https://github.com/IgorKowalczyk/github-views/pull/302 'Update dependency @tailwindcss/forms to v0.5.4') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/13 19:25]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/tailwindcss-3.x` from [just-that/invite](https://github.com/just-that/invite)<br>`[07/13 19:25]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [just-that/invite](https://github.com/just-that/invite)<br>`[07/13 19:25]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#191`](https://github.com/just-that/invite/pull/191 'Update dependency tailwindcss to v3.3.3') in [just-that/invite](https://github.com/just-that/invite)<br>`[07/13 19:25]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#191`](https://github.com/just-that/invite/pull/191 'Update dependency tailwindcss to v3.3.3') in [just-that/invite](https://github.com/just-that/invite)<br>`[07/13 18:25]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [SkidderMC/FDPClient](https://github.com/SkidderMC/FDPClient)<br>`[07/13 18:24]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/tailwindcss-3.x` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)
+`[07/13 20:42]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/tailwindcss-3.x` from [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br>`[07/13 20:42]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br>`[07/13 20:42]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#137`](https://github.com/IgorKowalczyk/is-browser/pull/137 'Update dependency tailwindcss to v3.3.3') in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br>`[07/13 20:42]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#137`](https://github.com/IgorKowalczyk/is-browser/pull/137 'Update dependency tailwindcss to v3.3.3') in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br>`[07/13 19:31]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/tailwindcss-forms-0.x...` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/13 19:31]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/13 19:31]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#302`](https://github.com/IgorKowalczyk/github-views/pull/302 'Update dependency @tailwindcss/forms to v0.5.4') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/13 19:31]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#302`](https://github.com/IgorKowalczyk/github-views/pull/302 'Update dependency @tailwindcss/forms to v0.5.4') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/13 19:25]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/tailwindcss-3.x` from [just-that/invite](https://github.com/just-that/invite)<br>`[07/13 19:25]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [just-that/invite](https://github.com/just-that/invite)
 <!--END_SECTION:activity-->
 
 ---
