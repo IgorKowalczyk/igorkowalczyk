@@ -15,8 +15,8 @@
   },
   "scripts": {
     "build": "node src/index.js",
-    "format": "prettier --write . --ignore-unknown --cache",
-    "format:check": "prettier --check . --ignore-unknown --cache",
+    "format": "prettier . --write --ignore-unknown --cache",
+    "format:check": "prettier . --check --ignore-unknown --cache",
     "lint": "eslint . --ext .js,.ts",
     "lint:fix": "eslint . --ext .js,.ts --fix"
   },
