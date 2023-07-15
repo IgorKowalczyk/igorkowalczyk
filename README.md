@@ -67,14 +67,14 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sat Jul 15 2023 07:14:35 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sat Jul 15 2023 07:25:45 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
    
 ### 📊 Github Statistics
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       15982      |
+|    🏆 Contributions (Total)   |       15984      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **5990**     |
+| **🏆 Contributions in 2023:** |     **5992**     |
 |  **📝 Total lines of code:**  | **8.31 million** |
 |     **📦 Github Storage:**    |   **475.1 MB**   |
 |  **📚 Public Repositories:**  |      **27**      |
@@ -85,10 +85,10 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   645 commits   [████████░░░░░░░░░░░░░░░░░]   35.05%
+🌞 Morning   646 commits   [████████░░░░░░░░░░░░░░░░░]   35.11%
 🌆 Daytime   573 commits   [███████░░░░░░░░░░░░░░░░░░]   31.14%
 🌃 Evening   578 commits   [███████░░░░░░░░░░░░░░░░░░]   31.41%
-🌙 Night     44 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.39%
+🌙 Night     43 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.34%
 ```
 
 #### 📅 I'm most productive on Tuesday
@@ -99,8 +99,8 @@ Tuesday     373 commits   [█████░░░░░░░░░░░░�
 Wednesday   298 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.20%
 Thursday    285 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.49%
 Friday      246 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.37%
-Saturday    246 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.37%
-Sunday      235 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.77%
+Saturday    245 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.32%
+Sunday      236 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.83%
 ```
 
 #### 📊 Weekly work stats (last 7 days)
@@ -118,14 +118,14 @@ Other        [0h 32m]           [█░░░░░░░░░░░░░░�
 Linux        [42 hrs 37 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Sat Jul 15 2023 07:14:45 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Sat Jul 15 2023 07:25:52 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[07/14 23:04]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `3` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[07/14 22:10]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-8.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[07/14 22:10]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[07/14 22:10]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#484`](https://github.com/IgorKowalczyk/majo.exe/pull/484 'Update dependency eslint to v8.45.0') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[07/14 22:10]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#484`](https://github.com/IgorKowalczyk/majo.exe/pull/484 'Update dependency eslint to v8.45.0') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[07/14 20:41]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-8.x` from [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br>`[07/14 20:41]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br>`[07/14 20:41]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#100`](https://github.com/IgorKowalczyk/active-dev/pull/100 'Update dependency eslint to v8.45.0') in [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br>`[07/14 20:41]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#100`](https://github.com/IgorKowalczyk/active-dev/pull/100 'Update dependency eslint to v8.45.0') in [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br>`[07/14 20:41]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#100`](https://github.com/IgorKowalczyk/active-dev/pull/100 'Update dependency eslint to v8.45.0') in [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)
+`[07/15 07:15]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/astrojs-vercel-3.x` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/15 07:15]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/15 07:15]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#308`](https://github.com/IgorKowalczyk/github-views/pull/308 'Update dependency @astrojs/vercel to v3.7.2') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/15 07:15]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#308`](https://github.com/IgorKowalczyk/github-views/pull/308 'Update dependency @astrojs/vercel to v3.7.2') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/14 23:04]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `3` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[07/14 22:10]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-8.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[07/14 22:10]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[07/14 22:10]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#484`](https://github.com/IgorKowalczyk/majo.exe/pull/484 'Update dependency eslint to v8.45.0') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[07/14 22:10]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#484`](https://github.com/IgorKowalczyk/majo.exe/pull/484 'Update dependency eslint to v8.45.0') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[07/14 20:41]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-8.x` from [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)
 <!--END_SECTION:activity-->
 
 ---
