@@ -67,14 +67,14 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sun Jul 16 2023 21:13:28 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sun Jul 16 2023 21:24:31 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
    
 ### 📊 Github Statistics
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       16014      |
+|    🏆 Contributions (Total)   |       16016      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **6022**     |
+| **🏆 Contributions in 2023:** |     **6024**     |
 |  **📝 Total lines of code:**  | **8.31 million** |
 |     **📦 Github Storage:**    |   **474.8 MB**   |
 |  **📚 Public Repositories:**  |      **27**      |
@@ -85,22 +85,22 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   649 commits   [████████░░░░░░░░░░░░░░░░░]   35.27%
-🌆 Daytime   571 commits   [███████░░░░░░░░░░░░░░░░░░]   31.03%
-🌃 Evening   577 commits   [███████░░░░░░░░░░░░░░░░░░]   31.36%
-🌙 Night     43 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.34%
+🌞 Morning   649 commits   [████████░░░░░░░░░░░░░░░░░]   35.23%
+🌆 Daytime   571 commits   [███████░░░░░░░░░░░░░░░░░░]   31.00%
+🌃 Evening   579 commits   [███████░░░░░░░░░░░░░░░░░░]   31.43%
+🌙 Night     43 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.33%
 ```
 
 #### 📅 I'm most productive on Tuesday
 
 ```text
-Monday      161 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   8.75%
-Tuesday     372 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.22%
-Wednesday   298 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.20%
-Thursday    285 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.49%
-Friday      245 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.32%
-Saturday    243 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.21%
-Sunday      236 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.83%
+Monday      163 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   8.85%
+Tuesday     372 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.20%
+Wednesday   298 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.18%
+Thursday    285 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.47%
+Friday      245 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.30%
+Saturday    243 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.19%
+Sunday      236 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.81%
 ```
 
 #### 📊 Weekly work stats (last 7 days)
@@ -118,14 +118,14 @@ Other        [0h 32m]           [█░░░░░░░░░░░░░░�
 Linux        [46 hrs 58 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Sun Jul 16 2023 21:13:38 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Sun Jul 16 2023 21:24:40 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[07/16 21:12]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/next-nprogress-bar-2....` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[07/16 21:12]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[07/16 21:12]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#486`](https://github.com/IgorKowalczyk/majo.exe/pull/486 'Update dependency next-nprogress-bar to v2.0.3') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[07/16 21:05]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[07/16 21:04]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#486`](https://github.com/IgorKowalczyk/majo.exe/pull/486 'Update dependency next-nprogress-bar to v2.0.3') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[07/16 19:23]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[07/16 18:16]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `9` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[07/16 10:54]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [vaneenige/phenomenon](https://github.com/vaneenige/phenomenon)<br>`[07/16 10:53]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[07/16 08:28]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/clsx-2.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
+`[07/16 21:23]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [marlonrichert/zsh-snap](https://github.com/marlonrichert/zsh-snap)<br>`[07/16 21:21]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/dotfiles](https://github.com/IgorKowalczyk/dotfiles)<br>`[07/16 21:12]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/next-nprogress-bar-2....` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[07/16 21:12]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[07/16 21:12]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#486`](https://github.com/IgorKowalczyk/majo.exe/pull/486 'Update dependency next-nprogress-bar to v2.0.3') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[07/16 21:05]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[07/16 21:04]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#486`](https://github.com/IgorKowalczyk/majo.exe/pull/486 'Update dependency next-nprogress-bar to v2.0.3') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[07/16 19:23]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[07/16 18:16]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `9` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[07/16 10:54]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [vaneenige/phenomenon](https://github.com/vaneenige/phenomenon)
 <!--END_SECTION:activity-->
 
 ---
