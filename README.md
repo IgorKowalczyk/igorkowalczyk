@@ -67,14 +67,14 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Tue Jul 18 2023 05:51:25 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Tue Jul 18 2023 06:20:10 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
    
 ### 📊 Github Statistics
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       16029      |
+|    🏆 Contributions (Total)   |       16059      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **6037**     |
+| **🏆 Contributions in 2023:** |     **6067**     |
 |  **📝 Total lines of code:**  | **8.31 million** |
 |     **📦 Github Storage:**    |   **474.4 MB**   |
 |  **📚 Public Repositories:**  |      **27**      |
@@ -85,22 +85,22 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   651 commits   [████████░░░░░░░░░░░░░░░░░]   35.34%
-🌆 Daytime   573 commits   [███████░░░░░░░░░░░░░░░░░░]   31.11%
-🌃 Evening   576 commits   [███████░░░░░░░░░░░░░░░░░░]   31.27%
-🌙 Night     42 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.28%
+🌞 Morning   659 commits   [████████░░░░░░░░░░░░░░░░░]   35.78%
+🌆 Daytime   569 commits   [███████░░░░░░░░░░░░░░░░░░]   30.89%
+🌃 Evening   573 commits   [███████░░░░░░░░░░░░░░░░░░]   31.11%
+🌙 Night     41 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.23%
 ```
 
 #### 📅 I'm most productive on Tuesday
 
 ```text
-Monday      162 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   8.79%
-Tuesday     378 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.52%
-Wednesday   298 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.18%
-Thursday    284 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.42%
-Friday      245 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.30%
-Saturday    243 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.19%
-Sunday      232 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.60%
+Monday      158 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   8.58%
+Tuesday     377 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.47%
+Wednesday   309 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.78%
+Thursday    283 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.36%
+Friday      244 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.25%
+Saturday    240 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.03%
+Sunday      231 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.54%
 ```
 
 #### 📊 Weekly work stats (last 7 days)
@@ -118,14 +118,14 @@ Other        [0h 33m]           [█░░░░░░░░░░░░░░�
 Linux        [53 hrs 18 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Tue Jul 18 2023 05:51:35 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Tue Jul 18 2023 06:20:18 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[07/17 15:27]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/rollup-3.x` from [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br>`[07/17 15:26]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br>`[07/17 15:26]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#139`](https://github.com/IgorKowalczyk/is-browser/pull/139 'Update dependency rollup to v3.26.3') in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br>`[07/17 15:26]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#139`](https://github.com/IgorKowalczyk/is-browser/pull/139 'Update dependency rollup to v3.26.3') in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br>`[07/17 15:06]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/rollup-3.x` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br>`[07/17 15:06]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br>`[07/17 15:06]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#67`](https://github.com/IgorKowalczyk/shared-configs/pull/67 'Update dependency rollup to v3.26.3') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br>`[07/17 15:06]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#67`](https://github.com/IgorKowalczyk/shared-configs/pull/67 'Update dependency rollup to v3.26.3') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br>`[07/17 15:06]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br>`[07/17 15:06]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/rollup-3.x` from [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)
+`[07/18 06:11]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/pnpm-8.x` from [IgorKowalczyk/ngrok](https://github.com/IgorKowalczyk/ngrok)<br>`[07/18 06:11]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/ngrok](https://github.com/IgorKowalczyk/ngrok)<br>`[07/18 06:11]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#119`](https://github.com/IgorKowalczyk/ngrok/pull/119 'Update pnpm to v8.6.8') in [IgorKowalczyk/ngrok](https://github.com/IgorKowalczyk/ngrok)<br>`[07/18 06:11]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/pnpm-8.x` from [just-that/invite](https://github.com/just-that/invite)<br>`[07/18 06:11]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [just-that/invite](https://github.com/just-that/invite)<br>`[07/18 06:11]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#195`](https://github.com/just-that/invite/pull/195 'Update pnpm to v8.6.8') in [just-that/invite](https://github.com/just-that/invite)<br>`[07/18 06:11]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/pnpm-8.x` from [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br>`[07/18 06:11]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#101`](https://github.com/IgorKowalczyk/active-dev/pull/101 'Update pnpm to v8.6.8') in [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br>`[07/18 06:11]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br>`[07/18 06:11]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/pnpm-8.x` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)
 <!--END_SECTION:activity-->
 
 ---
