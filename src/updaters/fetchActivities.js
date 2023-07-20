@@ -14,7 +14,7 @@ export async function fetchActivities(username) {
   return `[${branch ? `\`${branch}\`` : item}](https://github.com/${item}${branch ? `/tree/${branch}` : ""})`;
  };
 
- const actionIcon = (name, alt) => `<a href="https://github.com/igorkowalczyk" title="${alt}"><img alt="${alt}" src="https://github.com/${username}/${username}/raw/master/src/images/icons/${name}.png" align="top" height="18"></a>`;
+ const actionIcon = (name, alt) => `<a href="https://github.com/${username}" title="${alt}"><img alt="${alt}" src="https://github.com/${username}/${username}/raw/master/src/images/icons/${name}.png" align="top" height="18"></a>`;
  const serializers = {
   CommitCommentEvent: (item) => {
    const hash = item.payload.comment.commit_id.slice(0, 7);
