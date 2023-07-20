@@ -1,6 +1,5 @@
-import { format } from "date-fns";
-import fetch from "node-fetch";
-import { parseString } from "xml2js";
+import { format } from "npm:date-fns";
+import { parseString } from "npm:xml2js";
 import { feed } from "../config.js";
 
 export async function fetchPosts(xml) {
@@ -12,11 +11,10 @@ export async function fetchPosts(xml) {
   const xmlBody = await res.text();
   parseString(xmlBody, (err, result) => {
    if (err) throw new Error(err);
-   content =
-    result.feed.entry
-     .slice(0, feed.maxLines || 5)
-     .map(({ title, id, updated }) => `- [${title}](${id}) \`[${format(new Date(updated[0]), "MMMM dd, yyyy")}]\``)
-     .join("\n") + `\n<!-- Posts last updated on ${new Date().toString()} -->`;
+   content = result.feed.entry
+    .slice(0, feed.maxLines || 5)
+    .map(({ title, id, updated }) => `- [${title}](${id}) \`[${format(new Date(updated[0]), "MMMM dd, yyyy")}]\``)
+    .join("\n") + `\n<!-- Posts last updated on ${new Date().toString()} -->`;
   });
  });
  return content;

@@ -62,8 +62,8 @@ async function getContributionsGraphQl(username) {
 }
 
 export async function getCommits(username) {
- let contributions = {};
- await getContributionsGraphQl(username).then(async (weeks) => {
+ const contributions = {};
+ await getContributionsGraphQl(username).then((weeks) => {
   const weekdayCounts = Object.values(weeks).reduce((acc, week) => {
    const key = week.weekday;
    if (!acc[key]) {

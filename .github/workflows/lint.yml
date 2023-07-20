@@ -3,26 +3,16 @@ on: [push, pull_request]
 
 jobs:
  lint:
-  name: ESLint
+  name: Deno Lint
   runs-on: ubuntu-latest
   strategy:
    fail-fast: false
-   matrix:
-    language: ["javascript"]
-    node: ["18.x"]
   steps:
    - name: 🧱 Checkout repository
      uses: actions/checkout@v3
-   - name: 🔩 Setup PNPM
-     uses: pnpm/action-setup@v2
+   - name: 🔩 Install Deno 
+     uses: denoland/setup-deno@v1
      with:
-      version: latest
-   - name: 🔩 Setup Node ${{ matrix.node }}
-     uses: actions/setup-node@v3
-     with:
-      node-version: ${{ matrix.node }}
-      cache: "pnpm"
-   - name: 🚀 Install dependencies
-     run: pnpm install
-   - name: 🚀 Run ESLint
-     run: pnpm lint
+       deno-version: v1.x
+   - name: 🚀 Check formatting
+     run: deno task fmt:check
