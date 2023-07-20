@@ -65,16 +65,16 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Thu Jul 20 2023 20:37:25 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Thu Jul 20 2023 20:51:22 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       16151      |
+|    🏆 Contributions (Total)   |       16157      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **6159**     |
-|  **📝 Total lines of code:**  | **8.31 million** |
+| **🏆 Contributions in 2023:** |     **6165**     |
+|  **📝 Total lines of code:**  | **8.33 million** |
 |     **📦 Github Storage:**    |   **475.3 MB**   |
 |  **📚 Public Repositories:**  |      **27**      |
 |  **🔑 Private Repositories:** |       **2**      |
@@ -84,9 +84,9 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   662 commits   [████████░░░░░░░░░░░░░░░░░]   35.82%
+🌞 Morning   656 commits   [████████░░░░░░░░░░░░░░░░░]   35.50%
 🌆 Daytime   573 commits   [███████░░░░░░░░░░░░░░░░░░]   31.01%
-🌃 Evening   567 commits   [███████░░░░░░░░░░░░░░░░░░]   30.68%
+🌃 Evening   573 commits   [███████░░░░░░░░░░░░░░░░░░]   31.01%
 🌙 Night     46 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.49%
 ```
 
@@ -95,9 +95,9 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ```text
 Monday      151 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   8.17%
 Tuesday     374 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.24%
-Wednesday   315 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.05%
+Wednesday   309 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.72%
 Thursday    289 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.64%
-Friday      260 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.07%
+Friday      266 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.39%
 Saturday    234 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.66%
 Sunday      225 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.18%
 ```
@@ -117,7 +117,7 @@ Other        [0h 41m]           [█░░░░░░░░░░░░░░�
 Linux        [54 hrs 28 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Thu Jul 20 2023 20:37:34 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Thu Jul 20 2023 20:51:31 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
@@ -125,7 +125,7 @@ Linux        [54 hrs 28 mins]  [████████████████
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-`[07/20 19:44]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [istanbuljs/nyc](https://github.com/istanbuljs/nyc)<br>`[07/20 15:38]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/wakatime-hours](https://github.com/IgorKowalczyk/wakatime-hours)<br>`[07/20 15:37]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `3` commits in [IgorKowalczyk/image-forwarder](https://github.com/IgorKowalczyk/image-forwarder)<br>`[07/20 15:13]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `deno` from [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)<br>`[07/20 15:13]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#135`](https://github.com/IgorKowalczyk/igorkowalczyk/pull/135 'Rebuild to deno') in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)<br>`[07/20 15:01]` <a href="https://github.com/igorkowalczyk" title="✅"><img alt="✅" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/pr-open.png" align="top" height="18"></a> Opened PR [`#135`](https://github.com/IgorKowalczyk/igorkowalczyk/pull/135 'Rebuild to deno') in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)<br>`[07/20 15:01]` <a href="https://github.com/igorkowalczyk" title="📂"><img alt="📂" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/create-branch.png" align="top" height="18"></a> Created branch [`deno`](https://github.com/IgorKowalczyk/igorkowalczyk/tree/deno) in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)<br>`[07/20 14:02]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/image-forwarder](https://github.com/IgorKowalczyk/image-forwarder)<br>`[07/20 14:02]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/wakatime-hours](https://github.com/IgorKowalczyk/wakatime-hours)<br>`[07/20 14:01]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)
+`[07/20 20:50]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br>`[07/20 20:48]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/pr-close.png" align="top" height="18"></a> Closed PR [`#6`](https://github.com/IgorKowalczyk/countdown/pull/6 'Bump terser from 5.7.0 to 5.14.2') in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br>`[07/20 20:48]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/pr-close.png" align="top" height="18"></a> Closed PR [`#5`](https://github.com/IgorKowalczyk/countdown/pull/5 'Bump postcss from 7.0.35 to 7.0.39') in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br>`[07/20 20:48]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/pr-close.png" align="top" height="18"></a> Closed PR [`#4`](https://github.com/IgorKowalczyk/countdown/pull/4 'Bump nanoid from 3.1.23 to 3.3.2') in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br>`[07/20 20:47]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `5` commits in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br>`[07/20 19:44]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [istanbuljs/nyc](https://github.com/istanbuljs/nyc)<br>`[07/20 15:38]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/wakatime-hours](https://github.com/IgorKowalczyk/wakatime-hours)<br>`[07/20 15:37]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `3` commits in [IgorKowalczyk/image-forwarder](https://github.com/IgorKowalczyk/image-forwarder)<br>`[07/20 15:13]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `deno` from [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)<br>`[07/20 15:13]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#135`](https://github.com/IgorKowalczyk/igorkowalczyk/pull/135 'Rebuild to deno') in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)
 <!--END_SECTION:activity-->
 
 ---
