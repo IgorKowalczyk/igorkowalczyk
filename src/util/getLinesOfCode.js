@@ -29,7 +29,7 @@ async function Query(username, cursor) {
   }
 }
 `;
- return client.request(query);
+ return await client.request(query);
 }
 
 export async function getLinesOfCode(username, cursor = null, linesOfCode = 0) {

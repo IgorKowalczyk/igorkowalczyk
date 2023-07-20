@@ -11,27 +11,17 @@ jobs:
   runs-on: ubuntu-latest
   strategy:
    fail-fast: false
-   matrix:
-    language: ["javascript"]
-    node: ["18.x"]
   steps:
    - name: 🧱 Checkout repository
      uses: actions/checkout@v3
      with:
       fetch-depth: 1
-   - name: 🔩 Setup PNPM
-     uses: pnpm/action-setup@v2
+   - name: 🔩 Install Deno 
+     uses: denoland/setup-deno@v1
      with:
-      version: latest
-   - name: 🔩 Setup Node ${{ matrix.node }}
-     uses: actions/setup-node@v3
-     with:
-      node-version: ${{ matrix.node }}
-      cache: "pnpm"
-   - name: 🚀 Install dependencies
-     run: pnpm install
+       deno-version: v1.x
    - name: ✨ Generate README.md
-     run: pnpm run build
+     run: deno task start
      env:
       GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
       WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}

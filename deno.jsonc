@@ -1,0 +1,24 @@
+{
+ "$schema": "https://deno.land/x/deno/cli/schemas/config-file.v1.json",
+ "tasks": {
+  "dev": "deno run --watch --allow-net --allow-read --allow-env --allow-write src/index.js",
+  "start": "deno run --allow-net --allow-read --allow-env --allow-write src/index.js",
+  "fmt": "deno fmt",
+  "fmt:check": "deno fmt --check",
+  "lint": "deno lint"
+ },
+ "lint": {
+  "include": ["src/"],
+  "rules": {
+   "tags": ["recommended"]
+  }
+ },
+ "fmt": {
+  "include": ["."],
+  "useTabs": false,
+  "lineWidth": 2000,
+  "indentWidth": 1,
+  "singleQuote": false,
+  "proseWrap": "preserve"
+ }
+}

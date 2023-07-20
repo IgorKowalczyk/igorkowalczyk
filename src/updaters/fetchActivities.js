@@ -1,11 +1,11 @@
 // Inspired by https://github.com/cheesits456/github-activity-readme
 
-import { Toolkit } from "actions-toolkit";
 import { activity } from "../config.js";
 
 export async function fetchActivities(username) {
  let content;
  if (!username) throw new Error("You must provide a Github username!");
+
  const capitalize = (str) => str.slice(0, 1).toUpperCase() + str.slice(1);
  const toUrlFormat = (item, branch, repoPublic) => {
   if (typeof item === "object") {
@@ -13,7 +13,8 @@ export async function fetchActivities(username) {
   }
   return `[${branch ? `\`${branch}\`` : item}](https://github.com/${item}${branch ? `/tree/${branch}` : ""})`;
  };
- const actionIcon = (name, alt) => `<a href="https://github.com/igorkowalczyk" title="${alt}"><img alt="${alt}" src="https://github.com/${username}/${username}/raw/master/src/images/icons/${name}.png" align="top" height="18"></a>`;
+
+ const actionIcon = (name, alt) => `<a href="https://github.com/${username}" title="${alt}"><img alt="${alt}" src="https://github.com/${username}/${username}/raw/master/src/images/icons/${name}.png" align="top" height="18"></a>`;
  const serializers = {
   CommitCommentEvent: (item) => {
    const hash = item.payload.comment.commit_id.slice(0, 7);
@@ -56,22 +57,23 @@ export async function fetchActivities(username) {
  };
 
  const timestamper = (item) => `\`[${item.created_at.split("T")[0].split("-").slice(1, 3).join("/")} ${item.created_at.split("T")[1].split(":").slice(0, 2).join(":")}]\``;
- await Toolkit.run(async (tools) => {
+
+ try {
   console.info(`::debug:: [Activity] Getting activity for ${username}`);
-  let eventArrs = [];
+  const eventArrs = [];
+
   for (let i = 0; i < 3; i++) {
-   eventArrs[i] = await tools.github.activity.listEventsForAuthenticatedUser({
-    username: username,
-    perPage: 100,
-    page: i + 1,
-   });
+   const response = await fetch(`https://api.github.com/users/${username}/events?per_page=100&page=${i + 1}`);
+   const events = await response.json();
+   eventArrs.push(events);
   }
 
-  console.info(`::debug:: [Activity] Activity for ${username}, ${eventArrs.reduce((a, c) => a + c.data.length, 0)} events found.`);
+  console.info(`::debug:: [Activity] Activity for ${username}, ${eventArrs.reduce((a, c) => a + c.length, 0)} events found.`);
   const last = (array) => array[array.length - 1];
-  let arr = [];
+  const arr = [];
+
   for (const events of eventArrs) {
-   for (const data of events.data) {
+   for (const data of events) {
     if (arr.length && data.type === "PushEvent" && last(arr).type === "PushEvent" && data.repo.name === last(arr).repo.name) {
      arr[arr.length - 1].payload.size += data.payload.size;
     } else {
@@ -79,18 +81,21 @@ export async function fetchActivities(username) {
     }
    }
   }
+
   content = arr
-   .filter((event) => {
-    return Object.prototype.hasOwnProperty.call(serializers, event.type);
-   })
+   .filter((event) => Object.prototype.hasOwnProperty.call(serializers, event.type))
    .map((item) => {
     if (!item.public) return null; // Hide private events
     return `${timestamper(item)} ${serializers[item.type](item)}`;
    })
    .filter((item) => (item ? !item.match(/^`\[\d{1,2}\/\d{1,2} \d{1,2}:\d{2}]` undefined$/) : false))
    .slice(0, activity.maxLines || 15);
+
   if (!content.length) throw new Error("No events found!");
   if (content.length < 5) throw new Error("Found less than 5 activities!");
- });
+ } catch (error) {
+  throw new Error(`Error fetching activities: ${error.message}`);
+ }
+
  return content;
 }
