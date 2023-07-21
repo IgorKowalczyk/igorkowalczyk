@@ -65,15 +65,15 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Fri Jul 21 2023 07:13:15 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Fri Jul 21 2023 07:36:34 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       16168      |
+|    🏆 Contributions (Total)   |       16170      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **6176**     |
+| **🏆 Contributions in 2023:** |     **6178**     |
 |  **📝 Total lines of code:**  | **8.32 million** |
 |     **📦 Github Storage:**    |   **475.3 MB**   |
 |  **📚 Public Repositories:**  |      **27**      |
@@ -97,8 +97,8 @@ Monday      150 commits   [██░░░░░░░░░░░░░░░�
 Tuesday     374 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.24%
 Wednesday   305 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.50%
 Thursday    288 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.58%
-Friday      272 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.72%
-Saturday    234 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.66%
+Friday      271 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.66%
+Saturday    235 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.72%
 Sunday      225 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.18%
 ```
 
@@ -117,7 +117,7 @@ Other        [1h 12m]           [███░░░░░░░░░░░░�
 Linux        [63 hrs 24 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Fri Jul 21 2023 07:13:25 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Fri Jul 21 2023 07:36:45 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
@@ -125,7 +125,7 @@ Linux        [63 hrs 24 mins]  [████████████████
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-`[07/20 21:19]` <a href="https://github.com/igorkowalczyk" title="🏷"><img alt="🏷" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/release.png" align="top" height="18"></a> Released [`v1.0.1`](https://github.com/IgorKowalczyk/countdown/releases/tag/v1.0.1) in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br>`[07/20 21:17]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `3` commits in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br>`[07/20 21:12]` <a href="https://github.com/igorkowalczyk" title="🏷"><img alt="🏷" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/release.png" align="top" height="18"></a> Released [`v1.0.0`](https://github.com/IgorKowalczyk/countdown/releases/tag/v1.0.0) in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br>`[07/20 21:10]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br>`[07/20 21:08]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `v1.0.0` from [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br>`[07/20 21:06]` <a href="https://github.com/igorkowalczyk" title="🏷"><img alt="🏷" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/release.png" align="top" height="18"></a> Released [`v1.0.0`](https://github.com/IgorKowalczyk/countdown/releases/tag/v1.0.0) in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br>`[07/20 20:58]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br>`[07/20 20:52]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/astro-2.x` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/20 20:52]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[07/20 20:52]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#315`](https://github.com/IgorKowalczyk/github-views/pull/315 'Update dependency astro to v2.9.0') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)
+`[07/21 07:18]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/nextjs-monorepo` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[07/21 07:18]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[07/21 07:18]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#532`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/532 'Update nextjs monorepo to v13.4.11') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[07/21 07:18]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#532`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/532 'Update nextjs monorepo to v13.4.11') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[07/20 21:19]` <a href="https://github.com/igorkowalczyk" title="🏷"><img alt="🏷" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/release.png" align="top" height="18"></a> Released [`v1.0.1`](https://github.com/IgorKowalczyk/countdown/releases/tag/v1.0.1) in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br>`[07/20 21:17]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `3` commits in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br>`[07/20 21:12]` <a href="https://github.com/igorkowalczyk" title="🏷"><img alt="🏷" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/release.png" align="top" height="18"></a> Released [`v1.0.0`](https://github.com/IgorKowalczyk/countdown/releases/tag/v1.0.0) in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br>`[07/20 21:10]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br>`[07/20 21:08]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `v1.0.0` from [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br>`[07/20 21:06]` <a href="https://github.com/igorkowalczyk" title="🏷"><img alt="🏷" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/release.png" align="top" height="18"></a> Released [`v1.0.0`](https://github.com/IgorKowalczyk/countdown/releases/tag/v1.0.0) in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)
 <!--END_SECTION:activity-->
 
 ---
