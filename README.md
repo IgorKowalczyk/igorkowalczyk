@@ -65,7 +65,7 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sat Jul 22 2023 21:51:28 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sat Jul 22 2023 22:37:45 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
@@ -106,18 +106,18 @@ Sunday      225 commits   [███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages:
-JavaScript   [42 hrs 27 mins]   [█████████████████░░░░░░░░]   71.67%
+JavaScript   [32 hrs 15 mins]   [████████████████░░░░░░░░░]   66.08%
 
-JSON         [4 hrs 19 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   7.29%
-TypeScript   [2 hrs 56 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   4.98%
-Markdown     [58 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.64%
-Other        [1h 9m]            [███░░░░░░░░░░░░░░░░░░░░░░]   14.43%
+JSON         [4 hrs 16 mins]    [██░░░░░░░░░░░░░░░░░░░░░░░]   8.75%
+TypeScript   [2 hrs 56 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.03%
+Markdown     [55 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.90%
+Other        [1h 7m]            [████░░░░░░░░░░░░░░░░░░░░░]   17.24%
 
 💻 Operating Systems:
-Linux        [59 hrs 14 mins]  [█████████████████████████]   100.00%
+Linux        [48 hrs 48 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Sat Jul 22 2023 21:51:38 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Sat Jul 22 2023 22:37:55 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
