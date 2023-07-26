@@ -10,7 +10,7 @@
       "date-fns": "date-fns@2.30.0",
       "graphql-request": "graphql-request@6.1.0_graphql@16.7.1",
       "markdown-table": "markdown-table@3.0.3",
-      "xml2js": "xml2js@0.6.1"
+      "xml2js": "xml2js@0.6.2"
     },
     "packages": {
       "@babel/runtime@7.22.6": {
@@ -91,6 +91,13 @@
       },
       "xml2js@0.6.1": {
         "integrity": "sha512-wksiZCYEDvrdwNhv1OIp0IALJdxWF9/ykG85DRkTLjqLIkcadRZxY05dwOX+zTM9aK+7rmtbNRnf3nC7MEqcvQ==",
+        "dependencies": {
+          "sax": "sax@1.2.4",
+          "xmlbuilder": "xmlbuilder@11.0.1"
+        }
+      },
+      "xml2js@0.6.2": {
+        "integrity": "sha512-T4rieHaC1EXcES0Kxxj4JWgaUQHDk+qwHcYOCFHfiwKz7tOVPLq7Hjq9dM1WCMhylqMEfP7hMcOIChvotiZegA==",
         "dependencies": {
           "sax": "sax@1.2.4",
           "xmlbuilder": "xmlbuilder@11.0.1"
