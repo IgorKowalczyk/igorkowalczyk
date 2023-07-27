@@ -64,16 +64,16 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 
 <!-- START_SECTION:feed -->
-- [How I built my website](https://portfolio-h11zm5kzo-igorkowalczyk.vercel.app/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Thu Jul 27 2023 21:22:20 GMT+0000 (Coordinated Universal Time) -->
+- [How I built my website](https://portfolio-7erd4iqa3-igorkowalczyk.vercel.app/blog/how-i-built-my-website) `[August 12, 2022]`
+<!-- Posts last updated on Thu Jul 27 2023 21:37:28 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       16330      |
+|    🏆 Contributions (Total)   |       16332      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **6338**     |
+| **🏆 Contributions in 2023:** |     **6340**     |
 |  **📝 Total lines of code:**  | **8.32 million** |
 |     **📦 Github Storage:**    |   **475.4 MB**   |
 |  **📚 Public Repositories:**  |      **27**      |
@@ -84,9 +84,9 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   644 commits   [████████░░░░░░░░░░░░░░░░░]   34.85%
+🌞 Morning   643 commits   [████████░░░░░░░░░░░░░░░░░]   34.79%
 🌆 Daytime   576 commits   [███████░░░░░░░░░░░░░░░░░░]   31.17%
-🌃 Evening   583 commits   [███████░░░░░░░░░░░░░░░░░░]   31.55%
+🌃 Evening   584 commits   [███████░░░░░░░░░░░░░░░░░░]   31.60%
 🌙 Night     45 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.44%
 ```
 
@@ -97,8 +97,8 @@ Monday      150 commits   [██░░░░░░░░░░░░░░░�
 Tuesday     376 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.35%
 Wednesday   313 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.94%
 Thursday    286 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.48%
-Friday      269 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.56%
-Saturday    233 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.61%
+Friday      270 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.61%
+Saturday    232 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.55%
 Sunday      221 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.96%
 ```
 
@@ -117,7 +117,7 @@ Other        [1h 36m]           [███░░░░░░░░░░░░�
 Linux        [46 hrs 4 mins]   [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Thu Jul 27 2023 21:22:29 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Thu Jul 27 2023 21:37:36 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
@@ -125,7 +125,7 @@ Linux        [46 hrs 4 mins]   [████████████████
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-`[07/27 20:23]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[07/27 20:20]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [alephjs/aleph.js](https://github.com/alephjs/aleph.js)<br>`[07/27 13:41]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br>`[07/27 13:41]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/jest-monorepo` from [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br>`[07/27 13:41]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#10`](https://github.com/IgorKowalczyk/countdown/pull/10 'Update dependency jest to v29.6.2') in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br>`[07/27 13:41]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#10`](https://github.com/IgorKowalczyk/countdown/pull/10 'Update dependency jest to v29.6.2') in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br>`[07/27 12:02]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `5` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[07/26 22:23]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/pnpm-8.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[07/26 22:23]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[07/26 22:23]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#502`](https://github.com/IgorKowalczyk/majo.exe/pull/502 'Update pnpm to v8.6.10') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
+`[07/27 21:29]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/headlessui-react-1.x` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[07/27 21:29]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[07/27 21:29]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#537`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/537 'Update dependency @headlessui/react to v1.7.16') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[07/27 21:29]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#537`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/537 'Update dependency @headlessui/react to v1.7.16') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[07/27 20:23]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[07/27 20:20]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [alephjs/aleph.js](https://github.com/alephjs/aleph.js)<br>`[07/27 13:41]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br>`[07/27 13:41]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/jest-monorepo` from [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br>`[07/27 13:41]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#10`](https://github.com/IgorKowalczyk/countdown/pull/10 'Update dependency jest to v29.6.2') in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br>`[07/27 13:41]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#10`](https://github.com/IgorKowalczyk/countdown/pull/10 'Update dependency jest to v29.6.2') in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)
 <!--END_SECTION:activity-->
 
 ---
