@@ -64,16 +64,16 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 
 <!-- START_SECTION:feed -->
-- [How I built my website](https://portfolio-7erd4iqa3-igorkowalczyk.vercel.app/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Fri Jul 28 2023 10:51:38 GMT+0000 (Coordinated Universal Time) -->
+- [How I built my website](https://portfolio-4q4xmkj6n-igorkowalczyk.vercel.app/blog/how-i-built-my-website) `[August 12, 2022]`
+<!-- Posts last updated on Fri Jul 28 2023 11:11:27 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       16335      |
+|    🏆 Contributions (Total)   |       16341      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **6343**     |
+| **🏆 Contributions in 2023:** |     **6349**     |
 |  **📝 Total lines of code:**  | **8.32 million** |
 |     **📦 Github Storage:**    |   **475.6 MB**   |
 |  **📚 Public Repositories:**  |      **27**      |
@@ -84,9 +84,9 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   643 commits   [████████░░░░░░░░░░░░░░░░░]   34.79%
+🌞 Morning   644 commits   [████████░░░░░░░░░░░░░░░░░]   34.85%
 🌆 Daytime   576 commits   [███████░░░░░░░░░░░░░░░░░░]   31.17%
-🌃 Evening   584 commits   [███████░░░░░░░░░░░░░░░░░░]   31.60%
+🌃 Evening   583 commits   [███████░░░░░░░░░░░░░░░░░░]   31.55%
 🌙 Night     45 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.44%
 ```
 
@@ -94,12 +94,12 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 ```text
 Monday      150 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   8.12%
-Tuesday     376 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.35%
+Tuesday     375 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.29%
 Wednesday   313 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.94%
-Thursday    286 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.48%
+Thursday    285 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.42%
 Friday      270 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.61%
-Saturday    232 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.55%
-Sunday      221 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.96%
+Saturday    235 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.72%
+Sunday      220 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.90%
 ```
 
 #### 📊 Weekly work stats (last 7 days)
@@ -117,7 +117,7 @@ Other        [0h 56m]           [█░░░░░░░░░░░░░░�
 Linux        [45 hrs 3 mins]   [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Fri Jul 28 2023 10:51:47 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Fri Jul 28 2023 11:11:36 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
@@ -125,7 +125,7 @@ Linux        [45 hrs 3 mins]   [████████████████
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-`[07/27 21:29]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/headlessui-react-1.x` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[07/27 21:29]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[07/27 21:29]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#537`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/537 'Update dependency @headlessui/react to v1.7.16') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[07/27 21:29]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#537`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/537 'Update dependency @headlessui/react to v1.7.16') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[07/27 20:23]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[07/27 20:20]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [alephjs/aleph.js](https://github.com/alephjs/aleph.js)<br>`[07/27 13:41]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br>`[07/27 13:41]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/jest-monorepo` from [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br>`[07/27 13:41]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#10`](https://github.com/IgorKowalczyk/countdown/pull/10 'Update dependency jest to v29.6.2') in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br>`[07/27 13:41]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#10`](https://github.com/IgorKowalczyk/countdown/pull/10 'Update dependency jest to v29.6.2') in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)
+`[07/28 10:57]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/headlessui-tailwindcs...` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[07/28 10:57]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[07/28 10:57]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#538`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/538 'Update dependency @headlessui/tailwindcss to v0.2.0') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[07/28 10:57]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br>`[07/28 10:57]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/systeminformation-5.x...` from [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br>`[07/28 10:57]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#142`](https://github.com/IgorKowalczyk/discord-ssh/pull/142 'Update dependency systeminformation to v5.18.10') in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br>`[07/28 10:57]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#538`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/538 'Update dependency @headlessui/tailwindcss to v0.2.0') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[07/28 10:57]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#142`](https://github.com/IgorKowalczyk/discord-ssh/pull/142 'Update dependency systeminformation to v5.18.10') in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br>`[07/28 10:57]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-plugin-import-...` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br>`[07/28 10:57]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)
 <!--END_SECTION:activity-->
 
 ---
