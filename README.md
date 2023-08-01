@@ -64,16 +64,16 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 
 <!-- START_SECTION:feed -->
-- [How I built my website](https://portfolio-qrwmaedo9-igorkowalczyk.vercel.app/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Tue Aug 01 2023 19:51:29 GMT+0000 (Coordinated Universal Time) -->
+- [How I built my website](https://portfolio-bcqy617gw-igorkowalczyk.vercel.app/blog/how-i-built-my-website) `[August 12, 2022]`
+<!-- Posts last updated on Tue Aug 01 2023 20:14:44 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       16548      |
+|    🏆 Contributions (Total)   |       16559      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **6556**     |
+| **🏆 Contributions in 2023:** |     **6567**     |
 |  **📝 Total lines of code:**  | **8.33 million** |
 |     **📦 Github Storage:**    |   **476.1 MB**   |
 |  **📚 Public Repositories:**  |      **27**      |
@@ -84,21 +84,21 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   626 commits   [████████░░░░░░░░░░░░░░░░░]   33.73%
-🌆 Daytime   602 commits   [████████░░░░░░░░░░░░░░░░░]   32.44%
-🌃 Evening   585 commits   [███████░░░░░░░░░░░░░░░░░░]   31.52%
+🌞 Morning   625 commits   [████████░░░░░░░░░░░░░░░░░]   33.67%
+🌆 Daytime   599 commits   [████████░░░░░░░░░░░░░░░░░]   32.27%
+🌃 Evening   589 commits   [███████░░░░░░░░░░░░░░░░░░]   31.73%
 🌙 Night     43 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.32%
 ```
 
 #### 📅 I'm most productive on Tuesday
 
 ```text
-Monday      156 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   8.41%
-Tuesday     373 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.10%
-Wednesday   309 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.65%
+Monday      155 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   8.35%
+Tuesday     372 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.04%
+Wednesday   314 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.92%
 Thursday    271 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.60%
-Friday      257 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.85%
-Saturday    276 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.87%
+Friday      255 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.74%
+Saturday    275 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.82%
 Sunday      214 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.53%
 ```
 
@@ -117,7 +117,7 @@ Other        [1h 22m]           [██░░░░░░░░░░░░░�
 Linux        [57 hrs 11 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Tue Aug 01 2023 19:51:36 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Tue Aug 01 2023 20:14:52 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
@@ -125,7 +125,7 @@ Linux        [57 hrs 11 mins]  [████████████████
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-`[08/01 16:17]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[08/01 16:17]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#511`](https://github.com/IgorKowalczyk/majo.exe/pull/511 'Update dependency @prisma/nextjs-monorepo-workaround-plugin to v5.1.0') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[08/01 16:17]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#511`](https://github.com/IgorKowalczyk/majo.exe/pull/511 'Update dependency @prisma/nextjs-monorepo-workaround-plugin to v5.1.0') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[08/01 16:16]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[08/01 16:16]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/prisma-monorepo` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[08/01 16:16]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#512`](https://github.com/IgorKowalczyk/majo.exe/pull/512 'Update prisma monorepo to v5.1.0') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[08/01 16:12]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#512`](https://github.com/IgorKowalczyk/majo.exe/pull/512 'Update prisma monorepo to v5.1.0') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[08/01 16:09]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[08/01 14:20]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [zloirock/core-js](https://github.com/zloirock/core-js)<br>`[08/01 06:57]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/discordjs-rest-2.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
+`[08/01 19:59]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus)<br>`[08/01 19:55]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/ora-7.x` from [IgorKowalczyk/tweet-ai](https://github.com/IgorKowalczyk/tweet-ai)<br>`[08/01 19:55]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/tweet-ai](https://github.com/IgorKowalczyk/tweet-ai)<br>`[08/01 19:55]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#103`](https://github.com/IgorKowalczyk/tweet-ai/pull/103 'Update dependency ora to v7.0.1') in [IgorKowalczyk/tweet-ai](https://github.com/IgorKowalczyk/tweet-ai)<br>`[08/01 19:55]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/vercel-og-0.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[08/01 19:55]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#513`](https://github.com/IgorKowalczyk/majo.exe/pull/513 'Update dependency @vercel/og to v0.5.10') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[08/01 19:55]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[08/01 19:55]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#103`](https://github.com/IgorKowalczyk/tweet-ai/pull/103 'Update dependency ora to v7.0.1') in [IgorKowalczyk/tweet-ai](https://github.com/IgorKowalczyk/tweet-ai)<br>`[08/01 19:55]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#513`](https://github.com/IgorKowalczyk/majo.exe/pull/513 'Update dependency @vercel/og to v0.5.10') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[08/01 19:55]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#335`](https://github.com/IgorKowalczyk/github-views/pull/335 'Update dependency @astrojs/vercel to v3.7.5') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)
 <!--END_SECTION:activity-->
 
 ---
