@@ -64,8 +64,8 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 
 <!-- START_SECTION:feed -->
-- [How I built my website](https://portfolio-fexc65jzl-igorkowalczyk.vercel.app/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Thu Aug 03 2023 09:25:04 GMT+0000 (Coordinated Universal Time) -->
+- [How I built my website](https://portfolio-9jarftxmi-igorkowalczyk.vercel.app/blog/how-i-built-my-website) `[August 12, 2022]`
+<!-- Posts last updated on Thu Aug 03 2023 09:36:26 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
@@ -117,7 +117,7 @@ Other        [1h 5m]            [██░░░░░░░░░░░░░�
 Linux        [51 hrs 53 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Thu Aug 03 2023 09:25:11 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Thu Aug 03 2023 09:36:35 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
