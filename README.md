@@ -65,15 +65,15 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://portfolio-livzgt3j5-igorkowalczyk.vercel.app/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sun Aug 06 2023 11:36:36 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sun Aug 06 2023 11:51:39 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       16699      |
+|    🏆 Contributions (Total)   |       16700      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **6707**     |
+| **🏆 Contributions in 2023:** |     **6708**     |
 |  **📝 Total lines of code:**  | **8.33 million** |
 |     **📦 Github Storage:**    |   **476.9 MB**   |
 |  **📚 Public Repositories:**  |      **27**      |
@@ -84,20 +84,20 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   618 commits   [████████░░░░░░░░░░░░░░░░░]   33.10%
+🌞 Morning   619 commits   [████████░░░░░░░░░░░░░░░░░]   33.15%
 🌆 Daytime   617 commits   [████████░░░░░░░░░░░░░░░░░]   33.05%
-🌃 Evening   591 commits   [███████░░░░░░░░░░░░░░░░░░]   31.66%
+🌃 Evening   590 commits   [███████░░░░░░░░░░░░░░░░░░]   31.60%
 🌙 Night     41 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.20%
 ```
 
 #### 📅 I'm most productive on Tuesday
 
 ```text
-Monday      157 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   8.41%
+Monday      158 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   8.46%
 Tuesday     360 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.28%
 Wednesday   305 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.34%
 Thursday    266 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.25%
-Friday      270 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.46%
+Friday      269 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.41%
 Saturday    293 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.69%
 Sunday      216 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.57%
 ```
@@ -117,7 +117,7 @@ Other        [2h 18m]           [███░░░░░░░░░░░░�
 Linux        [48 hrs 25 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Sun Aug 06 2023 11:36:43 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Sun Aug 06 2023 11:51:49 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
@@ -125,7 +125,7 @@ Linux        [48 hrs 25 mins]  [████████████████
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-`[08/06 10:14]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/systeminformation-5.x...` from [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br>`[08/06 10:14]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br>`[08/06 10:14]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#150`](https://github.com/IgorKowalczyk/discord-ssh/pull/150 'Update dependency systeminformation to v5.18.12') in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br>`[08/06 10:14]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#150`](https://github.com/IgorKowalczyk/discord-ssh/pull/150 'Update dependency systeminformation to v5.18.12') in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br>`[08/06 09:55]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[08/05 21:28]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/inquirer-9.x` from [IgorKowalczyk/ngrok](https://github.com/IgorKowalczyk/ngrok)<br>`[08/05 21:28]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/ngrok](https://github.com/IgorKowalczyk/ngrok)<br>`[08/05 21:28]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#134`](https://github.com/IgorKowalczyk/ngrok/pull/134 'Update dependency inquirer to v9.2.10') in [IgorKowalczyk/ngrok](https://github.com/IgorKowalczyk/ngrok)<br>`[08/05 21:27]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#134`](https://github.com/IgorKowalczyk/ngrok/pull/134 'Update dependency inquirer to v9.2.10') in [IgorKowalczyk/ngrok](https://github.com/IgorKowalczyk/ngrok)<br>`[08/05 06:51]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [just-that/invite](https://github.com/just-that/invite)
+`[08/06 11:43]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[08/06 10:14]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/systeminformation-5.x...` from [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br>`[08/06 10:14]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br>`[08/06 10:14]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#150`](https://github.com/IgorKowalczyk/discord-ssh/pull/150 'Update dependency systeminformation to v5.18.12') in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br>`[08/06 10:14]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#150`](https://github.com/IgorKowalczyk/discord-ssh/pull/150 'Update dependency systeminformation to v5.18.12') in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br>`[08/06 09:55]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[08/05 21:28]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/inquirer-9.x` from [IgorKowalczyk/ngrok](https://github.com/IgorKowalczyk/ngrok)<br>`[08/05 21:28]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/ngrok](https://github.com/IgorKowalczyk/ngrok)<br>`[08/05 21:28]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#134`](https://github.com/IgorKowalczyk/ngrok/pull/134 'Update dependency inquirer to v9.2.10') in [IgorKowalczyk/ngrok](https://github.com/IgorKowalczyk/ngrok)<br>`[08/05 21:27]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#134`](https://github.com/IgorKowalczyk/ngrok/pull/134 'Update dependency inquirer to v9.2.10') in [IgorKowalczyk/ngrok](https://github.com/IgorKowalczyk/ngrok)
 <!--END_SECTION:activity-->
 
 ---
