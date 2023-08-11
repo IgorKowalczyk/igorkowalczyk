@@ -64,16 +64,16 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 
 <!-- START_SECTION:feed -->
-- [How I built my website](https://portfolio-pqpp2drw7-igorkowalczyk.vercel.app/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Fri Aug 11 2023 21:22:49 GMT+0000 (Coordinated Universal Time) -->
+- [How I built my website](https://portfolio-j99id1bm7-igorkowalczyk.vercel.app/blog/how-i-built-my-website) `[August 12, 2022]`
+<!-- Posts last updated on Fri Aug 11 2023 21:36:28 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       16941      |
+|    🏆 Contributions (Total)   |       16949      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **6950**     |
+| **🏆 Contributions in 2023:** |     **6958**     |
 |  **📝 Total lines of code:**  | **8.33 million** |
 |     **📦 Github Storage:**    |   **476.5 MB**   |
 |  **📚 Public Repositories:**  |      **27**      |
@@ -84,9 +84,9 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   606 commits   [████████░░░░░░░░░░░░░░░░░]   32.41%
-🌆 Daytime   613 commits   [████████░░░░░░░░░░░░░░░░░]   32.78%
-🌃 Evening   613 commits   [████████░░░░░░░░░░░░░░░░░]   32.78%
+🌞 Morning   605 commits   [████████░░░░░░░░░░░░░░░░░]   32.35%
+🌆 Daytime   612 commits   [████████░░░░░░░░░░░░░░░░░]   32.73%
+🌃 Evening   615 commits   [████████░░░░░░░░░░░░░░░░░]   32.89%
 🌙 Night     38 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.03%
 ```
 
@@ -94,12 +94,12 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 ```text
 Monday      169 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.04%
-Tuesday     370 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.79%
+Tuesday     369 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.73%
 Wednesday   300 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.04%
 Thursday    263 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.06%
 Friday      271 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.49%
-Saturday    290 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.51%
-Sunday      207 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.07%
+Saturday    292 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.61%
+Sunday      206 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.02%
 ```
 
 #### 📊 Weekly work stats (last 7 days)
@@ -117,7 +117,7 @@ Other        [2h 30m]           [██░░░░░░░░░░░░░�
 Linux        [68 hrs 50 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Fri Aug 11 2023 21:22:59 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Fri Aug 11 2023 21:36:37 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
@@ -125,7 +125,7 @@ Linux        [68 hrs 50 mins]  [████████████████
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-`[08/11 20:47]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/swr-2.x` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[08/11 20:47]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#558`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/558 'Update dependency swr to v2.2.1') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[08/11 20:47]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[08/11 20:47]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/astro-2.x` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[08/11 20:47]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[08/11 20:47]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#352`](https://github.com/IgorKowalczyk/github-views/pull/352 'Update dependency astro to v2.10.7') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[08/11 19:28]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br>`[08/11 19:22]` <a href="https://github.com/igorkowalczyk" title="🏷"><img alt="🏷" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/release.png" align="top" height="18"></a> Released [`v1.5.5`](https://github.com/IgorKowalczyk/shared-configs/releases/tag/v1.5.5) in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br>`[08/11 19:21]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br>`[08/11 19:05]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-8.x` from [IgorKowalczyk/ngrok](https://github.com/IgorKowalczyk/ngrok)
+`[08/11 21:24]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/igorkowalczyk-eslint-...` from [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br>`[08/11 21:24]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br>`[08/11 21:24]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#115`](https://github.com/IgorKowalczyk/active-dev/pull/115 'Update dependency @igorkowalczyk/eslint-config to v1.5.5') in [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br>`[08/11 21:24]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/igorkowalczyk-eslint-...` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[08/11 21:24]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[08/11 21:24]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#560`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/560 'Update dependency @igorkowalczyk/eslint-config to v1.5.5') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[08/11 21:24]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#115`](https://github.com/IgorKowalczyk/active-dev/pull/115 'Update dependency @igorkowalczyk/eslint-config to v1.5.5') in [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br>`[08/11 21:24]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#560`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/560 'Update dependency @igorkowalczyk/eslint-config to v1.5.5') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[08/11 20:47]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/swr-2.x` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[08/11 20:47]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#558`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/558 'Update dependency swr to v2.2.1') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)
 <!--END_SECTION:activity-->
 
 ---
