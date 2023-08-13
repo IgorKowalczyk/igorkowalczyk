@@ -65,15 +65,15 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://portfolio-6gzv79ct8-igorkowalczyk.vercel.app/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sun Aug 13 2023 21:51:24 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sun Aug 13 2023 22:25:21 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       17036      |
+|    🏆 Contributions (Total)   |       17042      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **7045**     |
+| **🏆 Contributions in 2023:** |     **7051**     |
 |  **📝 Total lines of code:**  | **8.32 million** |
 |     **📦 Github Storage:**    |   **476.9 MB**   |
 |  **📚 Public Repositories:**  |      **27**      |
@@ -84,18 +84,18 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   617 commits   [████████░░░░░░░░░░░░░░░░░]   32.99%
+🌞 Morning   616 commits   [████████░░░░░░░░░░░░░░░░░]   32.94%
 🌆 Daytime   611 commits   [████████░░░░░░░░░░░░░░░░░]   32.67%
-🌃 Evening   605 commits   [████████░░░░░░░░░░░░░░░░░]   32.35%
+🌃 Evening   606 commits   [████████░░░░░░░░░░░░░░░░░]   32.41%
 🌙 Night     37 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.98%
 ```
 
 #### 📅 I'm most productive on Tuesday
 
 ```text
-Monday      166 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   8.88%
+Monday      167 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   8.93%
 Tuesday     359 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.20%
-Wednesday   297 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.88%
+Wednesday   296 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.83%
 Thursday    257 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.74%
 Friday      268 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.33%
 Saturday    292 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.61%
@@ -106,18 +106,18 @@ Sunday      231 commits   [███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages:
-JavaScript   [57 hrs 31 mins]   [███████████████████░░░░░░]   78.21%
-JSON         [7 hrs 1 min]      [██░░░░░░░░░░░░░░░░░░░░░░░]   9.55%
+JavaScript   [62 hrs 47 mins]   [████████████████████░░░░░]   82.89%
+JSON         [5 hrs 10 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.82%
 
-Markdown     [1 hr 27 mins]     [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.98%
-YAML         [1 hr 25 mins]     [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.94%
-Other        [1h 52m]           [██░░░░░░░░░░░░░░░░░░░░░░░]   8.29%
+YAML         [52 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.15%
+Markdown     [50 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.12%
+Other        [1h 49m]           [██░░░░░░░░░░░░░░░░░░░░░░░]   8.01%
 
 💻 Operating Systems:
-Linux        [73 hrs 32 mins]  [█████████████████████████]   100.00%
+Linux        [75 hrs 45 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Sun Aug 13 2023 21:51:34 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Sun Aug 13 2023 22:25:32 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
@@ -125,7 +125,7 @@ Linux        [73 hrs 32 mins]  [████████████████
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-`[08/13 20:39]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `4` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[08/13 16:33]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/autoprefixer-10.x` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[08/13 16:33]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[08/13 16:33]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#357`](https://github.com/IgorKowalczyk/github-views/pull/357 'Update dependency autoprefixer to v10.4.15') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[08/13 16:33]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/autoprefixer-10.x` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[08/13 16:33]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[08/13 16:33]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#564`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/564 'Update dependency autoprefixer to v10.4.15') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[08/13 16:32]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#564`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/564 'Update dependency autoprefixer to v10.4.15') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[08/13 16:32]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#357`](https://github.com/IgorKowalczyk/github-views/pull/357 'Update dependency autoprefixer to v10.4.15') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[08/13 16:30]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `7` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
+`[08/13 21:54]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/autoprefixer-10.x` from [just-that/invite](https://github.com/just-that/invite)<br>`[08/13 21:54]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [just-that/invite](https://github.com/just-that/invite)<br>`[08/13 21:54]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#216`](https://github.com/just-that/invite/pull/216 'Update dependency autoprefixer to v10.4.15') in [just-that/invite](https://github.com/just-that/invite)<br>`[08/13 21:54]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/autoprefixer-10.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[08/13 21:54]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[08/13 21:54]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#532`](https://github.com/IgorKowalczyk/majo.exe/pull/532 'Update dependency autoprefixer to v10.4.15') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[08/13 21:54]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#216`](https://github.com/just-that/invite/pull/216 'Update dependency autoprefixer to v10.4.15') in [just-that/invite](https://github.com/just-that/invite)<br>`[08/13 21:54]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#532`](https://github.com/IgorKowalczyk/majo.exe/pull/532 'Update dependency autoprefixer to v10.4.15') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[08/13 20:39]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `4` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[08/13 16:33]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/autoprefixer-10.x` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)
 <!--END_SECTION:activity-->
 
 ---
