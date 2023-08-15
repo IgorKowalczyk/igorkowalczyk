@@ -65,17 +65,17 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://portfolio-odfgvijth-igorkowalczyk.vercel.app/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Tue Aug 15 2023 21:36:32 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Tue Aug 15 2023 22:26:31 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       17129      |
+|    🏆 Contributions (Total)   |       17130      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **7138**     |
+| **🏆 Contributions in 2023:** |     **7139**     |
 |  **📝 Total lines of code:**  | **8.32 million** |
-|     **📦 Github Storage:**    |   **477.3 MB**   |
+|     **📦 Github Storage:**    |   **477.4 MB**   |
 |  **📚 Public Repositories:**  |      **27**      |
 |  **🔑 Private Repositories:** |       **2**      |
 
@@ -84,9 +84,9 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   604 commits   [████████░░░░░░░░░░░░░░░░░]   32.30%
+🌞 Morning   603 commits   [████████░░░░░░░░░░░░░░░░░]   32.25%
 🌆 Daytime   622 commits   [████████░░░░░░░░░░░░░░░░░]   33.26%
-🌃 Evening   607 commits   [████████░░░░░░░░░░░░░░░░░]   32.46%
+🌃 Evening   608 commits   [████████░░░░░░░░░░░░░░░░░]   32.51%
 🌙 Night     37 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.98%
 ```
 
@@ -106,18 +106,18 @@ Sunday      228 commits   [███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages:
-JavaScript   [60 hrs 1 min]     [███████████████████░░░░░░]   79.07%
-JSON         [8 hrs 44 mins]    [██░░░░░░░░░░░░░░░░░░░░░░░]   11.51%
+JavaScript   [55 hrs 36 mins]   [███████████████████░░░░░░]   78.25%
+JSON         [9 hrs 8 mins]     [███░░░░░░░░░░░░░░░░░░░░░░]   12.87%
+Bash         [3 hrs 13 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   4.53%
 
-Bash         [1 hr 9 mins]      [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.52%
-YAML         [52 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.15%
-Other        [2h 0m]            [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.76%
+Markdown     [53 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.26%
+Other        [1h 13m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.10%
 
 💻 Operating Systems:
-Linux        [75 hrs 55 mins]  [█████████████████████████]   100.00%
+Linux        [71 hrs 4 mins]   [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Tue Aug 15 2023 21:36:44 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Tue Aug 15 2023 22:26:42 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
