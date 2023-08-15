@@ -64,18 +64,18 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 
 <!-- START_SECTION:feed -->
-- [How I built my website](https://portfolio-6gzv79ct8-igorkowalczyk.vercel.app/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Tue Aug 15 2023 13:16:04 GMT+0000 (Coordinated Universal Time) -->
+- [How I built my website](https://portfolio-5k2c6p8re-igorkowalczyk.vercel.app/blog/how-i-built-my-website) `[August 12, 2022]`
+<!-- Posts last updated on Tue Aug 15 2023 13:36:28 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       17070      |
+|    🏆 Contributions (Total)   |       17081      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **7079**     |
+| **🏆 Contributions in 2023:** |     **7090**     |
 |  **📝 Total lines of code:**  | **8.32 million** |
-|     **📦 Github Storage:**    |   **477.2 MB**   |
+|     **📦 Github Storage:**    |   **477.4 MB**   |
 |  **📚 Public Repositories:**  |      **27**      |
 |  **🔑 Private Repositories:** |       **2**      |
 
@@ -85,8 +85,8 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 ```text
 🌞 Morning   612 commits   [████████░░░░░░░░░░░░░░░░░]   32.73%
-🌆 Daytime   617 commits   [████████░░░░░░░░░░░░░░░░░]   32.99%
-🌃 Evening   604 commits   [████████░░░░░░░░░░░░░░░░░]   32.30%
+🌆 Daytime   618 commits   [████████░░░░░░░░░░░░░░░░░]   33.05%
+🌃 Evening   603 commits   [████████░░░░░░░░░░░░░░░░░]   32.25%
 🌙 Night     37 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.98%
 ```
 
@@ -94,11 +94,11 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 ```text
 Monday      167 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   8.93%
-Tuesday     361 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.30%
-Wednesday   296 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.83%
+Tuesday     360 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.25%
+Wednesday   300 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.04%
 Thursday    255 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.64%
-Friday      268 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.33%
-Saturday    292 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.61%
+Friday      266 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.22%
+Saturday    291 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.56%
 Sunday      231 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.35%
 ```
 
@@ -117,7 +117,7 @@ Other        [2h 0m]            [█░░░░░░░░░░░░░░�
 Linux        [75 hrs 55 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Tue Aug 15 2023 13:16:15 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Tue Aug 15 2023 13:36:39 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
@@ -125,7 +125,7 @@ Linux        [75 hrs 55 mins]  [████████████████
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-`[08/15 12:59]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `3` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[08/15 12:49]` <a href="https://github.com/igorkowalczyk" title="🗣"><img alt="🗣" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/comment.png" align="top" height="18"></a> Commented on [`#533`](https://github.com/IgorKowalczyk/majo.exe/issues/533 'MySQL - ER_CON_COUNT_ERROR: Too many connections') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[08/15 12:44]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [tresthost/images](https://github.com/tresthost/images)<br>`[08/15 12:31]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[08/15 06:13]` <a href="https://github.com/igorkowalczyk" title="🗣"><img alt="🗣" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/comment.png" align="top" height="18"></a> Commented on [`#533`](https://github.com/IgorKowalczyk/majo.exe/issues/533 'MySQL - ER_CON_COUNT_ERROR: Too many connections') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[08/15 06:13]` <a href="https://github.com/igorkowalczyk" title="🗣"><img alt="🗣" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/comment.png" align="top" height="18"></a> Commented on [`#533`](https://github.com/IgorKowalczyk/majo.exe/issues/533 'MySQL - ER_CON_COUNT_ERROR: Too many connections') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[08/14 18:49]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/typescript-eslint-mon...` from [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br>`[08/14 18:49]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br>`[08/14 18:49]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#26`](https://github.com/IgorKowalczyk/countdown/pull/26 'Update typescript-eslint monorepo to v6.4.0') in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br>`[08/14 18:49]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#26`](https://github.com/IgorKowalczyk/countdown/pull/26 'Update typescript-eslint monorepo to v6.4.0') in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)
+`[08/15 13:19]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[08/15 13:18]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/next-nprogress-bar-2....` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[08/15 13:18]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[08/15 13:18]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#566`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/566 'Update dependency next-nprogress-bar to v2.1.2') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[08/15 13:18]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#566`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/566 'Update dependency next-nprogress-bar to v2.1.2') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[08/15 13:17]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[08/15 13:17]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/typescript-eslint-mon...` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[08/15 13:17]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#358`](https://github.com/IgorKowalczyk/github-views/pull/358 'Update typescript-eslint monorepo to v6.4.0') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[08/15 13:17]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#358`](https://github.com/IgorKowalczyk/github-views/pull/358 'Update typescript-eslint monorepo to v6.4.0') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[08/15 13:16]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/next-nprogress-bar-2....` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
 <!--END_SECTION:activity-->
 
 ---
