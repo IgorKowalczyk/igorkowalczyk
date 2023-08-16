@@ -47,16 +47,14 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 <code><img src="https://igorkowalczyk.dev/assets/tech/figma.svg" height="30" width="30" alt="Figma logo"/></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/webpack.svg" height="30" width="30" alt="Webpack logo"/></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/turborepo.svg" height="30" width="30" alt="Turborepo logo"/></code>
-<code><img src="https://igorkowalczyk.dev/assets/tech/framer.svg" height="30" width="30" alt="Framer Motion logo"/></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/cpp.svg" height="30" width="30" alt="C++ logo"/></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/mysql.svg" height="30" width="30" alt="MySQL logo"/></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/mongodb.svg" height="30" width="30" alt="MongoDB logo"/></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/discordjs.svg" height="30" width="30" alt="Discord.js logo"/></code>
-<code><img src="https://igorkowalczyk.dev/assets/tech/heroicons.svg" height="30" width="30" alt="Heroicons logo"/></code>
-<code><img src="https://igorkowalczyk.dev/assets/tech/headlessui.svg" height="30" width="30" alt="Headless UI logo"/></code>
+<code><img src="https://igorkowalczyk.dev/assets/tech/rollup.svg" height="30" width="30" alt="Rollup logo"/></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/docker.svg" height="30" width="30" alt="Docker logo"/></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/vercel.svg" height="30" width="30" alt="Vercel logo"/></code>
-<code><img src="https://igorkowalczyk.dev/assets/tech/css.svg" height="30" width="30" alt="CSS logo"/></code>
+<code><img src="https://igorkowalczyk.dev/assets/tech/astro.svg" height="30" width="30" alt="Astro logo"/></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/eslint.svg" height="30" width="30" alt="Eslint logo"/></code>
 
 **...and many others!**
