@@ -62,16 +62,16 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 
 <!-- START_SECTION:feed -->
-- [How I built my website](https://portfolio-pri63g1o5-igorkowalczyk.vercel.app/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Thu Aug 17 2023 12:26:43 GMT+0000 (Coordinated Universal Time) -->
+- [How I built my website](https://portfolio-4tmdkkimg-igorkowalczyk.vercel.app/blog/how-i-built-my-website) `[August 12, 2022]`
+<!-- Posts last updated on Thu Aug 17 2023 12:49:37 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       17165      |
+|    🏆 Contributions (Total)   |       17188      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **7174**     |
+| **🏆 Contributions in 2023:** |     **7197**     |
 |  **📝 Total lines of code:**  | **8.31 million** |
 |     **📦 Github Storage:**    |   **477.6 MB**   |
 |  **📚 Public Repositories:**  |      **27**      |
@@ -82,22 +82,22 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   608 commits   [████████░░░░░░░░░░░░░░░░░]   32.51%
-🌆 Daytime   621 commits   [████████░░░░░░░░░░░░░░░░░]   33.21%
-🌃 Evening   604 commits   [████████░░░░░░░░░░░░░░░░░]   32.30%
-🌙 Night     37 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.98%
+🌞 Morning   605 commits   [████████░░░░░░░░░░░░░░░░░]   32.35%
+🌆 Daytime   628 commits   [████████░░░░░░░░░░░░░░░░░]   33.58%
+🌃 Evening   601 commits   [████████░░░░░░░░░░░░░░░░░]   32.14%
+🌙 Night     36 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.93%
 ```
 
 #### 📅 I'm most productive on Tuesday
 
 ```text
-Monday      167 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   8.93%
-Tuesday     359 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.20%
-Wednesday   311 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.63%
-Thursday    260 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.90%
-Friday      260 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.90%
+Monday      166 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   8.88%
+Tuesday     358 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.14%
+Wednesday   310 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.58%
+Thursday    257 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.74%
+Friday      268 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.33%
 Saturday    287 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.35%
-Sunday      226 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.09%
+Sunday      224 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.98%
 ```
 
 #### 📊 Weekly work stats (last 7 days)
@@ -115,7 +115,7 @@ Other        [1h 4m]            [░░░░░░░░░░░░░░░�
 Linux        [65 hrs 25 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Thu Aug 17 2023 12:26:52 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Thu Aug 17 2023 12:49:46 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
