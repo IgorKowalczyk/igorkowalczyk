@@ -63,15 +63,15 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://portfolio-f56pum02q-igorkowalczyk.vercel.app/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Fri Aug 18 2023 07:23:23 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Fri Aug 18 2023 07:36:26 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       17209      |
+|    🏆 Contributions (Total)   |       17216      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **7218**     |
+| **🏆 Contributions in 2023:** |     **7225**     |
 |  **📝 Total lines of code:**  | **8.31 million** |
 |     **📦 Github Storage:**    |   **478.1 MB**   |
 |  **📚 Public Repositories:**  |      **27**      |
@@ -82,22 +82,22 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   600 commits   [████████░░░░░░░░░░░░░░░░░]   32.09%
-🌆 Daytime   633 commits   [████████░░░░░░░░░░░░░░░░░]   33.85%
-🌃 Evening   601 commits   [████████░░░░░░░░░░░░░░░░░]   32.14%
+🌞 Morning   601 commits   [████████░░░░░░░░░░░░░░░░░]   32.14%
+🌆 Daytime   630 commits   [████████░░░░░░░░░░░░░░░░░]   33.69%
+🌃 Evening   603 commits   [████████░░░░░░░░░░░░░░░░░]   32.25%
 🌙 Night     36 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.93%
 ```
 
 #### 📅 I'm most productive on Tuesday
 
 ```text
-Monday      166 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   8.88%
+Monday      165 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   8.82%
 Tuesday     357 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.09%
 Wednesday   310 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.58%
 Thursday    256 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.69%
-Friday      270 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.44%
-Saturday    287 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.35%
-Sunday      224 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.98%
+Friday      273 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.60%
+Saturday    286 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.29%
+Sunday      223 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.93%
 ```
 
 #### 📊 Weekly work stats (last 7 days)
@@ -115,7 +115,7 @@ Other            [0h 56m]           [░░░░░░░░░░░░░░�
 Linux            [59 hrs 6 mins]   [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Fri Aug 18 2023 07:23:30 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Fri Aug 18 2023 07:36:33 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
@@ -123,7 +123,7 @@ Linux            [59 hrs 6 mins]   [██████████████�
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-`[08/18 07:08]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/oh-my-zsh-custom-plug...` from [IgorKowalczyk/dotfiles](https://github.com/IgorKowalczyk/dotfiles)<br>`[08/18 07:08]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/dotfiles](https://github.com/IgorKowalczyk/dotfiles)<br>`[08/18 07:08]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#3`](https://github.com/IgorKowalczyk/dotfiles/pull/3 'Update oh-my-zsh/custom/plugins/zsh-autosuggestions digest to 9908eb4') in [IgorKowalczyk/dotfiles](https://github.com/IgorKowalczyk/dotfiles)<br>`[08/18 07:08]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#3`](https://github.com/IgorKowalczyk/dotfiles/pull/3 'Update oh-my-zsh/custom/plugins/zsh-autosuggestions digest to 9908eb4') in [IgorKowalczyk/dotfiles](https://github.com/IgorKowalczyk/dotfiles)<br>`[08/17 21:49]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[08/17 21:37]` <a href="https://github.com/igorkowalczyk" title="✅"><img alt="✅" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/pr-open.png" align="top" height="18"></a> Opened PR [`#546`](https://github.com/IgorKowalczyk/majo.exe/pull/546 'Better readmes') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[08/17 21:37]` <a href="https://github.com/igorkowalczyk" title="📂"><img alt="📂" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/create-branch.png" align="top" height="18"></a> Created branch [`better-readmes`](https://github.com/IgorKowalczyk/majo.exe/tree/better-readmes) in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[08/17 21:13]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[08/17 15:38]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/headlessui-react-1.x` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[08/17 15:38]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)
+`[08/18 07:32]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#222`](https://github.com/just-that/invite/pull/222 'Update nextjs monorepo to v13.4.18') in [just-that/invite](https://github.com/just-that/invite)<br>`[08/18 07:08]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/oh-my-zsh-custom-plug...` from [IgorKowalczyk/dotfiles](https://github.com/IgorKowalczyk/dotfiles)<br>`[08/18 07:08]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/dotfiles](https://github.com/IgorKowalczyk/dotfiles)<br>`[08/18 07:08]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#3`](https://github.com/IgorKowalczyk/dotfiles/pull/3 'Update oh-my-zsh/custom/plugins/zsh-autosuggestions digest to 9908eb4') in [IgorKowalczyk/dotfiles](https://github.com/IgorKowalczyk/dotfiles)<br>`[08/18 07:08]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#3`](https://github.com/IgorKowalczyk/dotfiles/pull/3 'Update oh-my-zsh/custom/plugins/zsh-autosuggestions digest to 9908eb4') in [IgorKowalczyk/dotfiles](https://github.com/IgorKowalczyk/dotfiles)<br>`[08/17 21:49]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[08/17 21:37]` <a href="https://github.com/igorkowalczyk" title="✅"><img alt="✅" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/pr-open.png" align="top" height="18"></a> Opened PR [`#546`](https://github.com/IgorKowalczyk/majo.exe/pull/546 'Better readmes') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[08/17 21:37]` <a href="https://github.com/igorkowalczyk" title="📂"><img alt="📂" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/create-branch.png" align="top" height="18"></a> Created branch [`better-readmes`](https://github.com/IgorKowalczyk/majo.exe/tree/better-readmes) in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[08/17 21:13]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[08/17 15:38]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/headlessui-react-1.x` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)
 <!--END_SECTION:activity-->
 
 ---
