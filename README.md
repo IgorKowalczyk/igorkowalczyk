@@ -63,15 +63,15 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://portfolio-ezime38ym-igorkowalczyk.vercel.app/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sat Aug 19 2023 06:16:33 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sat Aug 19 2023 06:36:45 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       17239      |
+|    🏆 Contributions (Total)   |       17255      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **7248**     |
+| **🏆 Contributions in 2023:** |     **7264**     |
 |  **📝 Total lines of code:**  | **8.31 million** |
 |     **📦 Github Storage:**    |   **478.3 MB**   |
 |  **📚 Public Repositories:**  |      **27**      |
@@ -82,22 +82,22 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   603 commits   [████████░░░░░░░░░░░░░░░░░]   32.25%
-🌆 Daytime   628 commits   [████████░░░░░░░░░░░░░░░░░]   33.58%
-🌃 Evening   603 commits   [████████░░░░░░░░░░░░░░░░░]   32.25%
+🌞 Morning   607 commits   [████████░░░░░░░░░░░░░░░░░]   32.46%
+🌆 Daytime   627 commits   [████████░░░░░░░░░░░░░░░░░]   33.53%
+🌃 Evening   600 commits   [████████░░░░░░░░░░░░░░░░░]   32.09%
 🌙 Night     36 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.93%
 ```
 
 #### 📅 I'm most productive on Tuesday
 
 ```text
-Monday      164 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   8.77%
-Tuesday     356 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.04%
-Wednesday   305 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.31%
+Monday      163 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   8.72%
+Tuesday     355 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.98%
+Wednesday   303 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.20%
 Thursday    256 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.69%
-Friday      272 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.55%
+Friday      271 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.49%
 Saturday    294 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.72%
-Sunday      223 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.93%
+Sunday      228 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.19%
 ```
 
 #### 📊 Weekly work stats (last 7 days)
@@ -115,7 +115,7 @@ Other            [0h 33m]           [░░░░░░░░░░░░░░�
 Linux            [56 hrs 33 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Sat Aug 19 2023 06:16:47 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Sat Aug 19 2023 06:36:56 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
@@ -123,7 +123,7 @@ Linux            [56 hrs 33 mins]  [██████████████�
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-`[08/18 20:54]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/tslib-2.x` from [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br>`[08/18 20:54]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br>`[08/18 20:54]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#29`](https://github.com/IgorKowalczyk/countdown/pull/29 'Update dependency tslib to v2.6.2') in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br>`[08/18 20:54]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/astro-2.x` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[08/18 20:54]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[08/18 20:54]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#365`](https://github.com/IgorKowalczyk/github-views/pull/365 'Update dependency astro to v2.10.11') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[08/18 20:54]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#29`](https://github.com/IgorKowalczyk/countdown/pull/29 'Update dependency tslib to v2.6.2') in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br>`[08/18 20:54]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#365`](https://github.com/IgorKowalczyk/github-views/pull/365 'Update dependency astro to v2.10.11') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[08/18 12:09]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[08/18 11:16]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `nextjs-13.4.17` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
+`[08/19 06:35]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/nextjs-monorepo` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[08/19 06:35]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[08/19 06:35]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#576`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/576 'Update nextjs monorepo to v13.4.19') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[08/19 06:35]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#576`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/576 'Update nextjs monorepo to v13.4.19') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br>`[08/19 06:33]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-plugin-import-...` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br>`[08/19 06:33]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br>`[08/19 06:33]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#85`](https://github.com/IgorKowalczyk/shared-configs/pull/85 'Update dependency eslint-plugin-import to v2.28.1') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br>`[08/19 06:33]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#85`](https://github.com/IgorKowalczyk/shared-configs/pull/85 'Update dependency eslint-plugin-import to v2.28.1') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br>`[08/19 06:33]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[08/19 06:33]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-plugin-import-...` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
 <!--END_SECTION:activity-->
 
 ---
