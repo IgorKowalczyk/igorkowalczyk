@@ -63,15 +63,15 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://portfolio-eahi9p026-igorkowalczyk.vercel.app/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Wed Aug 23 2023 21:51:29 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Wed Aug 23 2023 22:26:42 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       17341      |
+|    🏆 Contributions (Total)   |       17345      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **7350**     |
+| **🏆 Contributions in 2023:** |     **7354**     |
 |  **📝 Total lines of code:**  | **8.32 million** |
 |     **📦 Github Storage:**    |   **486.0 MB**   |
 |  **📚 Public Repositories:**  |      **27**      |
@@ -82,40 +82,40 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   607 commits   [████████░░░░░░░░░░░░░░░░░]   32.37%
-🌆 Daytime   636 commits   [████████░░░░░░░░░░░░░░░░░]   33.92%
-🌃 Evening   594 commits   [███████░░░░░░░░░░░░░░░░░░]   31.68%
-🌙 Night     38 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.03%
+🌞 Morning   607 commits   [████████░░░░░░░░░░░░░░░░░]   32.30%
+🌆 Daytime   636 commits   [████████░░░░░░░░░░░░░░░░░]   33.85%
+🌃 Evening   598 commits   [███████░░░░░░░░░░░░░░░░░░]   31.83%
+🌙 Night     38 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.02%
 ```
 
 #### 📅 I'm most productive on Tuesday
 
 ```text
-Monday      160 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   8.53%
-Tuesday     352 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.77%
-Wednesday   307 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.37%
-Thursday    268 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.29%
-Friday      265 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.13%
-Saturday    289 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.41%
-Sunday      234 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.48%
+Monday      160 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   8.52%
+Tuesday     352 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.73%
+Wednesday   307 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.34%
+Thursday    272 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.48%
+Friday      265 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.10%
+Saturday    289 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.38%
+Sunday      234 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.45%
 ```
 
 #### 📊 Weekly work stats (last 7 days)
 
 ```text
 💬 Programming Languages:
-JavaScript       [41 hrs 2 mins]    [███████████████████░░░░░░]   79.55%
-JSON             [3 hrs 29 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.76%
-Python           [3 hrs 17 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.38%
-Markdown         [2 hrs 11 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   4.25%
-Bash             [45 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.48%
-Other            [0h 48m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.58%
+JavaScript       [39 hrs 40 mins]   [███████████████████░░░░░░]   76.99%
+JSON             [3 hrs 32 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.86%
+Python           [3 hrs 17 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.39%
+Markdown         [2 hrs 14 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   4.37%
+TypeScript       [1 hr 24 mins]     [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.75%
+Other            [1h 22m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.65%
 
 💻 Operating Systems:
-Linux            [51 hrs 35 mins]  [█████████████████████████]   100.00%
+Linux            [51 hrs 32 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Wed Aug 23 2023 21:51:39 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Wed Aug 23 2023 22:26:54 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
@@ -123,7 +123,7 @@ Linux            [51 hrs 35 mins]  [██████████████�
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-`[08/23 20:12]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/discord-activity](https://github.com/IgorKowalczyk/discord-activity)<br>`[08/23 15:49]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/openai-4.x` from [IgorKowalczyk/tweet-ai](https://github.com/IgorKowalczyk/tweet-ai)<br>`[08/23 15:49]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/tweet-ai](https://github.com/IgorKowalczyk/tweet-ai)<br>`[08/23 15:49]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#113`](https://github.com/IgorKowalczyk/tweet-ai/pull/113 'Update dependency openai to v4.2.0') in [IgorKowalczyk/tweet-ai](https://github.com/IgorKowalczyk/tweet-ai)<br>`[08/23 15:49]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#113`](https://github.com/IgorKowalczyk/tweet-ai/pull/113 'Update dependency openai to v4.2.0') in [IgorKowalczyk/tweet-ai](https://github.com/IgorKowalczyk/tweet-ai)<br>`[08/23 15:48]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/astro-2.x` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[08/23 15:48]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[08/23 15:48]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#371`](https://github.com/IgorKowalczyk/github-views/pull/371 'Update dependency astro to v2.10.13') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[08/23 15:48]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#371`](https://github.com/IgorKowalczyk/github-views/pull/371 'Update dependency astro to v2.10.13') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[08/23 13:44]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
+`[08/23 22:04]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `5` commits in [IgorKowalczyk/discord-activity](https://github.com/IgorKowalczyk/discord-activity)<br>`[08/23 15:49]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/openai-4.x` from [IgorKowalczyk/tweet-ai](https://github.com/IgorKowalczyk/tweet-ai)<br>`[08/23 15:49]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/tweet-ai](https://github.com/IgorKowalczyk/tweet-ai)<br>`[08/23 15:49]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#113`](https://github.com/IgorKowalczyk/tweet-ai/pull/113 'Update dependency openai to v4.2.0') in [IgorKowalczyk/tweet-ai](https://github.com/IgorKowalczyk/tweet-ai)<br>`[08/23 15:49]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#113`](https://github.com/IgorKowalczyk/tweet-ai/pull/113 'Update dependency openai to v4.2.0') in [IgorKowalczyk/tweet-ai](https://github.com/IgorKowalczyk/tweet-ai)<br>`[08/23 15:48]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/astro-2.x` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[08/23 15:48]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[08/23 15:48]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#371`](https://github.com/IgorKowalczyk/github-views/pull/371 'Update dependency astro to v2.10.13') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[08/23 15:48]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#371`](https://github.com/IgorKowalczyk/github-views/pull/371 'Update dependency astro to v2.10.13') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[08/23 13:44]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
 <!--END_SECTION:activity-->
 
 ---
