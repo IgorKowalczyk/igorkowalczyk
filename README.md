@@ -62,18 +62,18 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 
 <!-- START_SECTION:feed -->
-- [How I built my website](https://portfolio-4lgr5m7mj-igorkowalczyk.vercel.app/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Wed Aug 23 2023 12:27:30 GMT+0000 (Coordinated Universal Time) -->
+- [How I built my website](https://portfolio-eahi9p026-igorkowalczyk.vercel.app/blog/how-i-built-my-website) `[August 12, 2022]`
+<!-- Posts last updated on Wed Aug 23 2023 12:51:13 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       17315      |
+|    🏆 Contributions (Total)   |       17335      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **7324**     |
+| **🏆 Contributions in 2023:** |     **7344**     |
 |  **📝 Total lines of code:**  | **8.32 million** |
-|     **📦 Github Storage:**    |   **481.3 MB**   |
+|     **📦 Github Storage:**    |   **486.2 MB**   |
 |  **📚 Public Repositories:**  |      **27**      |
 |  **🔑 Private Repositories:** |       **2**      |
 
@@ -82,20 +82,20 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   609 commits   [████████░░░░░░░░░░░░░░░░░]   32.50%
-🌆 Daytime   628 commits   [████████░░░░░░░░░░░░░░░░░]   33.51%
-🌃 Evening   599 commits   [███████░░░░░░░░░░░░░░░░░░]   31.96%
+🌞 Morning   607 commits   [████████░░░░░░░░░░░░░░░░░]   32.39%
+🌆 Daytime   633 commits   [████████░░░░░░░░░░░░░░░░░]   33.78%
+🌃 Evening   596 commits   [███████░░░░░░░░░░░░░░░░░░]   31.80%
 🌙 Night     38 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.03%
 ```
 
 #### 📅 I'm most productive on Tuesday
 
 ```text
-Monday      162 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   8.64%
-Tuesday     355 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.94%
-Wednesday   310 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.54%
-Thursday    257 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.71%
-Friday      266 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.19%
+Monday      161 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   8.59%
+Tuesday     352 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.78%
+Wednesday   308 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.44%
+Thursday    264 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.09%
+Friday      265 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.14%
 Saturday    290 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.47%
 Sunday      234 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.49%
 ```
@@ -115,7 +115,7 @@ Other            [0h 48m]           [░░░░░░░░░░░░░░�
 Linux            [51 hrs 35 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Wed Aug 23 2023 12:27:41 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Wed Aug 23 2023 12:51:22 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
@@ -123,7 +123,7 @@ Linux            [51 hrs 35 mins]  [██████████████�
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-`[08/23 12:09]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#549`](https://github.com/IgorKowalczyk/majo.exe/pull/549 'Update dependency @napi-rs/canvas to v0.1.44') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[08/23 11:38]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[08/23 09:01]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [Brooooooklyn/canvas](https://github.com/Brooooooklyn/canvas)<br>`[08/22 19:07]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[08/22 16:04]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/systeminformation-5.x...` from [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br>`[08/22 16:04]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br>`[08/22 16:04]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#159`](https://github.com/IgorKowalczyk/discord-ssh/pull/159 'Update dependency systeminformation to v5.19.0') in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br>`[08/22 16:04]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#159`](https://github.com/IgorKowalczyk/discord-ssh/pull/159 'Update dependency systeminformation to v5.19.0') in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br>`[08/22 14:43]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[08/22 14:41]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/prettier-plugin-astro...` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)
+`[08/23 12:40]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/jest-monorepo` from [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br>`[08/23 12:40]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br>`[08/23 12:40]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#34`](https://github.com/IgorKowalczyk/countdown/pull/34 'Update dependency @types/jest to v29.5.4') in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br>`[08/23 12:39]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#34`](https://github.com/IgorKowalczyk/countdown/pull/34 'Update dependency @types/jest to v29.5.4') in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br>`[08/23 12:35]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/tailwindcss-forms-0.x...` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[08/23 12:35]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[08/23 12:35]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#369`](https://github.com/IgorKowalczyk/github-views/pull/369 'Update dependency @tailwindcss/forms to v0.5.5') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[08/23 12:35]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#369`](https://github.com/IgorKowalczyk/github-views/pull/369 'Update dependency @tailwindcss/forms to v0.5.5') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br>`[08/23 12:34]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/napi-rs-canvas-0.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[08/23 12:34]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
 <!--END_SECTION:activity-->
 
 ---
