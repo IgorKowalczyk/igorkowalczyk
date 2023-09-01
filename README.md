@@ -63,17 +63,17 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Fri Sep 01 2023 21:51:28 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Fri Sep 01 2023 22:26:52 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       17739      |
+|    🏆 Contributions (Total)   |       17741      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **7748**     |
+| **🏆 Contributions in 2023:** |     **7750**     |
 |  **📝 Total lines of code:**  | **8.32 million** |
-|     **📦 Github Storage:**    |   **766.8 MB**   |
+|     **📦 Github Storage:**    |   **766.7 MB**   |
 |  **📚 Public Repositories:**  |      **27**      |
 |  **🔑 Private Repositories:** |       **2**      |
 
@@ -104,18 +104,18 @@ Sunday      245 commits   [███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages:
-JavaScript       [49 hrs 52 mins]   [████████████████░░░░░░░░░]   65.97%
-Markdown         [10 hrs 18 mins]   [███░░░░░░░░░░░░░░░░░░░░░░]   13.63%
-TypeScript       [6 hrs 44 mins]    [██░░░░░░░░░░░░░░░░░░░░░░░]   8.92%
-JSON             [5 hrs 46 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   7.64%
-Bash             [1 hr 31 mins]     [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.03%
-Other            [1h 21m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.81%
+JavaScript       [57 hrs 42 mins]   [██████████████████░░░░░░░]   73.84%
+Markdown         [8 hrs 58 mins]    [██░░░░░░░░░░░░░░░░░░░░░░░]   11.49%
+JSON             [5 hrs 46 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   7.39%
+TypeScript       [1 hr 36 mins]     [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.05%
+TSQL             [1 hr 32 mins]     [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.98%
+Other            [2h 32m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.27%
 
 💻 Operating Systems:
-Linux            [75 hrs 35 mins]  [█████████████████████████]   100.00%
+Linux            [78 hrs 9 mins]   [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Fri Sep 01 2023 21:51:37 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Fri Sep 01 2023 22:27:03 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
@@ -123,7 +123,7 @@ Linux            [75 hrs 35 mins]  [██████████████�
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-`[09/01 21:51]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[09/01 09:45]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/pnpm-8.x` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[09/01 09:45]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[09/01 09:45]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#91`](https://github.com/IgorKowalczyk/shared-configs/pull/91 'Update pnpm to v8.7.1') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[09/01 09:17]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#91`](https://github.com/IgorKowalczyk/shared-configs/pull/91 'Update pnpm to v8.7.1') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[09/01 09:17]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#91`](https://github.com/IgorKowalczyk/shared-configs/pull/91 'Update pnpm to v8.7.1') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[09/01 08:03]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `4` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[08/31 19:51]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/systeminformation-5.x...` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[08/31 19:51]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[08/31 19:51]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#563`](https://github.com/IgorKowalczyk/majo.exe/pull/563 'Update dependency systeminformation to v5.21.3') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
+`[09/01 22:23]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#389`](https://github.com/IgorKowalczyk/github-views/pull/389 'Update dependency astro to v3.0.6') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[09/01 22:23]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#590`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/590 'Update dependency rehype-pretty-code to v0.10.1') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[09/01 21:51]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[09/01 09:45]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/pnpm-8.x` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[09/01 09:45]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[09/01 09:45]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#91`](https://github.com/IgorKowalczyk/shared-configs/pull/91 'Update pnpm to v8.7.1') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[09/01 09:17]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#91`](https://github.com/IgorKowalczyk/shared-configs/pull/91 'Update pnpm to v8.7.1') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[09/01 09:17]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#91`](https://github.com/IgorKowalczyk/shared-configs/pull/91 'Update pnpm to v8.7.1') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[09/01 08:03]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `4` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[08/31 19:51]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/systeminformation-5.x...` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
 <!--END_SECTION:activity-->
 
 ---
