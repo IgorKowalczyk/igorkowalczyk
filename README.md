@@ -63,19 +63,19 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Thu Sep 14 2023 19:51:35 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Thu Sep 14 2023 20:14:53 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |      18033      |
-| :---------------------------: | :-------------: |
-| **🏆 Contributions in 2023:** |     **8042**    |
-|  **📝 Total lines of code:**  | **8.3 million** |
-|     **📦 Github Storage:**    |   **767.3 MB**  |
-|  **📚 Public Repositories:**  |      **28**     |
-|  **🔑 Private Repositories:** |      **3**      |
+|    🏆 Contributions (Total)   |       18034      |
+| :---------------------------: | :--------------: |
+| **🏆 Contributions in 2023:** |     **8043**     |
+|  **📝 Total lines of code:**  | **8.31 million** |
+|     **📦 Github Storage:**    |   **767.3 MB**   |
+|  **📚 Public Repositories:**  |      **28**      |
+|  **🔑 Private Repositories:** |       **3**      |
 
 <details><summary>✨ Show more stats</summary>
 
@@ -115,7 +115,7 @@ Other          [0h 38m]           [░░░░░░░░░░░░░░░
 Linux          [17 hrs 48 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Thu Sep 14 2023 19:51:46 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Thu Sep 14 2023 20:15:02 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
@@ -123,7 +123,7 @@ Linux          [17 hrs 48 mins]  [███████████████�
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-`[09/13 20:05]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [tldraw/tldraw](https://github.com/tldraw/tldraw)<br/>`[09/13 19:44]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `gitkeep-fonts` from [IgorKowalczyk/fonts](https://github.com/IgorKowalczyk/fonts)<br/>`[09/13 19:44]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `rewrite-to-es6` from [IgorKowalczyk/fonts](https://github.com/IgorKowalczyk/fonts)<br/>`[09/13 15:50]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/prisma-monorepo` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[09/13 15:50]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#573`](https://github.com/IgorKowalczyk/majo.exe/pull/573 'Update prisma monorepo to v5.3.0') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[09/13 15:50]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[09/13 15:50]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#573`](https://github.com/IgorKowalczyk/majo.exe/pull/573 'Update prisma monorepo to v5.3.0') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[09/13 08:34]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/fonts](https://github.com/IgorKowalczyk/fonts)<br/>`[09/13 08:29]` <a href="https://github.com/igorkowalczyk" title="✅"><img alt="✅" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/pr-open.png" align="top" height="18"></a> Opened PR [`#4`](https://github.com/tresthost/fonts/pull/4 'Fix github actions') in [tresthost/fonts](https://github.com/tresthost/fonts)<br/>`[09/13 08:28]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/fonts](https://github.com/IgorKowalczyk/fonts)
+`[09/14 18:52]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/astro-3.x` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[09/14 18:52]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[09/14 18:52]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#403`](https://github.com/IgorKowalczyk/github-views/pull/403 'Update dependency astro to v3.1.0') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[09/14 18:50]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#403`](https://github.com/IgorKowalczyk/github-views/pull/403 'Update dependency astro to v3.1.0') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[09/13 20:05]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [tldraw/tldraw](https://github.com/tldraw/tldraw)<br/>`[09/13 19:44]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `gitkeep-fonts` from [IgorKowalczyk/fonts](https://github.com/IgorKowalczyk/fonts)<br/>`[09/13 19:44]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `rewrite-to-es6` from [IgorKowalczyk/fonts](https://github.com/IgorKowalczyk/fonts)<br/>`[09/13 15:50]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/prisma-monorepo` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[09/13 15:50]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#573`](https://github.com/IgorKowalczyk/majo.exe/pull/573 'Update prisma monorepo to v5.3.0') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[09/13 15:50]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
 <!--END_SECTION:activity-->
 
 ---
