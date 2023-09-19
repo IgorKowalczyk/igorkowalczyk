@@ -63,19 +63,19 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Tue Sep 19 2023 09:25:35 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Tue Sep 19 2023 09:36:41 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |      18137      |
-| :---------------------------: | :-------------: |
-| **🏆 Contributions in 2023:** |     **8146**    |
-|  **📝 Total lines of code:**  | **8.3 million** |
-|     **📦 Github Storage:**    |   **767.0 MB**  |
-|  **📚 Public Repositories:**  |      **27**     |
-|  **🔑 Private Repositories:** |      **3**      |
+|    🏆 Contributions (Total)   |       18139      |
+| :---------------------------: | :--------------: |
+| **🏆 Contributions in 2023:** |     **8148**     |
+|  **📝 Total lines of code:**  | **8.31 million** |
+|     **📦 Github Storage:**    |   **767.0 MB**   |
+|  **📚 Public Repositories:**  |      **27**      |
+|  **🔑 Private Repositories:** |       **3**      |
 
 <details><summary>✨ Show more stats</summary>
 
@@ -115,7 +115,7 @@ Other          [0h 21m]           [░░░░░░░░░░░░░░░
 Linux          [25 hrs 46 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Tue Sep 19 2023 09:25:47 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Tue Sep 19 2023 09:36:53 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
