@@ -63,15 +63,15 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Thu Sep 21 2023 05:51:30 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Thu Sep 21 2023 06:19:07 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       18172      |
+|    🏆 Contributions (Total)   |       18176      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **8181**     |
+| **🏆 Contributions in 2023:** |     **8185**     |
 |  **📝 Total lines of code:**  | **8.31 million** |
 |     **📦 Github Storage:**    |   **767.8 MB**   |
 |  **📚 Public Repositories:**  |      **27**      |
@@ -83,9 +83,9 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 ```text
 🌞 Morning   582 commits   [███████░░░░░░░░░░░░░░░░░░]   30.20%
-🌆 Daytime   656 commits   [████████░░░░░░░░░░░░░░░░░]   34.04%
+🌆 Daytime   655 commits   [████████░░░░░░░░░░░░░░░░░]   33.99%
 🌃 Evening   651 commits   [████████░░░░░░░░░░░░░░░░░]   33.78%
-🌙 Night     38 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.97%
+🌙 Night     39 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.02%
 ```
 
 #### 📅 I'm most productive on Tuesday
@@ -95,9 +95,9 @@ Monday      152 commits   [█░░░░░░░░░░░░░░░░�
 Tuesday     375 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.46%
 Wednesday   301 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.62%
 Thursday    268 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.91%
-Friday      263 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.65%
+Friday      264 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.70%
 Saturday    300 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.57%
-Sunday      268 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.91%
+Sunday      267 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.86%
 ```
 
 #### 📊 Weekly work stats (last 7 days)
@@ -115,7 +115,7 @@ Other        [0h 6m]            [░░░░░░░░░░░░░░░�
 Linux        [32 hrs 24 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Thu Sep 21 2023 05:51:41 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Thu Sep 21 2023 06:19:17 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
@@ -123,7 +123,7 @@ Linux        [32 hrs 24 mins]  [████████████████
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-`[09/20 16:34]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[09/20 16:34]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/vercel-og-0.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[09/20 16:34]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#584`](https://github.com/IgorKowalczyk/majo.exe/pull/584 'Update dependency @vercel/og to v0.5.15') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[09/20 16:34]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#584`](https://github.com/IgorKowalczyk/majo.exe/pull/584 'Update dependency @vercel/og to v0.5.15') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[09/20 15:45]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[09/20 15:45]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/systeminformation-5.x...` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[09/20 15:45]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#583`](https://github.com/IgorKowalczyk/majo.exe/pull/583 'Update dependency systeminformation to v5.21.8') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[09/20 15:45]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[09/20 15:45]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/vercel-og-0.x` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[09/20 15:45]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#608`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/608 'Update dependency @vercel/og to v0.5.15') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)
+`[09/21 06:04]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#238`](https://github.com/just-that/invite/pull/238 'Update nextjs monorepo to v13.5.2') in [just-that/invite](https://github.com/just-that/invite)<br/>`[09/21 06:04]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/nextjs-monorepo` from [just-that/invite](https://github.com/just-that/invite)<br/>`[09/21 06:04]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [just-that/invite](https://github.com/just-that/invite)<br/>`[09/21 06:03]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#238`](https://github.com/just-that/invite/pull/238 'Update nextjs monorepo to v13.5.2') in [just-that/invite](https://github.com/just-that/invite)<br/>`[09/21 06:01]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#238`](https://github.com/just-that/invite/pull/238 'Update nextjs monorepo to v13.5.2') in [just-that/invite](https://github.com/just-that/invite)<br/>`[09/21 05:59]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/globals-13.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[09/21 05:59]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[09/21 05:59]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#587`](https://github.com/IgorKowalczyk/majo.exe/pull/587 'Update dependency globals to v13.22.0') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[09/21 05:59]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#587`](https://github.com/IgorKowalczyk/majo.exe/pull/587 'Update dependency globals to v13.22.0') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[09/20 16:34]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
 <!--END_SECTION:activity-->
 
 ---
