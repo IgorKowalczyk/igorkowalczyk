@@ -63,17 +63,17 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Mon Oct 02 2023 13:18:42 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Mon Oct 02 2023 13:36:22 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       18454      |
+|    🏆 Contributions (Total)   |       18458      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **8463**     |
+| **🏆 Contributions in 2023:** |     **8467**     |
 |  **📝 Total lines of code:**  | **8.31 million** |
-|     **📦 Github Storage:**    |   **768.6 MB**   |
+|     **📦 Github Storage:**    |   **768.7 MB**   |
 |  **📚 Public Repositories:**  |      **27**      |
 |  **🔑 Private Repositories:** |       **3**      |
 
@@ -83,8 +83,8 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 ```text
 🌞 Morning   610 commits   [███████░░░░░░░░░░░░░░░░░░]   31.64%
-🌆 Daytime   656 commits   [████████░░░░░░░░░░░░░░░░░]   34.02%
-🌃 Evening   613 commits   [███████░░░░░░░░░░░░░░░░░░]   31.79%
+🌆 Daytime   657 commits   [████████░░░░░░░░░░░░░░░░░]   34.08%
+🌃 Evening   612 commits   [███████░░░░░░░░░░░░░░░░░░]   31.74%
 🌙 Night     49 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.54%
 ```
 
@@ -92,8 +92,8 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 ```text
 Monday      150 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   7.78%
-Tuesday     396 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.54%
-Wednesday   289 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.99%
+Tuesday     397 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.59%
+Wednesday   288 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.94%
 Thursday    261 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.54%
 Friday      267 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.85%
 Saturday    293 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.20%
@@ -115,7 +115,7 @@ Other        [0h 0m]            [░░░░░░░░░░░░░░░�
 Linux        [14 hrs 26 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Mon Oct 02 2023 13:18:58 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Mon Oct 02 2023 13:36:34 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
@@ -123,7 +123,7 @@ Linux        [14 hrs 26 mins]  [████████████████
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-`[10/02 12:22]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-plugin-astro-0...` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[10/02 12:22]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[10/02 12:22]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#423`](https://github.com/IgorKowalczyk/github-views/pull/423 'Update dependency eslint-plugin-astro to v0.29.1') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[10/02 12:21]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#423`](https://github.com/IgorKowalczyk/github-views/pull/423 'Update dependency eslint-plugin-astro to v0.29.1') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[10/02 09:18]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/astro-3.x` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[10/02 09:18]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[10/02 09:18]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#422`](https://github.com/IgorKowalczyk/github-views/pull/422 'Update dependency astro to v3.2.1') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[10/02 09:18]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#422`](https://github.com/IgorKowalczyk/github-views/pull/422 'Update dependency astro to v3.2.1') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[10/01 18:30]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [godotengine/godot](https://github.com/godotengine/godot)<br/>`[10/01 18:29]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [godotengine/godot-docs](https://github.com/godotengine/godot-docs)
+`[10/02 13:23]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/next-auth-4.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[10/02 13:23]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[10/02 13:23]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#601`](https://github.com/IgorKowalczyk/majo.exe/pull/601 'Update dependency next-auth to v4.23.2') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[10/02 13:23]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#601`](https://github.com/IgorKowalczyk/majo.exe/pull/601 'Update dependency next-auth to v4.23.2') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[10/02 12:22]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-plugin-astro-0...` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[10/02 12:22]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[10/02 12:22]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#423`](https://github.com/IgorKowalczyk/github-views/pull/423 'Update dependency eslint-plugin-astro to v0.29.1') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[10/02 12:21]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#423`](https://github.com/IgorKowalczyk/github-views/pull/423 'Update dependency eslint-plugin-astro to v0.29.1') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[10/02 09:18]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/astro-3.x` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[10/02 09:18]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)
 <!--END_SECTION:activity-->
 
 ---
