@@ -63,7 +63,7 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Tue Oct 03 2023 21:51:30 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Tue Oct 03 2023 22:38:43 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
@@ -73,7 +73,7 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 | :---------------------------: | :--------------: |
 | **🏆 Contributions in 2023:** |     **8490**     |
 |  **📝 Total lines of code:**  | **8.31 million** |
-|     **📦 Github Storage:**    |   **768.7 MB**   |
+|     **📦 Github Storage:**    |   **768.6 MB**   |
 |  **📚 Public Repositories:**  |      **27**      |
 |  **🔑 Private Repositories:** |       **3**      |
 
@@ -104,18 +104,18 @@ Sunday      272 commits   [███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages:
-JavaScript   [13 hrs 13 mins]   [██████████████████████░░░]   91.67%
-Bash         [38 mins]          [█░░░░░░░░░░░░░░░░░░░░░░░░]   4.41%
-JSON         [23 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.77%
+JavaScript   [20 hrs 13 mins]   [███████████████████████░░]   93.99%
+Bash         [38 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.96%
+JSON         [24 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.86%
+CSS          [8 mins]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.63%
 
-CSS          [3 mins]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.43%
-Other        [0h 0m]            [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.72%
+Other        [0h 1m]            [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.55%
 
 💻 Operating Systems:
-Linux        [14 hrs 26 mins]  [█████████████████████████]   100.00%
+Linux        [21 hrs 30 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Tue Oct 03 2023 21:51:41 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Tue Oct 03 2023 22:38:53 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
