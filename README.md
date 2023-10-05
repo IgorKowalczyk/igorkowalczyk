@@ -63,15 +63,15 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Thu Oct 05 2023 21:51:24 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Thu Oct 05 2023 22:27:46 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       18557      |
+|    🏆 Contributions (Total)   |       18563      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **8566**     |
+| **🏆 Contributions in 2023:** |     **8572**     |
 |  **📝 Total lines of code:**  | **8.31 million** |
 |     **📦 Github Storage:**    |   **769.1 MB**   |
 |  **📚 Public Repositories:**  |      **27**      |
@@ -82,40 +82,40 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   610 commits   [███████░░░░░░░░░░░░░░░░░░]   31.54%
-🌆 Daytime   657 commits   [████████░░░░░░░░░░░░░░░░░]   33.97%
-🌃 Evening   619 commits   [████████░░░░░░░░░░░░░░░░░]   32.01%
+🌞 Morning   610 commits   [███████░░░░░░░░░░░░░░░░░░]   31.48%
+🌆 Daytime   657 commits   [████████░░░░░░░░░░░░░░░░░]   33.90%
+🌃 Evening   623 commits   [████████░░░░░░░░░░░░░░░░░]   32.15%
 🌙 Night     48 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.48%
 ```
 
 #### 📅 I'm most productive on Tuesday
 
 ```text
-Monday      149 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   7.70%
-Tuesday     400 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.68%
-Wednesday   290 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.99%
-Thursday    262 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.55%
-Friday      280 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.48%
-Saturday    284 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.68%
-Sunday      269 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.91%
+Monday      149 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   7.69%
+Tuesday     400 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.64%
+Wednesday   290 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.96%
+Thursday    262 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.52%
+Friday      285 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.71%
+Saturday    283 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.60%
+Sunday      269 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.88%
 ```
 
 #### 📊 Weekly work stats (last 7 days)
 
 ```text
 💬 Programming Languages:
-JavaScript   [19 hrs 59 mins]   [██████████████████████░░░]   91.42%
-Bash         [38 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.91%
-JSON         [33 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.56%
-YAML         [26 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.99%
-CSS          [7 mins]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.57%
-Other        [0h 7m]            [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.54%
+JavaScript       [19 hrs 26 mins]   [████████████████████░░░░░]   81.44%
+TypeScript       [1 hr 58 mins]     [██░░░░░░░░░░░░░░░░░░░░░░░]   8.25%
+JSON             [39 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.74%
+Bash             [32 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.24%
+YAML             [26 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.85%
+Other            [0h 49m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.49%
 
 💻 Operating Systems:
-Linux        [21 hrs 51 mins]  [█████████████████████████]   100.00%
+Linux            [23 hrs 52 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Thu Oct 05 2023 21:51:35 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Thu Oct 05 2023 22:27:56 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
@@ -123,7 +123,7 @@ Linux        [21 hrs 51 mins]  [████████████████
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-`[10/05 21:49]` <a href="https://github.com/igorkowalczyk" title="✅"><img alt="✅" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/pr-open.png" align="top" height="18"></a> Opened PR [`#2`](https://github.com/IgorKowalczyk/discord-activity/pull/2 'Switch from oak to hono') in [IgorKowalczyk/discord-activity](https://github.com/IgorKowalczyk/discord-activity)<br/>`[10/05 21:47]` <a href="https://github.com/igorkowalczyk" title="📂"><img alt="📂" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/create-branch.png" align="top" height="18"></a> Created branch [`switch-to-hono`](https://github.com/IgorKowalczyk/discord-activity/tree/switch-to-hono) in [IgorKowalczyk/discord-activity](https://github.com/IgorKowalczyk/discord-activity)<br/>`[10/05 20:24]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/wakatime-hours](https://github.com/IgorKowalczyk/wakatime-hours)<br/>`[10/05 20:16]` <a href="https://github.com/igorkowalczyk" title="🏷"><img alt="🏷" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/release.png" align="top" height="18"></a> Released [`v1.1.0`](https://github.com/IgorKowalczyk/image-forwarder/releases/tag/v1.1.0) in [IgorKowalczyk/image-forwarder](https://github.com/IgorKowalczyk/image-forwarder)<br/>`[10/05 20:00]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/image-forwarder](https://github.com/IgorKowalczyk/image-forwarder)<br/>`[10/05 18:41]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/systeminformation-5.x...` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[10/05 18:41]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[10/05 18:41]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#610`](https://github.com/IgorKowalczyk/majo.exe/pull/610 'Update dependency systeminformation to v5.21.11') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[10/05 18:41]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#610`](https://github.com/IgorKowalczyk/majo.exe/pull/610 'Update dependency systeminformation to v5.21.11') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[10/05 17:51]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#602`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/602 'Update dependency remark-gfm to v4') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)
+`[10/05 22:06]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `switch-to-hono` from [IgorKowalczyk/discord-activity](https://github.com/IgorKowalczyk/discord-activity)<br/>`[10/05 22:06]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `4` commits in [IgorKowalczyk/discord-activity](https://github.com/IgorKowalczyk/discord-activity)<br/>`[10/05 22:06]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#2`](https://github.com/IgorKowalczyk/discord-activity/pull/2 'Switch from oak to hono') in [IgorKowalczyk/discord-activity](https://github.com/IgorKowalczyk/discord-activity)<br/>`[10/05 22:05]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/systeminformation-5.x...` from [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br/>`[10/05 22:05]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br/>`[10/05 22:05]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#187`](https://github.com/IgorKowalczyk/discord-ssh/pull/187 'Update dependency systeminformation to v5.21.11') in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br/>`[10/05 22:04]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#187`](https://github.com/IgorKowalczyk/discord-ssh/pull/187 'Update dependency systeminformation to v5.21.11') in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br/>`[10/05 22:02]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/discord-activity](https://github.com/IgorKowalczyk/discord-activity)<br/>`[10/05 21:59]` <a href="https://github.com/igorkowalczyk" title="🏷"><img alt="🏷" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/release.png" align="top" height="18"></a> Released [`v1.0.0`](https://github.com/IgorKowalczyk/discord-activity/releases/tag/v1.0.0) in [IgorKowalczyk/discord-activity](https://github.com/IgorKowalczyk/discord-activity)<br/>`[10/05 21:52]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/discord-activity](https://github.com/IgorKowalczyk/discord-activity)
 <!--END_SECTION:activity-->
 
 ---
