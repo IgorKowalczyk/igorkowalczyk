@@ -63,15 +63,15 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Fri Oct 13 2023 21:51:25 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Fri Oct 13 2023 22:28:26 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       18747      |
+|    🏆 Contributions (Total)   |       18749      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **8756**     |
+| **🏆 Contributions in 2023:** |     **8758**     |
 |  **📝 Total lines of code:**  | **8.31 million** |
 |     **📦 Github Storage:**    |   **768.7 MB**   |
 |  **📚 Public Repositories:**  |      **27**      |
@@ -104,18 +104,18 @@ Sunday      268 commits   [███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages:
-JavaScript       [25 hrs 34 mins]   [█████████████████░░░░░░░░]   71.67%
-JSON             [4 hrs 1 min]      [██░░░░░░░░░░░░░░░░░░░░░░░]   11.27%
-TSQL             [3 hrs 14 mins]    [██░░░░░░░░░░░░░░░░░░░░░░░]   9.10%
-Astro            [48 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.26%
-Markdown         [47 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.22%
-Other            [1h 14m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.49%
+JavaScript   [29 hrs 57 mins]   [████████████████████░░░░░]   80.63%
+TSQL         [3 hrs 15 mins]    [██░░░░░░░░░░░░░░░░░░░░░░░]   8.79%
+JSON         [2 hrs 5 mins]     [█░░░░░░░░░░░░░░░░░░░░░░░░]   5.63%
+Astro        [48 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.17%
+CSS          [33 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.52%
+Other        [0h 28m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.28%
 
 💻 Operating Systems:
-Linux            [35 hrs 41 mins]  [█████████████████████████]   100.00%
+Linux        [37 hrs 9 mins]   [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Fri Oct 13 2023 21:51:33 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Fri Oct 13 2023 22:28:35 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
