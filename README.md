@@ -63,15 +63,15 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Tue Oct 24 2023 21:51:31 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Tue Oct 24 2023 22:28:02 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       19067      |
+|    🏆 Contributions (Total)   |       19068      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **9076**     |
+| **🏆 Contributions in 2023:** |     **9077**     |
 |  **📝 Total lines of code:**  | **8.31 million** |
 |     **📦 Github Storage:**    |   **770.7 MB**   |
 |  **📚 Public Repositories:**  |      **27**      |
@@ -82,9 +82,9 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   623 commits   [████████░░░░░░░░░░░░░░░░░]   32.05%
+🌞 Morning   622 commits   [███████░░░░░░░░░░░░░░░░░░]   32.00%
 🌆 Daytime   665 commits   [████████░░░░░░░░░░░░░░░░░]   34.21%
-🌃 Evening   613 commits   [███████░░░░░░░░░░░░░░░░░░]   31.53%
+🌃 Evening   614 commits   [███████░░░░░░░░░░░░░░░░░░]   31.58%
 🌙 Night     43 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.21%
 ```
 
@@ -104,18 +104,18 @@ Sunday      256 commits   [███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages:
-JavaScript       [31 hrs 16 mins]   [█████████████████████░░░░]   86.44%
-JSON             [2 hrs 27 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.78%
-Markdown         [1 hr 27 mins]     [█░░░░░░░░░░░░░░░░░░░░░░░░]   4.03%
-Objective-C      [20 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.94%
-TSQL             [17 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.82%
-Other            [0h 21m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.00%
+JavaScript       [33 hrs 13 mins]   [██████████████████░░░░░░░]   74.72%
+JSON             [5 hrs 48 mins]    [███░░░░░░░░░░░░░░░░░░░░░░]   13.08%
+Markdown         [2 hrs 4 mins]     [█░░░░░░░░░░░░░░░░░░░░░░░░]   4.67%
+Bash             [1 hr 58 mins]     [█░░░░░░░░░░░░░░░░░░░░░░░░]   4.44%
+YAML             [50 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.89%
+Other            [0h 31m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.18%
 
 💻 Operating Systems:
-Linux            [36 hrs 11 mins]  [█████████████████████████]   100.00%
+Linux            [44 hrs 27 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Tue Oct 24 2023 21:51:39 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Tue Oct 24 2023 22:28:13 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
@@ -123,7 +123,7 @@ Linux            [36 hrs 11 mins]  [██████████████�
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-`[10/24 18:30]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[10/24 17:39]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/astro-3.x` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[10/24 17:39]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[10/24 17:39]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#450`](https://github.com/IgorKowalczyk/github-views/pull/450 'Update dependency astro to v3.3.4') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[10/24 17:38]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#450`](https://github.com/IgorKowalczyk/github-views/pull/450 'Update dependency astro to v3.3.4') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[10/24 16:59]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[10/24 16:06]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/igorkowalczyk-eslint-...` from [IgorKowalczyk/ngrok](https://github.com/IgorKowalczyk/ngrok)<br/>`[10/24 16:06]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#159`](https://github.com/IgorKowalczyk/ngrok/pull/159 'Update dependency @igorkowalczyk/eslint-config to v2.0.3') in [IgorKowalczyk/ngrok](https://github.com/IgorKowalczyk/ngrok)<br/>`[10/24 16:06]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/ngrok](https://github.com/IgorKowalczyk/ngrok)<br/>`[10/24 16:06]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#159`](https://github.com/IgorKowalczyk/ngrok/pull/159 'Update dependency @igorkowalczyk/eslint-config to v2.0.3') in [IgorKowalczyk/ngrok](https://github.com/IgorKowalczyk/ngrok)
+`[10/24 21:51]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[10/24 17:39]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/astro-3.x` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[10/24 17:39]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[10/24 17:39]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#450`](https://github.com/IgorKowalczyk/github-views/pull/450 'Update dependency astro to v3.3.4') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[10/24 17:38]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#450`](https://github.com/IgorKowalczyk/github-views/pull/450 'Update dependency astro to v3.3.4') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[10/24 16:59]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[10/24 16:06]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/igorkowalczyk-eslint-...` from [IgorKowalczyk/ngrok](https://github.com/IgorKowalczyk/ngrok)<br/>`[10/24 16:06]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#159`](https://github.com/IgorKowalczyk/ngrok/pull/159 'Update dependency @igorkowalczyk/eslint-config to v2.0.3') in [IgorKowalczyk/ngrok](https://github.com/IgorKowalczyk/ngrok)<br/>`[10/24 16:06]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/ngrok](https://github.com/IgorKowalczyk/ngrok)<br/>`[10/24 16:06]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#159`](https://github.com/IgorKowalczyk/ngrok/pull/159 'Update dependency @igorkowalczyk/eslint-config to v2.0.3') in [IgorKowalczyk/ngrok](https://github.com/IgorKowalczyk/ngrok)
 <!--END_SECTION:activity-->
 
 ---
