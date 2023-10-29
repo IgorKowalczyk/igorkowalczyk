@@ -1,26 +1,26 @@
 <!-- ## Hi! I'm Igor Kowalczyk 🖐️ -->
 
-<img width="170" height="170" align="left" style="float: left; margin: 0 10px 0 0; border-radius: 50%;" src="https://media.discordapp.net/attachments/710425657003212810/933327129305821184/circle.png">
+<img width="170" height="170" align="left" style="float: left; margin: 0 10px 0 0; border-radius: 50%;" alt="Igor Kowalczyk avatar" src="https://media.discordapp.net/attachments/710425657003212810/933327129305821184/circle.png">
 
-## <img width="26" height="26" src="https://raw.githubusercontent.com/igorkowalczyk/igorkowalczyk/master/src/images/wave.gif" width="27px"> Hi! I'm Igor Kowalczyk
+## <img alt="Waving hand" width="26" height="26" src="https://raw.githubusercontent.com/igorkowalczyk/igorkowalczyk/master/src/images/wave.gif" width="27px"> Hi! I'm Igor Kowalczyk
 
 > This is the place where I opensource stuff and break things :rofl:<br>
 
-## [![Discord](https://img.shields.io/discord/666599184844980224?color=333&label=Chat&logo=discord&logoColor=fff&style=flat-square)](https://igorkowalczyk.dev/r/discord-server) [![GitHub followers](https://img.shields.io/github/followers/igorkowalczyk?color=333&label=Follow&logo=github&logoColor=fff&style=flat-square)](https://github.com/IgorKowalczyk?tab=followers) [![Twitter Follow](https://img.shields.io/static/v1?message=Twitter&color=333&label=@majonezexe&logo=twitter&logoColor=fff&style=flat-square)](https://twitter.com/majonezexe) [![Views](https://github-views.deno.dev/api/badge/igorkowalczyk?style=flat&color=333&cache=none)](https://igorkowalczyk.dev) [![Wakatime Hours](https://wakatime-hours.deno.dev/api/badge?style=flat-square&color=333)](https://igorkowalczyk.dev)<br><br><br>
+## [![Discord](https://img.shields.io/discord/695282860399001640?color=333&label=Chat&logo=discord&logoColor=fff&style=flat-square)](https://igorkowalczyk.dev/discord) [![GitHub followers](https://img.shields.io/github/followers/igorkowalczyk?color=333&label=Follow&logo=github&logoColor=fff&style=flat-square)](https://github.com/IgorKowalczyk?tab=followers) [![Twitter Follow](https://img.shields.io/static/v1?message=Twitter&color=333&label=@majonezexe&logo=twitter&logoColor=fff&style=flat-square)](https://twitter.com/majonezexe) [![Views](https://github-views.deno.dev/api/badge/igorkowalczyk?style=flat&color=333&cache=none)](https://igorkowalczyk.dev) [![Wakatime Hours](https://wakatime-hours.deno.dev/api/badge?style=flat-square&color=333)](https://igorkowalczyk.dev)<br><br><br>
 
 <a href="https://discord.com/users/544164729354977282">
- <img src="https://discord-activity.deno.dev/api/544164729354977282?idleMessage=Just%20chillin'%20at%20the%20moment&cache=none" align="right" />
+ <img alt="Discord activity card" src="https://discord-activity.deno.dev/api/544164729354977282?idleMessage=Just%20chillin'%20at%20the%20moment&cache=none" align="right" />
 </a>
 
 <p align="left">
-<code><a href="https://www.instagram.com/majonezexe/" target="_blank"><img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/svg/instagram.svg" alt="Instagram" width="30" height="30"/></a></code>
-<code><a href="https://twitter.com/majonezexe" target="_blank"><img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/svg/twitter.svg" alt="Twitter" width="30" height="30"/></a></code>
-<code><a href="https://profile.codersrank.io/user/igorkowalczyk/" target="_blank"><img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/png/codersrank.png" alt="Codersrank" width="30" height="30"/></a></code>
-<code><a href="https://discord.com/users/544164729354977282" target="_blank"><img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/svg/discord.svg" alt="Discord" width="30" height="30"/></a></code>
+<code><a href="https://www.instagram.com/majonezexe/" target="_blank"><img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/svg/instagram.svg" alt="Instagram logo" width="30" height="30"/></a></code>
+<code><a href="https://twitter.com/majonezexe" target="_blank"><img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/svg/twitter.svg" alt="Twitter logo" width="30" height="30"/></a></code>
+<code><a href="https://profile.codersrank.io/user/igorkowalczyk/" target="_blank"><img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/png/codersrank.png" alt="Codersrank logo" width="30" height="30"/></a></code>
+<code><a href="https://discord.com/users/544164729354977282" target="_blank"><img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/svg/discord.svg" alt="Discord logo" width="30" height="30"/></a></code>
 <code><a href="mailto:majonezexe@protonmail.com" target="_blank"><img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/svg/protonmail.svg" alt="Email" width="30" height="30"/></a></code>
-<code><a href="https://www.youtube.com/c/Majonezexe" target="_blank"><img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/svg/youtube.svg" alt="YouTube" width="30" height="30"/></a></code>
-<code><a href="https://steamcommunity.com/id/m-exe/" target="_blank"><img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/svg/steam.svg" alt="Steam" width="30" height="30"/></a></code>
-<code><a href="https://open.spotify.com/user/1w9osz9cvrop0cn3yd09di21x" target="_blank"><img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/svg/spotify.svg" alt="Spotify" width="30" height="30"/></a></code>
+<code><a href="https://www.youtube.com/c/Majonezexe" target="_blank"><img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/svg/youtube.svg" alt="YouTube logo" width="30" height="30"/></a></code>
+<code><a href="https://steamcommunity.com/id/m-exe/" target="_blank"><img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/svg/steam.svg" alt="Steam logo" width="30" height="30"/></a></code>
+<code><a href="https://open.spotify.com/user/1w9osz9cvrop0cn3yd09di21x" target="_blank"><img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/svg/spotify.svg" alt="Spotify logo" width="30" height="30"/></a></code>
 </p>
 
 ### 💪 Experience & History
