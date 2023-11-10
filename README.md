@@ -63,15 +63,15 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Fri Nov 10 2023 22:51:24 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Fri Nov 10 2023 23:25:04 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       19479      |
+|    🏆 Contributions (Total)   |       19481      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **9488**     |
+| **🏆 Contributions in 2023:** |     **9490**     |
 |  **📝 Total lines of code:**  | **8.31 million** |
 |     **📦 Github Storage:**    |    **2.7 GB**    |
 |  **📚 Public Repositories:**  |      **28**      |
@@ -82,10 +82,10 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   607 commits   [███████░░░░░░░░░░░░░░░░░░]   31.19%
+🌞 Morning   606 commits   [███████░░░░░░░░░░░░░░░░░░]   31.14%
 🌆 Daytime   646 commits   [████████░░░░░░░░░░░░░░░░░]   33.20%
-🌃 Evening   627 commits   [████████░░░░░░░░░░░░░░░░░]   32.22%
-🌙 Night     66 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.39%
+🌃 Evening   626 commits   [████████░░░░░░░░░░░░░░░░░]   32.17%
+🌙 Night     68 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.49%
 ```
 
 #### 📅 I'm most productive on Tuesday
@@ -95,8 +95,8 @@ Monday      184 commits   [██░░░░░░░░░░░░░░░�
 Tuesday     416 commits   [█████░░░░░░░░░░░░░░░░░░░░]   21.38%
 Wednesday   320 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.44%
 Thursday    266 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.67%
-Friday      237 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.18%
-Saturday    268 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.77%
+Friday      235 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.08%
+Saturday    270 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.87%
 Sunday      255 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.10%
 ```
 
@@ -104,18 +104,18 @@ Sunday      255 commits   [███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages:
-JavaScript   [28 hrs 10 mins]   [████████████████████░░░░░]   83.47%
-Bash         [1 hr 58 mins]     [█░░░░░░░░░░░░░░░░░░░░░░░░]   5.86%
-JSON         [1 hr 55 mins]     [█░░░░░░░░░░░░░░░░░░░░░░░░]   5.73%
-MDX          [59 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.94%
-CSS          [13 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.68%
-Other        [0h 26m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.32%
+JavaScript   [29 hrs 47 mins]   [█████████████████████░░░░]   84.27%
+Bash         [1 hr 58 mins]     [█░░░░░░░░░░░░░░░░░░░░░░░░]   5.59%
+JSON         [1 hr 54 mins]     [█░░░░░░░░░░░░░░░░░░░░░░░░]   5.41%
+MDX          [59 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.80%
+CSS          [13 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.65%
+Other        [0h 26m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.25%
 
 💻 Operating Systems:
-Linux        [33 hrs 44 mins]  [█████████████████████████]   100.00%
+Linux        [35 hrs 21 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Fri Nov 10 2023 22:51:34 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Fri Nov 10 2023 23:25:12 GMT+0000 (Coordinated Universal Time) -->
 </details>
    
 <!--END_SECTION:wakatime-->
@@ -123,7 +123,7 @@ Linux        [33 hrs 44 mins]  [████████████████
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-`[11/10 22:47]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/10 19:41]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/next-auth-4.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/10 19:41]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/10 19:41]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#667`](https://github.com/IgorKowalczyk/majo.exe/pull/667 'Update dependency next-auth to v4.24.5') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/10 19:41]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/astro-3.x` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[11/10 19:41]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[11/10 19:41]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#465`](https://github.com/IgorKowalczyk/github-views/pull/465 'Update dependency astro to v3.5.1') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[11/10 19:41]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#667`](https://github.com/IgorKowalczyk/majo.exe/pull/667 'Update dependency next-auth to v4.24.5') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/10 15:43]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#465`](https://github.com/IgorKowalczyk/github-views/pull/465 'Update dependency astro to v3.5.1') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[11/10 13:23]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/globby-14.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
+`[11/10 23:03]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `3` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/10 19:41]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/next-auth-4.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/10 19:41]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/10 19:41]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#667`](https://github.com/IgorKowalczyk/majo.exe/pull/667 'Update dependency next-auth to v4.24.5') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/10 19:41]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/astro-3.x` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[11/10 19:41]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[11/10 19:41]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#465`](https://github.com/IgorKowalczyk/github-views/pull/465 'Update dependency astro to v3.5.1') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[11/10 19:41]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#667`](https://github.com/IgorKowalczyk/majo.exe/pull/667 'Update dependency next-auth to v4.24.5') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/10 15:43]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#465`](https://github.com/IgorKowalczyk/github-views/pull/465 'Update dependency astro to v3.5.1') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[11/10 13:23]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/globby-14.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
 <!--END_SECTION:activity-->
 
 ---
