@@ -11,27 +11,27 @@ export async function fetchCodingStats(apiToken, username) {
  console.log("::debug:: [Github] Fetching Github data...");
  const [contributions, repositories, contributionsLastYear, linesOfCode] = await Promise.all([getTotalContributionsForYears(username).then((data) => data.sort()), getRepositoriesInfo(username), getCommits(username), getLinesOfCode(username)]);
  console.log("::debug:: [Github] Done fetching Github data!");
+ 
  const totalContributions = contributions.reduce((acc, { totalContributions }) => acc + totalContributions, 0);
  const contributionsInLastYear = contributions[contributions.length - 1].totalContributions;
  const lastYear = contributions[contributions.length - 1].year;
 
  console.log("::debug:: [Wakatime] Fetching Wakatime data...");
- let content = "";
  const request = await fetch("https://wakatime.com/api/v1/users/current/stats/last_7_days", {
   headers: {
    Authorization: `Basic ${btoa(apiToken)}`,
   },
  });
 
- if (!request.ok) {
-  throw new Error("Wakatime API returned an error");
- }
+ if (!request.ok) throw new Error("Wakatime API returned an error");
 
  const data = await request.json();
  console.log("::debug:: [Wakatime] Done fetching Wakatime data!");
+
  const { languages, operating_systems: operatingSystems, status } = data.data;
  if (status !== "ok") throw new Error("Wakatime API returned an error");
  let other = 0;
+
  const maxNameLength = Math.max(...languages.map(({ name }) => name.length), ...operatingSystems.map(({ name }) => name.length));
  const maxTimeLength = Math.max(...languages.map(({ text }) => text.length), ...operatingSystems.map(({ text }) => text.length));
  const otherLanguages = languages.slice(5).reduce((acc, { percent }) => acc + percent, 0);
@@ -136,7 +136,5 @@ export async function fetchCodingStats(apiToken, username) {
  /* eslint-enable comma-dangle */
 
  console.log("::debug:: [Wakatime] Saving Wakatime data!");
- content = `${table}\n\n<details><summary>✨ Show more stats</summary>\n\n${mostProductiveParts}\n\n${mostProductiveDaysText}\n\n${weekly}\n\n<!-- Wakatime last updated on ${new Date().toString()} -->\n</details>
-   `;
- return content;
+ return `${table}\n\n<details><summary>✨ Show more stats</summary>\n\n${mostProductiveParts}\n\n${mostProductiveDaysText}\n\n${weekly}\n\n<!-- Wakatime last updated on ${new Date().toString()} -->\n</details>`;
 }
