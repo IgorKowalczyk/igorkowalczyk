@@ -62,15 +62,16 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 
 <!-- START_SECTION:feed -->
-undefined
+- [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
+<!-- Posts last updated on Mon Nov 13 2023 19:05:52 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       19614      |
+|    🏆 Contributions (Total)   |       19615      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **9623**     |
+| **🏆 Contributions in 2023:** |     **9624**     |
 |  **📝 Total lines of code:**  | **8.32 million** |
 |     **📦 Github Storage:**    |    **2.7 GB**    |
 |  **📚 Public Repositories:**  |      **28**      |
@@ -81,9 +82,9 @@ undefined
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   604 commits   [███████░░░░░░░░░░░░░░░░░░]   31.02%
+🌞 Morning   603 commits   [███████░░░░░░░░░░░░░░░░░░]   30.97%
 🌆 Daytime   654 commits   [████████░░░░░░░░░░░░░░░░░]   33.59%
-🌃 Evening   619 commits   [███████░░░░░░░░░░░░░░░░░░]   31.79%
+🌃 Evening   620 commits   [███████░░░░░░░░░░░░░░░░░░]   31.84%
 🌙 Night     70 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.60%
 ```
 
@@ -114,7 +115,7 @@ Other        [1h 51m]           [█░░░░░░░░░░░░░░�
 Linux        [45 hrs 21 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Mon Nov 13 2023 19:04:09 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Mon Nov 13 2023 19:06:04 GMT+0000 (Coordinated Universal Time) -->
 </details>
 <!--END_SECTION:wakatime-->
 
