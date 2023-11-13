@@ -13,7 +13,7 @@ export async function fetchPosts(xml) {
  await parseString(xmlBody, (err, result) => {
   if (err) throw new Error(err);
   console.log(`::debug:: [Posts] Fetched ${result.feed.entry.length} posts`);
-  const content =  result.feed.entry
+  const content = result.feed.entry
    .slice(0, feed.maxLines || 5)
    .map(({ title, id, updated }) => `- [${title}](${id}) \`[${format(new Date(updated[0]), "MMMM dd, yyyy")}]\``)
    .join("\n") + `\n<!-- Posts last updated on ${new Date().toString()} -->`;

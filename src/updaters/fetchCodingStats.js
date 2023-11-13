@@ -11,7 +11,7 @@ export async function fetchCodingStats(apiToken, username) {
  console.log("::debug:: [Github] Fetching Github data...");
  const [contributions, repositories, contributionsLastYear, linesOfCode] = await Promise.all([getTotalContributionsForYears(username).then((data) => data.sort()), getRepositoriesInfo(username), getCommits(username), getLinesOfCode(username)]);
  console.log("::debug:: [Github] Done fetching Github data!");
- 
+
  const totalContributions = contributions.reduce((acc, { totalContributions }) => acc + totalContributions, 0);
  const contributionsInLastYear = contributions[contributions.length - 1].totalContributions;
  const lastYear = contributions[contributions.length - 1].year;

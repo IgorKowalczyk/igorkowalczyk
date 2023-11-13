@@ -25,10 +25,10 @@
 
 ### 💪 Experience & History
 
-I have been coding for more than 5 years. I started my journey at the end of 2018.  
-At first, I learned HTML, CSS and base Javascript to build websites  
-My first project was a simple music player made with Javascript (~January 2019).  
-In March 2020, I started learning [Node.js](https://github.com/IgorKowalczyk?tab=repositories&q=&type=&language=javascript&sort=stargazers) & [Express.js](https://expressjs.com/), I also created my first major project - [Majo.exe](https://github.com/igorkowalczyk/majo.exe)  
+I have been coding for more than 5 years. I started my journey at the end of 2018.\
+At first, I learned HTML, CSS and base Javascript to build websites\
+My first project was a simple music player made with Javascript (~January 2019).\
+In March 2020, I started learning [Node.js](https://github.com/IgorKowalczyk?tab=repositories&q=&type=&language=javascript&sort=stargazers) & [Express.js](https://expressjs.com/), I also created my first major project - [Majo.exe](https://github.com/igorkowalczyk/majo.exe)\
 In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](https://nextjs.org/) and [Tailwind.css](https://tailwindcss.com/)...
 
 ### 🧠 Over the years, I've learned
@@ -62,19 +62,22 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 
 <!-- START_SECTION:feed -->
+
 undefined
+
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       19612      |
+
+|   🏆 Contributions (Total)    |      19612       |
 | :---------------------------: | :--------------: |
 | **🏆 Contributions in 2023:** |     **9621**     |
 |  **📝 Total lines of code:**  | **8.32 million** |
-|     **📦 Github Storage:**    |    **2.7 GB**    |
+|    **📦 Github Storage:**     |    **2.7 GB**    |
 |  **📚 Public Repositories:**  |      **28**      |
-|  **🔑 Private Repositories:** |       **3**      |
+| **🔑 Private Repositories:**  |      **3**       |
 
 <details><summary>✨ Show more stats</summary>
 
@@ -121,7 +124,9 @@ Linux        [45 hrs 21 mins]  [████████████████
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-`[11/13 18:23]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br/>`[11/13 17:49]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/discord-activity](https://github.com/IgorKowalczyk/discord-activity)<br/>`[11/13 16:50]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/pnpm-8.x` from [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br/>`[11/13 16:50]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br/>`[11/13 16:49]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#207`](https://github.com/IgorKowalczyk/discord-ssh/pull/207 'Update pnpm to v8.10.4') in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br/>`[11/13 16:49]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#207`](https://github.com/IgorKowalczyk/discord-ssh/pull/207 'Update pnpm to v8.10.4') in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br/>`[11/13 16:49]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#672`](https://github.com/IgorKowalczyk/majo.exe/pull/672 'Update pnpm to v8.10.4') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/13 16:49]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#198`](https://github.com/IgorKowalczyk/is-browser/pull/198 'Update pnpm to v8.10.4') in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br/>`[11/13 15:18]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `3` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/13 14:58]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/react-parallax-tilt-1...` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)
+
+`[11/13 18:23]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br/> `[11/13 17:49]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/discord-activity](https://github.com/IgorKowalczyk/discord-activity)<br/> `[11/13 16:50]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/pnpm-8.x` from [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br/> `[11/13 16:50]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br/> `[11/13 16:49]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#207`](https://github.com/IgorKowalczyk/discord-ssh/pull/207 "Update pnpm to v8.10.4") in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br/> `[11/13 16:49]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#207`](https://github.com/IgorKowalczyk/discord-ssh/pull/207 "Update pnpm to v8.10.4") in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br/> `[11/13 16:49]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#672`](https://github.com/IgorKowalczyk/majo.exe/pull/672 "Update pnpm to v8.10.4") in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/> `[11/13 16:49]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#198`](https://github.com/IgorKowalczyk/is-browser/pull/198 "Update pnpm to v8.10.4") in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br/> `[11/13 15:18]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `3` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/> `[11/13 14:58]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/react-parallax-tilt-1...` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)
+
 <!--END_SECTION:activity-->
 
 ---
