@@ -63,28 +63,28 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Fri Nov 17 2023 21:13:12 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Fri Nov 17 2023 21:24:16 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       19734      |
-| :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **9743**     |
-|  **📝 Total lines of code:**  | **8.31 million** |
-|     **📦 Github Storage:**    |    **2.7 GB**    |
-|  **📚 Public Repositories:**  |      **28**      |
-|  **🔑 Private Repositories:** |       **3**      |
+|    🏆 Contributions (Total)   |      19259      |
+| :---------------------------: | :-------------: |
+| **🏆 Contributions in 2023:** |     **9537**    |
+|  **📝 Total lines of code:**  | **8.4 million** |
+|     **📦 Github Storage:**    |    **2.7 GB**   |
+|  **📚 Public Repositories:**  |      **28**     |
+|  **🔑 Private Repositories:** |      **3**      |
 
 <details><summary>✨ Show more stats</summary>
 
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   609 commits   [███████░░░░░░░░░░░░░░░░░░]   31.25%
+🌞 Morning   608 commits   [███████░░░░░░░░░░░░░░░░░░]   31.20%
 🌆 Daytime   648 commits   [████████░░░░░░░░░░░░░░░░░]   33.25%
-🌃 Evening   621 commits   [███████░░░░░░░░░░░░░░░░░░]   31.86%
+🌃 Evening   622 commits   [███████░░░░░░░░░░░░░░░░░░]   31.91%
 🌙 Night     71 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.64%
 ```
 
@@ -96,8 +96,8 @@ Tuesday     431 commits   [█████░░░░░░░░░░░░�
 Wednesday   337 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.29%
 Thursday    248 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.72%
 Friday      223 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.44%
-Saturday    262 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.44%
-Sunday      253 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.98%
+Saturday    264 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.55%
+Sunday      251 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.88%
 ```
 
 #### 📊 Weekly work stats (last 7 days)
@@ -115,14 +115,14 @@ Other        [3h 33m]           [██░░░░░░░░░░░░░�
 Linux        [55 hrs 6 mins]   [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Fri Nov 17 2023 21:13:27 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Fri Nov 17 2023 21:24:31 GMT+0000 (Coordinated Universal Time) -->
 </details>
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-`[11/17 17:46]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/17 10:16]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [withastro/starlight](https://github.com/withastro/starlight)<br/>`[11/17 07:56]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/node-20.x` from [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[11/17 07:56]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[11/17 07:56]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#117`](https://github.com/IgorKowalczyk/countdown/pull/117 'Update dependency @types/node to v20.9.1') in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[11/17 07:56]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#117`](https://github.com/IgorKowalczyk/countdown/pull/117 'Update dependency @types/node to v20.9.1') in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[11/17 07:55]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/nextjs-monorepo` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/17 07:55]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/17 07:55]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#675`](https://github.com/IgorKowalczyk/majo.exe/pull/675 'Update nextjs monorepo to v14.0.3') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/17 07:55]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#675`](https://github.com/IgorKowalczyk/majo.exe/pull/675 'Update nextjs monorepo to v14.0.3') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
+`[11/17 21:23]` <a href="https://github.com/igorkowalczyk" title="✅"><img alt="✅" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/pr-open.png" align="top" height="18"></a> Opened PR [`#676`](https://github.com/IgorKowalczyk/majo.exe/pull/676 'Rebuild') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/17 21:20]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/17 21:20]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#57`](https://github.com/IgorKowalczyk/majo.exe/pull/57 '[v6.0.0] Rebuild') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/17 21:15]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/17 10:16]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [withastro/starlight](https://github.com/withastro/starlight)<br/>`[11/17 07:56]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/node-20.x` from [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[11/17 07:56]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[11/17 07:56]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#117`](https://github.com/IgorKowalczyk/countdown/pull/117 'Update dependency @types/node to v20.9.1') in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[11/17 07:56]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#117`](https://github.com/IgorKowalczyk/countdown/pull/117 'Update dependency @types/node to v20.9.1') in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[11/17 07:55]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/nextjs-monorepo` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
 <!--END_SECTION:activity-->
 
 ---
