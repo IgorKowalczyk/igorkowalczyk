@@ -63,15 +63,15 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sat Nov 18 2023 22:51:23 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sat Nov 18 2023 23:25:03 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |      19302      |
+|    🏆 Contributions (Total)   |      19304      |
 | :---------------------------: | :-------------: |
-| **🏆 Contributions in 2023:** |     **9580**    |
+| **🏆 Contributions in 2023:** |     **9582**    |
 |  **📝 Total lines of code:**  | **8.4 million** |
 |     **📦 Github Storage:**    |    **2.7 GB**   |
 |  **📚 Public Repositories:**  |      **28**     |
@@ -96,33 +96,33 @@ Tuesday     424 commits   [█████░░░░░░░░░░░░�
 Wednesday   332 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.03%
 Thursday    247 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.67%
 Friday      220 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.29%
-Saturday    267 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.70%
-Sunday      268 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.75%
+Saturday    266 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.65%
+Sunday      269 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.80%
 ```
 
 #### 📊 Weekly work stats (last 7 days)
 
 ```text
 💬 Programming Languages:
-JavaScript   [41 hrs 42 mins]   [██████████████████░░░░░░░]   72.49%
-Markdown     [4 hrs 46 mins]    [██░░░░░░░░░░░░░░░░░░░░░░░]   8.30%
+JavaScript   [38 hrs 43 mins]   [█████████████████░░░░░░░░]   69.35%
+Markdown     [4 hrs 46 mins]    [██░░░░░░░░░░░░░░░░░░░░░░░]   8.55%
+JSON         [3 hrs 18 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   5.92%
+TypeScript   [2 hrs 24 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   4.31%
 
-TypeScript   [2 hrs 23 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   4.17%
-YAML         [1 hr 23 mins]     [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.41%
-Other        [4h 15m]           [███░░░░░░░░░░░░░░░░░░░░░░]   12.62%
+Other        [4h 27m]           [██░░░░░░░░░░░░░░░░░░░░░░░]   11.86%
 
 💻 Operating Systems:
-Linux        [57 hrs 32 mins]  [█████████████████████████]   100.00%
+Linux        [55 hrs 50 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Sat Nov 18 2023 22:51:33 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Sat Nov 18 2023 23:25:13 GMT+0000 (Coordinated Universal Time) -->
 </details>
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-`[11/18 17:53]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `3` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/18 14:44]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/discordjs-rest-2.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/18 14:44]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/18 14:44]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#677`](https://github.com/IgorKowalczyk/majo.exe/pull/677 'Update dependency @discordjs/rest to v2.2.0') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/18 14:44]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#677`](https://github.com/IgorKowalczyk/majo.exe/pull/677 'Update dependency @discordjs/rest to v2.2.0') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/18 13:10]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/18 12:55]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/rollup-4.x` from [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br/>`[11/18 12:55]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br/>`[11/18 12:55]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#202`](https://github.com/IgorKowalczyk/is-browser/pull/202 'Update dependency rollup to v4.5.0') in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br/>`[11/18 12:55]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/rollup-4.x` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)
+`[11/18 22:58]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/node-20.x` from [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[11/18 22:58]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#120`](https://github.com/IgorKowalczyk/countdown/pull/120 'Update dependency @types/node to v20.9.2') in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[11/18 22:58]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[11/18 22:58]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#120`](https://github.com/IgorKowalczyk/countdown/pull/120 'Update dependency @types/node to v20.9.2') in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[11/18 17:53]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `3` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/18 14:44]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/discordjs-rest-2.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/18 14:44]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/18 14:44]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#677`](https://github.com/IgorKowalczyk/majo.exe/pull/677 'Update dependency @discordjs/rest to v2.2.0') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/18 14:44]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#677`](https://github.com/IgorKowalczyk/majo.exe/pull/677 'Update dependency @discordjs/rest to v2.2.0') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/18 13:10]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
 <!--END_SECTION:activity-->
 
 ---
