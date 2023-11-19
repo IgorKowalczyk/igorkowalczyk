@@ -63,15 +63,15 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sun Nov 19 2023 22:51:24 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sun Nov 19 2023 23:25:29 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |      19304      |
+|    🏆 Contributions (Total)   |      19306      |
 | :---------------------------: | :-------------: |
-| **🏆 Contributions in 2023:** |     **9582**    |
+| **🏆 Contributions in 2023:** |     **9584**    |
 |  **📝 Total lines of code:**  | **8.4 million** |
 |     **📦 Github Storage:**    |    **2.7 GB**   |
 |  **📚 Public Repositories:**  |      **28**     |
@@ -83,17 +83,17 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 ```text
 🌞 Morning   599 commits   [███████░░░░░░░░░░░░░░░░░░]   30.73%
-🌆 Daytime   657 commits   [████████░░░░░░░░░░░░░░░░░]   33.71%
-🌃 Evening   622 commits   [███████░░░░░░░░░░░░░░░░░░]   31.91%
-🌙 Night     71 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.64%
+🌆 Daytime   656 commits   [████████░░░░░░░░░░░░░░░░░]   33.66%
+🌃 Evening   621 commits   [███████░░░░░░░░░░░░░░░░░░]   31.86%
+🌙 Night     73 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.75%
 ```
 
 #### 📅 I'm most productive on Tuesday
 
 ```text
-Monday      191 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.80%
+Monday      193 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.90%
 Tuesday     424 commits   [█████░░░░░░░░░░░░░░░░░░░░]   21.75%
-Wednesday   332 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.03%
+Wednesday   330 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.93%
 Thursday    247 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.67%
 Friday      220 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.29%
 Saturday    266 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.65%
@@ -104,25 +104,25 @@ Sunday      269 commits   [███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages:
-JavaScript   [38 hrs 43 mins]   [█████████████████░░░░░░░░]   69.35%
-Markdown     [4 hrs 46 mins]    [██░░░░░░░░░░░░░░░░░░░░░░░]   8.55%
-JSON         [3 hrs 18 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   5.92%
-TypeScript   [2 hrs 24 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   4.31%
+JavaScript   [42 hrs 43 mins]   [██████████████████░░░░░░░]   74.15%
+Markdown     [4 hrs 36 mins]    [██░░░░░░░░░░░░░░░░░░░░░░░]   8.00%
+JSON         [3 hrs 14 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   5.63%
 
-Other        [4h 27m]           [██░░░░░░░░░░░░░░░░░░░░░░░]   11.86%
+TypeScript   [1 hr 42 mins]     [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.97%
+Other        [3h 17m]           [██░░░░░░░░░░░░░░░░░░░░░░░]   9.23%
 
 💻 Operating Systems:
-Linux        [55 hrs 50 mins]  [█████████████████████████]   100.00%
+Linux        [57 hrs 37 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Sun Nov 19 2023 22:51:35 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Sun Nov 19 2023 23:25:41 GMT+0000 (Coordinated Universal Time) -->
 </details>
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-`[11/18 22:58]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/node-20.x` from [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[11/18 22:58]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#120`](https://github.com/IgorKowalczyk/countdown/pull/120 'Update dependency @types/node to v20.9.2') in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[11/18 22:58]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[11/18 22:58]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#120`](https://github.com/IgorKowalczyk/countdown/pull/120 'Update dependency @types/node to v20.9.2') in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[11/18 17:53]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `3` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/18 14:44]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/discordjs-rest-2.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/18 14:44]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/18 14:44]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#677`](https://github.com/IgorKowalczyk/majo.exe/pull/677 'Update dependency @discordjs/rest to v2.2.0') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/18 14:44]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#677`](https://github.com/IgorKowalczyk/majo.exe/pull/677 'Update dependency @discordjs/rest to v2.2.0') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/18 13:10]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
+`[11/19 23:17]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/18 22:58]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/node-20.x` from [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[11/18 22:58]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#120`](https://github.com/IgorKowalczyk/countdown/pull/120 'Update dependency @types/node to v20.9.2') in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[11/18 22:58]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[11/18 22:58]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#120`](https://github.com/IgorKowalczyk/countdown/pull/120 'Update dependency @types/node to v20.9.2') in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[11/18 17:53]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `3` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/18 14:44]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/discordjs-rest-2.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/18 14:44]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/18 14:44]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#677`](https://github.com/IgorKowalczyk/majo.exe/pull/677 'Update dependency @discordjs/rest to v2.2.0') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/18 14:44]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#677`](https://github.com/IgorKowalczyk/majo.exe/pull/677 'Update dependency @discordjs/rest to v2.2.0') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
 <!--END_SECTION:activity-->
 
 ---
