@@ -63,15 +63,15 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sun Dec 10 2023 22:51:15 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sun Dec 10 2023 23:25:18 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       19678      |
+|    🏆 Contributions (Total)   |       19679      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **9956**     |
+| **🏆 Contributions in 2023:** |     **9957**     |
 |  **📝 Total lines of code:**  | **8.34 million** |
 |     **📦 Github Storage:**    |   **778.1 MB**   |
 |  **📚 Public Repositories:**  |      **27**      |
@@ -83,18 +83,18 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 ```text
 🌞 Morning   588 commits   [███████░░░░░░░░░░░░░░░░░░]   30.15%
-🌆 Daytime   615 commits   [███████░░░░░░░░░░░░░░░░░░]   31.54%
+🌆 Daytime   614 commits   [███████░░░░░░░░░░░░░░░░░░]   31.49%
 🌃 Evening   691 commits   [████████░░░░░░░░░░░░░░░░░]   35.44%
-🌙 Night     56 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.87%
+🌙 Night     57 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.92%
 ```
 
 #### 📅 I'm most productive on Tuesday
 
 ```text
-Monday      227 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.64%
+Monday      228 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.69%
 Tuesday     405 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.77%
 Wednesday   300 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.38%
-Thursday    246 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.62%
+Thursday    245 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.56%
 Friday      240 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.31%
 Saturday    276 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.15%
 Sunday      256 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.13%
@@ -104,25 +104,25 @@ Sunday      256 commits   [███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages:
-JavaScript   [43 hrs 48 mins]   [████████████████████░░░░░]   82.91%
-JSON         [2 hrs 2 mins]     [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.87%
-TypeScript   [1 hr 37 mins]     [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.08%
-XML          [1 hr 12 mins]     [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.28%
-Bash         [1 hr 7 mins]      [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.11%
-Other        [3h 2m]            [█░░░░░░░░░░░░░░░░░░░░░░░░]   5.76%
+JavaScript   [35 hrs 36 mins]   [██████████████████░░░░░░░]   73.09%
+Markdown     [5 hrs 16 mins]    [██░░░░░░░░░░░░░░░░░░░░░░░]   10.84%
+JSON         [1 hr 55 mins]     [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.95%
+TypeScript   [1 hr 37 mins]     [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.33%
+Bash         [1 hr 18 mins]     [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.70%
+Other        [2h 57m]           [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.07%
 
 💻 Operating Systems:
-Linux        [52 hrs 50 mins]  [█████████████████████████]   100.00%
+Linux        [48 hrs 42 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Sun Dec 10 2023 22:51:23 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Sun Dec 10 2023 23:25:30 GMT+0000 (Coordinated Universal Time) -->
 </details>
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-`[12/10 21:47]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#212`](https://github.com/IgorKowalczyk/is-browser/pull/212 'Update dependency rollup to v4.7.0') in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br/>`[12/10 21:47]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/rollup-4.x` from [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br/>`[12/10 21:47]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br/>`[12/10 21:47]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#686`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/686 'Update dependency framer-motion to v10.16.16') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[12/10 21:47]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#212`](https://github.com/IgorKowalczyk/is-browser/pull/212 'Update dependency rollup to v4.7.0') in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br/>`[12/10 21:42]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/react-parallax-tilt-1...` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[12/10 21:42]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[12/10 21:42]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#685`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/685 'Update dependency react-parallax-tilt to v1.7.176') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[12/10 21:42]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[12/10 21:42]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/rollup-4.x` from [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)
+`[12/10 23:12]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/framer-motion-10.x` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[12/10 23:12]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[12/10 23:12]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#686`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/686 'Update dependency framer-motion to v10.16.16') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[12/10 21:47]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#212`](https://github.com/IgorKowalczyk/is-browser/pull/212 'Update dependency rollup to v4.7.0') in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br/>`[12/10 21:47]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/rollup-4.x` from [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br/>`[12/10 21:47]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br/>`[12/10 21:47]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#686`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/686 'Update dependency framer-motion to v10.16.16') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[12/10 21:47]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#212`](https://github.com/IgorKowalczyk/is-browser/pull/212 'Update dependency rollup to v4.7.0') in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br/>`[12/10 21:42]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/react-parallax-tilt-1...` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[12/10 21:42]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)
 <!--END_SECTION:activity-->
 
 ---
