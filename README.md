@@ -63,15 +63,15 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Tue Dec 12 2023 15:36:50 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Tue Dec 12 2023 15:51:32 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       19701      |
+|    🏆 Contributions (Total)   |       19705      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **9979**     |
+| **🏆 Contributions in 2023:** |     **9983**     |
 |  **📝 Total lines of code:**  | **8.34 million** |
 |     **📦 Github Storage:**    |   **778.6 MB**   |
 |  **📚 Public Repositories:**  |      **27**      |
@@ -82,8 +82,8 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   590 commits   [███████░░░░░░░░░░░░░░░░░░]   30.26%
-🌆 Daytime   612 commits   [███████░░░░░░░░░░░░░░░░░░]   31.38%
+🌞 Morning   587 commits   [███████░░░░░░░░░░░░░░░░░░]   30.10%
+🌆 Daytime   615 commits   [███████░░░░░░░░░░░░░░░░░░]   31.54%
 🌃 Evening   692 commits   [████████░░░░░░░░░░░░░░░░░]   35.49%
 🌙 Night     56 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.87%
 ```
@@ -91,13 +91,13 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I'm most productive on Tuesday
 
 ```text
-Monday      226 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.59%
-Tuesday     412 commits   [█████░░░░░░░░░░░░░░░░░░░░]   21.13%
-Wednesday   303 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.54%
+Monday      225 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.54%
+Tuesday     411 commits   [█████░░░░░░░░░░░░░░░░░░░░]   21.08%
+Wednesday   307 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.74%
 Thursday    244 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.51%
 Friday      238 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.21%
-Saturday    274 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.05%
-Sunday      253 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.97%
+Saturday    273 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.00%
+Sunday      252 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.92%
 ```
 
 #### 📊 Weekly work stats (last 7 days)
@@ -115,14 +115,14 @@ Other        [2h 55m]           [█░░░░░░░░░░░░░░�
 Linux        [59 hrs 19 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Tue Dec 12 2023 15:37:02 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Tue Dec 12 2023 15:51:41 GMT+0000 (Coordinated Universal Time) -->
 </details>
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-`[12/12 15:33]` <a href="https://github.com/igorkowalczyk" title="✅"><img alt="✅" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/pr-open.png" align="top" height="18"></a> Opened PR [`#689`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/689 'Fix client-side errors, remove old API routes, fix photography page, refactor components') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[12/12 15:31]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [rails/rails](https://github.com/rails/rails)<br/>`[12/12 15:30]` <a href="https://github.com/igorkowalczyk" title="📂"><img alt="📂" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/create-branch.png" align="top" height="18"></a> Created branch [`loading`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/tree/loading) in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[12/12 13:01]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[12/12 12:25]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `3` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[12/11 22:43]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/typescript-eslint-mon...` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[12/11 22:43]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[12/11 22:43]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#506`](https://github.com/IgorKowalczyk/github-views/pull/506 'Update typescript-eslint monorepo to v6.14.0') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[12/11 22:43]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/typescript-eslint-mon...` from [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[12/11 22:43]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)
+`[12/12 15:45]` <a href="https://github.com/igorkowalczyk" title="🏷"><img alt="🏷" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/release.png" align="top" height="18"></a> Released [`v5.0.0`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/releases/tag/v5.0.0) in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[12/12 15:39]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `loading` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[12/12 15:39]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `4` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[12/12 15:39]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#689`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/689 'Fix client-side errors, remove old API routes, fix photography page, refactor components') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[12/12 15:39]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[12/12 15:33]` <a href="https://github.com/igorkowalczyk" title="✅"><img alt="✅" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/pr-open.png" align="top" height="18"></a> Opened PR [`#689`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/689 'Fix client-side errors, remove old API routes, fix photography page, refactor components') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[12/12 15:31]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [rails/rails](https://github.com/rails/rails)<br/>`[12/12 15:30]` <a href="https://github.com/igorkowalczyk" title="📂"><img alt="📂" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/create-branch.png" align="top" height="18"></a> Created branch [`loading`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/tree/loading) in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[12/12 13:01]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[12/12 12:25]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `3` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
 <!--END_SECTION:activity-->
 
 ---
