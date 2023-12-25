@@ -63,17 +63,17 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Mon Dec 18 2023 22:14:16 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Mon Dec 25 2023 01:08:22 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       19884      |
+|    🏆 Contributions (Total)   |       19982      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **10162**    |
-|  **📝 Total lines of code:**  | **8.34 million** |
-|     **📦 Github Storage:**    |   **779.9 MB**   |
+| **🏆 Contributions in 2023:** |     **10260**    |
+|  **📝 Total lines of code:**  | **8.35 million** |
+|     **📦 Github Storage:**    |   **780.6 MB**   |
 |  **📚 Public Repositories:**  |      **27**      |
 |  **🔑 Private Repositories:** |       **2**      |
 
@@ -82,47 +82,47 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   588 commits   [███████░░░░░░░░░░░░░░░░░░]   30.08%
-🌆 Daytime   594 commits   [███████░░░░░░░░░░░░░░░░░░]   30.38%
-🌃 Evening   716 commits   [█████████░░░░░░░░░░░░░░░░]   36.62%
-🌙 Night     57 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.92%
+🌞 Morning   581 commits   [███████░░░░░░░░░░░░░░░░░░]   29.67%
+🌆 Daytime   588 commits   [███████░░░░░░░░░░░░░░░░░░]   30.03%
+🌃 Evening   717 commits   [█████████░░░░░░░░░░░░░░░░]   36.62%
+🌙 Night     72 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.68%
 ```
 
 #### 📅 I'm most productive on Tuesday
 
 ```text
-Monday      211 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   10.79%
-Tuesday     407 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.82%
-Wednesday   300 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.35%
-Thursday    256 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.09%
-Friday      254 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.99%
-Saturday    262 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.40%
-Sunday      265 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.55%
+Monday      215 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   10.98%
+Tuesday     398 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.33%
+Wednesday   312 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.93%
+Thursday    258 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.18%
+Friday      247 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.61%
+Saturday    262 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.38%
+Sunday      266 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.59%
 ```
 
 #### 📊 Weekly work stats (last 7 days)
 
 ```text
 💬 Programming Languages:
-JavaScript   [68 hrs 37 mins]   [██████████████████████░░░]   89.58%
-YAML         [3 hrs 40 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   4.81%
-MDX          [1 hr 20 mins]     [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.76%
-Markdown     [1 hr 11 mins]     [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.55%
-Bash         [36 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.79%
-Other        [1h 9m]            [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.51%
+JavaScript   [38 hrs 56 mins]   [██████████████████░░░░░░░]   73.91%
+TypeScript   [6 hrs 33 mins]    [███░░░░░░░░░░░░░░░░░░░░░░]   12.44%
+JSON         [5 hrs 27 mins]    [██░░░░░░░░░░░░░░░░░░░░░░░]   10.35%
+Markdown     [1 hr 5 mins]      [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.08%
+Astro        [12 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.41%
+Other        [0h 25m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.81%
 
 💻 Operating Systems:
-Linux        [76 hrs 36 mins]  [█████████████████████████]   100.00%
+Linux        [52 hrs 41 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Mon Dec 18 2023 22:14:29 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Mon Dec 25 2023 01:08:43 GMT+0000 (Coordinated Universal Time) -->
 </details>
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-`[12/18 21:45]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/typescript-eslint-mon...` from [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[12/18 21:45]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[12/18 21:45]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#156`](https://github.com/IgorKowalczyk/countdown/pull/156 'Update typescript-eslint monorepo to v6.15.0') in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[12/18 21:45]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/tailwindcss-3.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[12/18 21:45]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#713`](https://github.com/IgorKowalczyk/majo.exe/pull/713 'Update dependency tailwindcss to v3.3.7') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[12/18 21:45]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[12/18 21:45]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/tailwindcss-3.x` from [just-that/invite](https://github.com/just-that/invite)<br/>`[12/18 21:45]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [just-that/invite](https://github.com/just-that/invite)<br/>`[12/18 21:45]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#301`](https://github.com/just-that/invite/pull/301 'Update dependency tailwindcss to v3.3.7') in [just-that/invite](https://github.com/just-that/invite)<br/>`[12/18 21:45]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#156`](https://github.com/IgorKowalczyk/countdown/pull/156 'Update typescript-eslint monorepo to v6.15.0') in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)
+`[12/24 23:53]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[12/24 23:49]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/>`[12/24 23:22]` <a href="https://github.com/igorkowalczyk" title="🏷"><img alt="🏷" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/release.png" align="top" height="18"></a> Released [`v3.0.0`](https://github.com/IgorKowalczyk/discord-ssh/releases/tag/v3.0.0) in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br/>`[12/24 23:16]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `5` commits in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br/>`[12/24 23:16]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `cwd` from [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br/>`[12/24 23:16]` <a href="https://github.com/igorkowalczyk" title="❗️"><img alt="❗️" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/issue.png" align="top" height="18"></a> Closed issue [`#218`](https://github.com/IgorKowalczyk/discord-ssh/issues/218 'Invalid TOKEN in .env') in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br/>`[12/24 23:16]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#226`](https://github.com/IgorKowalczyk/discord-ssh/pull/226 'Add cwd memory, add development mode, add one-file config (v3)') in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br/>`[12/24 23:16]` <a href="https://github.com/igorkowalczyk" title="❗️"><img alt="❗️" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/issue.png" align="top" height="18"></a> Closed issue [`#225`](https://github.com/IgorKowalczyk/discord-ssh/issues/225 'SyntaxError: Unexpected token \'.\'') in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br/>`[12/24 23:02]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `3` commits in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br/>`[12/24 21:43]` <a href="https://github.com/igorkowalczyk" title="🗣"><img alt="🗣" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/comment.png" align="top" height="18"></a> Commented on [`#225`](https://github.com/IgorKowalczyk/discord-ssh/issues/225 'SyntaxError: Unexpected token \'.\'') in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)
 <!--END_SECTION:activity-->
 
 ---
