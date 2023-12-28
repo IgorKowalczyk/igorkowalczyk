@@ -63,15 +63,15 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Thu Dec 28 2023 22:51:32 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Thu Dec 28 2023 23:26:31 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-|    🏆 Contributions (Total)   |       20053      |
+|    🏆 Contributions (Total)   |       20061      |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |     **10331**    |
+| **🏆 Contributions in 2023:** |     **10339**    |
 |  **📝 Total lines of code:**  | **8.35 million** |
 |     **📦 Github Storage:**    |   **782.1 MB**   |
 |  **📚 Public Repositories:**  |      **27**      |
@@ -83,9 +83,9 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 ```text
 🌞 Morning   577 commits   [███████░░░░░░░░░░░░░░░░░░]   29.47%
-🌆 Daytime   601 commits   [███████░░░░░░░░░░░░░░░░░░]   30.69%
-🌃 Evening   706 commits   [█████████░░░░░░░░░░░░░░░░]   36.06%
-🌙 Night     74 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.78%
+🌆 Daytime   600 commits   [███████░░░░░░░░░░░░░░░░░░]   30.64%
+🌃 Evening   704 commits   [████████░░░░░░░░░░░░░░░░░]   35.96%
+🌙 Night     77 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.93%
 ```
 
 #### 📅 I'm most productive on Tuesday
@@ -93,10 +93,10 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ```text
 Monday      213 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   10.88%
 Tuesday     398 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.33%
-Wednesday   310 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.83%
+Wednesday   309 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.78%
 Thursday    273 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.94%
-Friday      239 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.21%
-Saturday    261 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.33%
+Friday      241 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.31%
+Saturday    260 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.28%
 Sunday      264 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.48%
 ```
 
@@ -104,25 +104,25 @@ Sunday      264 commits   [███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages:
-JavaScript   [36 hrs 36 mins]   [██████████████████░░░░░░░]   75.71%
-JSON         [5 hrs 20 mins]    [██░░░░░░░░░░░░░░░░░░░░░░░]   11.04%
-TypeScript   [4 hrs 10 mins]    [██░░░░░░░░░░░░░░░░░░░░░░░]   8.63%
-Markdown     [1 hr 6 mins]      [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.28%
-XML          [23 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.83%
-Other        [0h 44m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.52%
+JavaScript   [37 hrs 50 mins]   [████████████████████░░░░░]   82.58%
+TypeScript   [3 hrs 35 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   7.85%
+JSON         [2 hrs 5 mins]     [█░░░░░░░░░░░░░░░░░░░░░░░░]   4.56%
+Markdown     [1 hr 6 mins]      [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.41%
+XML          [23 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.87%
+Other        [0h 47m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.72%
 
 💻 Operating Systems:
-Linux        [48 hrs 21 mins]  [█████████████████████████]   100.00%
+Linux        [45 hrs 49 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Thu Dec 28 2023 22:51:43 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Thu Dec 28 2023 23:26:41 GMT+0000 (Coordinated Universal Time) -->
 </details>
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-`[12/28 22:34]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/prettier-plugin-tailw...` from [just-that/invite](https://github.com/just-that/invite)<br/>`[12/28 22:34]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [just-that/invite](https://github.com/just-that/invite)<br/>`[12/28 22:34]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#305`](https://github.com/just-that/invite/pull/305 'Update dependency prettier-plugin-tailwindcss to v0.5.10') in [just-that/invite](https://github.com/just-that/invite)<br/>`[12/28 22:34]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#305`](https://github.com/just-that/invite/pull/305 'Update dependency prettier-plugin-tailwindcss to v0.5.10') in [just-that/invite](https://github.com/just-that/invite)<br/>`[12/28 18:09]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `3` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[12/28 16:06]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/discord-api-types-0.x...` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[12/28 16:06]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#722`](https://github.com/IgorKowalczyk/majo.exe/pull/722 'Update dependency discord-api-types to v0.37.67') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[12/28 16:06]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#722`](https://github.com/IgorKowalczyk/majo.exe/pull/722 'Update dependency discord-api-types to v0.37.67') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[12/27 23:59]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/astro-4.x` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[12/27 23:59]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)
+`[12/28 23:08]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[12/28 23:08]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/prettier-plugin-tailw...` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[12/28 23:08]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#522`](https://github.com/IgorKowalczyk/github-views/pull/522 'Update dependency prettier-plugin-tailwindcss to v0.5.10') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[12/28 23:07]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#522`](https://github.com/IgorKowalczyk/github-views/pull/522 'Update dependency prettier-plugin-tailwindcss to v0.5.10') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[12/28 23:07]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/prettier-plugin-tailw...` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[12/28 23:07]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[12/28 23:07]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#700`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/700 'Update dependency prettier-plugin-tailwindcss to v0.5.10') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[12/28 23:07]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#700`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/700 'Update dependency prettier-plugin-tailwindcss to v0.5.10') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[12/28 23:06]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/prettier-plugin-tailw...` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[12/28 23:06]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
 <!--END_SECTION:activity-->
 
 ---
