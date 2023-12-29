@@ -63,7 +63,7 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Fri Dec 29 2023 22:51:25 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Fri Dec 29 2023 23:25:33 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
@@ -73,7 +73,7 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 | :---------------------------: | :--------------: |
 | **🏆 Contributions in 2023:** |     **10346**    |
 |  **📝 Total lines of code:**  | **8.35 million** |
-|     **📦 Github Storage:**    |   **782.2 MB**   |
+|     **📦 Github Storage:**    |   **782.3 MB**   |
 |  **📚 Public Repositories:**  |      **27**      |
 |  **🔑 Private Repositories:** |       **2**      |
 
@@ -104,18 +104,18 @@ Sunday      261 commits   [███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages:
-JavaScript   [37 hrs 50 mins]   [████████████████████░░░░░]   82.58%
-TypeScript   [3 hrs 35 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   7.85%
-JSON         [2 hrs 5 mins]     [█░░░░░░░░░░░░░░░░░░░░░░░░]   4.56%
-Markdown     [1 hr 6 mins]      [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.41%
-XML          [23 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.87%
-Other        [0h 47m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.72%
+JavaScript   [42 hrs 59 mins]   [████████████████████░░░░░]   83.65%
+TypeScript   [3 hrs 36 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   7.01%
+JSON         [2 hrs 6 mins]     [█░░░░░░░░░░░░░░░░░░░░░░░░]   4.10%
+Markdown     [1 hr 19 mins]     [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.57%
+XML          [27 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.90%
+Other        [0h 54m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.78%
 
 💻 Operating Systems:
-Linux        [45 hrs 49 mins]  [█████████████████████████]   100.00%
+Linux        [51 hrs 23 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Fri Dec 29 2023 22:51:40 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Fri Dec 29 2023 23:25:43 GMT+0000 (Coordinated Universal Time) -->
 </details>
 <!--END_SECTION:wakatime-->
 
