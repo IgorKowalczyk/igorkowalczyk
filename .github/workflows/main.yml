@@ -16,10 +16,10 @@ jobs:
      uses: actions/checkout@v4
      with:
       fetch-depth: 1
-   - name: 🔩 Install Deno 
-     uses: denoland/setup-deno@v1
+   - name: 🔩 Install Deno
+     uses: nekowinston/setup-deno@v1
      with:
-       deno-version: v1.x
+      deno-version: v1.x
    - name: ✨ Generate README.md
      run: deno task start
      env:

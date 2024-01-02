@@ -1,4 +1,5 @@
 name: Lint
+
 on: [push, pull_request]
 
 jobs:
@@ -10,9 +11,9 @@ jobs:
   steps:
    - name: 🧱 Checkout repository
      uses: actions/checkout@v4
-   - name: 🔩 Install Deno 
-     uses: denoland/setup-deno@v1
+   - name: 🔩 Install Deno
+     uses: nekowinston/setup-deno@v1
      with:
-       deno-version: v1.x
+      deno-version: v1.x
    - name: 🚀 Check formatting
      run: deno task fmt:check
