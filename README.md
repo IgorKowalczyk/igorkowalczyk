@@ -62,22 +62,19 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 
 <!-- START_SECTION:feed -->
-
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-
-<!-- Posts last updated on Tue Jan 02 2024 00:46:00 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Tue Jan 02 2024 00:54:08 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-
-|   🏆 Contributions (Total)    |  20.12 thousand  |
-| :---------------------------: | :--------------: |
-| **🏆 Contributions in 2024:** |      **23**      |
-|  **📝 Total lines of code:**  | **8.35 million** |
-|    **📦 Github Storage:**     |   **777.8 MB**   |
-|  **📚 Public Repositories:**  |      **27**      |
+|    🏆 Contributions (Total)   |      20K     |
+| :---------------------------: | :----------: |
+| **🏆 Contributions in 2024:** |    **25**    |
+|  **📝 Total lines of code:**  |   **8.3M**   |
+|     **📦 Github Storage:**    | **777.8 MB** |
+|  **📚 Public Repositories:**  |    **27**    |
 
 <details><summary>✨ Show more stats</summary>
 
@@ -86,16 +83,16 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ```text
 🌞 Morning   577 commits   [███████░░░░░░░░░░░░░░░░░░]   29.47%
 🌆 Daytime   598 commits   [███████░░░░░░░░░░░░░░░░░░]   30.54%
-🌃 Evening   700 commits   [████████░░░░░░░░░░░░░░░░░]   35.75%
-🌙 Night     83 commits    [█░░░░░░░░░░░░░░░░░░░░░░░░]   4.24%
+🌃 Evening   699 commits   [████████░░░░░░░░░░░░░░░░░]   35.70%
+🌙 Night     84 commits    [█░░░░░░░░░░░░░░░░░░░░░░░░]   4.29%
 ```
 
 #### 📅 I'm most productive on Tuesday
 
 ```text
-Monday      205 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   10.47%
+Monday      203 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   10.37%
 Tuesday     399 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.38%
-Wednesday   314 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.04%
+Wednesday   316 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.14%
 Thursday    271 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.84%
 Friday      239 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.21%
 Saturday    261 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.33%
@@ -117,16 +114,14 @@ Other        [0h 35m]           [░░░░░░░░░░░░░░░�
 Linux        [46 hrs 7 mins]   [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Tue Jan 02 2024 00:46:14 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Tue Jan 02 2024 00:54:18 GMT+0000 (Coordinated Universal Time) -->
 </details>
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-
-`[01/02 00:14]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `4` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/> `[01/02 00:00]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/typescript-eslint-mon...` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/> `[01/02 00:00]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/> `[01/02 00:00]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#523`](https://github.com/IgorKowalczyk/github-views/pull/523 "Update typescript-eslint monorepo to v6.17.0") in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/> `[01/02 00:00]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-plugin-jest-27...` from [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/> `[01/02 00:00]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/> `[01/02 00:00]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#178`](https://github.com/IgorKowalczyk/repl-uptime/pull/178 "Update dependency eslint-plugin-jest to v27.6.1") in [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/> `[01/02 00:00]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#523`](https://github.com/IgorKowalczyk/github-views/pull/523 "Update typescript-eslint monorepo to v6.17.0") in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/> `[01/02 00:00]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/typescript-eslint-mon...` from [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/> `[01/02 00:00]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)
-
+`[01/02 00:14]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `4` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[01/02 00:00]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/typescript-eslint-mon...` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[01/02 00:00]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[01/02 00:00]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#523`](https://github.com/IgorKowalczyk/github-views/pull/523 'Update typescript-eslint monorepo to v6.17.0') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[01/02 00:00]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-plugin-jest-27...` from [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/>`[01/02 00:00]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/>`[01/02 00:00]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#178`](https://github.com/IgorKowalczyk/repl-uptime/pull/178 'Update dependency eslint-plugin-jest to v27.6.1') in [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/>`[01/02 00:00]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#523`](https://github.com/IgorKowalczyk/github-views/pull/523 'Update typescript-eslint monorepo to v6.17.0') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[01/02 00:00]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/typescript-eslint-mon...` from [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[01/02 00:00]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)
 <!--END_SECTION:activity-->
 
 ---
