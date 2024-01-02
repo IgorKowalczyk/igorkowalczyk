@@ -36,6 +36,7 @@ export async function getLinesOfCode(username, cursor = null, linesOfCode = 0) {
  const response = await Query(username, cursor);
  const nodes = response.user.repositories.edges;
  for (const node of nodes) {
+  if(!node.node?.defaultBranchRef?.target?.history?.nodes) continue;
   const additions = node.node.defaultBranchRef.target.history.nodes.reduce((acc, node) => {
    acc += node.additions;
    return acc;
