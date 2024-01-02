@@ -62,72 +62,66 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📕 Blog Posts
 
 <!-- START_SECTION:feed -->
-
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-
-<!-- Posts last updated on Sun Dec 31 2023 11:51:23 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Tue Jan 02 2024 00:46:00 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-
-|   🏆 Contributions (Total)    |      20093       |
+|    🏆 Contributions (Total)   |  20.12 thousand  |
 | :---------------------------: | :--------------: |
-| **🏆 Contributions in 2023:** |    **10371**     |
+| **🏆 Contributions in 2024:** |      **23**      |
 |  **📝 Total lines of code:**  | **8.35 million** |
-|    **📦 Github Storage:**     |   **781.7 MB**   |
+|     **📦 Github Storage:**    |   **777.8 MB**   |
 |  **📚 Public Repositories:**  |      **27**      |
-| **🔑 Private Repositories:**  |      **2**       |
 
 <details><summary>✨ Show more stats</summary>
 
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   579 commits   [███████░░░░░░░░░░░░░░░░░░]   29.57%
-🌆 Daytime   597 commits   [███████░░░░░░░░░░░░░░░░░░]   30.49%
-🌃 Evening   707 commits   [█████████░░░░░░░░░░░░░░░░]   36.11%
-🌙 Night     75 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.83%
+🌞 Morning   577 commits   [███████░░░░░░░░░░░░░░░░░░]   29.47%
+🌆 Daytime   598 commits   [███████░░░░░░░░░░░░░░░░░░]   30.54%
+🌃 Evening   700 commits   [████████░░░░░░░░░░░░░░░░░]   35.75%
+🌙 Night     83 commits    [█░░░░░░░░░░░░░░░░░░░░░░░░]   4.24%
 ```
 
 #### 📅 I'm most productive on Tuesday
 
 ```text
-Monday      209 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   10.67%
-Tuesday     396 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.22%
-Wednesday   308 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.73%
-Thursday    272 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.89%
-Friday      240 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.26%
-Saturday    262 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.38%
-Sunday      271 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.84%
+Monday      205 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   10.47%
+Tuesday     399 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.38%
+Wednesday   314 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.04%
+Thursday    271 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.84%
+Friday      239 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.21%
+Saturday    261 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.33%
+Sunday      269 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.74%
 ```
 
 #### 📊 Weekly work stats (last 7 days)
 
 ```text
 💬 Programming Languages:
-JavaScript   [48 hrs 28 mins]   [████████████████████░░░░░]   83.79%
-TypeScript   [4 hrs 15 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   7.36%
-JSON         [2 hrs 4 mins]     [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.58%
-Markdown     [1 hr 19 mins]     [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.28%
-XML          [28 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.81%
-Other        [1h 15m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.18%
+JavaScript   [43 hrs 17 mins]   [███████████████████████░░]   93.84%
+Prisma       [44 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.60%
+TypeScript   [39 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.44%
+CSS          [37 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.35%
+Bash         [13 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.47%
+Other        [0h 35m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.29%
 
 💻 Operating Systems:
-Linux        [57 hrs 50 mins]  [█████████████████████████]   100.00%
+Linux        [46 hrs 7 mins]   [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Sun Dec 31 2023 11:51:31 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Tue Jan 02 2024 00:46:14 GMT+0000 (Coordinated Universal Time) -->
 </details>
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-
-`[12/30 22:41]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/> `[12/30 22:29]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `lucide-icons` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/> `[12/30 22:29]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/> `[12/30 22:29]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#725`](https://github.com/IgorKowalczyk/majo.exe/pull/725 "Change icons from HeroIcons to Lucide") in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/> `[12/30 22:27]` <a href="https://github.com/igorkowalczyk" title="✅"><img alt="✅" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/pr-open.png" align="top" height="18"></a> Opened PR [`#725`](https://github.com/IgorKowalczyk/majo.exe/pull/725 "Change icons from HeroIcons to Lucide") in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/> `[12/30 22:20]` <a href="https://github.com/igorkowalczyk" title="📂"><img alt="📂" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/create-branch.png" align="top" height="18"></a> Created branch [`lucide-icons`](https://github.com/IgorKowalczyk/majo.exe/tree/lucide-icons) in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/> `[12/30 22:01]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/react-parallax-tilt-1...` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/> `[12/30 22:01]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/> `[12/30 22:01]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#702`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/702 "Update dependency react-parallax-tilt to v1.7.180") in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/> `[12/30 22:01]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/node-20.x` from [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)
-
+`[01/02 00:14]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `4` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[01/02 00:00]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/typescript-eslint-mon...` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[01/02 00:00]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[01/02 00:00]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#523`](https://github.com/IgorKowalczyk/github-views/pull/523 'Update typescript-eslint monorepo to v6.17.0') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[01/02 00:00]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-plugin-jest-27...` from [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/>`[01/02 00:00]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/>`[01/02 00:00]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#178`](https://github.com/IgorKowalczyk/repl-uptime/pull/178 'Update dependency eslint-plugin-jest to v27.6.1') in [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/>`[01/02 00:00]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#523`](https://github.com/IgorKowalczyk/github-views/pull/523 'Update typescript-eslint monorepo to v6.17.0') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[01/02 00:00]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/typescript-eslint-mon...` from [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[01/02 00:00]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)
 <!--END_SECTION:activity-->
 
 ---
