@@ -1,11 +1,11 @@
 import { markdownTable } from "npm:markdown-table";
-import { ConvertBytes } from "../util/convertBytes.js";
-import { ConvertNumber } from "../util/convertNumber.js";
+import { formatBytes } from "../util/formatBytes.js";
+import { formatNumber } from "../util/formatNumber.js";
 import { getCommits } from "../util/getCommits.js";
 import { getTotalContributionsForYears } from "../util/getContributions.js";
 import { getLinesOfCode } from "../util/getLinesOfCode.js";
 import { getRepositoriesInfo } from "../util/getRepositoriesInfo.js";
-import { percentageBar } from "../util/percentage.js";
+import { percentageBar } from "../util/percentageBar.js";
 
 export async function fetchCodingStats(apiToken, username) {
  console.log("::debug:: [Github] Fetching Github data...");
@@ -122,11 +122,11 @@ export async function fetchCodingStats(apiToken, username) {
  /* eslint-disable comma-dangle */
  const table = markdownTable(
   [
-   ["🏆 Contributions (Total)", `${ConvertNumber(totalContributions)}`],
-   [`**🏆 Contributions in ${lastYear}:**`, `**${ConvertNumber(contributionsInLastYear)}**`],
-   ["**📝 Total lines of code:**", `**${ConvertNumber(linesOfCode)}**`],
-   ["**📦 Github Storage:**", `**${ConvertBytes(repositories.size * 1000)}**`],
-   ["**📚 Public Repositories:**", `**${ConvertNumber(repositories.publicRepositories)}**`],
+   ["🏆 Contributions (Total)", `${formatNumber(totalContributions)}`],
+   [`**🏆 Contributions in ${lastYear}:**`, `**${formatNumber(contributionsInLastYear)}**`],
+   ["**📝 Total lines of code:**", `**${formatNumber(linesOfCode)}**`],
+   ["**📦 Github Storage:**", `**${formatBytes(repositories.size * 1000)}**`],
+   ["**📚 Public Repositories:**", `**${formatNumber(repositories.publicRepositories)}**`],
   ],
   {
    align: ["c", "c"],
