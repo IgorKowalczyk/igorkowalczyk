@@ -122,14 +122,14 @@ export async function fetchCodingStats(apiToken, username) {
  /* eslint-disable comma-dangle */
  const table = markdownTable(
   [
-   ["🏆 Contributions (Total)", `${formatNumber(totalContributions)}`],
+   ["🏆 Contributions (total):", `${formatNumber(totalContributions)}`],
    [`**🏆 Contributions in ${lastYear}:**`, `**${formatNumber(contributionsInLastYear)}**`],
    ["**📝 Total lines of code:**", `**${formatNumber(linesOfCode)}**`],
    ["**📦 Github Storage:**", `**${formatBytes(repositories.size * 1000)}**`],
    ["**📚 Public Repositories:**", `**${formatNumber(repositories.publicRepositories)}**`],
   ],
   {
-   align: ["c", "c"],
+   align: ["l", "c"],
   },
  );
  /* eslint-enable comma-dangle */
