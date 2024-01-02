@@ -126,7 +126,7 @@ export async function fetchCodingStats(apiToken, username) {
    [`**🏆 Contributions in ${lastYear}:**`, `**${ConvertNumber(contributionsInLastYear)}**`],
    ["**📝 Total lines of code:**", `**${ConvertNumber(linesOfCode)}**`],
    ["**📦 Github Storage:**", `**${ConvertBytes(repositories.size * 1000)}**`],
-   ["**📚 Public Repositories:**", `**${ConvertNumber(repositories.publicRepositories)}**`]
+   ["**📚 Public Repositories:**", `**${ConvertNumber(repositories.publicRepositories)}**`],
   ],
   {
    align: ["c", "c"],
