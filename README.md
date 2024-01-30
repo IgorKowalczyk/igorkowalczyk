@@ -64,7 +64,7 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 <!-- deno-fmt-ignore-start -->
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Tue Jan 30 2024 22:48:38 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Tue Jan 30 2024 23:34:00 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 <!-- deno-fmt-ignore-end -->
 
@@ -74,7 +74,7 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 <!--START_SECTION:wakatime-->
 | 🏆 Contributions (total):     |      21K     |
 | :---------------------------- | :----------: |
-| **🏆 Contributions in 2024:** |    **834**   |
+| **🏆 Contributions in 2024:** |    **886**   |
 | **📝 Total lines of code:**   |   **8.8M**   |
 | **📦 Github Storage:**        | **573.3 MB** |
 | **📚 Public Repositories:**   |    **27**    |
@@ -84,40 +84,40 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   565 commits   [███████░░░░░░░░░░░░░░░░░░]   28.75%
-🌆 Daytime   623 commits   [███████░░░░░░░░░░░░░░░░░░]   31.70%
-🌃 Evening   665 commits   [████████░░░░░░░░░░░░░░░░░]   33.84%
-🌙 Night     112 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   5.70%
+🌞 Morning   560 commits   [███████░░░░░░░░░░░░░░░░░░]   28.50%
+🌆 Daytime   619 commits   [███████░░░░░░░░░░░░░░░░░░]   31.50%
+🌃 Evening   658 commits   [████████░░░░░░░░░░░░░░░░░]   33.49%
+🌙 Night     128 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.51%
 ```
 
 #### 📅 I'm most productive on Tuesday
 
 ```text
-Monday      223 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.35%
-Tuesday     403 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.51%
-Wednesday   305 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.52%
-Thursday    286 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.55%
-Friday      232 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.81%
-Saturday    239 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.16%
-Sunday      277 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.10%
+Monday      220 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.20%
+Tuesday     400 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.36%
+Wednesday   319 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.23%
+Thursday    285 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.50%
+Friday      231 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.76%
+Saturday    235 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.96%
+Sunday      275 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.99%
 ```
 
 #### 📊 Weekly work stats (last 7 days)
 
 ```text
 💬 Programming Languages:
-TypeScript   [35 hrs 56 mins]   [████████████████░░░░░░░░░]   66.36%
-JavaScript   [11 hrs 41 mins]   [█████░░░░░░░░░░░░░░░░░░░░]   21.57%
-Prisma       [4 hrs 11 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   7.74%
-Markdown     [1 hr 18 mins]     [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.42%
-JSON         [53 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.64%
-Other        [0h 8m]            [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.26%
+TypeScript   [33 hrs 34 mins]   [███████████████░░░░░░░░░░]   60.25%
+JavaScript   [15 hrs 13 mins]   [██████░░░░░░░░░░░░░░░░░░░]   27.31%
+Prisma       [3 hrs 31 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.33%
+Markdown     [1 hr 42 mins]     [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.08%
+JSON         [55 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.67%
+Other        [0h 45m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.35%
 
 💻 Operating Systems:
-Linux        [54 hrs 10 mins]  [█████████████████████████]   100.00%
+Linux        [55 hrs 42 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Tue Jan 30 2024 22:48:45 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Tue Jan 30 2024 23:34:06 GMT+0000 (Coordinated Universal Time) -->
 </details>
 <!--END_SECTION:wakatime-->
 <!-- deno-fmt-ignore-end -->
@@ -126,7 +126,7 @@ Linux        [54 hrs 10 mins]  [████████████████
 
 <!-- deno-fmt-ignore-start -->
 <!--START_SECTION:activity-->
-`[01/30 13:12]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/vercel-speed-insights...` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[01/30 13:12]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[01/30 13:12]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#775`](https://github.com/IgorKowalczyk/majo.exe/pull/775 'Update dependency @vercel/speed-insights to v1.0.9') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[01/30 13:12]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#775`](https://github.com/IgorKowalczyk/majo.exe/pull/775 'Update dependency @vercel/speed-insights to v1.0.9') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[01/30 12:57]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#772`](https://github.com/IgorKowalczyk/majo.exe/pull/772 'Update dependency sonner to v1.4.0') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[01/30 12:57]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/sonner-1.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[01/30 12:57]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[01/30 12:50]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#772`](https://github.com/IgorKowalczyk/majo.exe/pull/772 'Update dependency sonner to v1.4.0') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[01/30 12:47]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/lucide-react-0.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[01/30 12:47]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
+`[01/30 23:12]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/pnpm-8.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[01/30 23:12]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[01/30 23:12]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#774`](https://github.com/IgorKowalczyk/majo.exe/pull/774 'Update pnpm to v8.15.1') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[01/30 23:12]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#774`](https://github.com/IgorKowalczyk/majo.exe/pull/774 'Update pnpm to v8.15.1') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[01/30 23:11]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/node-20.x` from [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[01/30 23:11]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[01/30 23:11]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#195`](https://github.com/IgorKowalczyk/countdown/pull/195 'Update dependency @types/node to v20.11.13') in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[01/30 23:10]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#195`](https://github.com/IgorKowalczyk/countdown/pull/195 'Update dependency @types/node to v20.11.13') in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[01/30 23:08]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/node-20.x` from [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[01/30 23:08]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)
 <!--END_SECTION:activity-->
 <!-- deno-fmt-ignore-start -->
 
