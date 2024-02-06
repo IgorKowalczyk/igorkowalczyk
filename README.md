@@ -64,7 +64,7 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 <!-- deno-fmt-ignore-start -->
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Tue Feb 06 2024 22:48:25 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Tue Feb 06 2024 23:19:51 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 <!-- deno-fmt-ignore-end -->
 
@@ -74,7 +74,7 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 <!--START_SECTION:wakatime-->
 | 🏆 Contributions (total):     |      21K     |
 | :---------------------------- | :----------: |
-| **🏆 Contributions in 2024:** |    **969**   |
+| **🏆 Contributions in 2024:** |    **986**   |
 | **📝 Total lines of code:**   |   **8.8M**   |
 | **📦 Github Storage:**        | **573.9 MB** |
 | **📚 Public Repositories:**   |    **27**    |
@@ -84,10 +84,10 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   568 commits   [███████░░░░░░░░░░░░░░░░░░]   28.91%
+🌞 Morning   567 commits   [███████░░░░░░░░░░░░░░░░░░]   28.85%
 🌆 Daytime   617 commits   [███████░░░░░░░░░░░░░░░░░░]   31.40%
-🌃 Evening   654 commits   [████████░░░░░░░░░░░░░░░░░]   33.28%
-🌙 Night     126 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.41%
+🌃 Evening   652 commits   [████████░░░░░░░░░░░░░░░░░]   33.18%
+🌙 Night     129 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.56%
 ```
 
 #### 📅 I'm most productive on Tuesday
@@ -95,10 +95,10 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ```text
 Monday      220 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.20%
 Tuesday     396 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.15%
-Wednesday   310 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.78%
+Wednesday   312 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.88%
 Thursday    288 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.66%
 Friday      236 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.01%
-Saturday    239 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.16%
+Saturday    237 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.06%
 Sunday      276 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.05%
 ```
 
@@ -106,18 +106,18 @@ Sunday      276 commits   [███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages:
-TypeScript   [50 hrs 24 mins]   [████████████████████░░░░░]   81.92%
-Prisma       [5 hrs 3 mins]     [██░░░░░░░░░░░░░░░░░░░░░░░]   8.22%
-JavaScript   [3 hrs 40 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   5.97%
-Git Config   [50 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.37%
-YAML         [42 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.14%
-Other        [0h 50m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.37%
+TypeScript   [57 hrs 7 mins]    [██████████████████████░░░]   89.81%
+Prisma       [5 hrs 6 mins]     [██░░░░░░░░░░░░░░░░░░░░░░░]   8.03%
+Git Config   [50 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.33%
+Bash         [8 mins]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.23%
+JavaScript   [8 mins]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.22%
+Other        [0h 14m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.37%
 
 💻 Operating Systems:
-Linux        [61 hrs 31 mins]  [█████████████████████████]   100.00%
+Linux        [63 hrs 36 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Tue Feb 06 2024 22:48:33 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Tue Feb 06 2024 23:20:01 GMT+0000 (Coordinated Universal Time) -->
 </details>
 <!--END_SECTION:wakatime-->
 <!-- deno-fmt-ignore-end -->
@@ -126,7 +126,7 @@ Linux        [61 hrs 31 mins]  [████████████████
 
 <!-- deno-fmt-ignore-start -->
 <!--START_SECTION:activity-->
-`[02/06 19:49]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/astro-4.x` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[02/06 19:49]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[02/06 19:49]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#565`](https://github.com/IgorKowalczyk/github-views/pull/565 'Update dependency astro to v4.3.3') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[02/06 19:49]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#565`](https://github.com/IgorKowalczyk/github-views/pull/565 'Update dependency astro to v4.3.3') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[02/04 21:31]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/inquirer-9.x` from [IgorKowalczyk/ngrok-cli](https://github.com/IgorKowalczyk/ngrok-cli)<br/>`[02/04 21:31]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/ngrok-cli](https://github.com/IgorKowalczyk/ngrok-cli)<br/>`[02/04 21:31]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#198`](https://github.com/IgorKowalczyk/ngrok-cli/pull/198 'Update dependency inquirer to v9.2.14') in [IgorKowalczyk/ngrok-cli](https://github.com/IgorKowalczyk/ngrok-cli)<br/>`[02/04 21:31]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#198`](https://github.com/IgorKowalczyk/ngrok-cli/pull/198 'Update dependency inquirer to v9.2.14') in [IgorKowalczyk/ngrok-cli](https://github.com/IgorKowalczyk/ngrok-cli)<br/>`[02/03 11:11]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#561`](https://github.com/IgorKowalczyk/github-views/pull/561 'Update dependency astro to v4.3.2') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[02/03 11:11]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/astro-4.x` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)
+`[02/06 23:06]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/vercel-analytics-1.x` from [squarestack/github-invite](https://github.com/squarestack/github-invite)<br/>`[02/06 23:06]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#326`](https://github.com/squarestack/github-invite/pull/326 'Update dependency @vercel/analytics to v1.1.3') in [squarestack/github-invite](https://github.com/squarestack/github-invite)<br/>`[02/06 23:06]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [squarestack/github-invite](https://github.com/squarestack/github-invite)<br/>`[02/06 23:06]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#745`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/745 'Update dependency @vercel/analytics to v1.1.3') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[02/06 23:06]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#789`](https://github.com/IgorKowalczyk/majo.exe/pull/789 'Update dependency @vercel/analytics to v1.1.3') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[02/06 23:06]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#326`](https://github.com/squarestack/github-invite/pull/326 'Update dependency @vercel/analytics to v1.1.3') in [squarestack/github-invite](https://github.com/squarestack/github-invite)<br/>`[02/06 23:03]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/typescript-eslint-mon...` from [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[02/06 23:03]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[02/06 23:03]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#200`](https://github.com/IgorKowalczyk/countdown/pull/200 'Update typescript-eslint monorepo to v6.21.0') in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[02/06 23:03]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#200`](https://github.com/IgorKowalczyk/countdown/pull/200 'Update typescript-eslint monorepo to v6.21.0') in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)
 <!--END_SECTION:activity-->
 <!-- deno-fmt-ignore-start -->
 
