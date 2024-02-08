@@ -64,7 +64,7 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 <!-- deno-fmt-ignore-start -->
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Thu Feb 08 2024 22:48:20 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Thu Feb 08 2024 23:20:18 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 <!-- deno-fmt-ignore-end -->
 
@@ -106,18 +106,18 @@ Sunday      274 commits   [███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages:
-TypeScript   [56 hrs 49 mins]   [█████████████████████░░░░]   87.97%
-Prisma       [6 hrs 42 mins]    [██░░░░░░░░░░░░░░░░░░░░░░░]   10.37%
-Git Config   [50 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.31%
+TypeScript   [58 hrs 45 mins]   [██████████████████████░░░]   88.52%
+Prisma       [5 hrs 53 mins]    [██░░░░░░░░░░░░░░░░░░░░░░░]   8.88%
+Git Config   [50 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.27%
+CSS          [39 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.00%
 YAML         [7 mins]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.20%
-JavaScript   [4 mins]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.12%
-Other        [0h 1m]            [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.03%
+Other        [0h 5m]            [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.13%
 
 💻 Operating Systems:
-Linux        [64 hrs 35 mins]  [█████████████████████████]   100.00%
+Linux        [66 hrs 22 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Thu Feb 08 2024 22:48:28 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Thu Feb 08 2024 23:20:26 GMT+0000 (Coordinated Universal Time) -->
 </details>
 <!--END_SECTION:wakatime-->
 <!-- deno-fmt-ignore-end -->
