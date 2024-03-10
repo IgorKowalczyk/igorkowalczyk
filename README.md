@@ -1,8 +1,8 @@
 <!-- ## Hi! I'm Igor Kowalczyk 🖐️ -->
 
-<img width="170" height="170" align="left" style="float: left; margin: 0 10px 0 0; border-radius: 50%;" alt="Igor Kowalczyk avatar" src="https://media.discordapp.net/attachments/710425657003212810/933327129305821184/circle.png">
+<img width="170" height="170" align="left" style="float: left; margin: 0 10px 0 0; border-radius: 50%;" alt="Igor Kowalczyk avatar" src="https://github.com/IgorKowalczyk/igorkowalczyk/assets/49127376/e468b80c-5c77-4eb6-9d10-3718edf1bd9b">
 
-## <img alt="Waving hand" width="26" height="26" src="https://raw.githubusercontent.com/igorkowalczyk/igorkowalczyk/master/src/images/wave.gif" width="27px"> Hi! I'm Igor Kowalczyk
+## <img alt="Waving hand" width="26" height="26" src="https://raw.githubusercontent.com/igorkowalczyk/igorkowalczyk/master/src/images/wave.gif"> Hi! I'm Igor Kowalczyk
 
 > This is the place where I opensource stuff and break things :rofl:<br>
 
