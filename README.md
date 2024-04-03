@@ -64,7 +64,7 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 <!-- deno-fmt-ignore-start -->
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Wed Apr 03 2024 21:48:18 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Wed Apr 03 2024 22:21:02 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 <!-- deno-fmt-ignore-end -->
 
@@ -76,7 +76,7 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 | :---------------------------- | :----------: |
 | **🏆 Contributions in 2024:** |   **2.4K**   |
 | **📝 Total lines of code:**   |   **8.9M**   |
-| **📦 Github Storage:**        | **578.6 MB** |
+| **📦 Github Storage:**        | **578.7 MB** |
 | **📚 Public Repositories:**   |    **28**    |
 
 <details><summary>✨ Show more stats</summary>
@@ -106,18 +106,18 @@ Sunday      261 commits   [███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages:
-Astro         [32 hrs 41 mins]   [████████████░░░░░░░░░░░░░]   51.41%
-TypeScript    [22 hrs]           [████████░░░░░░░░░░░░░░░░░]   34.61%
-JSON          [4 hrs 9 mins]     [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.54%
-JavaScript    [2 hrs 23 mins]    [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.76%
-Markdown      [1 hr 41 mins]     [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.67%
-Other         [0h 39m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.02%
+Astro         [30 hrs 1 min]     [████████████░░░░░░░░░░░░░]   48.42%
+TypeScript    [24 hrs 42 mins]   [█████████░░░░░░░░░░░░░░░░]   39.84%
+JSON          [4 hrs 6 mins]     [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.63%
+Markdown      [1 hr 39 mins]     [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.67%
+JavaScript    [51 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.38%
+Other         [0h 38m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.05%
 
 💻 Operating Systems:
-Linux         [63 hrs 35 mins]  [█████████████████████████]   100.00%
+Linux         [61 hrs 59 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Wed Apr 03 2024 21:48:26 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Wed Apr 03 2024 22:21:10 GMT+0000 (Coordinated Universal Time) -->
 </details>
 <!--END_SECTION:wakatime-->
 <!-- deno-fmt-ignore-end -->
