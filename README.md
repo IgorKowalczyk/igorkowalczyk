@@ -64,7 +64,7 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 <!-- deno-fmt-ignore-start -->
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Thu Apr 25 2024 21:48:36 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Thu Apr 25 2024 22:21:17 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 <!-- deno-fmt-ignore-end -->
 
@@ -76,7 +76,7 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 | :---------------------------- | :----------: |
 | **🏆 Contributions in 2024:** |   **3.1K**   |
 | **📝 Total lines of code:**   |    **9M**    |
-| **📦 Github Storage:**        | **579.6 MB** |
+| **📦 Github Storage:**        | **579.8 MB** |
 | **📚 Public Repositories:**   |    **28**    |
 
 <details><summary>✨ Show more stats</summary>
@@ -97,27 +97,27 @@ Monday      171 commits   [██░░░░░░░░░░░░░░░�
 Tuesday     401 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.07%
 Wednesday   384 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.22%
 Thursday    288 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.41%
-Friday      265 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.26%
+Friday      266 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.31%
 Saturday    252 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.61%
-Sunday      237 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.86%
+Sunday      236 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.81%
 ```
 
 #### 📊 Weekly work stats (last 7 days)
 
 ```text
 💬 Programming Languages:
-TypeScript   [38 hrs 36 mins]   [████████████████░░░░░░░░░]   66.09%
-JSON         [9 hrs 8 mins]     [███░░░░░░░░░░░░░░░░░░░░░░]   15.65%
-YAML         [6 hrs 28 mins]    [██░░░░░░░░░░░░░░░░░░░░░░░]   11.08%
-Text         [1 hr 46 mins]     [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.03%
-Prisma       [45 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.28%
-Other        [1h 40m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.86%
+TypeScript   [32 hrs 29 mins]   [███████████████░░░░░░░░░░]   63.75%
+JSON         [8 hrs 10 mins]    [████░░░░░░░░░░░░░░░░░░░░░]   16.03%
+YAML         [6 hrs 14 mins]    [███░░░░░░░░░░░░░░░░░░░░░░]   12.25%
+Text         [1 hr 46 mins]     [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.48%
+Prisma       [37 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.21%
+Other        [1h 40m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.27%
 
 💻 Operating Systems:
-Linux        [58 hrs 25 mins]  [█████████████████████████]   100.00%
+Linux        [50 hrs 58 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Thu Apr 25 2024 21:48:44 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Thu Apr 25 2024 22:21:29 GMT+0000 (Coordinated Universal Time) -->
 </details>
 <!--END_SECTION:wakatime-->
 <!-- deno-fmt-ignore-end -->
@@ -126,7 +126,7 @@ Linux        [58 hrs 25 mins]  [████████████████
 
 <!-- deno-fmt-ignore-start -->
 <!--START_SECTION:activity-->
-`[04/25 19:02]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `0` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[04/25 19:02]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/react-monorepo` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[04/25 19:02]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[04/25 19:02]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#930`](https://github.com/IgorKowalczyk/majo.exe/pull/930 'Update react monorepo to v18.3.0') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[04/25 19:02]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[04/25 19:02]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/react-monorepo` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[04/25 19:01]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#820`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/820 'Update react monorepo to v18.3.0') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[04/25 19:01]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#820`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/820 'Update react monorepo to v18.3.0') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[04/25 19:00]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#930`](https://github.com/IgorKowalczyk/majo.exe/pull/930 'Update react monorepo to v18.3.0') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[04/25 18:59]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)
+`[04/25 21:54]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `0` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[04/25 21:54]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/turbo-monorepo` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[04/25 21:54]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[04/25 21:54]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#931`](https://github.com/IgorKowalczyk/majo.exe/pull/931 'Update turbo monorepo to v1.13.3') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[04/25 21:54]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#931`](https://github.com/IgorKowalczyk/majo.exe/pull/931 'Update turbo monorepo to v1.13.3') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[04/25 19:02]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `0` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[04/25 19:02]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/react-monorepo` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[04/25 19:02]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[04/25 19:02]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#930`](https://github.com/IgorKowalczyk/majo.exe/pull/930 'Update react monorepo to v18.3.0') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[04/25 19:02]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)
 <!--END_SECTION:activity-->
 <!-- deno-fmt-ignore-start -->
 
