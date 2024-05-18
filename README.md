@@ -64,7 +64,7 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 <!-- deno-fmt-ignore-start -->
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sat May 18 2024 21:48:18 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sat May 18 2024 22:21:20 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 <!-- deno-fmt-ignore-end -->
 
@@ -84,40 +84,40 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   569 commits   [███████░░░░░░░░░░░░░░░░░░]   28.42%
+🌞 Morning   568 commits   [███████░░░░░░░░░░░░░░░░░░]   28.37%
 🌆 Daytime   679 commits   [████████░░░░░░░░░░░░░░░░░]   33.92%
-🌃 Evening   661 commits   [████████░░░░░░░░░░░░░░░░░]   33.02%
+🌃 Evening   662 commits   [████████░░░░░░░░░░░░░░░░░]   33.07%
 🌙 Night     93 commits    [█░░░░░░░░░░░░░░░░░░░░░░░░]   4.65%
 ```
 
 #### 📅 I'm most productive on Tuesday
 
 ```text
-Monday      170 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   8.49%
+Monday      169 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   8.44%
 Tuesday     401 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.03%
-Wednesday   392 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.58%
+Wednesday   391 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.53%
 Thursday    277 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.84%
 Friday      269 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.44%
 Saturday    251 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.54%
-Sunday      242 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.09%
+Sunday      244 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.19%
 ```
 
 #### 📊 Weekly work stats (last 7 days)
 
 ```text
 💬 Programming Languages:
-TypeScript   [11 hrs 43 mins]   [█████████████████░░░░░░░░]   70.32%
-Astro        [2 hrs 14 mins]    [███░░░░░░░░░░░░░░░░░░░░░░]   13.47%
-JavaScript   [1 hr 7 mins]      [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.73%
-JSON         [1 hr 6 mins]      [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.69%
-Git Config   [10 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.00%
-Other        [0h 17m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.78%
+TypeScript   [10 hrs 31 mins]   [██████████████░░░░░░░░░░░]   57.40%
+Astro        [5 hrs 5 mins]     [██████░░░░░░░░░░░░░░░░░░░]   27.73%
+JSON         [1 hr 8 mins]      [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.18%
+JavaScript   [1 hr 7 mins]      [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.12%
+Git Config   [10 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.93%
+Other        [0h 17m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.63%
 
 💻 Operating Systems:
-Linux        [16 hrs 40 mins]  [█████████████████████████]   100.00%
+Linux        [18 hrs 19 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Sat May 18 2024 21:48:25 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Sat May 18 2024 22:21:27 GMT+0000 (Coordinated Universal Time) -->
 </details>
 <!--END_SECTION:wakatime-->
 <!-- deno-fmt-ignore-end -->
@@ -126,7 +126,7 @@ Linux        [16 hrs 40 mins]  [████████████████
 
 <!-- deno-fmt-ignore-start -->
 <!--START_SECTION:activity-->
-`[05/18 15:04]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [PraxiveSoftware/newsapi](https://github.com/PraxiveSoftware/newsapi)<br/>`[05/18 15:04]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [PraxiveSoftware/windows-controls](https://github.com/PraxiveSoftware/windows-controls)<br/>`[05/18 15:04]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [PraxiveSoftware/pdf-viewer](https://github.com/PraxiveSoftware/pdf-viewer)<br/>`[05/18 15:04]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [PraxiveSoftware/cdn](https://github.com/PraxiveSoftware/cdn)<br/>`[05/18 15:04]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [PraxiveSoftware/print-viewer](https://github.com/PraxiveSoftware/print-viewer)<br/>`[05/18 15:04]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [PraxiveSoftware/domain-fetch](https://github.com/PraxiveSoftware/domain-fetch)<br/>`[05/18 15:04]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [PraxiveSoftware/releases](https://github.com/PraxiveSoftware/releases)<br/>`[05/18 15:04]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [PraxiveSoftware/licenses](https://github.com/PraxiveSoftware/licenses)<br/>`[05/18 15:04]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [PraxiveSoftware/issues](https://github.com/PraxiveSoftware/issues)<br/>`[05/18 13:32]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [mbentley/docker-omada-controller](https://github.com/mbentley/docker-omada-controller)
+`[05/18 22:03]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#277`](https://github.com/IgorKowalczyk/discord-ssh/pull/277 'Update dependency eslint to v9.3.0') in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br/>`[05/18 22:03]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[05/18 22:03]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-monorepo` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[05/18 22:03]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#242`](https://github.com/IgorKowalczyk/shared-configs/pull/242 'Update eslint monorepo to v9.3.0') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[05/18 22:00]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/ngrok-cli](https://github.com/IgorKowalczyk/ngrok-cli)<br/>`[05/18 22:00]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/inquirer-9.x` from [IgorKowalczyk/ngrok-cli](https://github.com/IgorKowalczyk/ngrok-cli)<br/>`[05/18 22:00]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#226`](https://github.com/IgorKowalczyk/ngrok-cli/pull/226 'Update dependency inquirer to v9.2.22') in [IgorKowalczyk/ngrok-cli](https://github.com/IgorKowalczyk/ngrok-cli)<br/>`[05/18 22:00]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#226`](https://github.com/IgorKowalczyk/ngrok-cli/pull/226 'Update dependency inquirer to v9.2.22') in [IgorKowalczyk/ngrok-cli](https://github.com/IgorKowalczyk/ngrok-cli)<br/>`[05/18 15:04]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [PraxiveSoftware/newsapi](https://github.com/PraxiveSoftware/newsapi)<br/>`[05/18 15:04]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [PraxiveSoftware/windows-controls](https://github.com/PraxiveSoftware/windows-controls)
 <!--END_SECTION:activity-->
 <!-- deno-fmt-ignore-start -->
 
