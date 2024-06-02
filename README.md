@@ -64,7 +64,7 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 <!-- deno-fmt-ignore-start -->
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sun Jun 02 2024 17:04:24 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sun Jun 02 2024 17:21:30 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 <!-- deno-fmt-ignore-end -->
 
@@ -76,7 +76,7 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 | :---------------------------- | :----------: |
 | **🏆 Contributions in 2024:** |   **3.9K**   |
 | **📝 Total lines of code:**   |    **9M**    |
-| **📦 Github Storage:**        | **581.4 MB** |
+| **📦 Github Storage:**        | **581.1 MB** |
 | **📚 Public Repositories:**   |    **28**    |
 
 <details><summary>✨ Show more stats</summary>
@@ -93,12 +93,12 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I'm most productive on Tuesday
 
 ```text
-Monday      197 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.84%
+Monday      198 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.89%
 Tuesday     394 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.68%
 Wednesday   386 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.28%
 Thursday    270 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.49%
 Friday      262 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.09%
-Saturday    252 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.59%
+Saturday    251 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.54%
 Sunday      241 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.04%
 ```
 
@@ -117,7 +117,7 @@ Other        [0h 0m]            [░░░░░░░░░░░░░░░�
 Linux        [15 hrs 53 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Sun Jun 02 2024 17:04:30 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Sun Jun 02 2024 17:21:37 GMT+0000 (Coordinated Universal Time) -->
 </details>
 <!--END_SECTION:wakatime-->
 <!-- deno-fmt-ignore-end -->
@@ -126,7 +126,7 @@ Linux        [15 hrs 53 mins]  [████████████████
 
 <!-- deno-fmt-ignore-start -->
 <!--START_SECTION:activity-->
-`[06/02 16:39]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[06/02 16:39]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-monorepo` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[06/02 16:39]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#661`](https://github.com/IgorKowalczyk/github-views/pull/661 'Update dependency eslint to v9.4.0') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[06/02 16:39]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#661`](https://github.com/IgorKowalczyk/github-views/pull/661 'Update dependency eslint to v9.4.0') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[06/02 16:38]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/>`[06/02 16:38]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-monorepo` from [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/>`[06/02 16:38]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#240`](https://github.com/IgorKowalczyk/repl-uptime/pull/240 'Update dependency eslint to v9.4.0') in [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/>`[06/02 16:38]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#240`](https://github.com/IgorKowalczyk/repl-uptime/pull/240 'Update dependency eslint to v9.4.0') in [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/>`[06/02 16:38]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-monorepo` from [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br/>`[06/02 16:38]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)
+`[06/02 17:19]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[06/02 17:19]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/prettier-3.x` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[06/02 17:19]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#662`](https://github.com/IgorKowalczyk/github-views/pull/662 'Update dependency prettier to v3.3.0') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[06/02 17:19]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#662`](https://github.com/IgorKowalczyk/github-views/pull/662 'Update dependency prettier to v3.3.0') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[06/02 16:39]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[06/02 16:39]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-monorepo` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[06/02 16:39]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#661`](https://github.com/IgorKowalczyk/github-views/pull/661 'Update dependency eslint to v9.4.0') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[06/02 16:39]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#661`](https://github.com/IgorKowalczyk/github-views/pull/661 'Update dependency eslint to v9.4.0') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[06/02 16:38]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/>`[06/02 16:38]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-monorepo` from [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)
 <!--END_SECTION:activity-->
 <!-- deno-fmt-ignore-start -->
 
