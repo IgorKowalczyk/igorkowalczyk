@@ -64,7 +64,7 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 <!-- deno-fmt-ignore-start -->
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Fri Jun 07 2024 21:48:16 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Fri Jun 07 2024 22:21:54 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 <!-- deno-fmt-ignore-end -->
 
@@ -76,7 +76,7 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 | :---------------------------- | :----------: |
 | **🏆 Contributions in 2024:** |   **4.1K**   |
 | **📝 Total lines of code:**   |    **9M**    |
-| **📦 Github Storage:**        | **581.7 MB** |
+| **📦 Github Storage:**        | **581.8 MB** |
 | **📚 Public Repositories:**   |    **28**    |
 
 <details><summary>✨ Show more stats</summary>
@@ -106,18 +106,18 @@ Sunday      238 commits   [██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages:
-TypeScript   [1 hr]            [███████░░░░░░░░░░░░░░░░░░]   29.75%
+JavaScript   [6 hrs 45 mins]    [██████████████░░░░░░░░░░░]   59.86%
+JSON         [1 hr 50 mins]     [████░░░░░░░░░░░░░░░░░░░░░]   16.25%
 
-JavaScript   [52 mins]         [██████░░░░░░░░░░░░░░░░░░░]   25.54%
-PHP          [20 mins]         [██░░░░░░░░░░░░░░░░░░░░░░░]   10.04%
-JSON         [8 mins]          [█░░░░░░░░░░░░░░░░░░░░░░░░]   4.13%
-Other        [0h 6m]           [███████░░░░░░░░░░░░░░░░░░]   30.54%
+TypeScript   [45 mins]          [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.75%
+Prisma       [25 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.70%
+Other        [0h 34m]           [███░░░░░░░░░░░░░░░░░░░░░░]   13.44%
 
 💻 Operating Systems:
-Linux        [3 hrs 23 mins]  [█████████████████████████]   100.00%
+Linux        [11 hrs 17 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Fri Jun 07 2024 21:48:27 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Fri Jun 07 2024 22:22:01 GMT+0000 (Coordinated Universal Time) -->
 </details>
 <!--END_SECTION:wakatime-->
 <!-- deno-fmt-ignore-end -->
