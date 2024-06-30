@@ -64,7 +64,7 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 <!-- deno-fmt-ignore-start -->
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sun Jun 30 2024 19:18:53 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sun Jun 30 2024 19:34:01 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 <!-- deno-fmt-ignore-end -->
 
@@ -75,7 +75,7 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 | 🏆 Contributions (total):     |      25K     |
 | :---------------------------- | :----------: |
 | **🏆 Contributions in 2024:** |   **4.7K**   |
-| **📝 Total lines of code:**   |   **241K**   |
+| **📝 Total lines of code:**   |   **8.9M**   |
 | **📦 Github Storage:**        | **583.4 MB** |
 | **📚 Public Repositories:**   |    **29**    |
 
@@ -85,21 +85,21 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 ```text
 🌞 Morning   566 commits   [███████░░░░░░░░░░░░░░░░░░]   28.27%
-🌆 Daytime   693 commits   [████████░░░░░░░░░░░░░░░░░]   34.62%
-🌃 Evening   670 commits   [████████░░░░░░░░░░░░░░░░░]   33.47%
+🌆 Daytime   690 commits   [████████░░░░░░░░░░░░░░░░░]   34.47%
+🌃 Evening   673 commits   [████████░░░░░░░░░░░░░░░░░]   33.62%
 🌙 Night     73 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.65%
 ```
 
 #### 📅 I'm most productive on Tuesday
 
 ```text
-Monday      188 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.39%
+Monday      192 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.59%
 Tuesday     386 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.28%
 Wednesday   383 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.13%
 Thursday    258 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.89%
 Friday      268 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.39%
-Saturday    274 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.69%
-Sunday      245 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.24%
+Saturday    271 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.54%
+Sunday      244 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.19%
 ```
 
 #### 📊 Weekly work stats (last 7 days)
@@ -117,7 +117,7 @@ Other        [0h 0m]           [░░░░░░░░░░░░░░░░
 Linux        [6 hrs 17 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Sun Jun 30 2024 19:19:06 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Sun Jun 30 2024 19:34:08 GMT+0000 (Coordinated Universal Time) -->
 </details>
 <!--END_SECTION:wakatime-->
 <!-- deno-fmt-ignore-end -->
@@ -126,7 +126,7 @@ Linux        [6 hrs 17 mins]  [████████████████�
 
 <!-- deno-fmt-ignore-start -->
 <!--START_SECTION:activity-->
-`[06/30 19:03]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#292`](https://github.com/IgorKowalczyk/discord-ssh/pull/292 'Update dependency globby to v14.0.2') in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br/>`[06/30 19:03]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/globby-14.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[06/30 19:03]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[06/30 19:03]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1016`](https://github.com/IgorKowalczyk/majo.exe/pull/1016 'fix(deps): update dependency globby to v14.0.2') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[06/29 22:41]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-react-eslint-p...` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[06/29 22:41]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[06/29 22:41]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#301`](https://github.com/IgorKowalczyk/shared-configs/pull/301 'fix(deps): update dependency @eslint-react/eslint-plugin to v1.5.19') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[06/29 22:40]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#301`](https://github.com/IgorKowalczyk/shared-configs/pull/301 'fix(deps): update dependency @eslint-react/eslint-plugin to v1.5.19') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[06/29 20:53]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/postcss-8.x` from [squarestack/github-invite](https://github.com/squarestack/github-invite)<br/>`[06/29 20:53]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [squarestack/github-invite](https://github.com/squarestack/github-invite)
+`[06/30 19:26]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/postcss-8.x` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[06/30 19:26]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[06/30 19:26]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#862`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/862 'Update dependency postcss to v8.4.39') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[06/30 19:26]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#862`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/862 'Update dependency postcss to v8.4.39') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[06/30 19:26]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/globby-14.x` from [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br/>`[06/30 19:26]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br/>`[06/30 19:26]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#292`](https://github.com/IgorKowalczyk/discord-ssh/pull/292 'Update dependency globby to v14.0.2') in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br/>`[06/30 19:26]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/globals-15.x` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[06/30 19:26]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[06/30 19:26]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#302`](https://github.com/IgorKowalczyk/shared-configs/pull/302 'fix(deps): update dependency globals to v15.7.0') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)
 <!--END_SECTION:activity-->
 <!-- deno-fmt-ignore-start -->
 
