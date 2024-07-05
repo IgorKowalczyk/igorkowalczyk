@@ -64,7 +64,7 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 <!-- deno-fmt-ignore-start -->
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Fri Jul 05 2024 21:48:30 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Fri Jul 05 2024 22:22:22 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 <!-- deno-fmt-ignore-end -->
 
@@ -95,10 +95,10 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ```text
 Monday      188 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.39%
 Tuesday     387 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.33%
-Wednesday   383 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.13%
+Wednesday   382 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.08%
 Thursday    258 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.89%
 Friday      271 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.54%
-Saturday    273 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.64%
+Saturday    274 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.69%
 Sunday      242 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.09%
 ```
 
@@ -106,18 +106,18 @@ Sunday      242 commits   [███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages:
-TypeScript   [6 hrs 6 mins]    [███████████░░░░░░░░░░░░░░]   46.52%
-JSON         [3 hrs 24 mins]   [██████░░░░░░░░░░░░░░░░░░░]   25.91%
-JavaScript   [3 hrs 10 mins]   [██████░░░░░░░░░░░░░░░░░░░]   24.22%
-YAML         [16 mins]         [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.10%
-Markdown     [6 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.81%
-Other        [0h 3m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.44%
+TypeScript   [3 hrs 23 mins]   [████████████░░░░░░░░░░░░░]   49.71%
+JavaScript   [3 hrs 7 mins]    [███████████░░░░░░░░░░░░░░]   45.77%
+JSON         [9 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.24%
+Markdown     [6 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.51%
+Bash         [1 min]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.48%
+Other        [0h 1m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.30%
 
 💻 Operating Systems:
-Linux        [13 hrs 7 mins]  [█████████████████████████]   100.00%
+Linux        [6 hrs 50 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Fri Jul 05 2024 21:48:38 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Fri Jul 05 2024 22:22:35 GMT+0000 (Coordinated Universal Time) -->
 </details>
 <!--END_SECTION:wakatime-->
 <!-- deno-fmt-ignore-end -->
@@ -126,7 +126,7 @@ Linux        [13 hrs 7 mins]  [████████████████�
 
 <!-- deno-fmt-ignore-start -->
 <!--START_SECTION:activity-->
-`[07/05 18:11]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[07/05 18:11]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/headlessui-react-2.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[07/05 18:11]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1021`](https://github.com/IgorKowalczyk/majo.exe/pull/1021 'fix(deps): update dependency @headlessui/react to v2.1.2') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[07/05 18:11]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#1021`](https://github.com/IgorKowalczyk/majo.exe/pull/1021 'fix(deps): update dependency @headlessui/react to v2.1.2') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[07/05 17:01]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/headlessui-react-2.x` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[07/05 17:01]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[07/05 17:01]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#865`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/865 'Update dependency @headlessui/react to v2.1.2') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[07/05 17:00]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#865`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/865 'Update dependency @headlessui/react to v2.1.2') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[07/04 21:52]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-react-eslint-p...` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[07/04 21:52]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)
+`[07/05 22:07]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/node-20.x` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[07/05 22:07]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[07/05 22:07]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#308`](https://github.com/IgorKowalczyk/shared-configs/pull/308 'chore(deps): update dependency @types/node to v20.14.10') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[07/05 22:07]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#308`](https://github.com/IgorKowalczyk/shared-configs/pull/308 'chore(deps): update dependency @types/node to v20.14.10') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[07/05 18:11]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[07/05 18:11]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/headlessui-react-2.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[07/05 18:11]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1021`](https://github.com/IgorKowalczyk/majo.exe/pull/1021 'fix(deps): update dependency @headlessui/react to v2.1.2') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[07/05 18:11]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#1021`](https://github.com/IgorKowalczyk/majo.exe/pull/1021 'fix(deps): update dependency @headlessui/react to v2.1.2') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[07/05 17:01]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/headlessui-react-2.x` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[07/05 17:01]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)
 <!--END_SECTION:activity-->
 <!-- deno-fmt-ignore-start -->
 
