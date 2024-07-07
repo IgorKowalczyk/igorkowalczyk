@@ -64,7 +64,7 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 <!-- deno-fmt-ignore-start -->
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sun Jul 07 2024 21:48:25 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sun Jul 07 2024 22:21:57 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 <!-- deno-fmt-ignore-end -->
 
@@ -75,7 +75,7 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 | 🏆 Contributions (total):     |      25K     |
 | :---------------------------- | :----------: |
 | **🏆 Contributions in 2024:** |   **4.8K**   |
-| **📝 Total lines of code:**   |   **8.9M**   |
+| **📝 Total lines of code:**   |   **240K**   |
 | **📦 Github Storage:**        | **583.8 MB** |
 | **📚 Public Repositories:**   |    **29**    |
 
@@ -106,18 +106,18 @@ Sunday      242 commits   [███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages:
-TypeScript   [3 hrs 36 mins]   [███████████░░░░░░░░░░░░░░]   44.31%
-JavaScript   [3 hrs 8 mins]    [█████████░░░░░░░░░░░░░░░░]   38.57%
-Markdown     [1 hr 11 mins]    [███░░░░░░░░░░░░░░░░░░░░░░]   14.58%
-JSON         [9 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.88%
-Bash         [1 min]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.40%
-Other        [0h 1m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.25%
+TypeScript   [3 hrs 39 mins]   [█████████░░░░░░░░░░░░░░░░]   37.83%
+JavaScript   [3 hrs 8 mins]    [████████░░░░░░░░░░░░░░░░░]   32.47%
+JSON         [1 hr 32 mins]    [███░░░░░░░░░░░░░░░░░░░░░░]   15.98%
+Markdown     [1 hr 11 mins]    [███░░░░░░░░░░░░░░░░░░░░░░]   12.28%
+YAML         [5 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.90%
+Other        [0h 3m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.55%
 
 💻 Operating Systems:
-Linux        [8 hrs 8 mins]   [█████████████████████████]   100.00%
+Linux        [9 hrs 40 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Sun Jul 07 2024 21:48:36 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Sun Jul 07 2024 22:22:09 GMT+0000 (Coordinated Universal Time) -->
 </details>
 <!--END_SECTION:wakatime-->
 <!-- deno-fmt-ignore-end -->
