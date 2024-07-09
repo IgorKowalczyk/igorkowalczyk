@@ -64,7 +64,7 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 <!-- deno-fmt-ignore-start -->
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Tue Jul 09 2024 20:04:45 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Tue Jul 09 2024 20:22:29 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 <!-- deno-fmt-ignore-end -->
 
@@ -75,7 +75,7 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 | 🏆 Contributions (total):     |      25K     |
 | :---------------------------- | :----------: |
 | **🏆 Contributions in 2024:** |   **4.9K**   |
-| **📝 Total lines of code:**   |     **0**    |
+| **📝 Total lines of code:**   |   **8.9M**   |
 | **📦 Github Storage:**        | **583.5 MB** |
 | **📚 Public Repositories:**   |    **29**    |
 
@@ -84,9 +84,9 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   561 commits   [███████░░░░░░░░░░░░░░░░░░]   28.02%
+🌞 Morning   560 commits   [██████░░░░░░░░░░░░░░░░░░░]   27.97%
 🌆 Daytime   687 commits   [████████░░░░░░░░░░░░░░░░░]   34.32%
-🌃 Evening   682 commits   [████████░░░░░░░░░░░░░░░░░]   34.07%
+🌃 Evening   683 commits   [████████░░░░░░░░░░░░░░░░░]   34.12%
 🌙 Night     72 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.60%
 ```
 
@@ -117,7 +117,7 @@ Other        [0h 3m]           [░░░░░░░░░░░░░░░░
 Linux        [9 hrs 40 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Tue Jul 09 2024 20:04:55 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Tue Jul 09 2024 20:22:38 GMT+0000 (Coordinated Universal Time) -->
 </details>
 <!--END_SECTION:wakatime-->
 <!-- deno-fmt-ignore-end -->
