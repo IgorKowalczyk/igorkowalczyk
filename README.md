@@ -64,7 +64,7 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 <!-- deno-fmt-ignore-start -->
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Fri Jul 12 2024 11:48:20 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Fri Jul 12 2024 12:08:11 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 <!-- deno-fmt-ignore-end -->
 
@@ -75,7 +75,7 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 | 🏆 Contributions (total):     |      26K     |
 | :---------------------------- | :----------: |
 | **🏆 Contributions in 2024:** |    **5K**    |
-| **📝 Total lines of code:**   |   **8.9M**   |
+| **📝 Total lines of code:**   |   **234K**   |
 | **📦 Github Storage:**        | **583.3 MB** |
 | **📚 Public Repositories:**   |    **29**    |
 
@@ -84,9 +84,9 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   567 commits   [███████░░░░░░░░░░░░░░░░░░]   28.32%
+🌞 Morning   568 commits   [███████░░░░░░░░░░░░░░░░░░]   28.37%
 🌆 Daytime   680 commits   [████████░░░░░░░░░░░░░░░░░]   33.97%
-🌃 Evening   683 commits   [████████░░░░░░░░░░░░░░░░░]   34.12%
+🌃 Evening   682 commits   [████████░░░░░░░░░░░░░░░░░]   34.07%
 🌙 Night     72 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.60%
 ```
 
@@ -96,9 +96,9 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 Monday      188 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.39%
 Tuesday     396 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.78%
 Wednesday   381 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.03%
-Thursday    263 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.14%
+Thursday    262 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.09%
 Friday      267 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.34%
-Saturday    273 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.64%
+Saturday    274 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.69%
 Sunday      234 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.69%
 ```
 
@@ -117,7 +117,7 @@ Other        [0h 34m]           [░░░░░░░░░░░░░░░�
 Linux        [22 hrs 3 mins]   [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Fri Jul 12 2024 11:48:28 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Fri Jul 12 2024 12:08:23 GMT+0000 (Coordinated Universal Time) -->
 </details>
 <!--END_SECTION:wakatime-->
 <!-- deno-fmt-ignore-end -->
