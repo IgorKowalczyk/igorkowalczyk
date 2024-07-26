@@ -64,7 +64,7 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 <!-- deno-fmt-ignore-start -->
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Fri Jul 26 2024 14:34:03 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Fri Jul 26 2024 14:48:19 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 <!-- deno-fmt-ignore-end -->
 
@@ -75,7 +75,7 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 | 🏆 Contributions (total):     |      26K     |
 | :---------------------------- | :----------: |
 | **🏆 Contributions in 2024:** |   **5.4K**   |
-| **📝 Total lines of code:**   |   **236K**   |
+| **📝 Total lines of code:**   |   **8.9M**   |
 | **📦 Github Storage:**        | **584.9 MB** |
 | **📚 Public Repositories:**   |    **29**    |
 
@@ -84,8 +84,8 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   602 commits   [███████░░░░░░░░░░░░░░░░░░]   29.98%
-🌆 Daytime   662 commits   [████████░░░░░░░░░░░░░░░░░]   32.97%
+🌞 Morning   601 commits   [███████░░░░░░░░░░░░░░░░░░]   29.93%
+🌆 Daytime   663 commits   [████████░░░░░░░░░░░░░░░░░]   33.02%
 🌃 Evening   675 commits   [████████░░░░░░░░░░░░░░░░░]   33.62%
 🌙 Night     69 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.44%
 ```
@@ -97,8 +97,8 @@ Monday      190 commits   [██░░░░░░░░░░░░░░░�
 Tuesday     403 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.07%
 Wednesday   379 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.87%
 Thursday    267 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.30%
-Friday      258 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.85%
-Saturday    255 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.70%
+Friday      257 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.80%
+Saturday    256 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.75%
 Sunday      256 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.75%
 ```
 
@@ -117,7 +117,7 @@ Other        [2h 9m]            [██░░░░░░░░░░░░░�
 Linux        [26 hrs 54 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Fri Jul 26 2024 14:34:16 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Fri Jul 26 2024 14:48:29 GMT+0000 (Coordinated Universal Time) -->
 </details>
 <!--END_SECTION:wakatime-->
 <!-- deno-fmt-ignore-end -->
