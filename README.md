@@ -64,7 +64,7 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 <!-- deno-fmt-ignore-start -->
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sun Jul 28 2024 12:25:00 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sun Jul 28 2024 12:41:11 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 <!-- deno-fmt-ignore-end -->
 
@@ -84,20 +84,20 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   613 commits   [███████░░░░░░░░░░░░░░░░░░]   30.53%
-🌆 Daytime   656 commits   [████████░░░░░░░░░░░░░░░░░]   32.67%
-🌃 Evening   671 commits   [████████░░░░░░░░░░░░░░░░░]   33.42%
+🌞 Morning   612 commits   [███████░░░░░░░░░░░░░░░░░░]   30.48%
+🌆 Daytime   659 commits   [████████░░░░░░░░░░░░░░░░░]   32.82%
+🌃 Evening   669 commits   [████████░░░░░░░░░░░░░░░░░]   33.32%
 🌙 Night     68 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.39%
 ```
 
 #### 📅 I'm most productive on Tuesday
 
 ```text
-Monday      190 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.46%
+Monday      194 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.66%
 Tuesday     400 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.92%
 Wednesday   373 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.58%
-Thursday    264 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.15%
-Friday      256 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.75%
+Thursday    263 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.10%
+Friday      253 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.60%
 Saturday    257 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.80%
 Sunday      268 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.35%
 ```
@@ -117,7 +117,7 @@ Other        [0h 35m]           [░░░░░░░░░░░░░░░�
 Linux        [23 hrs 39 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Sun Jul 28 2024 12:25:09 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Sun Jul 28 2024 12:41:20 GMT+0000 (Coordinated Universal Time) -->
 </details>
 <!--END_SECTION:wakatime-->
 <!-- deno-fmt-ignore-end -->
@@ -126,7 +126,7 @@ Linux        [23 hrs 39 mins]  [████████████████
 
 <!-- deno-fmt-ignore-start -->
 <!--START_SECTION:activity-->
-`[07/28 12:09]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `v3.0.0-beta.0` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[07/28 12:08]` <a href="https://github.com/igorkowalczyk" title="🏷"><img alt="🏷" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/release.png" align="top" height="18"></a> Released [`v3.0.0-beta.0`](https://github.com/IgorKowalczyk/shared-configs/releases/tag/v3.0.0-beta.0) in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[07/28 12:06]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[07/28 10:26]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/lucide-react-0.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[07/28 10:26]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[07/28 10:26]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1067`](https://github.com/IgorKowalczyk/majo.exe/pull/1067 'fix(deps): update dependency lucide-react to v0.417.0') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[07/28 10:26]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#1067`](https://github.com/IgorKowalczyk/majo.exe/pull/1067 'fix(deps): update dependency lucide-react to v0.417.0') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[07/28 09:31]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf)<br/>`[07/28 08:32]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-stylistic-mono...` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[07/28 08:32]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)
+`[07/28 12:40]` <a href="https://github.com/igorkowalczyk" title="🏷"><img alt="🏷" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/release.png" align="top" height="18"></a> Released [`v5.0.3`](https://github.com/IgorKowalczyk/is-browser/releases/tag/v5.0.3) in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br/>`[07/28 12:38]` <a href="https://github.com/igorkowalczyk" title="🏷"><img alt="🏷" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/release.png" align="top" height="18"></a> Released [`v3.0.0-beta.0`](https://github.com/IgorKowalczyk/shared-configs/releases/tag/v3.0.0-beta.0) in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[07/28 12:37]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `v3.0.0-beta.0` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[07/28 12:37]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[07/28 12:29]` <a href="https://github.com/igorkowalczyk" title="🏷"><img alt="🏷" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/release.png" align="top" height="18"></a> Released [`v3.0.0-beta.0`](https://github.com/IgorKowalczyk/shared-configs/releases/tag/v3.0.0-beta.0) in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[07/28 12:29]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/node-20.x` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[07/28 12:29]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[07/28 12:29]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#347`](https://github.com/IgorKowalczyk/shared-configs/pull/347 'chore(deps): update dependency @types/node to v20.14.13') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[07/28 12:29]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#347`](https://github.com/IgorKowalczyk/shared-configs/pull/347 'chore(deps): update dependency @types/node to v20.14.13') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[07/28 12:28]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)
 <!--END_SECTION:activity-->
 <!-- deno-fmt-ignore-start -->
 
