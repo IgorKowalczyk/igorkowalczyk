@@ -64,7 +64,7 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 <!-- deno-fmt-ignore-start -->
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sun Jul 28 2024 08:05:27 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sun Jul 28 2024 08:23:08 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 <!-- deno-fmt-ignore-end -->
 
@@ -75,7 +75,7 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 | 🏆 Contributions (total):     |      26K     |
 | :---------------------------- | :----------: |
 | **🏆 Contributions in 2024:** |   **5.4K**   |
-| **📝 Total lines of code:**   |   **8.9M**   |
+| **📝 Total lines of code:**   |     **0**    |
 | **📦 Github Storage:**        | **585.6 MB** |
 | **📚 Public Repositories:**   |    **29**    |
 
@@ -117,7 +117,7 @@ Other        [0h 35m]           [░░░░░░░░░░░░░░░�
 Linux        [23 hrs 39 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Sun Jul 28 2024 08:05:40 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Sun Jul 28 2024 08:23:18 GMT+0000 (Coordinated Universal Time) -->
 </details>
 <!--END_SECTION:wakatime-->
 <!-- deno-fmt-ignore-end -->
