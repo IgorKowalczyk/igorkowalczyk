@@ -64,7 +64,7 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 <!-- deno-fmt-ignore-start -->
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Fri Aug 02 2024 21:48:20 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Fri Aug 02 2024 22:22:20 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 <!-- deno-fmt-ignore-end -->
 
@@ -74,7 +74,7 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 <!--START_SECTION:wakatime-->
 | 🏆 Contributions (total):     |      26K     |
 | :---------------------------- | :----------: |
-| **🏆 Contributions in 2024:** |   **5.6K**   |
+| **🏆 Contributions in 2024:** |   **5.7K**   |
 | **📝 Total lines of code:**   |   **8.9M**   |
 | **📦 Github Storage:**        | **585.9 MB** |
 | **📚 Public Repositories:**   |    **29**    |
@@ -84,9 +84,9 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   611 commits   [███████░░░░░░░░░░░░░░░░░░]   30.43%
-🌆 Daytime   662 commits   [████████░░░░░░░░░░░░░░░░░]   32.97%
-🌃 Evening   667 commits   [████████░░░░░░░░░░░░░░░░░]   33.22%
+🌞 Morning   610 commits   [███████░░░░░░░░░░░░░░░░░░]   30.38%
+🌆 Daytime   661 commits   [████████░░░░░░░░░░░░░░░░░]   32.92%
+🌃 Evening   669 commits   [████████░░░░░░░░░░░░░░░░░]   33.32%
 🌙 Night     68 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.39%
 ```
 
@@ -95,10 +95,10 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ```text
 Monday      208 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   10.36%
 Tuesday     402 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.02%
-Wednesday   363 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.08%
+Wednesday   361 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.98%
 Thursday    266 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.25%
 Friday      260 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.95%
-Saturday    256 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.75%
+Saturday    258 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.85%
 Sunday      253 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.60%
 ```
 
@@ -106,18 +106,18 @@ Sunday      253 commits   [███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages:
-JavaScript   [23 hrs 59 mins]   [█████████████░░░░░░░░░░░░]   53.84%
-JSON         [12 hrs 55 mins]   [███████░░░░░░░░░░░░░░░░░░]   29.01%
-TypeScript   [5 hrs 25 mins]    [███░░░░░░░░░░░░░░░░░░░░░░]   12.17%
-YAML         [1 hr 36 mins]     [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.62%
-Bash         [24 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.90%
-Other        [0h 11m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.44%
+JavaScript   [25 hrs 35 mins]   [█████████████░░░░░░░░░░░░]   55.43%
+JSON         [12 hrs 45 mins]   [██████░░░░░░░░░░░░░░░░░░░]   27.65%
+TypeScript   [5 hrs 20 mins]    [██░░░░░░░░░░░░░░░░░░░░░░░]   11.58%
+YAML         [1 hr 36 mins]     [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.50%
+Prisma       [23 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.87%
+Other        [0h 27m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.98%
 
 💻 Operating Systems:
-Linux        [44 hrs 34 mins]  [█████████████████████████]   100.00%
+Linux        [46 hrs 9 mins]   [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Fri Aug 02 2024 21:48:28 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Fri Aug 02 2024 22:22:33 GMT+0000 (Coordinated Universal Time) -->
 </details>
 <!--END_SECTION:wakatime-->
 <!-- deno-fmt-ignore-end -->
@@ -126,7 +126,7 @@ Linux        [44 hrs 34 mins]  [████████████████
 
 <!-- deno-fmt-ignore-start -->
 <!--START_SECTION:activity-->
-`[08/02 19:32]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [commaai/openpilot](https://github.com/commaai/openpilot)<br/>`[08/02 18:55]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [v8/v8.dev](https://github.com/v8/v8.dev)<br/>`[08/02 16:49]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[08/02 16:49]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/astro-monorepo` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[08/02 16:49]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#706`](https://github.com/IgorKowalczyk/github-views/pull/706 'Update dependency astro to v4.13.1') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[08/02 16:49]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#706`](https://github.com/IgorKowalczyk/github-views/pull/706 'Update dependency astro to v4.13.1') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[08/02 13:39]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#362`](https://github.com/IgorKowalczyk/shared-configs/pull/362 'chore(deps): update dependency @types/node to v22.1.0') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[08/02 13:39]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/node-22.x` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[08/02 13:39]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[08/02 13:39]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#362`](https://github.com/IgorKowalczyk/shared-configs/pull/362 'chore(deps): update dependency @types/node to v22.1.0') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)
+`[08/02 22:15]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [squarestack/github-invite](https://github.com/squarestack/github-invite)<br/>`[08/02 22:12]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[08/02 22:11]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[08/02 22:08]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/autoprefixer-10.x` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[08/02 22:08]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[08/02 22:08]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#882`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/882 'Update dependency autoprefixer to v10.4.20') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[08/02 22:08]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/autoprefixer-10.x` from [squarestack/github-invite](https://github.com/squarestack/github-invite)<br/>`[08/02 22:08]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [squarestack/github-invite](https://github.com/squarestack/github-invite)<br/>`[08/02 22:08]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#405`](https://github.com/squarestack/github-invite/pull/405 'Update dependency autoprefixer to v10.4.20') in [squarestack/github-invite](https://github.com/squarestack/github-invite)<br/>`[08/02 22:08]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#882`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/882 'Update dependency autoprefixer to v10.4.20') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)
 <!--END_SECTION:activity-->
 <!-- deno-fmt-ignore-start -->
 
