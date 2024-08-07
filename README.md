@@ -64,7 +64,7 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 <!-- deno-fmt-ignore-start -->
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Wed Aug 07 2024 21:48:17 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Wed Aug 07 2024 22:34:13 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 <!-- deno-fmt-ignore-end -->
 
@@ -76,7 +76,7 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 | :---------------------------- | :----------: |
 | **🏆 Contributions in 2024:** |   **5.8K**   |
 | **📝 Total lines of code:**   |   **8.9M**   |
-| **📦 Github Storage:**        | **586.7 MB** |
+| **📦 Github Storage:**        | **586.8 MB** |
 | **📚 Public Repositories:**   |    **28**    |
 
 <details><summary>✨ Show more stats</summary>
@@ -106,18 +106,18 @@ Sunday      260 commits   [███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages:
-JavaScript   [17 hrs 41 mins]   [███████████████████░░░░░░]   76.45%
-TypeScript   [2 hrs 48 mins]    [███░░░░░░░░░░░░░░░░░░░░░░]   12.17%
-Markdown     [1 hr 2 mins]      [█░░░░░░░░░░░░░░░░░░░░░░░░]   4.48%
-JSON         [1 hr 2 mins]      [█░░░░░░░░░░░░░░░░░░░░░░░░]   4.48%
-Prisma       [23 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.73%
-Other        [0h 9m]            [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.69%
+JavaScript   [14 hrs 25 mins]   [█████████████████░░░░░░░░]   71.21%
+TypeScript   [2 hrs 49 mins]    [███░░░░░░░░░░░░░░░░░░░░░░]   13.92%
+Markdown     [1 hr 40 mins]     [██░░░░░░░░░░░░░░░░░░░░░░░]   8.24%
+JSON         [47 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.87%
+Prisma       [23 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.97%
+Other        [0h 9m]            [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.78%
 
 💻 Operating Systems:
-Linux        [23 hrs 8 mins]   [█████████████████████████]   100.00%
+Linux        [20 hrs 16 mins]  [█████████████████████████]   100.00%
 ```
 
-<!-- Wakatime last updated on Wed Aug 07 2024 21:48:29 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Wed Aug 07 2024 22:34:24 GMT+0000 (Coordinated Universal Time) -->
 </details>
 <!--END_SECTION:wakatime-->
 <!-- deno-fmt-ignore-end -->
@@ -126,7 +126,7 @@ Linux        [23 hrs 8 mins]   [████████████████
 
 <!-- deno-fmt-ignore-start -->
 <!--START_SECTION:activity-->
-`[08/07 17:29]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/framer-motion-11.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[08/07 17:29]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[08/07 17:29]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1089`](https://github.com/IgorKowalczyk/majo.exe/pull/1089 'fix(deps): update dependency framer-motion to v11.3.23') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[08/07 17:29]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#1089`](https://github.com/IgorKowalczyk/majo.exe/pull/1089 'fix(deps): update dependency framer-motion to v11.3.23') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[08/07 17:29]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/tailwindcss-3.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[08/07 17:29]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[08/07 17:29]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1088`](https://github.com/IgorKowalczyk/majo.exe/pull/1088 'chore(deps): update dependency tailwindcss to v3.4.8') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[08/07 17:29]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#1088`](https://github.com/IgorKowalczyk/majo.exe/pull/1088 'chore(deps): update dependency tailwindcss to v3.4.8') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[08/07 17:23]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/tailwindcss-3.x` from [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br/>`[08/07 17:23]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)
+`[08/07 19:52]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/tailwindcss-typograph...` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[08/07 19:52]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[08/07 19:52]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1090`](https://github.com/IgorKowalczyk/majo.exe/pull/1090 'chore(deps): update dependency @tailwindcss/typography to v0.5.14') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[08/07 19:52]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-plugin-jest-28...` from [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/>`[08/07 19:52]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/>`[08/07 19:52]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#256`](https://github.com/IgorKowalczyk/repl-uptime/pull/256 'Update dependency eslint-plugin-jest to v28.8.0') in [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/>`[08/07 19:51]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#256`](https://github.com/IgorKowalczyk/repl-uptime/pull/256 'Update dependency eslint-plugin-jest to v28.8.0') in [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/>`[08/07 19:51]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#1090`](https://github.com/IgorKowalczyk/majo.exe/pull/1090 'chore(deps): update dependency @tailwindcss/typography to v0.5.14') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[08/07 17:29]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/framer-motion-11.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[08/07 17:29]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
 <!--END_SECTION:activity-->
 <!-- deno-fmt-ignore-start -->
 
