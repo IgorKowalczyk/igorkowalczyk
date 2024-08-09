@@ -63,7 +63,7 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Tue Aug 06 2024 22:14:20 GMT+0200 (Central European Summer Time) -->
+<!-- Posts last updated on Fri Aug 09 2024 21:11:17 GMT+0200 (Central European Summer Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
@@ -71,9 +71,9 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 <!--START_SECTION:wakatime-->
 | 🏆 Contributions (total):     |      26K     |
 | :---------------------------- | :----------: |
-| **🏆 Contributions in 2024:** |   **5.7K**   |
-| **📝 Total lines of code:**   |   **981K**   |
-| **📦 Github Storage:**        | **586.5 MB** |
+| **🏆 Contributions in 2024:** |   **5.8K**   |
+| **📝 Total lines of code:**   |   **980K**   |
+| **📦 Github Storage:**        | **587.0 MB** |
 | **📚 Public Repositories:**   |    **28**    |
 
 <details><summary>✨ Show more stats</summary>
@@ -81,53 +81,46 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   397 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.77%
-🌆 Daytime   711 commits   [████████░░░░░░░░░░░░░░░░░]   35.41%
-🌃 Evening   748 commits   [█████████░░░░░░░░░░░░░░░░]   37.25%
-🌙 Night     152 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   7.57%
+🌞 Morning   399 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.87%
+🌆 Daytime   713 commits   [████████░░░░░░░░░░░░░░░░░]   35.51%
+🌃 Evening   747 commits   [█████████░░░░░░░░░░░░░░░░]   37.20%
+🌙 Night     149 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   7.42%
 ```
 
 #### 📅 I'm most productive on Monday
 
 ```text
-Sunday      210 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   10.46%
-Monday      406 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.22%
-Tuesday     367 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.28%
-Wednesday   264 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.15%
-Thursday    257 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.80%
-Friday      251 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.50%
-Saturday    253 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.60%
+Sunday      207 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   10.31%
+Monday      401 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.97%
+Tuesday     362 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.03%
+Wednesday   274 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.65%
+Thursday    261 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.00%
+Friday      252 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.55%
+Saturday    251 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.50%
 ```
 
 #### 📊 Weekly work stats (last 7 days)
 
 ```text
 💬 Programming Languages:
-JavaScript   [20 hrs 17 mins]   [██████████████████░░░░░░░]   74.61%
-TypeScript   [3 hrs 29 mins]    [███░░░░░░░░░░░░░░░░░░░░░░]   12.83%
-JSON         [1 hr 46 mins]     [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.52%
-Markdown     [1 hr 4 mins]      [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.92%
-Prisma       [23 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.47%
-Other        [0h 10m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.64%
+JavaScript    [9 hrs 48 mins]    [████████████████░░░░░░░░░]   64.17%
+TypeScript    [2 hrs 49 mins]    [████░░░░░░░░░░░░░░░░░░░░░]   18.47%
+Markdown      [1 hr 40 mins]     [██░░░░░░░░░░░░░░░░░░░░░░░]   10.94%
+JSON          [29 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.19%
+Prisma        [23 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.59%
+Other         [0h 5m]            [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.63%
 
 💻 Operating Systems:
-Linux        [27 hrs 11 mins]  [█████████████████████████]   100.00%
+Linux         [15 hrs 16 mins]  [█████████████████████████]   100.00%
 ```
 
 </details>
-<!-- Wakatime last updated on Tue Aug 06 2024 22:14:35 GMT+0200 (Central European Summer Time) -->
+<!-- Wakatime last updated on Fri Aug 09 2024 21:11:28 GMT+0200 (Central European Summer Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-`[08/06 18:26]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/turbo-monorepo` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[08/06 18:26]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[08/06 18:26]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#368`](https://github.com/IgorKowalczyk/shared-configs/pull/368 'fix(deps): update dependency turbo to v2.0.12') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[08/06 18:25]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#368`](https://github.com/IgorKowalczyk/shared-configs/pull/368 'fix(deps): update dependency turbo to v2.0.12') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[08/06 17:53]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/systeminformation-5.x...` from [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br/>`[08/06 17:53]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br/>`[08/06 17:53]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#300`](https://github.com/IgorKowalczyk/discord-ssh/pull/300 'Update dependency systeminformation to v5.23.4') in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br/>`[08/06 17:53]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#300`](https://github.com/IgorKowalczyk/discord-ssh/pull/300 'Update dependency systeminformation to v5.23.4') in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br/>`[08/06 17:50]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [godlygeek/tabular](https://github.com/godlygeek/tabular)<br/>`[08/06 17:50]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
-<!-- Activity last updated on Tue Aug 06 2024 22:14:21 GMT+0200 (Central European Summer Time) -->
+`[08/09 19:07]` <a href="https://github.com/igorkowalczyk" title="✅"><img alt="✅" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/pr-open.png" align="top" height="18"></a> Opened PR [`#137`](https://github.com/IgorKowalczyk/igorkowalczyk/pull/137 'Switch from deno to bun') in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)<br/>`[08/09 19:07]` <a href="https://github.com/igorkowalczyk" title="📂"><img alt="📂" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/create-branch.png" align="top" height="18"></a> Created branch [`bun`](https://github.com/IgorKowalczyk/igorkowalczyk/tree/bun) in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)<br/>`[08/09 17:36]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/prettier-plugin-tailw...` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[08/09 17:35]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[08/09 17:35]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#889`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/889 'Update dependency prettier-plugin-tailwindcss to v0.6.6') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[08/09 17:35]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#889`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/889 'Update dependency prettier-plugin-tailwindcss to v0.6.6') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[08/09 17:34]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/react-parallax-tilt-1...` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[08/09 17:34]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[08/09 17:34]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#890`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/890 'Update dependency react-parallax-tilt to v1.7.236') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[08/09 17:34]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#890`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/890 'Update dependency react-parallax-tilt to v1.7.236') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)
+<!-- Activity last updated on Fri Aug 09 2024 21:11:17 GMT+0200 (Central European Summer Time) -->
 <!--END_SECTION:activity-->
-
-<p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
-
-<!-- Activity last updated on Mon Aug 05 2024 14:02:01 GMT+0200 (Central European Summer Time) -->
-<!--END_SECTION:activity-->
-
-<p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>: @igorkowalczyk</a></p>

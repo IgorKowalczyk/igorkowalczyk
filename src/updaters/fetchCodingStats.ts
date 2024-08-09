@@ -161,7 +161,7 @@ export async function fetchCodingStats(apiToken: string, username: string): Prom
    ],
    {
     align: ["l", "c"],
-   }
+   },
   );
 
   return `${table}\n\n<details><summary>✨ Show more stats</summary>\n\n${mostProductiveParts}\n\n${mostProductiveDaysText}\n\n${weekly}\n\n</details>\n<!-- Wakatime last updated on ${new Date().toString()} -->`;

@@ -11,9 +11,7 @@ jobs:
   steps:
    - name: 🧱 Checkout repository
      uses: actions/checkout@v4
-   - name: 🔩 Install Deno
-     uses: nekowinston/setup-deno@v1
-     with:
-      deno-version: v1.x
+   - name: 🔩 Setup Bun
+     uses: oven-sh/setup-bun@v2
    - name: 🚀 Check formatting
-     run: deno task fmt:check
+     run: bun biome-check
