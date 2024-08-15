@@ -3,6 +3,7 @@ import { fetchActivities } from "./updaters/fetchActivities";
 import { fetchCodingStats } from "./updaters/fetchCodingStats";
 import { fetchPosts } from "./updaters/fetchPosts";
 import { Logger } from "./util/functions";
+import { readFileSync, writeFileSync } from "node:fs";
 
 interface Marker {
  open: string;
@@ -24,21 +25,18 @@ async function updateReadmeSection(originalContent: string, marker: Marker, newC
 }
 
 const start: number = new Date().getTime();
-const readmeFile = Bun.file("./README.md");
-const readmeWriter = readmeFile.writer();
-
-let readmeContent = await readmeFile.text();
+const readmePath = "./README.md";
 
 try {
+ let readmeContent = readFileSync(readmePath, "utf-8");
+
  const [activityList, statsList, posts] = await Promise.all([fetchActivities(activity.gitUsername), fetchCodingStats(wakatime.apiKey, activity.gitUsername), fetchPosts(feed.link)]);
 
  readmeContent = await updateReadmeSection(readmeContent, activity as Marker, activityList);
  readmeContent = await updateReadmeSection(readmeContent, wakatime as Marker, statsList);
  readmeContent = await updateReadmeSection(readmeContent, feed as Marker, posts);
 
- readmeWriter.write(readmeContent.trim());
- readmeWriter.flush();
- readmeWriter.end();
+ writeFileSync(readmePath, readmeContent.trim());
 
  Logger("done", `Finished updating README in ${((new Date().getTime() - start) / 1000).toFixed(2)}s`);
 } catch (error) {

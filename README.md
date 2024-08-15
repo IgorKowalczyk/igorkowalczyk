@@ -63,17 +63,17 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Fri Aug 09 2024 21:11:17 GMT+0200 (Central European Summer Time) -->
+<!-- Posts last updated on Thu Aug 15 2024 23:50:26 GMT+0200 (Central European Summer Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-| 🏆 Contributions (total):     |      26K     |
+| 🏆 Contributions (total):     |      27K     |
 | :---------------------------- | :----------: |
-| **🏆 Contributions in 2024:** |   **5.8K**   |
-| **📝 Total lines of code:**   |   **980K**   |
-| **📦 Github Storage:**        | **587.0 MB** |
+| **🏆 Contributions in 2024:** |    **6K**    |
+| **📝 Total lines of code:**   |   **981K**   |
+| **📦 Github Storage:**        | **586.9 MB** |
 | **📚 Public Repositories:**   |    **28**    |
 
 <details><summary>✨ Show more stats</summary>
@@ -81,46 +81,48 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   399 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.87%
-🌆 Daytime   713 commits   [████████░░░░░░░░░░░░░░░░░]   35.51%
-🌃 Evening   747 commits   [█████████░░░░░░░░░░░░░░░░]   37.20%
-🌙 Night     149 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   7.42%
+🌞 Morning   386 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.22%
+🌆 Daytime   719 commits   [████████░░░░░░░░░░░░░░░░░]   35.81%
+🌃 Evening   750 commits   [█████████░░░░░░░░░░░░░░░░]   37.35%
+🌙 Night     153 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   7.62%
 ```
 
 #### 📅 I'm most productive on Monday
 
 ```text
-Sunday      207 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   10.31%
-Monday      401 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.97%
-Tuesday     362 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.03%
-Wednesday   274 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.65%
-Thursday    261 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.00%
-Friday      252 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.55%
-Saturday    251 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.50%
+Sunday      203 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   10.11%
+Monday      393 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.57%
+Tuesday     359 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.88%
+Wednesday   284 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.14%
+Thursday    259 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.90%
+Friday      251 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.50%
+Saturday    259 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.90%
 ```
 
 #### 📊 Weekly work stats (last 7 days)
 
 ```text
 💬 Programming Languages:
-JavaScript    [9 hrs 48 mins]    [████████████████░░░░░░░░░]   64.17%
-TypeScript    [2 hrs 49 mins]    [████░░░░░░░░░░░░░░░░░░░░░]   18.47%
-Markdown      [1 hr 40 mins]     [██░░░░░░░░░░░░░░░░░░░░░░░]   10.94%
-JSON          [29 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.19%
-Prisma        [23 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.59%
-Other         [0h 5m]            [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.63%
+JavaScript    [13 hrs 54 mins]   [██████████████████████░░░]   90.39%
+Prisma        [45 mins]          [█░░░░░░░░░░░░░░░░░░░░░░░░]   4.94%
+JSON          [19 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.16%
+YAML          [10 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.17%
+CSS           [5 mins]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.59%
+Other         [0h 6m]            [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.75%
 
 💻 Operating Systems:
-Linux         [15 hrs 16 mins]  [█████████████████████████]   100.00%
+Linux         [15 hrs 23 mins]  [█████████████████████████]   100.00%
 ```
 
 </details>
-<!-- Wakatime last updated on Fri Aug 09 2024 21:11:28 GMT+0200 (Central European Summer Time) -->
+<!-- Wakatime last updated on Thu Aug 15 2024 23:50:43 GMT+0200 (Central European Summer Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-`[08/09 19:07]` <a href="https://github.com/igorkowalczyk" title="✅"><img alt="✅" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/pr-open.png" align="top" height="18"></a> Opened PR [`#137`](https://github.com/IgorKowalczyk/igorkowalczyk/pull/137 'Switch from deno to bun') in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)<br/>`[08/09 19:07]` <a href="https://github.com/igorkowalczyk" title="📂"><img alt="📂" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/create-branch.png" align="top" height="18"></a> Created branch [`bun`](https://github.com/IgorKowalczyk/igorkowalczyk/tree/bun) in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)<br/>`[08/09 17:36]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/prettier-plugin-tailw...` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[08/09 17:35]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[08/09 17:35]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#889`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/889 'Update dependency prettier-plugin-tailwindcss to v0.6.6') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[08/09 17:35]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#889`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/889 'Update dependency prettier-plugin-tailwindcss to v0.6.6') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[08/09 17:34]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/react-parallax-tilt-1...` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[08/09 17:34]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[08/09 17:34]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#890`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/890 'Update dependency react-parallax-tilt to v1.7.236') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[08/09 17:34]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#890`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/890 'Update dependency react-parallax-tilt to v1.7.236') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)
-<!-- Activity last updated on Fri Aug 09 2024 21:11:17 GMT+0200 (Central European Summer Time) -->
+`[08/15 21:39]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/framer-motion-11.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[08/15 21:39]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[08/15 21:39]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1107`](https://github.com/IgorKowalczyk/majo.exe/pull/1107 'fix(deps): update dependency framer-motion to v11.3.28') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[08/15 21:34]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-stylistic-mono...` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[08/15 21:34]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[08/15 21:34]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#381`](https://github.com/IgorKowalczyk/shared-configs/pull/381 'fix(deps): update dependency @stylistic/eslint-plugin to v2.6.3') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[08/15 21:34]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-plugin-turbo-2...` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[08/15 21:34]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[08/15 21:34]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1109`](https://github.com/IgorKowalczyk/majo.exe/pull/1109 'chore(deps): update dependency eslint-plugin-turbo to v2.0.14') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[08/15 21:34]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#381`](https://github.com/IgorKowalczyk/shared-configs/pull/381 'fix(deps): update dependency @stylistic/eslint-plugin to v2.6.3') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)
+<!-- Activity last updated on Thu Aug 15 2024 23:50:27 GMT+0200 (Central European Summer Time) -->
 <!--END_SECTION:activity-->
+
+<p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
