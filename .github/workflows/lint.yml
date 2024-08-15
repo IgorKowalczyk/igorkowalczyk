@@ -4,7 +4,7 @@ on: [push, pull_request]
 
 jobs:
  lint:
-  name: 🧹 Lint
+  name: Lint
   runs-on: ubuntu-latest
   strategy:
    fail-fast: false
