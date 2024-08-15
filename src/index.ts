@@ -1,9 +1,9 @@
+import { readFileSync, writeFileSync } from "node:fs";
 import { activity, feed, wakatime } from "./config";
 import { fetchActivities } from "./updaters/fetchActivities";
 import { fetchCodingStats } from "./updaters/fetchCodingStats";
 import { fetchPosts } from "./updaters/fetchPosts";
 import { Logger } from "./util/functions";
-import { readFileSync, writeFileSync } from "node:fs";
 
 interface Marker {
  open: string;
