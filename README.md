@@ -63,66 +63,20 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sat Aug 17 2024 21:48:15 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sat Aug 17 2024 22:04:36 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-| 🏆 Contributions (total):     |      27K     |
-| :---------------------------- | :----------: |
-| **🏆 Contributions in 2024:** |   **6.1K**   |
-| **📝 Total lines of code:**   |   **978K**   |
-| **📦 Github Storage:**        | **587.3 MB** |
-| **📚 Public Repositories:**   |    **28**    |
 
-<details><summary>✨ Show more stats</summary>
-
-#### 📅 I work mostly during the night
-
-```text
-🌞 Morning   581 commits   [███████░░░░░░░░░░░░░░░░░░]   28.93%
-🌆 Daytime   688 commits   [████████░░░░░░░░░░░░░░░░░]   34.26%
-🌃 Evening   672 commits   [████████░░░░░░░░░░░░░░░░░]   33.47%
-🌙 Night     67 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.34%
-```
-
-#### 📅 I'm most productive on Monday
-
-```text
-Sunday      195 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.71%
-Monday      386 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.22%
-Tuesday     355 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.68%
-Wednesday   275 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.70%
-Thursday    260 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.95%
-Friday      262 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.05%
-Saturday    275 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.70%
-```
-
-#### 📊 Weekly work stats (last 7 days)
-
-```text
-💬 Programming Languages:
-JavaScript   [13 hrs 25 mins]   [█████████████████░░░░░░░░]   68.02%
-TypeScript   [4 hrs 9 mins]     [█████░░░░░░░░░░░░░░░░░░░░]   21.11%
-Prisma       [45 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.87%
-JSON         [40 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.44%
-YAML         [16 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.43%
-Other        [0h 25m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.13%
-
-💻 Operating Systems:
-Linux        [19 hrs 43 mins]  [█████████████████████████]   100.00%
-```
-
-</details>
-<!-- Wakatime last updated on Sat Aug 17 2024 21:48:26 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[08/17 21:47]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br/>`[08/17 21:41]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br/>`[08/17 21:36]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/ngrok-cli](https://github.com/IgorKowalczyk/ngrok-cli)<br/>`[08/17 21:29]` <a href="https://github.com/igorkowalczyk" title="🏷"><img alt="🏷" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/release.png" align="top" height="18"></a> Released [`v2.2.0`](https://github.com/IgorKowalczyk/ngrok-cli/releases/tag/v2.2.0) in [IgorKowalczyk/ngrok-cli](https://github.com/IgorKowalczyk/ngrok-cli)<br/>`[08/17 21:29]` <a href="https://github.com/igorkowalczyk" title="🔖"><img alt="🔖" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/create-tag.png" align="top" height="18"></a> Created tag `v2.2.0` in [IgorKowalczyk/ngrok-cli](https://github.com/IgorKowalczyk/ngrok-cli)<br/>`[08/17 21:29]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `typescript` from [IgorKowalczyk/ngrok-cli](https://github.com/IgorKowalczyk/ngrok-cli)<br/>`[08/17 21:29]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/ngrok-cli](https://github.com/IgorKowalczyk/ngrok-cli)<br/>`[08/17 21:29]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#260`](https://github.com/IgorKowalczyk/ngrok-cli/pull/260 'Typescript rewrite') in [IgorKowalczyk/ngrok-cli](https://github.com/IgorKowalczyk/ngrok-cli)<br/>`[08/17 21:28]` <a href="https://github.com/igorkowalczyk" title="✅"><img alt="✅" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/pr-open.png" align="top" height="18"></a> Opened PR [`#260`](https://github.com/IgorKowalczyk/ngrok-cli/pull/260 'Typescript rewrite') in [IgorKowalczyk/ngrok-cli](https://github.com/IgorKowalczyk/ngrok-cli)<br/>`[08/17 21:28]` <a href="https://github.com/igorkowalczyk" title="📂"><img alt="📂" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/create-branch.png" align="top" height="18"></a> Created branch [`typescript`](https://github.com/IgorKowalczyk/ngrok-cli/tree/typescript) in [IgorKowalczyk/ngrok-cli](https://github.com/IgorKowalczyk/ngrok-cli)
-<!-- Activity last updated on Sat Aug 17 2024 21:48:15 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Sat Aug 17 2024 22:04:36 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
