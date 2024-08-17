@@ -63,20 +63,66 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sat Aug 17 2024 22:04:36 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sat Aug 17 2024 22:21:38 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
+| 🏆 Contributions (total):     |      27K     |
+| :---------------------------- | :----------: |
+| **🏆 Contributions in 2024:** |   **6.1K**   |
+| **📝 Total lines of code:**   |   **978K**   |
+| **📦 Github Storage:**        | **587.3 MB** |
+| **📚 Public Repositories:**   |    **28**    |
 
+<details><summary>✨ Show more stats</summary>
+
+#### 📅 I work mostly during the night
+
+```text
+🌞 Morning   579 commits   [███████░░░░░░░░░░░░░░░░░░]   28.83%
+🌆 Daytime   688 commits   [████████░░░░░░░░░░░░░░░░░]   34.26%
+🌃 Evening   674 commits   [████████░░░░░░░░░░░░░░░░░]   33.57%
+🌙 Night     67 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.34%
+```
+
+#### 📅 I'm most productive on Monday
+
+```text
+Sunday      195 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.71%
+Monday      385 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.17%
+Tuesday     354 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.63%
+Wednesday   274 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.65%
+Thursday    260 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.95%
+Friday      262 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.05%
+Saturday    278 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.84%
+```
+
+#### 📊 Weekly work stats (last 7 days)
+
+```text
+💬 Programming Languages:
+JavaScript   [11 hrs 44 mins]   [█████████████░░░░░░░░░░░░]   52.22%
+TypeScript   [4 hrs 14 mins]    [████░░░░░░░░░░░░░░░░░░░░░]   18.82%
+YAML         [3 hrs 53 mins]    [████░░░░░░░░░░░░░░░░░░░░░]   17.33%
+JSON         [48 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.58%
+Prisma       [46 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.42%
+Other        [1h 2m]            [█░░░░░░░░░░░░░░░░░░░░░░░░]   4.61%
+
+💻 Operating Systems:
+Linux        [22 hrs 29 mins]  [█████████████████████████]   100.00%
+```
+
+</details>
+<!-- Wakatime last updated on Sat Aug 17 2024 22:21:50 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-`[08/17 21:47]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br/>`[08/17 21:41]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br/>`[08/17 21:36]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/ngrok-cli](https://github.com/IgorKowalczyk/ngrok-cli)<br/>`[08/17 21:29]` <a href="https://github.com/igorkowalczyk" title="🏷"><img alt="🏷" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/release.png" align="top" height="18"></a> Released [`v2.2.0`](https://github.com/IgorKowalczyk/ngrok-cli/releases/tag/v2.2.0) in [IgorKowalczyk/ngrok-cli](https://github.com/IgorKowalczyk/ngrok-cli)<br/>`[08/17 21:29]` <a href="https://github.com/igorkowalczyk" title="🔖"><img alt="🔖" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/create-tag.png" align="top" height="18"></a> Created tag `v2.2.0` in [IgorKowalczyk/ngrok-cli](https://github.com/IgorKowalczyk/ngrok-cli)<br/>`[08/17 21:29]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `typescript` from [IgorKowalczyk/ngrok-cli](https://github.com/IgorKowalczyk/ngrok-cli)<br/>`[08/17 21:29]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/ngrok-cli](https://github.com/IgorKowalczyk/ngrok-cli)<br/>`[08/17 21:29]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#260`](https://github.com/IgorKowalczyk/ngrok-cli/pull/260 'Typescript rewrite') in [IgorKowalczyk/ngrok-cli](https://github.com/IgorKowalczyk/ngrok-cli)<br/>`[08/17 21:28]` <a href="https://github.com/igorkowalczyk" title="✅"><img alt="✅" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/pr-open.png" align="top" height="18"></a> Opened PR [`#260`](https://github.com/IgorKowalczyk/ngrok-cli/pull/260 'Typescript rewrite') in [IgorKowalczyk/ngrok-cli](https://github.com/IgorKowalczyk/ngrok-cli)<br/>`[08/17 21:28]` <a href="https://github.com/igorkowalczyk" title="📂"><img alt="📂" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/create-branch.png" align="top" height="18"></a> Created branch [`typescript`](https://github.com/IgorKowalczyk/ngrok-cli/tree/typescript) in [IgorKowalczyk/ngrok-cli](https://github.com/IgorKowalczyk/ngrok-cli)
-<!-- Activity last updated on Sat Aug 17 2024 22:04:36 GMT+0000 (Coordinated Universal Time) -->
+`[08/17 22:19]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[08/17 21:47]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br/>`[08/17 21:41]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br/>`[08/17 21:36]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/ngrok-cli](https://github.com/IgorKowalczyk/ngrok-cli)<br/>`[08/17 21:29]` <a href="https://github.com/igorkowalczyk" title="🏷"><img alt="🏷" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/release.png" align="top" height="18"></a> Released [`v2.2.0`](https://github.com/IgorKowalczyk/ngrok-cli/releases/tag/v2.2.0) in [IgorKowalczyk/ngrok-cli](https://github.com/IgorKowalczyk/ngrok-cli)<br/>`[08/17 21:29]` <a href="https://github.com/igorkowalczyk" title="🔖"><img alt="🔖" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/create-tag.png" align="top" height="18"></a> Created tag `v2.2.0` in [IgorKowalczyk/ngrok-cli](https://github.com/IgorKowalczyk/ngrok-cli)<br/>`[08/17 21:29]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `typescript` from [IgorKowalczyk/ngrok-cli](https://github.com/IgorKowalczyk/ngrok-cli)<br/>`[08/17 21:29]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/ngrok-cli](https://github.com/IgorKowalczyk/ngrok-cli)<br/>`[08/17 21:29]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#260`](https://github.com/IgorKowalczyk/ngrok-cli/pull/260 'Typescript rewrite') in [IgorKowalczyk/ngrok-cli](https://github.com/IgorKowalczyk/ngrok-cli)<br/>`[08/17 21:28]` <a href="https://github.com/igorkowalczyk" title="✅"><img alt="✅" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/pr-open.png" align="top" height="18"></a> Opened PR [`#260`](https://github.com/IgorKowalczyk/ngrok-cli/pull/260 'Typescript rewrite') in [IgorKowalczyk/ngrok-cli](https://github.com/IgorKowalczyk/ngrok-cli)
+<!-- Activity last updated on Sat Aug 17 2024 22:21:38 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
