@@ -63,20 +63,66 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sun Aug 18 2024 22:05:22 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sun Aug 18 2024 22:22:01 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
+| 🏆 Contributions (total):     |      27K     |
+| :---------------------------- | :----------: |
+| **🏆 Contributions in 2024:** |   **6.1K**   |
+| **📝 Total lines of code:**   |   **977K**   |
+| **📦 Github Storage:**        | **587.4 MB** |
+| **📚 Public Repositories:**   |    **28**    |
 
+<details><summary>✨ Show more stats</summary>
+
+#### 📅 I work mostly during the night
+
+```text
+🌞 Morning   582 commits   [███████░░░░░░░░░░░░░░░░░░]   28.98%
+🌆 Daytime   686 commits   [████████░░░░░░░░░░░░░░░░░]   34.16%
+🌃 Evening   673 commits   [████████░░░░░░░░░░░░░░░░░]   33.52%
+🌙 Night     67 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.34%
+```
+
+#### 📅 I'm most productive on Monday
+
+```text
+Sunday      200 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.96%
+Monday      382 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.02%
+Tuesday     352 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.53%
+Wednesday   273 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.60%
+Thursday    259 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.90%
+Friday      261 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.00%
+Saturday    281 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.99%
+```
+
+#### 📊 Weekly work stats (last 7 days)
+
+```text
+💬 Programming Languages:
+JavaScript   [11 hrs 21 mins]   [██████████░░░░░░░░░░░░░░░]   40.90%
+TypeScript   [8 hrs 59 mins]    [████████░░░░░░░░░░░░░░░░░]   32.41%
+YAML         [3 hrs 53 mins]    [███░░░░░░░░░░░░░░░░░░░░░░]   14.04%
+JSON         [1 hr 3 mins]      [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.84%
+Markdown     [55 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.35%
+Other        [1h 31m]           [█░░░░░░░░░░░░░░░░░░░░░░░░]   5.47%
+
+💻 Operating Systems:
+Linux        [27 hrs 46 mins]  [█████████████████████████]   100.00%
+```
+
+</details>
+<!-- Wakatime last updated on Sun Aug 18 2024 22:22:11 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-`[08/18 09:51]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[08/18 09:27]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/rollup-4.x` from [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br/>`[08/18 09:27]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br/>`[08/18 09:27]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#300`](https://github.com/IgorKowalczyk/is-browser/pull/300 'Update dependency rollup to v4.21.0') in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br/>`[08/18 09:27]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#300`](https://github.com/IgorKowalczyk/is-browser/pull/300 'Update dependency rollup to v4.21.0') in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br/>`[08/18 09:27]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/rollup-4.x` from [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[08/18 09:27]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[08/18 09:27]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#331`](https://github.com/IgorKowalczyk/countdown/pull/331 'Update dependency rollup to v4.21.0') in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[08/18 09:27]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#331`](https://github.com/IgorKowalczyk/countdown/pull/331 'Update dependency rollup to v4.21.0') in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[08/18 09:26]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/node-20.x` from [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)
-<!-- Activity last updated on Sun Aug 18 2024 22:05:22 GMT+0000 (Coordinated Universal Time) -->
+`[08/18 22:21]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[08/18 22:17]` <a href="https://github.com/igorkowalczyk" title="✅"><img alt="✅" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/pr-open.png" align="top" height="18"></a> Opened PR [`#1114`](https://github.com/IgorKowalczyk/majo.exe/pull/1114 'Rewrite handlers and events to typescript') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[08/18 22:16]` <a href="https://github.com/igorkowalczyk" title="📂"><img alt="📂" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/create-branch.png" align="top" height="18"></a> Created branch [`typescript`](https://github.com/IgorKowalczyk/majo.exe/tree/typescript) in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[08/18 09:51]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[08/18 09:27]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/rollup-4.x` from [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br/>`[08/18 09:27]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br/>`[08/18 09:27]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#300`](https://github.com/IgorKowalczyk/is-browser/pull/300 'Update dependency rollup to v4.21.0') in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br/>`[08/18 09:27]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#300`](https://github.com/IgorKowalczyk/is-browser/pull/300 'Update dependency rollup to v4.21.0') in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br/>`[08/18 09:27]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/rollup-4.x` from [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[08/18 09:27]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)
+<!-- Activity last updated on Sun Aug 18 2024 22:22:01 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
