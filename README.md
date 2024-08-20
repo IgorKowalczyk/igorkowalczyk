@@ -63,20 +63,66 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Tue Aug 20 2024 22:04:39 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Tue Aug 20 2024 22:21:52 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
+| 🏆 Contributions (total):     |      27K     |
+| :---------------------------- | :----------: |
+| **🏆 Contributions in 2024:** |   **6.1K**   |
+| **📝 Total lines of code:**   |   **977K**   |
+| **📦 Github Storage:**        | **587.8 MB** |
+| **📚 Public Repositories:**   |    **28**    |
 
+<details><summary>✨ Show more stats</summary>
+
+#### 📅 I work mostly during the night
+
+```text
+🌞 Morning   579 commits   [███████░░░░░░░░░░░░░░░░░░]   28.83%
+🌆 Daytime   690 commits   [████████░░░░░░░░░░░░░░░░░]   34.36%
+🌃 Evening   675 commits   [████████░░░░░░░░░░░░░░░░░]   33.62%
+🌙 Night     64 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.19%
+```
+
+#### 📅 I'm most productive on Monday
+
+```text
+Sunday      200 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.96%
+Monday      389 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.37%
+Tuesday     353 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.58%
+Wednesday   269 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.40%
+Thursday    258 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.85%
+Friday      259 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.90%
+Saturday    280 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.94%
+```
+
+#### 📊 Weekly work stats (last 7 days)
+
+```text
+💬 Programming Languages:
+JavaScript   [14 hrs 11 mins]   [█████████░░░░░░░░░░░░░░░░]   39.89%
+TypeScript   [11 hrs 33 mins]   [████████░░░░░░░░░░░░░░░░░]   32.49%
+YAML         [3 hrs 45 mins]    [██░░░░░░░░░░░░░░░░░░░░░░░]   10.56%
+JSON         [3 hrs 45 mins]    [██░░░░░░░░░░░░░░░░░░░░░░░]   10.55%
+Markdown     [55 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.62%
+Other        [1h 23m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.88%
+
+💻 Operating Systems:
+Linux        [35 hrs 34 mins]  [█████████████████████████]   100.00%
+```
+
+</details>
+<!-- Wakatime last updated on Tue Aug 20 2024 22:22:02 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[08/20 17:27]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/react-parallax-tilt-1...` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[08/20 17:27]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[08/20 17:27]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#898`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/898 'Update dependency react-parallax-tilt to v1.7.237') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[08/20 17:27]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#898`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/898 'Update dependency react-parallax-tilt to v1.7.237') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[08/20 16:22]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/astro-monorepo` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[08/20 16:22]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[08/20 16:22]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#721`](https://github.com/IgorKowalczyk/github-views/pull/721 'Update dependency astro to v4.14.3') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[08/20 16:22]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#721`](https://github.com/IgorKowalczyk/github-views/pull/721 'Update dependency astro to v4.14.3') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[08/20 15:13]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-react-eslint-p...` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[08/20 15:13]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)
-<!-- Activity last updated on Tue Aug 20 2024 22:04:40 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Tue Aug 20 2024 22:21:53 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
