@@ -63,66 +63,20 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Fri Aug 23 2024 21:48:18 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Fri Aug 23 2024 22:04:39 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-| 🏆 Contributions (total):     |      27K     |
-| :---------------------------- | :----------: |
-| **🏆 Contributions in 2024:** |   **6.2K**   |
-| **📝 Total lines of code:**   |   **973K**   |
-| **📦 Github Storage:**        | **587.5 MB** |
-| **📚 Public Repositories:**   |    **28**    |
 
-<details><summary>✨ Show more stats</summary>
-
-#### 📅 I work mostly during the night
-
-```text
-🌞 Morning   579 commits   [███████░░░░░░░░░░░░░░░░░░]   28.83%
-🌆 Daytime   699 commits   [████████░░░░░░░░░░░░░░░░░]   34.81%
-🌃 Evening   669 commits   [████████░░░░░░░░░░░░░░░░░]   33.32%
-🌙 Night     61 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.04%
-```
-
-#### 📅 I'm most productive on Monday
-
-```text
-Sunday      195 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.71%
-Monday      388 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.32%
-Tuesday     350 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.43%
-Wednesday   277 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.79%
-Thursday    265 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.20%
-Friday      261 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.00%
-Saturday    272 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.55%
-```
-
-#### 📊 Weekly work stats (last 7 days)
-
-```text
-💬 Programming Languages:
-TypeScript   [27 hrs 57 mins]   [█████████████░░░░░░░░░░░░]   55.59%
-JavaScript   [12 hrs 52 mins]   [██████░░░░░░░░░░░░░░░░░░░]   25.59%
-YAML         [3 hrs 44 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   7.43%
-JSON         [3 hrs 39 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   7.27%
-Markdown     [51 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.72%
-Other        [1h 12m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.40%
-
-💻 Operating Systems:
-Linux        [50 hrs 18 mins]  [█████████████████████████]   100.00%
-```
-
-</details>
-<!-- Wakatime last updated on Fri Aug 23 2024 21:48:31 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-`[08/23 16:47]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/headlessui-react-2.x` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[08/23 16:47]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[08/23 16:47]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#901`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/901 'Update dependency @headlessui/react to v2.1.3') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[08/23 16:47]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#901`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/901 'Update dependency @headlessui/react to v2.1.3') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[08/23 16:47]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/headlessui-react-2.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[08/23 16:47]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `3` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[08/23 16:47]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1124`](https://github.com/IgorKowalczyk/majo.exe/pull/1124 'fix(deps): update dependency @headlessui/react to v2.1.3') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[08/23 16:46]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `3` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[08/23 16:46]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#1124`](https://github.com/IgorKowalczyk/majo.exe/pull/1124 'fix(deps): update dependency @headlessui/react to v2.1.3') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[08/23 16:46]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/framer-motion-11.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
-<!-- Activity last updated on Fri Aug 23 2024 21:48:19 GMT+0000 (Coordinated Universal Time) -->
+`[08/23 22:01]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-monorepo` from [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br/>`[08/23 22:01]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br/>`[08/23 22:01]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#195`](https://github.com/IgorKowalczyk/active-dev/pull/195 'Update dependency eslint to v9.9.1') in [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br/>`[08/23 22:00]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#195`](https://github.com/IgorKowalczyk/active-dev/pull/195 'Update dependency eslint to v9.9.1') in [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br/>`[08/23 22:00]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-monorepo` from [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/>`[08/23 22:00]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/>`[08/23 22:00]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#259`](https://github.com/IgorKowalczyk/repl-uptime/pull/259 'Update dependency eslint to v9.9.1') in [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/>`[08/23 22:00]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/>`[08/23 21:59]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-monorepo` from [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br/>`[08/23 21:59]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#301`](https://github.com/IgorKowalczyk/is-browser/pull/301 'Update dependency eslint to v9.9.1') in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)
+<!-- Activity last updated on Fri Aug 23 2024 22:04:40 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
