@@ -63,66 +63,20 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sun Aug 25 2024 21:48:20 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sun Aug 25 2024 22:04:36 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-| 🏆 Contributions (total):     |      27K     |
-| :---------------------------- | :----------: |
-| **🏆 Contributions in 2024:** |   **6.3K**   |
-| **📝 Total lines of code:**   |   **972K**   |
-| **📦 Github Storage:**        | **587.1 MB** |
-| **📚 Public Repositories:**   |    **28**    |
 
-<details><summary>✨ Show more stats</summary>
-
-#### 📅 I work mostly during the night
-
-```text
-🌞 Morning   575 commits   [███████░░░░░░░░░░░░░░░░░░]   28.64%
-🌆 Daytime   703 commits   [████████░░░░░░░░░░░░░░░░░]   35.01%
-🌃 Evening   669 commits   [████████░░░░░░░░░░░░░░░░░]   33.32%
-🌙 Night     61 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.04%
-```
-
-#### 📅 I'm most productive on Monday
-
-```text
-Sunday      194 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.66%
-Monday      387 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.27%
-Tuesday     347 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.28%
-Wednesday   276 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.75%
-Thursday    262 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.05%
-Friday      263 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.10%
-Saturday    279 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.89%
-```
-
-#### 📊 Weekly work stats (last 7 days)
-
-```text
-💬 Programming Languages:
-TypeScript   [23 hrs 54 mins]   [████████████████░░░░░░░░░]   64.01%
-JavaScript   [9 hrs 5 mins]     [██████░░░░░░░░░░░░░░░░░░░]   24.33%
-JSON         [3 hrs 8 mins]     [██░░░░░░░░░░░░░░░░░░░░░░░]   8.42%
-Bash         [29 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.32%
-Markdown     [24 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.07%
-Other        [0h 18m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.84%
-
-💻 Operating Systems:
-Linux        [37 hrs 21 mins]  [█████████████████████████]   100.00%
-```
-
-</details>
-<!-- Wakatime last updated on Sun Aug 25 2024 21:48:31 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[08/25 17:00]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/jsdom-25.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[08/25 17:00]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[08/25 17:00]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1129`](https://github.com/IgorKowalczyk/majo.exe/pull/1129 'fix(deps): update dependency jsdom to v25') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[08/25 17:00]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#1129`](https://github.com/IgorKowalczyk/majo.exe/pull/1129 'fix(deps): update dependency jsdom to v25') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[08/25 16:59]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/lucide-react-0.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[08/25 16:59]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[08/25 16:59]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1130`](https://github.com/IgorKowalczyk/majo.exe/pull/1130 'fix(deps): update dependency lucide-react to v0.436.0') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[08/25 16:59]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#1130`](https://github.com/IgorKowalczyk/majo.exe/pull/1130 'fix(deps): update dependency lucide-react to v0.436.0') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[08/25 16:52]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/jsdom-24.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[08/25 16:52]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
-<!-- Activity last updated on Sun Aug 25 2024 21:48:21 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Sun Aug 25 2024 22:04:36 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
