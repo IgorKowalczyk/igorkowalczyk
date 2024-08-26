@@ -63,7 +63,7 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Mon Aug 26 2024 18:05:48 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Mon Aug 26 2024 18:24:03 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
@@ -72,8 +72,8 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 | 🏆 Contributions (total):     |      27K     |
 | :---------------------------- | :----------: |
 | **🏆 Contributions in 2024:** |   **6.3K**   |
-| **📝 Total lines of code:**   |   **972K**   |
-| **📦 Github Storage:**        | **587.1 MB** |
+| **📝 Total lines of code:**   |   **450K**   |
+| **📦 Github Storage:**        | **587.2 MB** |
 | **📚 Public Repositories:**   |    **28**    |
 
 <details><summary>✨ Show more stats</summary>
@@ -115,13 +115,14 @@ Linux        [31 hrs 12 mins]  [████████████████
 ```
 
 </details>
-<!-- Wakatime last updated on Mon Aug 26 2024 18:05:57 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Mon Aug 26 2024 18:24:17 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-
+`[08/26 17:04]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/pnpm-9.x` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[08/26 17:04]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `3` commits in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[08/26 17:04]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#398`](https://github.com/IgorKowalczyk/shared-configs/pull/398 'chore(deps): update pnpm to v9.9.0') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[08/26 17:04]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `3` commits in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[08/26 17:04]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#398`](https://github.com/IgorKowalczyk/shared-configs/pull/398 'chore(deps): update pnpm to v9.9.0') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[08/26 17:04]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/rollup-4.x` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[08/26 17:04]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[08/26 17:04]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#397`](https://github.com/IgorKowalczyk/shared-configs/pull/397 'chore(deps): update dependency rollup to v4.21.1') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[08/26 17:04]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#397`](https://github.com/IgorKowalczyk/shared-configs/pull/397 'chore(deps): update dependency rollup to v4.21.1') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[08/26 17:03]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/rollup-4.x` from [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)
+<!-- Activity last updated on Mon Aug 26 2024 18:24:04 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
