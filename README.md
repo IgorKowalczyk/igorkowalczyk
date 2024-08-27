@@ -63,66 +63,20 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Tue Aug 27 2024 21:48:22 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Tue Aug 27 2024 22:04:36 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-| 🏆 Contributions (total):     |      27K     |
-| :---------------------------- | :----------: |
-| **🏆 Contributions in 2024:** |   **6.4K**   |
-| **📝 Total lines of code:**   |   **972K**   |
-| **📦 Github Storage:**        | **587.7 MB** |
-| **📚 Public Repositories:**   |    **28**    |
 
-<details><summary>✨ Show more stats</summary>
-
-#### 📅 I work mostly during the night
-
-```text
-🌞 Morning   568 commits   [███████░░░░░░░░░░░░░░░░░░]   28.29%
-🌆 Daytime   718 commits   [████████░░░░░░░░░░░░░░░░░]   35.76%
-🌃 Evening   661 commits   [████████░░░░░░░░░░░░░░░░░]   32.92%
-🌙 Night     61 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.04%
-```
-
-#### 📅 I'm most productive on Monday
-
-```text
-Sunday      188 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.36%
-Monday      400 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.92%
-Tuesday     353 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.58%
-Wednesday   274 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.65%
-Thursday    256 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.75%
-Friday      261 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.00%
-Saturday    276 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.75%
-```
-
-#### 📊 Weekly work stats (last 7 days)
-
-```text
-💬 Programming Languages:
-TypeScript   [18 hrs 45 mins]   [████████████████████░░░░░]   81.43%
-JavaScript   [4 hrs 2 mins]     [████░░░░░░░░░░░░░░░░░░░░░]   17.55%
-JSON         [7 mins]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.56%
-Prisma       [3 mins]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.22%
-
-Other        [0h 0m]            [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.24%
-
-💻 Operating Systems:
-Linux        [23 hrs 1 min]    [█████████████████████████]   100.00%
-```
-
-</details>
-<!-- Wakatime last updated on Tue Aug 27 2024 21:48:42 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[08/27 20:45]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [koeqaife/hyprland-material-you](https://github.com/koeqaife/hyprland-material-you)<br/>`[08/27 19:55]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)<br/>`[08/27 19:52]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [openstyles/stylus](https://github.com/openstyles/stylus)<br/>`[08/27 19:40]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox)<br/>`[08/27 17:29]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [kaii-lb/overskride](https://github.com/kaii-lb/overskride)<br/>`[08/27 16:24]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[08/27 16:24]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/nextjs-monorepo` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[08/27 16:24]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#404`](https://github.com/IgorKowalczyk/shared-configs/pull/404 'fix(deps): update dependency @next/eslint-plugin-next to v14.2.7') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[08/27 16:23]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#404`](https://github.com/IgorKowalczyk/shared-configs/pull/404 'fix(deps): update dependency @next/eslint-plugin-next to v14.2.7') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[08/27 16:21]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-plugin-import-...` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)
-<!-- Activity last updated on Tue Aug 27 2024 21:48:22 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Tue Aug 27 2024 22:04:36 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
