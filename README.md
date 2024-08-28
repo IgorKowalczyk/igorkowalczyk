@@ -63,20 +63,66 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Wed Aug 28 2024 22:04:53 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Wed Aug 28 2024 22:22:10 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
+| 🏆 Contributions (total):     |      27K     |
+| :---------------------------- | :----------: |
+| **🏆 Contributions in 2024:** |   **6.4K**   |
+| **📝 Total lines of code:**   |   **991K**   |
+| **📦 Github Storage:**        | **588.1 MB** |
+| **📚 Public Repositories:**   |    **28**    |
 
+<details><summary>✨ Show more stats</summary>
+
+#### 📅 I work mostly during the night
+
+```text
+🌞 Morning   569 commits   [███████░░░░░░░░░░░░░░░░░░]   28.34%
+🌆 Daytime   720 commits   [████████░░░░░░░░░░░░░░░░░]   35.86%
+🌃 Evening   657 commits   [████████░░░░░░░░░░░░░░░░░]   32.72%
+🌙 Night     62 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.09%
+```
+
+#### 📅 I'm most productive on Monday
+
+```text
+Sunday      184 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.16%
+Monday      398 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.82%
+Tuesday     356 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.73%
+Wednesday   285 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.19%
+Thursday    254 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.65%
+Friday      256 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.75%
+Saturday    275 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.70%
+```
+
+#### 📊 Weekly work stats (last 7 days)
+
+```text
+💬 Programming Languages:
+TypeScript   [6 hrs 34 mins]   [█████████████████████░░░░]   84.70%
+JavaScript   [49 mins]         [██░░░░░░░░░░░░░░░░░░░░░░░]   10.68%
+Bash         [10 mins]         [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.24%
+JSON         [8 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.77%
+
+Other        [0h 0m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.62%
+
+💻 Operating Systems:
+Linux        [7 hrs 46 mins]  [█████████████████████████]   100.00%
+```
+
+</details>
+<!-- Wakatime last updated on Wed Aug 28 2024 22:22:17 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[08/28 16:39]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/tailwindcss-typograph...` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[08/28 16:39]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1138`](https://github.com/IgorKowalczyk/majo.exe/pull/1138 'chore(deps): update dependency @tailwindcss/typography to v0.5.15') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[08/28 16:39]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#1138`](https://github.com/IgorKowalczyk/majo.exe/pull/1138 'chore(deps): update dependency @tailwindcss/typography to v0.5.15') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[08/28 16:39]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/tailwindcss-forms-0.x...` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[08/28 16:39]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `3` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[08/28 16:39]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#726`](https://github.com/IgorKowalczyk/github-views/pull/726 'Update dependency @tailwindcss/forms to v0.5.8') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[08/28 16:39]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#726`](https://github.com/IgorKowalczyk/github-views/pull/726 'Update dependency @tailwindcss/forms to v0.5.8') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[08/28 16:38]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `3` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[08/28 16:38]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#726`](https://github.com/IgorKowalczyk/github-views/pull/726 'Update dependency @tailwindcss/forms to v0.5.8') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[08/28 16:38]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/astro-monorepo` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)
-<!-- Activity last updated on Wed Aug 28 2024 22:04:53 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Wed Aug 28 2024 22:22:11 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
