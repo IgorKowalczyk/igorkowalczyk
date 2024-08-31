@@ -63,7 +63,7 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sat Aug 31 2024 02:53:52 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sat Aug 31 2024 03:05:07 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
@@ -72,7 +72,7 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 | 🏆 Contributions (total):     |      27K     |
 | :---------------------------- | :----------: |
 | **🏆 Contributions in 2024:** |   **6.5K**   |
-| **📝 Total lines of code:**   |   **990K**   |
+| **📝 Total lines of code:**   |   **450K**   |
 | **📦 Github Storage:**        | **588.3 MB** |
 | **📚 Public Repositories:**   |    **28**    |
 
@@ -115,14 +115,14 @@ Linux        [9 hrs 36 mins]  [████████████████�
 ```
 
 </details>
-<!-- Wakatime last updated on Sat Aug 31 2024 02:54:00 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Sat Aug 31 2024 03:05:20 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[08/30 21:38]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[08/30 21:38]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-stylistic-mono...` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[08/30 21:38]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#412`](https://github.com/IgorKowalczyk/shared-configs/pull/412 'fix(deps): update dependency @stylistic/eslint-plugin to v2.7.2') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[08/30 21:37]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#412`](https://github.com/IgorKowalczyk/shared-configs/pull/412 'fix(deps): update dependency @stylistic/eslint-plugin to v2.7.2') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[08/30 10:58]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/rollup-4.x` from [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[08/30 10:58]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[08/30 10:58]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#341`](https://github.com/IgorKowalczyk/countdown/pull/341 'Update dependency rollup to v4.21.2') in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[08/30 10:52]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#341`](https://github.com/IgorKowalczyk/countdown/pull/341 'Update dependency rollup to v4.21.2') in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[08/30 10:51]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/rollup-4.x` from [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br/>`[08/30 10:51]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)
-<!-- Activity last updated on Sat Aug 31 2024 02:53:53 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Sat Aug 31 2024 03:05:07 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
