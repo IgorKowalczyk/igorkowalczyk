@@ -63,20 +63,66 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sat Aug 31 2024 22:05:28 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sat Aug 31 2024 22:22:33 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
+| 🏆 Contributions (total):     |      27K     |
+| :---------------------------- | :----------: |
+| **🏆 Contributions in 2024:** |   **6.5K**   |
+| **📝 Total lines of code:**   |    **34K**   |
+| **📦 Github Storage:**        | **588.5 MB** |
+| **📚 Public Repositories:**   |    **28**    |
 
+<details><summary>✨ Show more stats</summary>
+
+#### 📅 I work mostly during the night
+
+```text
+🌞 Morning   563 commits   [███████░░░░░░░░░░░░░░░░░░]   28.04%
+🌆 Daytime   725 commits   [█████████░░░░░░░░░░░░░░░░]   36.11%
+🌃 Evening   657 commits   [████████░░░░░░░░░░░░░░░░░]   32.72%
+🌙 Night     63 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.14%
+```
+
+#### 📅 I'm most productive on Monday
+
+```text
+Sunday      182 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.06%
+Monday      396 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.72%
+Tuesday     353 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.58%
+Wednesday   285 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.19%
+Thursday    258 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.85%
+Friday      259 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.90%
+Saturday    275 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.70%
+```
+
+#### 📊 Weekly work stats (last 7 days)
+
+```text
+💬 Programming Languages:
+JavaScript   [5 hrs 16 mins]    [██████████░░░░░░░░░░░░░░░]   41.98%
+TypeScript   [4 hrs 50 mins]    [█████████░░░░░░░░░░░░░░░░]   38.50%
+JSON         [1 hr 57 mins]     [███░░░░░░░░░░░░░░░░░░░░░░]   15.54%
+Prisma       [13 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.80%
+Bash         [11 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.53%
+Other        [0h 4m]            [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.65%
+
+💻 Operating Systems:
+Linux        [12 hrs 33 mins]  [█████████████████████████]   100.00%
+```
+
+</details>
+<!-- Wakatime last updated on Sat Aug 31 2024 22:22:45 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[08/31 16:01]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/turbo-monorepo` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[08/31 16:01]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[08/31 16:01]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#413`](https://github.com/IgorKowalczyk/shared-configs/pull/413 'fix(deps): update dependency turbo to v2.1.1') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[08/31 16:00]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#413`](https://github.com/IgorKowalczyk/shared-configs/pull/413 'fix(deps): update dependency turbo to v2.1.1') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[08/31 16:00]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/lucide-monorepo` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[08/31 16:00]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[08/31 16:00]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1141`](https://github.com/IgorKowalczyk/majo.exe/pull/1141 'fix(deps): update dependency lucide-react to v0.437.0') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[08/31 16:00]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#1141`](https://github.com/IgorKowalczyk/majo.exe/pull/1141 'fix(deps): update dependency lucide-react to v0.437.0') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[08/31 10:17]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/turbo-monorepo` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[08/31 10:17]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
-<!-- Activity last updated on Sat Aug 31 2024 22:05:29 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Sat Aug 31 2024 22:22:33 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
