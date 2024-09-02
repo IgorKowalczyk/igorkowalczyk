@@ -63,20 +63,66 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Mon Sep 02 2024 22:04:45 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Mon Sep 02 2024 22:22:36 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
+| 🏆 Contributions (total):     |      27K     |
+| :---------------------------- | :----------: |
+| **🏆 Contributions in 2024:** |   **6.5K**   |
+| **📝 Total lines of code:**   |   **991K**   |
+| **📦 Github Storage:**        | **587.5 MB** |
+| **📚 Public Repositories:**   |    **28**    |
 
+<details><summary>✨ Show more stats</summary>
+
+#### 📅 I work mostly during the night
+
+```text
+🌞 Morning   561 commits   [██████░░░░░░░░░░░░░░░░░░░]   27.94%
+🌆 Daytime   729 commits   [█████████░░░░░░░░░░░░░░░░]   36.30%
+🌃 Evening   657 commits   [████████░░░░░░░░░░░░░░░░░]   32.72%
+🌙 Night     61 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.04%
+```
+
+#### 📅 I'm most productive on Monday
+
+```text
+Sunday      187 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.31%
+Monday      404 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.12%
+Tuesday     347 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.28%
+Wednesday   281 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.99%
+Thursday    258 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.85%
+Friday      257 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.80%
+Saturday    274 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.65%
+```
+
+#### 📊 Weekly work stats (last 7 days)
+
+```text
+💬 Programming Languages:
+JavaScript   [9 hrs 7 mins]     [███████████░░░░░░░░░░░░░░]   46.81%
+TypeScript   [4 hrs 50 mins]    [██████░░░░░░░░░░░░░░░░░░░]   24.78%
+Prisma       [2 hrs 24 mins]    [███░░░░░░░░░░░░░░░░░░░░░░]   12.34%
+JSON         [1 hr 57 mins]     [██░░░░░░░░░░░░░░░░░░░░░░░]   10.01%
+Bash         [1 hr 9 mins]      [█░░░░░░░░░░░░░░░░░░░░░░░░]   5.94%
+Other        [0h 1m]            [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.12%
+
+💻 Operating Systems:
+Linux        [19 hrs 30 mins]  [█████████████████████████]   100.00%
+```
+
+</details>
+<!-- Wakatime last updated on Mon Sep 02 2024 22:22:43 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[09/02 19:11]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/prisma-monorepo` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[09/02 19:11]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[09/02 19:11]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1146`](https://github.com/IgorKowalczyk/majo.exe/pull/1146 'fix(deps): update prisma monorepo to v5.19.1') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[09/02 19:11]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/typescript-eslint-mon...` from [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[09/02 19:11]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[09/02 19:11]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#342`](https://github.com/IgorKowalczyk/countdown/pull/342 'Update typescript-eslint monorepo to v8.4.0') in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[09/02 19:11]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#1146`](https://github.com/IgorKowalczyk/majo.exe/pull/1146 'fix(deps): update prisma monorepo to v5.19.1') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[09/02 19:11]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#342`](https://github.com/IgorKowalczyk/countdown/pull/342 'Update typescript-eslint monorepo to v8.4.0') in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[09/02 19:11]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/typescript-eslint-mon...` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[09/02 19:11]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)
-<!-- Activity last updated on Mon Sep 02 2024 22:04:46 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Mon Sep 02 2024 22:22:37 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
