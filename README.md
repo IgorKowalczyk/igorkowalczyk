@@ -63,66 +63,20 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Fri Sep 06 2024 21:48:15 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Fri Sep 06 2024 22:04:57 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-| 🏆 Contributions (total):     |      27K     |
-| :---------------------------- | :----------: |
-| **🏆 Contributions in 2024:** |   **6.7K**   |
-| **📝 Total lines of code:**   |   **991K**   |
-| **📦 Github Storage:**        | **588.0 MB** |
-| **📚 Public Repositories:**   |    **28**    |
 
-<details><summary>✨ Show more stats</summary>
-
-#### 📅 I work mostly during the night
-
-```text
-🌞 Morning   571 commits   [███████░░░░░░░░░░░░░░░░░░]   28.44%
-🌆 Daytime   725 commits   [█████████░░░░░░░░░░░░░░░░]   36.11%
-🌃 Evening   650 commits   [████████░░░░░░░░░░░░░░░░░]   32.37%
-🌙 Night     62 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.09%
-```
-
-#### 📅 I'm most productive on Monday
-
-```text
-Sunday      176 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   8.76%
-Monday      393 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.57%
-Tuesday     357 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.78%
-Wednesday   287 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.29%
-Thursday    263 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.10%
-Friday      260 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.95%
-Saturday    272 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.55%
-```
-
-#### 📊 Weekly work stats (last 7 days)
-
-```text
-💬 Programming Languages:
-JavaScript   [10 hrs 10 mins]   [███████████░░░░░░░░░░░░░░]   44.29%
-TypeScript   [4 hrs 49 mins]    [█████░░░░░░░░░░░░░░░░░░░░]   20.98%
-C++          [2 hrs 40 mins]    [██░░░░░░░░░░░░░░░░░░░░░░░]   11.60%
-Prisma       [2 hrs 26 mins]    [██░░░░░░░░░░░░░░░░░░░░░░░]   10.63%
-JSON         [1 hr 52 mins]     [██░░░░░░░░░░░░░░░░░░░░░░░]   8.15%
-Other        [1h 0m]            [█░░░░░░░░░░░░░░░░░░░░░░░░]   4.36%
-
-💻 Operating Systems:
-Linux        [22 hrs 59 mins]  [█████████████████████████]   100.00%
-```
-
-</details>
-<!-- Wakatime last updated on Fri Sep 06 2024 21:48:28 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[09/06 11:04]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/lucide-monorepo` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[09/06 11:04]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[09/06 11:04]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1160`](https://github.com/IgorKowalczyk/majo.exe/pull/1160 'fix(deps): update dependency lucide-react to v0.439.0') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[09/06 11:04]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#1160`](https://github.com/IgorKowalczyk/majo.exe/pull/1160 'fix(deps): update dependency lucide-react to v0.439.0') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[09/06 09:48]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[09/06 09:48]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/framer-motion-11.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[09/06 09:48]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1158`](https://github.com/IgorKowalczyk/majo.exe/pull/1158 'fix(deps): update dependency framer-motion to v11.5.4') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[09/06 09:48]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#1158`](https://github.com/IgorKowalczyk/majo.exe/pull/1158 'fix(deps): update dependency framer-motion to v11.5.4') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[09/06 09:45]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#1158`](https://github.com/IgorKowalczyk/majo.exe/pull/1158 'fix(deps): update dependency framer-motion to v11.5.4') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[09/06 09:45]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/tailwindcss-forms-0.x...` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)
-<!-- Activity last updated on Fri Sep 06 2024 21:48:15 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Fri Sep 06 2024 22:04:58 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
