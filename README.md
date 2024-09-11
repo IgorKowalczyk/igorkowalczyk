@@ -63,66 +63,20 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Wed Sep 11 2024 21:48:22 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Wed Sep 11 2024 22:04:46 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-| 🏆 Contributions (total):     |      27K     |
-| :---------------------------- | :----------: |
-| **🏆 Contributions in 2024:** |   **6.9K**   |
-| **📝 Total lines of code:**   |    **1M**    |
-| **📦 Github Storage:**        | **615.6 MB** |
-| **📚 Public Repositories:**   |    **28**    |
 
-<details><summary>✨ Show more stats</summary>
-
-#### 📅 I work mostly during the night
-
-```text
-🌞 Morning   590 commits   [███████░░░░░░░░░░░░░░░░░░]   29.24%
-🌆 Daytime   702 commits   [████████░░░░░░░░░░░░░░░░░]   34.79%
-🌃 Evening   667 commits   [████████░░░░░░░░░░░░░░░░░]   33.05%
-🌙 Night     59 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.92%
-```
-
-#### 📅 I'm most productive on Monday
-
-```text
-Sunday      167 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   8.28%
-Monday      402 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.92%
-Tuesday     361 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.89%
-Wednesday   299 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.82%
-Thursday    250 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.39%
-Friday      253 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.54%
-Saturday    286 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.17%
-```
-
-#### 📊 Weekly work stats (last 7 days)
-
-```text
-💬 Programming Languages:
-JavaScript    [11 hrs 26 mins]   [████████████████░░░░░░░░░]   67.74%
-TypeScript    [1 hr 50 mins]     [██░░░░░░░░░░░░░░░░░░░░░░░]   10.86%
-Bash          [1 hr 5 mins]      [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.48%
-Prisma        [34 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.41%
-
-Other         [1h 28m]           [██░░░░░░░░░░░░░░░░░░░░░░░]   11.52%
-
-💻 Operating Systems:
-Linux         [16 hrs 53 mins]  [█████████████████████████]   100.00%
-```
-
-</details>
-<!-- Wakatime last updated on Wed Sep 11 2024 21:48:29 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[09/11 12:32]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/prisma-monorepo` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[09/11 12:32]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[09/11 12:32]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1173`](https://github.com/IgorKowalczyk/majo.exe/pull/1173 'fix(deps): update dependency @prisma/client to v5.19.1') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[09/11 12:32]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#1173`](https://github.com/IgorKowalczyk/majo.exe/pull/1173 'fix(deps): update dependency @prisma/client to v5.19.1') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[09/11 12:26]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/discordjs-rest-2.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[09/11 12:26]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `3` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[09/11 12:26]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1172`](https://github.com/IgorKowalczyk/majo.exe/pull/1172 'fix(deps): update dependency @discordjs/rest to v2.4.0') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[09/11 12:26]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[09/11 12:25]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#1172`](https://github.com/IgorKowalczyk/majo.exe/pull/1172 'fix(deps): update dependency @discordjs/rest to v2.4.0') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[09/11 12:24]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/pnpm-9.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
-<!-- Activity last updated on Wed Sep 11 2024 21:48:22 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Wed Sep 11 2024 22:04:46 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
