@@ -63,66 +63,20 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sat Sep 21 2024 21:48:20 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sat Sep 21 2024 22:04:58 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-| 🏆 Contributions (total):     |      28K     |
-| :---------------------------- | :----------: |
-| **🏆 Contributions in 2024:** |   **7.2K**   |
-| **📝 Total lines of code:**   |    **1M**    |
-| **📦 Github Storage:**        | **616.3 MB** |
-| **📚 Public Repositories:**   |    **28**    |
 
-<details><summary>✨ Show more stats</summary>
-
-#### 📅 I work mostly during the night
-
-```text
-🌞 Morning   613 commits   [███████░░░░░░░░░░░░░░░░░░]   30.36%
-🌆 Daytime   680 commits   [████████░░░░░░░░░░░░░░░░░]   33.68%
-🌃 Evening   664 commits   [████████░░░░░░░░░░░░░░░░░]   32.89%
-🌙 Night     62 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.07%
-```
-
-#### 📅 I'm most productive on Monday
-
-```text
-Sunday      156 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   7.73%
-Monday      385 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.07%
-Tuesday     355 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.58%
-Wednesday   283 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.02%
-Thursday    257 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.73%
-Friday      286 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.17%
-Saturday    297 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.71%
-```
-
-#### 📊 Weekly work stats (last 7 days)
-
-```text
-💬 Programming Languages:
-TypeScript   [24 hrs 29 mins]   [███████████████████░░░░░░]   78.48%
-JavaScript   [5 hrs 39 mins]    [████░░░░░░░░░░░░░░░░░░░░░]   18.12%
-JSON         [47 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.56%
-Bash         [12 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.69%
-Prisma       [1 min]            [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.05%
-Other        [0h 1m]            [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.10%
-
-💻 Operating Systems:
-Linux        [31 hrs 12 mins]  [█████████████████████████]   100.00%
-```
-
-</details>
-<!-- Wakatime last updated on Sat Sep 21 2024 21:48:28 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[09/21 19:06]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[09/21 17:47]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `rebuild` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[09/21 17:40]` <a href="https://github.com/igorkowalczyk" title="🗣"><img alt="🗣" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/comment.png" align="top" height="18"></a> Commented on [`#4218`](https://github.com/lovell/sharp/issues/4218 'Illegal hardware instruction (core dumped)') in [lovell/sharp](https://github.com/lovell/sharp)<br/>`[09/21 17:39]` <a href="https://github.com/igorkowalczyk" title="❗️"><img alt="❗️" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/issue.png" align="top" height="18"></a> Opened issue [`#4218`](https://github.com/lovell/sharp/issues/4218 'Illegal hardware instruction (core dumped)') in [lovell/sharp](https://github.com/lovell/sharp)<br/>`[09/21 17:07]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[09/21 14:41]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/lucide-monorepo` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[09/21 14:41]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1201`](https://github.com/IgorKowalczyk/majo.exe/pull/1201 'fix(deps): update dependency lucide-react to v0.445.0') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[09/21 14:41]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[09/21 14:41]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/rollup-4.x` from [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br/>`[09/21 14:41]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)
-<!-- Activity last updated on Sat Sep 21 2024 21:48:20 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Sat Sep 21 2024 22:04:59 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
