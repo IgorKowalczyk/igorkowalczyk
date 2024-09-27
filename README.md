@@ -63,20 +63,66 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Fri Sep 27 2024 22:04:55 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Fri Sep 27 2024 22:22:50 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
+| 🏆 Contributions (total):     |      28K     |
+| :---------------------------- | :----------: |
+| **🏆 Contributions in 2024:** |   **7.4K**   |
+| **📝 Total lines of code:**   |    **1M**    |
+| **📦 Github Storage:**        | **616.5 MB** |
+| **📚 Public Repositories:**   |    **28**    |
 
+<details><summary>✨ Show more stats</summary>
+
+#### 📅 I work mostly during the night
+
+```text
+🌞 Morning   647 commits   [████████░░░░░░░░░░░░░░░░░]   32.05%
+🌆 Daytime   663 commits   [████████░░░░░░░░░░░░░░░░░]   32.84%
+🌃 Evening   652 commits   [████████░░░░░░░░░░░░░░░░░]   32.29%
+🌙 Night     57 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.82%
+```
+
+#### 📅 I'm most productive on Monday
+
+```text
+Sunday      149 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   7.38%
+Monday      386 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.12%
+Tuesday     370 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.33%
+Wednesday   286 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.17%
+Thursday    255 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.63%
+Friday      287 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.21%
+Saturday    286 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.17%
+```
+
+#### 📊 Weekly work stats (last 7 days)
+
+```text
+💬 Programming Languages:
+JavaScript    [19 hrs 25 mins]   [████████░░░░░░░░░░░░░░░░░]   32.53%
+Docker        [17 hrs 9 mins]    [███████░░░░░░░░░░░░░░░░░░]   28.73%
+TypeScript    [12 hrs 38 mins]   [█████░░░░░░░░░░░░░░░░░░░░]   21.16%
+Bash          [3 hrs 52 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.48%
+YAML          [2 hrs 1 min]      [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.40%
+Other         [4h 36m]           [█░░░░░░░░░░░░░░░░░░░░░░░░]   7.69%
+
+💻 Operating Systems:
+Linux         [59 hrs 44 mins]  [█████████████████████████]   100.00%
+```
+
+</details>
+<!-- Wakatime last updated on Fri Sep 27 2024 22:22:57 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[09/27 07:33]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `3` commits in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[09/27 07:33]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#466`](https://github.com/IgorKowalczyk/shared-configs/pull/466 'chore(deps): update dependency @types/node to v22.7.3') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[09/27 07:33]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `3` commits in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[09/27 07:33]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#466`](https://github.com/IgorKowalczyk/shared-configs/pull/466 'chore(deps): update dependency @types/node to v22.7.3') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[09/27 07:33]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/node-22.x` from [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br/>`[09/27 07:33]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br/>`[09/27 07:33]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#334`](https://github.com/IgorKowalczyk/discord-ssh/pull/334 'Update dependency @types/node to v22.7.3') in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br/>`[09/27 07:33]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#334`](https://github.com/IgorKowalczyk/discord-ssh/pull/334 'Update dependency @types/node to v22.7.3') in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br/>`[09/27 07:33]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-plugin-react-7...` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[09/27 07:33]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)
-<!-- Activity last updated on Fri Sep 27 2024 22:04:56 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Fri Sep 27 2024 22:22:50 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
