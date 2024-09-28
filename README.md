@@ -63,20 +63,66 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://portfolio-hzuv5s556-igor-kowalczyk.vercel.app/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sat Sep 28 2024 22:22:26 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sat Sep 28 2024 22:34:38 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
+| 🏆 Contributions (total):     |      28K     |
+| :---------------------------- | :----------: |
+| **🏆 Contributions in 2024:** |   **7.5K**   |
+| **📝 Total lines of code:**   |    **1M**    |
+| **📦 Github Storage:**        | **638.0 MB** |
+| **📚 Public Repositories:**   |    **28**    |
 
+<details><summary>✨ Show more stats</summary>
+
+#### 📅 I work mostly during the night
+
+```text
+🌞 Morning   636 commits   [███████░░░░░░░░░░░░░░░░░░]   31.50%
+🌆 Daytime   663 commits   [████████░░░░░░░░░░░░░░░░░]   32.84%
+🌃 Evening   663 commits   [████████░░░░░░░░░░░░░░░░░]   32.84%
+🌙 Night     57 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.82%
+```
+
+#### 📅 I'm most productive on Monday
+
+```text
+Sunday      142 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   7.03%
+Monday      378 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.72%
+Tuesday     363 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.98%
+Wednesday   286 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.17%
+Thursday    258 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.78%
+Friday      285 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.12%
+Saturday    307 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.21%
+```
+
+#### 📊 Weekly work stats (last 7 days)
+
+```text
+💬 Programming Languages:
+JavaScript    [23 hrs 25 mins]   [█████████░░░░░░░░░░░░░░░░]   36.61%
+Docker        [17 hrs 10 mins]   [██████░░░░░░░░░░░░░░░░░░░]   26.84%
+TypeScript    [10 hrs 49 mins]   [████░░░░░░░░░░░░░░░░░░░░░]   16.91%
+Bash          [3 hrs 52 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.05%
+JSON          [2 hrs 42 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   4.23%
+Other         [5h 58m]           [██░░░░░░░░░░░░░░░░░░░░░░░]   9.34%
+
+💻 Operating Systems:
+Linux         [63 hrs 59 mins]  [█████████████████████████]   100.00%
+```
+
+</details>
+<!-- Wakatime last updated on Sat Sep 28 2024 22:34:46 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[09/28 20:36]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[09/28 19:41]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `v6` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[09/28 19:40]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `29` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[09/28 19:40]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#937`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/937 'Portfolio redesign v6') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[09/28 19:38]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[09/28 19:37]` <a href="https://github.com/igorkowalczyk" title="🏷"><img alt="🏷" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/release.png" align="top" height="18"></a> Released [`v5.1.0`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/releases/tag/v5.1.0) in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[09/28 19:37]` <a href="https://github.com/igorkowalczyk" title="🔖"><img alt="🔖" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/create-tag.png" align="top" height="18"></a> Created tag `v5.1.0` in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[09/28 19:35]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[09/28 12:43]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/node-22.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[09/28 12:43]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
-<!-- Activity last updated on Sat Sep 28 2024 22:22:27 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Sat Sep 28 2024 22:34:39 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
