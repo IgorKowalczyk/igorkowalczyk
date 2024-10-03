@@ -63,66 +63,20 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Thu Oct 03 2024 21:48:21 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Thu Oct 03 2024 22:04:53 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-| 🏆 Contributions (total):     |      28K     |
-| :---------------------------- | :----------: |
-| **🏆 Contributions in 2024:** |   **7.6K**   |
-| **📝 Total lines of code:**   |    **1M**    |
-| **📦 Github Storage:**        | **638.0 MB** |
-| **📚 Public Repositories:**   |    **28**    |
 
-<details><summary>✨ Show more stats</summary>
-
-#### 📅 I work mostly during the night
-
-```text
-🌞 Morning   634 commits   [███████░░░░░░░░░░░░░░░░░░]   31.40%
-🌆 Daytime   670 commits   [████████░░░░░░░░░░░░░░░░░]   33.18%
-🌃 Evening   660 commits   [████████░░░░░░░░░░░░░░░░░]   32.69%
-🌙 Night     55 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.72%
-```
-
-#### 📅 I'm most productive on Monday
-
-```text
-Sunday      151 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   7.48%
-Monday      375 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.57%
-Tuesday     355 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.58%
-Wednesday   296 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.66%
-Thursday    259 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.83%
-Friday      281 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.92%
-Saturday    302 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.96%
-```
-
-#### 📊 Weekly work stats (last 7 days)
-
-```text
-💬 Programming Languages:
-JavaScript    [29 hrs 10 mins]   [█████████████░░░░░░░░░░░░]   54.90%
-TypeScript    [11 hrs 22 mins]   [█████░░░░░░░░░░░░░░░░░░░░]   21.41%
-JSON          [6 hrs 6 mins]     [██░░░░░░░░░░░░░░░░░░░░░░░]   11.50%
-
-CSS           [1 hr 50 mins]     [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.47%
-Other         [2h 47m]           [██░░░░░░░░░░░░░░░░░░░░░░░]   8.70%
-
-💻 Operating Systems:
-Linux         [53 hrs 8 mins]   [█████████████████████████]   100.00%
-```
-
-</details>
-<!-- Wakatime last updated on Thu Oct 03 2024 21:48:33 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[10/03 19:35]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/headlessui-react-2.x` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[10/03 19:35]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[10/03 19:35]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#944`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/944 'Update dependency @headlessui/react to v2.1.9') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[10/03 19:34]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/astro-monorepo` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[10/03 19:34]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[10/03 19:34]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#757`](https://github.com/IgorKowalczyk/github-views/pull/757 'Update dependency astro to v4.15.11') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[10/03 19:34]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#757`](https://github.com/IgorKowalczyk/github-views/pull/757 'Update dependency astro to v4.15.11') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[10/03 19:34]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/framer-motion-11.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[10/03 19:34]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[10/03 19:34]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1230`](https://github.com/IgorKowalczyk/majo.exe/pull/1230 'fix(deps): update dependency framer-motion to v11.11.0') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
-<!-- Activity last updated on Thu Oct 03 2024 21:48:21 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Thu Oct 03 2024 22:04:53 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
