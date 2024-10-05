@@ -63,20 +63,66 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sat Oct 05 2024 22:22:43 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sat Oct 05 2024 22:35:05 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
+| 🏆 Contributions (total):     |      28K     |
+| :---------------------------- | :----------: |
+| **🏆 Contributions in 2024:** |   **7.7K**   |
+| **📝 Total lines of code:**   |    **1M**    |
+| **📦 Github Storage:**        | **638.4 MB** |
+| **📚 Public Repositories:**   |    **28**    |
 
+<details><summary>✨ Show more stats</summary>
+
+#### 📅 I work mostly during the night
+
+```text
+🌞 Morning   641 commits   [███████░░░░░░░░░░░░░░░░░░]   31.75%
+🌆 Daytime   664 commits   [████████░░░░░░░░░░░░░░░░░]   32.89%
+🌃 Evening   660 commits   [████████░░░░░░░░░░░░░░░░░]   32.69%
+🌙 Night     54 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.67%
+```
+
+#### 📅 I'm most productive on Monday
+
+```text
+Sunday      148 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   7.33%
+Monday      373 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.47%
+Tuesday     353 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.48%
+Wednesday   293 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.51%
+Thursday    257 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.73%
+Friday      282 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.97%
+Saturday    313 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.50%
+```
+
+#### 📊 Weekly work stats (last 7 days)
+
+```text
+💬 Programming Languages:
+TypeScript    [26 hrs 18 mins]   [████████████░░░░░░░░░░░░░]   51.05%
+JavaScript    [16 hrs 36 mins]   [████████░░░░░░░░░░░░░░░░░]   32.23%
+JSON          [4 hrs 22 mins]    [██░░░░░░░░░░░░░░░░░░░░░░░]   8.48%
+CSS           [2 hrs 14 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   4.34%
+Bash          [1 hr 10 mins]     [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.27%
+Other         [0h 50m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.63%
+
+💻 Operating Systems:
+Linux         [51 hrs 31 mins]  [█████████████████████████]   100.00%
+```
+
+</details>
+<!-- Wakatime last updated on Sat Oct 05 2024 22:35:15 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[10/05 17:03]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[10/05 12:00]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [mpv-player/mpv](https://github.com/mpv-player/mpv)<br/>`[10/05 09:13]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-monorepo` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[10/05 09:13]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#481`](https://github.com/IgorKowalczyk/shared-configs/pull/481 'fix(deps): update eslint monorepo to v9.12.0') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[10/05 09:13]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[10/05 09:11]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#481`](https://github.com/IgorKowalczyk/shared-configs/pull/481 'fix(deps): update eslint monorepo to v9.12.0') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[10/05 09:11]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-monorepo` from [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br/>`[10/05 09:11]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br/>`[10/05 09:11]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#317`](https://github.com/IgorKowalczyk/is-browser/pull/317 'Update dependency eslint to v9.12.0') in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br/>`[10/05 09:11]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-monorepo` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)
-<!-- Activity last updated on Sat Oct 05 2024 22:22:44 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Sat Oct 05 2024 22:35:06 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
