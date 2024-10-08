@@ -63,20 +63,66 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Tue Oct 08 2024 22:04:49 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Tue Oct 08 2024 22:23:00 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
+| 🏆 Contributions (total):     |      28K     |
+| :---------------------------- | :----------: |
+| **🏆 Contributions in 2024:** |   **7.8K**   |
+| **📝 Total lines of code:**   |    **1M**    |
+| **📦 Github Storage:**        | **638.4 MB** |
+| **📚 Public Repositories:**   |    **28**    |
 
+<details><summary>✨ Show more stats</summary>
+
+#### 📅 I work mostly during the night
+
+```text
+🌞 Morning   652 commits   [████████░░░░░░░░░░░░░░░░░]   32.29%
+🌆 Daytime   655 commits   [████████░░░░░░░░░░░░░░░░░]   32.44%
+🌃 Evening   657 commits   [████████░░░░░░░░░░░░░░░░░]   32.54%
+🌙 Night     55 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.72%
+```
+
+#### 📅 I'm most productive on Monday
+
+```text
+Sunday      143 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   7.08%
+Monday      372 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.42%
+Tuesday     370 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.33%
+Wednesday   291 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.41%
+Thursday    254 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.58%
+Friday      278 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.77%
+Saturday    311 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.40%
+```
+
+#### 📊 Weekly work stats (last 7 days)
+
+```text
+💬 Programming Languages:
+TypeScript    [51 hrs 18 mins]   [█████████████████████░░░░]   87.63%
+JSON          [4 hrs 10 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   7.15%
+JavaScript    [1 hr 36 mins]     [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.74%
+CSS           [1 hr 1 min]       [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.76%
+Markdown      [13 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.38%
+Other         [0h 11m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.33%
+
+💻 Operating Systems:
+Linux         [58 hrs 32 mins]  [█████████████████████████]   100.00%
+```
+
+</details>
+<!-- Wakatime last updated on Tue Oct 08 2024 22:23:14 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[10/08 13:31]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/lucide-monorepo` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[10/08 13:31]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[10/08 13:31]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#950`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/950 'Update dependency lucide-react to v0.451.0') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[10/08 13:31]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#950`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/950 'Update dependency lucide-react to v0.451.0') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[10/08 10:39]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/lucide-monorepo` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[10/08 10:39]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[10/08 10:39]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#949`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/949 'Update dependency lucide-react to v0.449.0') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[10/08 10:38]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#949`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/949 'Update dependency lucide-react to v0.449.0') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[10/08 09:07]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/pnpm-9.x` from [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[10/08 09:07]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)
-<!-- Activity last updated on Tue Oct 08 2024 22:04:50 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Tue Oct 08 2024 22:23:00 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
