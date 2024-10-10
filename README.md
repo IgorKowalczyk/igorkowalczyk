@@ -63,20 +63,66 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Thu Oct 10 2024 22:05:18 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Thu Oct 10 2024 22:22:57 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
+| 🏆 Contributions (total):     |      28K     |
+| :---------------------------- | :----------: |
+| **🏆 Contributions in 2024:** |   **7.9K**   |
+| **📝 Total lines of code:**   |    **1M**    |
+| **📦 Github Storage:**        | **639.0 MB** |
+| **📚 Public Repositories:**   |    **28**    |
 
+<details><summary>✨ Show more stats</summary>
+
+#### 📅 I work mostly during the night
+
+```text
+🌞 Morning   663 commits   [████████░░░░░░░░░░░░░░░░░]   32.84%
+🌆 Daytime   654 commits   [████████░░░░░░░░░░░░░░░░░]   32.39%
+🌃 Evening   647 commits   [████████░░░░░░░░░░░░░░░░░]   32.05%
+🌙 Night     55 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.72%
+```
+
+#### 📅 I'm most productive on Monday
+
+```text
+Sunday      142 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   7.03%
+Monday      371 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.38%
+Tuesday     360 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.83%
+Wednesday   303 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.01%
+Thursday    256 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.68%
+Friday      277 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.72%
+Saturday    310 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.35%
+```
+
+#### 📊 Weekly work stats (last 7 days)
+
+```text
+💬 Programming Languages:
+TypeScript    [59 hrs 1 min]     [██████████████████████░░░]   90.28%
+Image (svg)   [3 hrs 38 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   5.57%
+JavaScript    [1 hr 16 mins]     [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.96%
+JSON          [55 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.41%
+SQL           [15 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.41%
+Other         [0h 14m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.37%
+
+💻 Operating Systems:
+Linux         [65 hrs 22 mins]  [█████████████████████████]   100.00%
+```
+
+</details>
+<!-- Wakatime last updated on Thu Oct 10 2024 22:23:08 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[10/10 12:48]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/astro-monorepo` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[10/10 12:48]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[10/10 12:48]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#761`](https://github.com/IgorKowalczyk/github-views/pull/761 'Update astro monorepo') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[10/10 12:47]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#761`](https://github.com/IgorKowalczyk/github-views/pull/761 'Update astro monorepo') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[10/10 09:16]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-plugin-tailwin...` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[10/10 09:16]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[10/10 09:16]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#490`](https://github.com/IgorKowalczyk/shared-configs/pull/490 'fix(deps): update dependency eslint-plugin-tailwindcss to v3.17.5') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[10/10 09:16]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/next-nprogress-bar-2....` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[10/10 09:16]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[10/10 09:16]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#953`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/953 'Update dependency next-nprogress-bar to v2.3.14') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)
-<!-- Activity last updated on Thu Oct 10 2024 22:05:18 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Thu Oct 10 2024 22:22:57 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
