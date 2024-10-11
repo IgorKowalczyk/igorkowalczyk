@@ -25,11 +25,11 @@
 
 ### 💪 Experience & History
 
-I have been coding for more than 5 years. I started my journey at the end of 2018.\
-At first, I learned HTML, CSS and base Javascript to build websites\
-My first project was a simple music player made with Javascript (~January 2019).\
-In March 2020, I started learning [Node.js](https://github.com/IgorKowalczyk?tab=repositories&q=&type=&language=javascript&sort=stargazers) & [Express.js](https://expressjs.com/), I also created my first major project - [Majo.exe](https://github.com/igorkowalczyk/majo.exe)\
-In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](https://nextjs.org/) and [Tailwind.css](https://tailwindcss.com/)...
+I have been coding for over 6 years, beginning my journey in late 2018. Initially, I learned HTML, CSS, and basic JavaScript to build websites.
+
+My first project was a simple music player made with JavaScript (~January 2019).
+
+In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=repositories&q=&type=&language=javascript&sort=stargazers) and [Express.js](https://expressjs.com/), and created my first major project, [Majo.exe](https://github.com/igorkowalczyk/majo.exe). In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](https://nextjs.org/) and [Tailwind.css](https://tailwindcss.com/)
 
 ### 🧠 Over the years, I've learned
 
