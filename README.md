@@ -63,66 +63,20 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sat Oct 12 2024 21:48:18 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sat Oct 12 2024 22:04:50 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-| 🏆 Contributions (total):     |      28K     |
-| :---------------------------- | :----------: |
-| **🏆 Contributions in 2024:** |   **7.9K**   |
-| **📝 Total lines of code:**   |    **1M**    |
-| **📦 Github Storage:**        | **638.3 MB** |
-| **📚 Public Repositories:**   |    **28**    |
 
-<details><summary>✨ Show more stats</summary>
-
-#### 📅 I work mostly during the night
-
-```text
-🌞 Morning   667 commits   [████████░░░░░░░░░░░░░░░░░]   33.04%
-🌆 Daytime   653 commits   [████████░░░░░░░░░░░░░░░░░]   32.34%
-🌃 Evening   644 commits   [███████░░░░░░░░░░░░░░░░░░]   31.90%
-🌙 Night     55 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.72%
-```
-
-#### 📅 I'm most productive on Monday
-
-```text
-Sunday      142 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   7.03%
-Monday      370 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.33%
-Tuesday     357 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.68%
-Wednesday   299 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.81%
-Thursday    254 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.58%
-Friday      282 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.97%
-Saturday    315 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.60%
-```
-
-#### 📊 Weekly work stats (last 7 days)
-
-```text
-💬 Programming Languages:
-TypeScript    [65 hrs 22 mins]   [███████████████████████░░]   92.02%
-Image (svg)   [3 hrs 38 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   5.13%
-JavaScript    [1 hr 16 mins]     [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.80%
-SQL           [15 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.38%
-JSON          [14 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.35%
-Other         [0h 14m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.33%
-
-💻 Operating Systems:
-Linux         [71 hrs 2 mins]   [█████████████████████████]   100.00%
-```
-
-</details>
-<!-- Wakatime last updated on Sat Oct 12 2024 21:48:29 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[10/12 18:07]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/astro-monorepo` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[10/12 18:07]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[10/12 18:07]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#763`](https://github.com/IgorKowalczyk/github-views/pull/763 'Update dependency astro to v4.16.2') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[10/12 18:07]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#763`](https://github.com/IgorKowalczyk/github-views/pull/763 'Update dependency astro to v4.16.2') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[10/12 11:54]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/node-addon-api-8.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[10/12 11:54]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[10/12 11:54]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1249`](https://github.com/IgorKowalczyk/majo.exe/pull/1249 'chore(deps): update dependency node-addon-api to v8.2.1') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[10/12 11:29]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#1249`](https://github.com/IgorKowalczyk/majo.exe/pull/1249 'chore(deps): update dependency node-addon-api to v8.2.1') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[10/12 11:28]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/astro-monorepo` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[10/12 11:28]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)
-<!-- Activity last updated on Sat Oct 12 2024 21:48:18 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Sat Oct 12 2024 22:04:51 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
