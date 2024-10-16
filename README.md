@@ -63,20 +63,66 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Wed Oct 16 2024 22:05:21 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Wed Oct 16 2024 22:22:51 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
+| 🏆 Contributions (total):     |      29K     |
+| :---------------------------- | :----------: |
+| **🏆 Contributions in 2024:** |    **8K**    |
+| **📝 Total lines of code:**   |    **1M**    |
+| **📦 Github Storage:**        | **642.9 MB** |
+| **📚 Public Repositories:**   |    **28**    |
 
+<details><summary>✨ Show more stats</summary>
+
+#### 📅 I work mostly during the night
+
+```text
+🌞 Morning   672 commits   [████████░░░░░░░░░░░░░░░░░]   33.27%
+🌆 Daytime   652 commits   [████████░░░░░░░░░░░░░░░░░]   32.28%
+🌃 Evening   642 commits   [███████░░░░░░░░░░░░░░░░░░]   31.78%
+🌙 Night     54 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.67%
+```
+
+#### 📅 I'm most productive on Tuesday
+
+```text
+Sunday      150 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   7.43%
+Monday      366 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.12%
+Tuesday     369 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.27%
+Wednesday   294 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.55%
+Thursday    249 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.33%
+Friday      280 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.86%
+Saturday    312 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.45%
+```
+
+#### 📊 Weekly work stats (last 7 days)
+
+```text
+💬 Programming Languages:
+TypeScript    [51 hrs 39 mins]   [████████████████████░░░░░]   82.67%
+Image (svg)   [3 hrs 37 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   5.80%
+JavaScript    [3 hrs 28 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   5.57%
+JSON          [1 hr 40 mins]     [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.68%
+Bash          [1 hr 8 mins]      [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.84%
+Other         [0h 53m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.43%
+
+💻 Operating Systems:
+Linux         [62 hrs 29 mins]  [█████████████████████████]   100.00%
+```
+
+</details>
+<!-- Wakatime last updated on Wed Oct 16 2024 22:23:00 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[10/16 08:43]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/rollup-plugin-typescr...` from [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[10/16 08:43]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[10/16 08:43]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#370`](https://github.com/IgorKowalczyk/countdown/pull/370 'Update dependency @rollup/plugin-typescript to v12.1.1') in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[10/16 08:43]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#370`](https://github.com/IgorKowalczyk/countdown/pull/370 'Update dependency @rollup/plugin-typescript to v12.1.1') in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[10/16 08:42]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/rollup-plugin-typescr...` from [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/>`[10/16 08:42]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/>`[10/16 08:42]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#277`](https://github.com/IgorKowalczyk/repl-uptime/pull/277 'Update dependency @rollup/plugin-typescript to v12.1.1') in [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/>`[10/16 08:42]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#277`](https://github.com/IgorKowalczyk/repl-uptime/pull/277 'Update dependency @rollup/plugin-typescript to v12.1.1') in [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/>`[10/16 08:42]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/rollup-plugin-commonj...` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[10/16 08:42]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#494`](https://github.com/IgorKowalczyk/shared-configs/pull/494 'chore(deps): update dependency @rollup/plugin-commonjs to v28.0.1') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)
-<!-- Activity last updated on Wed Oct 16 2024 22:05:21 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Wed Oct 16 2024 22:22:51 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
