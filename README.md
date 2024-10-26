@@ -63,66 +63,20 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sat Oct 26 2024 21:48:20 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sat Oct 26 2024 22:04:58 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-| 🏆 Contributions (total):     |      29K     |
-| :---------------------------- | :----------: |
-| **🏆 Contributions in 2024:** |   **8.4K**   |
-| **📝 Total lines of code:**   |    **1M**    |
-| **📦 Github Storage:**        | **657.2 MB** |
-| **📚 Public Repositories:**   |    **28**    |
 
-<details><summary>✨ Show more stats</summary>
-
-#### 📅 I work mostly during the night
-
-```text
-🌞 Morning   672 commits   [████████░░░░░░░░░░░░░░░░░]   33.27%
-🌆 Daytime   651 commits   [████████░░░░░░░░░░░░░░░░░]   32.23%
-🌃 Evening   649 commits   [████████░░░░░░░░░░░░░░░░░]   32.13%
-🌙 Night     48 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.38%
-```
-
-#### 📅 I'm most productive on Monday
-
-```text
-Sunday      136 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.73%
-Monday      361 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.87%
-Tuesday     353 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.48%
-Wednesday   290 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.36%
-Thursday    254 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.57%
-Friday      295 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.60%
-Saturday    331 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.39%
-```
-
-#### 📊 Weekly work stats (last 7 days)
-
-```text
-💬 Programming Languages:
-TypeScript   [26 hrs 28 mins]   [██████████████████░░░░░░░]   75.74%
-JavaScript   [3 hrs 36 mins]    [██░░░░░░░░░░░░░░░░░░░░░░░]   10.33%
-JSON         [3 hrs 22 mins]    [██░░░░░░░░░░░░░░░░░░░░░░░]   9.67%
-CSS          [53 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.57%
-Git Config   [28 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.38%
-Other        [0h 6m]            [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.31%
-
-💻 Operating Systems:
-Linux        [34 hrs 56 mins]  [█████████████████████████]   100.00%
-```
-
-</details>
-<!-- Wakatime last updated on Sat Oct 26 2024 21:48:28 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[10/26 13:01]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/igorkowalczyk-eslint-...` from [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/>`[10/26 13:01]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/>`[10/26 13:01]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#290`](https://github.com/IgorKowalczyk/repl-uptime/pull/290 'Update dependency @igorkowalczyk/eslint-config to v3.0.0-beta.15') in [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/>`[10/26 13:01]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/igorkowalczyk-eslint-...` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[10/26 13:01]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[10/26 13:01]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#976`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/976 'Update dependency @igorkowalczyk/eslint-config to v3.0.0-beta.15') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[10/26 13:01]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#290`](https://github.com/IgorKowalczyk/repl-uptime/pull/290 'Update dependency @igorkowalczyk/eslint-config to v3.0.0-beta.15') in [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/>`[10/26 13:01]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#976`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/976 'Update dependency @igorkowalczyk/eslint-config to v3.0.0-beta.15') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[10/26 11:46]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/igorkowalczyk-prettie...` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[10/26 11:46]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)
-<!-- Activity last updated on Sat Oct 26 2024 21:48:20 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Sat Oct 26 2024 22:04:59 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
