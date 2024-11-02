@@ -63,66 +63,20 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sat Nov 02 2024 22:48:29 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sat Nov 02 2024 23:06:34 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-| 🏆 Contributions (total):     |      29K     |
-| :---------------------------- | :----------: |
-| **🏆 Contributions in 2024:** |   **8.7K**   |
-| **📝 Total lines of code:**   |   **996K**   |
-| **📦 Github Storage:**        | **657.8 MB** |
-| **📚 Public Repositories:**   |    **28**    |
 
-<details><summary>✨ Show more stats</summary>
-
-#### 📅 I work mostly during the night
-
-```text
-🌞 Morning   663 commits   [████████░░░░░░░░░░░░░░░░░]   32.82%
-🌆 Daytime   657 commits   [████████░░░░░░░░░░░░░░░░░]   32.52%
-🌃 Evening   657 commits   [████████░░░░░░░░░░░░░░░░░]   32.52%
-🌙 Night     43 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.13%
-```
-
-#### 📅 I'm most productive on Monday
-
-```text
-Sunday      133 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.58%
-Monday      372 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.42%
-Tuesday     370 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.32%
-Wednesday   277 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.71%
-Thursday    252 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.48%
-Friday      282 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.96%
-Saturday    334 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.53%
-```
-
-#### 📊 Weekly work stats (last 7 days)
-
-```text
-💬 Programming Languages:
-TypeScript   [34 hrs 11 mins]   [█████████████████████░░░░]   84.02%
-JavaScript   [2 hrs 39 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.53%
-C++          [2 hrs 16 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   5.57%
-JSON         [1 hr 30 mins]     [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.70%
-Prisma       [2 mins]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.10%
-Other        [0h 1m]            [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.07%
-
-💻 Operating Systems:
-Linux        [40 hrs 41 mins]  [█████████████████████████]   100.00%
-```
-
-</details>
-<!-- Wakatime last updated on Sat Nov 02 2024 22:48:37 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[11/02 14:41]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/ora-8.x` from [IgorKowalczyk/ngrok-cli](https://github.com/IgorKowalczyk/ngrok-cli)<br/>`[11/02 14:41]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/ngrok-cli](https://github.com/IgorKowalczyk/ngrok-cli)<br/>`[11/02 14:41]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#311`](https://github.com/IgorKowalczyk/ngrok-cli/pull/311 'Update dependency ora to v8.1.1') in [IgorKowalczyk/ngrok-cli](https://github.com/IgorKowalczyk/ngrok-cli)<br/>`[11/02 14:41]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/recharts-2.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/02 14:41]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/02 14:41]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1298`](https://github.com/IgorKowalczyk/majo.exe/pull/1298 'fix(deps): update dependency recharts to v2.13.3') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/02 14:41]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#1298`](https://github.com/IgorKowalczyk/majo.exe/pull/1298 'fix(deps): update dependency recharts to v2.13.3') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/02 14:41]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#311`](https://github.com/IgorKowalczyk/ngrok-cli/pull/311 'Update dependency ora to v8.1.1') in [IgorKowalczyk/ngrok-cli](https://github.com/IgorKowalczyk/ngrok-cli)<br/>`[11/02 14:41]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/ora-8.x` from [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br/>`[11/02 14:41]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)
-<!-- Activity last updated on Sat Nov 02 2024 22:48:29 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Sat Nov 02 2024 23:06:34 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
