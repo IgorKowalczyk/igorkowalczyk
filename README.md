@@ -63,66 +63,20 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sun Nov 03 2024 22:48:24 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sun Nov 03 2024 23:06:21 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-| 🏆 Contributions (total):     |      29K     |
-| :---------------------------- | :----------: |
-| **🏆 Contributions in 2024:** |   **8.7K**   |
-| **📝 Total lines of code:**   |   **995K**   |
-| **📦 Github Storage:**        | **658.0 MB** |
-| **📚 Public Repositories:**   |    **28**    |
 
-<details><summary>✨ Show more stats</summary>
-
-#### 📅 I work mostly during the night
-
-```text
-🌞 Morning   668 commits   [████████░░░░░░░░░░░░░░░░░]   33.07%
-🌆 Daytime   655 commits   [████████░░░░░░░░░░░░░░░░░]   32.43%
-🌃 Evening   654 commits   [████████░░░░░░░░░░░░░░░░░]   32.38%
-🌙 Night     43 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.13%
-```
-
-#### 📅 I'm most productive on Monday
-
-```text
-Sunday      142 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   7.03%
-Monday      371 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.37%
-Tuesday     370 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.32%
-Wednesday   275 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.61%
-Thursday    249 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.33%
-Friday      279 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.81%
-Saturday    334 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.53%
-```
-
-#### 📊 Weekly work stats (last 7 days)
-
-```text
-💬 Programming Languages:
-TypeScript   [36 hrs 40 mins]   [████████████████████░░░░░]   82.62%
-JavaScript   [3 hrs 52 mins]    [██░░░░░░░░░░░░░░░░░░░░░░░]   8.73%
-C++          [2 hrs 16 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   5.11%
-JSON         [1 hr 30 mins]     [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.40%
-Prisma       [2 mins]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.09%
-Other        [0h 1m]            [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.06%
-
-💻 Operating Systems:
-Linux        [44 hrs 22 mins]  [█████████████████████████]   100.00%
-```
-
-</details>
-<!-- Wakatime last updated on Sun Nov 03 2024 22:48:38 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[11/03 20:06]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/igorkowalczyk-eslint-...` from [squarestack/github-invite](https://github.com/squarestack/github-invite)<br/>`[11/03 20:06]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [squarestack/github-invite](https://github.com/squarestack/github-invite)<br/>`[11/03 20:06]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#422`](https://github.com/squarestack/github-invite/pull/422 'chore(deps): update dependency @igorkowalczyk/eslint-config to v3.0.0-beta.15') in [squarestack/github-invite](https://github.com/squarestack/github-invite)<br/>`[11/03 17:33]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#422`](https://github.com/squarestack/github-invite/pull/422 'chore(deps): update dependency @igorkowalczyk/eslint-config to v3.0.0-beta.15') in [squarestack/github-invite](https://github.com/squarestack/github-invite)<br/>`[11/03 17:33]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [squarestack/github-invite](https://github.com/squarestack/github-invite)<br/>`[11/03 17:33]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/igorkowalczyk-prettie...` from [squarestack/github-invite](https://github.com/squarestack/github-invite)<br/>`[11/03 17:33]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#423`](https://github.com/squarestack/github-invite/pull/423 'chore(deps): update dependency @igorkowalczyk/prettier-config to v3.0.0-beta.15') in [squarestack/github-invite](https://github.com/squarestack/github-invite)<br/>`[11/03 17:33]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#423`](https://github.com/squarestack/github-invite/pull/423 'chore(deps): update dependency @igorkowalczyk/prettier-config to v3.0.0-beta.15') in [squarestack/github-invite](https://github.com/squarestack/github-invite)<br/>`[11/03 14:42]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/typescript-5.x` from [squarestack/github-invite](https://github.com/squarestack/github-invite)<br/>`[11/03 14:42]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [squarestack/github-invite](https://github.com/squarestack/github-invite)
-<!-- Activity last updated on Sun Nov 03 2024 22:48:24 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Sun Nov 03 2024 23:06:21 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
