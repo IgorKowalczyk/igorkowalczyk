@@ -63,66 +63,20 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Tue Nov 12 2024 22:48:22 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Tue Nov 12 2024 23:05:20 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-| 🏆 Contributions (total):     |      29K     |
-| :---------------------------- | :----------: |
-| **🏆 Contributions in 2024:** |   **8.9K**   |
-| **📝 Total lines of code:**   |   **451K**   |
-| **📦 Github Storage:**        | **769.0 MB** |
-| **📚 Public Repositories:**   |    **28**    |
 
-<details><summary>✨ Show more stats</summary>
-
-#### 📅 I work mostly during the night
-
-```text
-🌞 Morning   660 commits   [████████░░░░░░░░░░░░░░░░░]   32.64%
-🌆 Daytime   654 commits   [████████░░░░░░░░░░░░░░░░░]   32.34%
-🌃 Evening   663 commits   [████████░░░░░░░░░░░░░░░░░]   32.79%
-🌙 Night     45 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.23%
-```
-
-#### 📅 I'm most productive on Monday
-
-```text
-Sunday      138 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.82%
-Monday      378 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.69%
-Tuesday     375 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.55%
-Wednesday   271 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.40%
-Thursday    252 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.46%
-Friday      274 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.55%
-Saturday    334 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.52%
-```
-
-#### 📊 Weekly work stats (last 7 days)
-
-```text
-💬 Programming Languages:
-JavaScript   [18 hrs 33 mins]   [█████████████░░░░░░░░░░░░]   53.22%
-TypeScript   [12 hrs 9 mins]    [████████░░░░░░░░░░░░░░░░░]   34.85%
-JSON         [2 hrs 10 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.26%
-CSS          [1 hr 27 mins]     [█░░░░░░░░░░░░░░░░░░░░░░░░]   4.20%
-Astro        [19 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.94%
-Other        [0h 11m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.54%
-
-💻 Operating Systems:
-Linux        [34 hrs 51 mins]  [█████████████████████████]   100.00%
-```
-
-</details>
-<!-- Wakatime last updated on Tue Nov 12 2024 22:48:42 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-`[11/12 15:40]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/vercel-analytics-1.x` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[11/12 15:40]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[11/12 15:40]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#999`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/999 'Update dependency @vercel/analytics to v1.4.0') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[11/12 15:40]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#999`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/999 'Update dependency @vercel/analytics to v1.4.0') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[11/12 10:33]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/postcss-8.x` from [squarestack/github-invite](https://github.com/squarestack/github-invite)<br/>`[11/12 10:33]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [squarestack/github-invite](https://github.com/squarestack/github-invite)<br/>`[11/12 10:33]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#443`](https://github.com/squarestack/github-invite/pull/443 'chore(deps): update dependency postcss to v8.4.49') in [squarestack/github-invite](https://github.com/squarestack/github-invite)<br/>`[11/12 10:33]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#443`](https://github.com/squarestack/github-invite/pull/443 'chore(deps): update dependency postcss to v8.4.49') in [squarestack/github-invite](https://github.com/squarestack/github-invite)<br/>`[11/12 10:33]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/postcss-8.x` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[11/12 10:33]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)
-<!-- Activity last updated on Tue Nov 12 2024 22:48:22 GMT+0000 (Coordinated Universal Time) -->
+`[11/12 19:40]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/vercel-analytics-1.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/12 19:40]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/12 19:40]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1319`](https://github.com/IgorKowalczyk/majo.exe/pull/1319 'fix(deps): update dependency @vercel/analytics to v1.4.0') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/12 19:39]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#1319`](https://github.com/IgorKowalczyk/majo.exe/pull/1319 'fix(deps): update dependency @vercel/analytics to v1.4.0') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/12 19:39]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/framer-motion-11.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/12 19:39]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/12 19:39]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1318`](https://github.com/IgorKowalczyk/majo.exe/pull/1318 'fix(deps): update dependency framer-motion to v11.11.13') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/12 19:39]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#1318`](https://github.com/IgorKowalczyk/majo.exe/pull/1318 'fix(deps): update dependency framer-motion to v11.11.13') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/12 19:39]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/vercel-analytics-1.x` from [squarestack/github-invite](https://github.com/squarestack/github-invite)<br/>`[11/12 19:39]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [squarestack/github-invite](https://github.com/squarestack/github-invite)
+<!-- Activity last updated on Tue Nov 12 2024 23:05:21 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
