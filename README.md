@@ -63,20 +63,66 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Thu Nov 14 2024 23:05:26 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Thu Nov 14 2024 23:23:19 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
+| 🏆 Contributions (total):     |      30K     |
+| :---------------------------- | :----------: |
+| **🏆 Contributions in 2024:** |    **9K**    |
+| **📝 Total lines of code:**   |    **1M**    |
+| **📦 Github Storage:**        | **769.2 MB** |
+| **📚 Public Repositories:**   |    **28**    |
 
+<details><summary>✨ Show more stats</summary>
+
+#### 📅 I work mostly during the night
+
+```text
+🌞 Morning   647 commits   [███████░░░░░░░░░░░░░░░░░░]   31.97%
+🌆 Daytime   653 commits   [████████░░░░░░░░░░░░░░░░░]   32.26%
+🌃 Evening   680 commits   [████████░░░░░░░░░░░░░░░░░]   33.60%
+🌙 Night     44 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.17%
+```
+
+#### 📅 I'm most productive on Monday
+
+```text
+Sunday      137 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.77%
+Monday      376 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.58%
+Tuesday     369 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.23%
+Wednesday   278 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.74%
+Thursday    264 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.04%
+Friday      270 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.34%
+Saturday    330 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.30%
+```
+
+#### 📊 Weekly work stats (last 7 days)
+
+```text
+💬 Programming Languages:
+JavaScript   [13 hrs 19 mins]   [███████████░░░░░░░░░░░░░░]   45.06%
+TypeScript   [11 hrs 36 mins]   [█████████░░░░░░░░░░░░░░░░]   39.23%
+JSON         [2 hrs 37 mins]    [██░░░░░░░░░░░░░░░░░░░░░░░]   8.85%
+CSS          [1 hr 28 mins]     [█░░░░░░░░░░░░░░░░░░░░░░░░]   4.96%
+
+Other        [0h 17m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.89%
+
+💻 Operating Systems:
+Linux        [29 hrs 34 mins]  [█████████████████████████]   100.00%
+```
+
+</details>
+<!-- Wakatime last updated on Thu Nov 14 2024 23:23:27 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[11/14 15:29]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/framer-motion-11.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/14 15:29]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/14 15:29]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1325`](https://github.com/IgorKowalczyk/majo.exe/pull/1325 'fix(deps): update dependency framer-motion to v11.11.17') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/14 15:29]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#1325`](https://github.com/IgorKowalczyk/majo.exe/pull/1325 'fix(deps): update dependency framer-motion to v11.11.17') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/14 15:04]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/14 15:04]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/discord-api-types-0.x...` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/14 15:04]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1323`](https://github.com/IgorKowalczyk/majo.exe/pull/1323 'fix(deps): update dependency discord-api-types to v0.37.105') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/14 15:04]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#1323`](https://github.com/IgorKowalczyk/majo.exe/pull/1323 'fix(deps): update dependency discord-api-types to v0.37.105') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/14 15:01]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/framer-motion-11.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/14 15:01]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
-<!-- Activity last updated on Thu Nov 14 2024 23:05:26 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Thu Nov 14 2024 23:23:20 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
