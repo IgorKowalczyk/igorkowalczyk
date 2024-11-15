@@ -63,66 +63,20 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Fri Nov 15 2024 22:48:17 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Fri Nov 15 2024 23:05:05 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-| 🏆 Contributions (total):     |      30K     |
-| :---------------------------- | :----------: |
-| **🏆 Contributions in 2024:** |   **9.1K**   |
-| **📝 Total lines of code:**   |    **1M**    |
-| **📦 Github Storage:**        | **769.6 MB** |
-| **📚 Public Repositories:**   |    **28**    |
 
-<details><summary>✨ Show more stats</summary>
-
-#### 📅 I work mostly during the night
-
-```text
-🌞 Morning   650 commits   [████████░░░░░░░░░░░░░░░░░]   32.07%
-🌆 Daytime   660 commits   [████████░░░░░░░░░░░░░░░░░]   32.56%
-🌃 Evening   673 commits   [████████░░░░░░░░░░░░░░░░░]   33.20%
-🌙 Night     44 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.17%
-```
-
-#### 📅 I'm most productive on Monday
-
-```text
-Sunday      136 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.71%
-Monday      374 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.45%
-Tuesday     366 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.06%
-Wednesday   276 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.62%
-Thursday    260 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.83%
-Friday      290 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.31%
-Saturday    325 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.03%
-```
-
-#### 📊 Weekly work stats (last 7 days)
-
-```text
-💬 Programming Languages:
-JavaScript   [13 hrs 19 mins]   [███████████░░░░░░░░░░░░░░]   45.06%
-TypeScript   [11 hrs 36 mins]   [█████████░░░░░░░░░░░░░░░░]   39.23%
-JSON         [2 hrs 37 mins]    [██░░░░░░░░░░░░░░░░░░░░░░░]   8.85%
-CSS          [1 hr 28 mins]     [█░░░░░░░░░░░░░░░░░░░░░░░░]   4.96%
-
-Other        [0h 17m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.89%
-
-💻 Operating Systems:
-Linux        [29 hrs 34 mins]  [█████████████████████████]   100.00%
-```
-
-</details>
-<!-- Wakatime last updated on Fri Nov 15 2024 22:48:26 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[11/15 13:01]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[11/15 13:01]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/rollup-4.x` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[11/15 13:01]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#556`](https://github.com/IgorKowalczyk/shared-configs/pull/556 'chore(deps): update dependency rollup to v4.27.0') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[11/15 13:01]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#556`](https://github.com/IgorKowalczyk/shared-configs/pull/556 'chore(deps): update dependency rollup to v4.27.0') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[11/15 13:01]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/rollup-4.x` from [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[11/15 13:01]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[11/15 13:01]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#404`](https://github.com/IgorKowalczyk/countdown/pull/404 'Update dependency rollup to v4.27.0') in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[11/15 13:00]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#404`](https://github.com/IgorKowalczyk/countdown/pull/404 'Update dependency rollup to v4.27.0') in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[11/15 13:00]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/lucide-monorepo` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/15 13:00]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
-<!-- Activity last updated on Fri Nov 15 2024 22:48:17 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Fri Nov 15 2024 23:05:05 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
