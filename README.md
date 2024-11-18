@@ -63,20 +63,66 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Mon Nov 18 2024 23:05:21 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Mon Nov 18 2024 23:23:03 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
+| 🏆 Contributions (total):     |      30K     |
+| :---------------------------- | :----------: |
+| **🏆 Contributions in 2024:** |   **9.2K**   |
+| **📝 Total lines of code:**   |    **1M**    |
+| **📦 Github Storage:**        | **772.1 MB** |
+| **📚 Public Repositories:**   |    **28**    |
 
+<details><summary>✨ Show more stats</summary>
+
+#### 📅 I work mostly during the night
+
+```text
+🌞 Morning   632 commits   [███████░░░░░░░░░░░░░░░░░░]   31.18%
+🌆 Daytime   672 commits   [████████░░░░░░░░░░░░░░░░░]   33.15%
+🌃 Evening   679 commits   [████████░░░░░░░░░░░░░░░░░]   33.50%
+🌙 Night     44 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.17%
+```
+
+#### 📅 I'm most productive on Monday
+
+```text
+Sunday      139 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.86%
+Monday      376 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.55%
+Tuesday     353 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.41%
+Wednesday   269 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.27%
+Thursday    254 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.53%
+Friday      288 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.21%
+Saturday    348 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.17%
+```
+
+#### 📊 Weekly work stats (last 7 days)
+
+```text
+💬 Programming Languages:
+TypeScript   [20 hrs 25 mins]   [████████████████░░░░░░░░░]   66.99%
+JavaScript   [8 hrs 2 mins]     [██████░░░░░░░░░░░░░░░░░░░]   26.38%
+JSON         [38 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.09%
+Bash         [33 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.82%
+YAML         [26 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.47%
+Other        [0h 22m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.24%
+
+💻 Operating Systems:
+Linux        [30 hrs 29 mins]  [█████████████████████████]   100.00%
+```
+
+</details>
+<!-- Wakatime last updated on Mon Nov 18 2024 23:23:29 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[11/18 17:52]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/rollup-4.x` from [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br/>`[11/18 17:52]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br/>`[11/18 17:52]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#330`](https://github.com/IgorKowalczyk/is-browser/pull/330 'Update dependency rollup to v4.27.3') in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br/>`[11/18 17:52]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#330`](https://github.com/IgorKowalczyk/is-browser/pull/330 'Update dependency rollup to v4.27.3') in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br/>`[11/17 22:21]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/16 16:12]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[11/16 16:09]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/16 15:57]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/rollup-4.x` from [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[11/16 15:57]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[11/16 15:57]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#405`](https://github.com/IgorKowalczyk/countdown/pull/405 'Update dependency rollup to v4.27.2') in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)
-<!-- Activity last updated on Mon Nov 18 2024 23:05:21 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Mon Nov 18 2024 23:23:03 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
