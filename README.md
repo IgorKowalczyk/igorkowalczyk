@@ -63,66 +63,20 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Tue Nov 19 2024 22:48:15 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Tue Nov 19 2024 23:05:18 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-| 🏆 Contributions (total):     |      30K     |
-| :---------------------------- | :----------: |
-| **🏆 Contributions in 2024:** |   **9.2K**   |
-| **📝 Total lines of code:**   |    **1M**    |
-| **📦 Github Storage:**        | **771.3 MB** |
-| **📚 Public Repositories:**   |    **28**    |
 
-<details><summary>✨ Show more stats</summary>
-
-#### 📅 I work mostly during the night
-
-```text
-🌞 Morning   634 commits   [███████░░░░░░░░░░░░░░░░░░]   31.28%
-🌆 Daytime   675 commits   [████████░░░░░░░░░░░░░░░░░]   33.30%
-🌃 Evening   674 commits   [████████░░░░░░░░░░░░░░░░░]   33.25%
-🌙 Night     44 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.17%
-```
-
-#### 📅 I'm most productive on Monday
-
-```text
-Sunday      139 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.86%
-Monday      376 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.55%
-Tuesday     358 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.66%
-Wednesday   268 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.22%
-Thursday    250 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.33%
-Friday      288 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.21%
-Saturday    348 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.17%
-```
-
-#### 📊 Weekly work stats (last 7 days)
-
-```text
-💬 Programming Languages:
-TypeScript   [20 hrs 25 mins]   [████████████████░░░░░░░░░]   66.99%
-JavaScript   [8 hrs 2 mins]     [██████░░░░░░░░░░░░░░░░░░░]   26.38%
-JSON         [38 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.09%
-Bash         [33 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.82%
-YAML         [26 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.47%
-Other        [0h 22m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.24%
-
-💻 Operating Systems:
-Linux        [30 hrs 29 mins]  [█████████████████████████]   100.00%
-```
-
-</details>
-<!-- Wakatime last updated on Tue Nov 19 2024 22:48:23 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[11/19 11:40]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/dotenv-cli-7.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/19 11:40]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/19 11:40]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1334`](https://github.com/IgorKowalczyk/majo.exe/pull/1334 'fix(deps): update dependency dotenv-cli to v7.4.3') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/19 11:39]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#1334`](https://github.com/IgorKowalczyk/majo.exe/pull/1334 'fix(deps): update dependency dotenv-cli to v7.4.3') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/19 06:55]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-stylistic-mono...` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[11/19 06:55]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[11/19 06:55]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#562`](https://github.com/IgorKowalczyk/shared-configs/pull/562 'fix(deps): update dependency @stylistic/eslint-plugin to v2.11.0') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[11/19 06:55]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#562`](https://github.com/IgorKowalczyk/shared-configs/pull/562 'fix(deps): update dependency @stylistic/eslint-plugin to v2.11.0') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[11/18 19:53]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/>`[11/18 19:53]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#319`](https://github.com/IgorKowalczyk/repl-uptime/pull/319 'Update dependency rollup to v4.27.3') in [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)
-<!-- Activity last updated on Tue Nov 19 2024 22:48:16 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Tue Nov 19 2024 23:05:18 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
