@@ -63,66 +63,20 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Thu Nov 21 2024 22:48:15 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Thu Nov 21 2024 23:05:20 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-| 🏆 Contributions (total):     |      30K     |
-| :---------------------------- | :----------: |
-| **🏆 Contributions in 2024:** |   **9.3K**   |
-| **📝 Total lines of code:**   |    **1M**    |
-| **📦 Github Storage:**        | **772.1 MB** |
-| **📚 Public Repositories:**   |    **28**    |
 
-<details><summary>✨ Show more stats</summary>
-
-#### 📅 I work mostly during the night
-
-```text
-🌞 Morning   645 commits   [███████░░░░░░░░░░░░░░░░░░]   31.82%
-🌆 Daytime   664 commits   [████████░░░░░░░░░░░░░░░░░]   32.76%
-🌃 Evening   675 commits   [████████░░░░░░░░░░░░░░░░░]   33.30%
-🌙 Night     43 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.12%
-```
-
-#### 📅 I'm most productive on Monday
-
-```text
-Sunday      138 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.81%
-Monday      372 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.35%
-Tuesday     352 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.37%
-Wednesday   291 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.36%
-Thursday    258 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.73%
-Friday      282 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.91%
-Saturday    334 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.48%
-```
-
-#### 📊 Weekly work stats (last 7 days)
-
-```text
-💬 Programming Languages:
-TypeScript   [23 hrs 41 mins]   [██████████████░░░░░░░░░░░]   56.77%
-JavaScript   [15 hrs 50 mins]   [█████████░░░░░░░░░░░░░░░░]   37.97%
-JSON         [43 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.73%
-Bash         [33 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.34%
-YAML         [27 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.11%
-Other        [0h 27m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.07%
-
-💻 Operating Systems:
-Linux        [41 hrs 42 mins]  [█████████████████████████]   100.00%
-```
-
-</details>
-<!-- Wakatime last updated on Thu Nov 21 2024 22:48:25 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[11/21 08:14]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/igorkowalczyk-prettie...` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/21 08:14]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/21 08:14]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1341`](https://github.com/IgorKowalczyk/majo.exe/pull/1341 'chore(deps): update dependency @igorkowalczyk/prettier-config to v3.0.0-beta.16') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/21 08:14]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#1341`](https://github.com/IgorKowalczyk/majo.exe/pull/1341 'chore(deps): update dependency @igorkowalczyk/prettier-config to v3.0.0-beta.16') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/21 08:11]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#1341`](https://github.com/IgorKowalczyk/majo.exe/pull/1341 'chore(deps): update dependency @igorkowalczyk/prettier-config to v3.0.0-beta.16') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/21 08:11]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[11/21 08:11]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/igorkowalczyk-prettie...` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[11/21 08:11]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1014`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/1014 'Update dependency @igorkowalczyk/prettier-config to v3.0.0-beta.16') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[11/21 08:11]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#1014`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/1014 'Update dependency @igorkowalczyk/prettier-config to v3.0.0-beta.16') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[11/21 08:10]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/igorkowalczyk-prettie...` from [squarestack/github-invite](https://github.com/squarestack/github-invite)
-<!-- Activity last updated on Thu Nov 21 2024 22:48:16 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Thu Nov 21 2024 23:05:20 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
