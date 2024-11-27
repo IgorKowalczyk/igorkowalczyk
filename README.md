@@ -63,20 +63,66 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Wed Nov 27 2024 23:05:18 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Wed Nov 27 2024 23:23:11 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
+| 🏆 Contributions (total):     |      30K     |
+| :---------------------------- | :----------: |
+| **🏆 Contributions in 2024:** |   **9.5K**   |
+| **📝 Total lines of code:**   |    **1M**    |
+| **📦 Github Storage:**        | **775.6 MB** |
+| **📚 Public Repositories:**   |    **28**    |
 
+<details><summary>✨ Show more stats</summary>
+
+#### 📅 I work mostly during the night
+
+```text
+🌞 Morning   658 commits   [████████░░░░░░░░░░░░░░░░░]   32.46%
+🌆 Daytime   643 commits   [███████░░░░░░░░░░░░░░░░░░]   31.72%
+🌃 Evening   685 commits   [████████░░░░░░░░░░░░░░░░░]   33.79%
+🌙 Night     41 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.02%
+```
+
+#### 📅 I'm most productive on Monday
+
+```text
+Sunday      133 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.56%
+Monday      366 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.06%
+Tuesday     366 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.06%
+Wednesday   280 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.81%
+Thursday    252 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.43%
+Friday      290 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.31%
+Saturday    340 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.77%
+```
+
+#### 📊 Weekly work stats (last 7 days)
+
+```text
+💬 Programming Languages:
+TypeScript   [43 hrs 48 mins]   [███████████████████░░░░░░]   79.67%
+JavaScript   [10 hrs 24 mins]   [████░░░░░░░░░░░░░░░░░░░░░]   18.94%
+JSON         [33 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.02%
+TSConfig     [6 mins]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.20%
+YAML         [2 mins]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.09%
+Other        [0h 2m]            [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.06%
+
+💻 Operating Systems:
+Linux        [54 hrs 59 mins]  [█████████████████████████]   100.00%
+```
+
+</details>
+<!-- Wakatime last updated on Wed Nov 27 2024 23:23:19 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[11/27 17:15]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/26 09:04]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#1355`](https://github.com/IgorKowalczyk/majo.exe/pull/1355 'chore(deps): update turbo monorepo to v2.3.2') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/26 09:04]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#1355`](https://github.com/IgorKowalczyk/majo.exe/pull/1355 'chore(deps): update turbo monorepo to v2.3.2') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/26 09:04]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/tailwind-merge-2.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/26 09:04]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/26 09:04]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1350`](https://github.com/IgorKowalczyk/majo.exe/pull/1350 'chore(deps): update dependency tailwind-merge to v2.5.5') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/26 09:04]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#1350`](https://github.com/IgorKowalczyk/majo.exe/pull/1350 'chore(deps): update dependency tailwind-merge to v2.5.5') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/26 09:03]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/neondatabase-serverle...` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/26 09:03]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/26 09:03]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1352`](https://github.com/IgorKowalczyk/majo.exe/pull/1352 'fix(deps): update dependency @neondatabase/serverless to v0.10.4') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
-<!-- Activity last updated on Wed Nov 27 2024 23:05:18 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Wed Nov 27 2024 23:23:11 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
