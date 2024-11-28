@@ -63,66 +63,20 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Thu Nov 28 2024 22:48:15 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Thu Nov 28 2024 23:05:20 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-| 🏆 Contributions (total):     |      30K     |
-| :---------------------------- | :----------: |
-| **🏆 Contributions in 2024:** |   **9.5K**   |
-| **📝 Total lines of code:**   |    **1M**    |
-| **📦 Github Storage:**        | **775.5 MB** |
-| **📚 Public Repositories:**   |    **28**    |
 
-<details><summary>✨ Show more stats</summary>
-
-#### 📅 I work mostly during the night
-
-```text
-🌞 Morning   665 commits   [████████░░░░░░░░░░░░░░░░░]   32.81%
-🌆 Daytime   641 commits   [███████░░░░░░░░░░░░░░░░░░]   31.62%
-🌃 Evening   680 commits   [████████░░░░░░░░░░░░░░░░░]   33.55%
-🌙 Night     41 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.02%
-```
-
-#### 📅 I'm most productive on Tuesday
-
-```text
-Sunday      131 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.46%
-Monday      365 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.01%
-Tuesday     366 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.06%
-Wednesday   280 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.81%
-Thursday    258 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.73%
-Friday      290 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.31%
-Saturday    337 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.63%
-```
-
-#### 📊 Weekly work stats (last 7 days)
-
-```text
-💬 Programming Languages:
-TypeScript   [43 hrs 48 mins]   [███████████████████░░░░░░]   79.67%
-JavaScript   [10 hrs 24 mins]   [████░░░░░░░░░░░░░░░░░░░░░]   18.94%
-JSON         [33 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.02%
-TSConfig     [6 mins]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.20%
-YAML         [2 mins]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.09%
-Other        [0h 2m]            [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.06%
-
-💻 Operating Systems:
-Linux        [54 hrs 59 mins]  [█████████████████████████]   100.00%
-```
-
-</details>
-<!-- Wakatime last updated on Thu Nov 28 2024 22:48:28 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[11/28 13:09]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/28 11:02]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#1017`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/1017 'Update dependency tailwind-merge to v2.5.5') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[11/28 11:02]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/tailwind-merge-2.x` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[11/28 11:02]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[11/28 11:02]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1017`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/1017 'Update dependency tailwind-merge to v2.5.5') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[11/28 11:02]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#1017`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/1017 'Update dependency tailwind-merge to v2.5.5') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[11/28 10:59]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/oh-my-zsh-custom-plug...` from [IgorKowalczyk/dotfiles](https://github.com/IgorKowalczyk/dotfiles)<br/>`[11/28 10:59]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/dotfiles](https://github.com/IgorKowalczyk/dotfiles)<br/>`[11/28 10:59]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#21`](https://github.com/IgorKowalczyk/dotfiles/pull/21 'Update oh-my-zsh/custom/plugins/zsh-autosuggestions digest to 0e810e5') in [IgorKowalczyk/dotfiles](https://github.com/IgorKowalczyk/dotfiles)<br/>`[11/28 10:59]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#21`](https://github.com/IgorKowalczyk/dotfiles/pull/21 'Update oh-my-zsh/custom/plugins/zsh-autosuggestions digest to 0e810e5') in [IgorKowalczyk/dotfiles](https://github.com/IgorKowalczyk/dotfiles)
-<!-- Activity last updated on Thu Nov 28 2024 22:48:15 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Thu Nov 28 2024 23:05:21 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
