@@ -63,66 +63,20 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Fri Nov 29 2024 22:48:11 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Fri Nov 29 2024 23:05:18 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-| 🏆 Contributions (total):     |      30K     |
-| :---------------------------- | :----------: |
-| **🏆 Contributions in 2024:** |   **9.6K**   |
-| **📝 Total lines of code:**   |    **1M**    |
-| **📦 Github Storage:**        | **775.3 MB** |
-| **📚 Public Repositories:**   |    **28**    |
 
-<details><summary>✨ Show more stats</summary>
-
-#### 📅 I work mostly during the night
-
-```text
-🌞 Morning   683 commits   [████████░░░░░░░░░░░░░░░░░]   33.70%
-🌆 Daytime   636 commits   [███████░░░░░░░░░░░░░░░░░░]   31.38%
-🌃 Evening   667 commits   [████████░░░░░░░░░░░░░░░░░]   32.91%
-🌙 Night     41 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.02%
-```
-
-#### 📅 I'm most productive on Monday
-
-```text
-Sunday      130 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.41%
-Monday      363 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.91%
-Tuesday     363 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.91%
-Wednesday   275 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.57%
-Thursday    253 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.48%
-Friday      315 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.54%
-Saturday    328 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.18%
-```
-
-#### 📊 Weekly work stats (last 7 days)
-
-```text
-💬 Programming Languages:
-TypeScript   [44 hrs 2 mins]    [███████████████████░░░░░░]   76.48%
-JavaScript   [9 hrs 25 mins]    [████░░░░░░░░░░░░░░░░░░░░░]   16.37%
-YAML         [3 hrs 51 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.69%
-JSON         [13 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.39%
-
-Other        [0h 1m]            [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.07%
-
-💻 Operating Systems:
-Linux        [57 hrs 35 mins]  [█████████████████████████]   100.00%
-```
-
-</details>
-<!-- Wakatime last updated on Fri Nov 29 2024 22:48:23 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[11/29 19:57]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/29 14:49]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/pnpm-9.x` from [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/>`[11/29 14:49]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/>`[11/29 14:49]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#335`](https://github.com/IgorKowalczyk/repl-uptime/pull/335 'Update pnpm to v9.14.4') in [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/>`[11/29 14:49]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/pnpm-9.x` from [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[11/29 14:49]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[11/29 14:49]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#419`](https://github.com/IgorKowalczyk/countdown/pull/419 'Update pnpm to v9.14.4') in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[11/29 14:49]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/pnpm-9.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/29 14:49]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[11/29 14:49]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1366`](https://github.com/IgorKowalczyk/majo.exe/pull/1366 'chore(deps): update pnpm to v9.14.4') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
-<!-- Activity last updated on Fri Nov 29 2024 22:48:12 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Fri Nov 29 2024 23:05:19 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
