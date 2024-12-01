@@ -63,66 +63,20 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sun Dec 01 2024 22:48:17 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sun Dec 01 2024 23:05:02 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-| 🏆 Contributions (total):     |      30K     |
-| :---------------------------- | :----------: |
-| **🏆 Contributions in 2024:** |   **9.7K**   |
-| **📝 Total lines of code:**   |    **1M**    |
-| **📦 Github Storage:**        | **775.8 MB** |
-| **📚 Public Repositories:**   |    **28**    |
 
-<details><summary>✨ Show more stats</summary>
-
-#### 📅 I work mostly during the night
-
-```text
-🌞 Morning   669 commits   [████████░░░░░░░░░░░░░░░░░]   32.97%
-🌆 Daytime   635 commits   [███████░░░░░░░░░░░░░░░░░░]   31.30%
-🌃 Evening   685 commits   [████████░░░░░░░░░░░░░░░░░]   33.76%
-🌙 Night     40 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.97%
-```
-
-#### 📅 I'm most productive on Tuesday
-
-```text
-Sunday      150 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   7.39%
-Monday      357 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.59%
-Tuesday     360 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.74%
-Wednesday   267 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.16%
-Thursday    238 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.73%
-Friday      306 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.08%
-Saturday    351 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.30%
-```
-
-#### 📊 Weekly work stats (last 7 days)
-
-```text
-💬 Programming Languages:
-TypeScript   [49 hrs 13 mins]   [███████████████████░░░░░░]   76.65%
-JavaScript   [10 hrs 10 mins]   [███░░░░░░░░░░░░░░░░░░░░░░]   15.83%
-YAML         [3 hrs 49 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   5.96%
-JSON         [55 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.45%
-
-Other        [0h 1m]            [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.09%
-
-💻 Operating Systems:
-Linux        [64 hrs 13 mins]  [█████████████████████████]   100.00%
-```
-
-</details>
-<!-- Wakatime last updated on Sun Dec 01 2024 22:48:31 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[12/01 18:51]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[12/01 18:51]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/neondatabase-serverle...` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[12/01 18:51]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1370`](https://github.com/IgorKowalczyk/majo.exe/pull/1370 'Update dependency @neondatabase/serverless to v0.10.4') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[12/01 18:51]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#1370`](https://github.com/IgorKowalczyk/majo.exe/pull/1370 'Update dependency @neondatabase/serverless to v0.10.4') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[12/01 18:51]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/discord-api-types-0.x...` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[12/01 18:51]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[12/01 18:51]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1371`](https://github.com/IgorKowalczyk/majo.exe/pull/1371 'Update dependency discord-api-types to v0.37.110') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[12/01 18:51]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#1371`](https://github.com/IgorKowalczyk/majo.exe/pull/1371 'Update dependency discord-api-types to v0.37.110') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[12/01 18:50]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/pnpm-9.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[12/01 18:50]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
-<!-- Activity last updated on Sun Dec 01 2024 22:48:17 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Sun Dec 01 2024 23:05:03 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
