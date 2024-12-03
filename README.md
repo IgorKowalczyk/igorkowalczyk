@@ -63,66 +63,20 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Tue Dec 03 2024 22:48:16 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Tue Dec 03 2024 23:05:20 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-| 🏆 Contributions (total):     |      30K     |
-| :---------------------------- | :----------: |
-| **🏆 Contributions in 2024:** |   **9.8K**   |
-| **📝 Total lines of code:**   |    **1M**    |
-| **📦 Github Storage:**        | **776.6 MB** |
-| **📚 Public Repositories:**   |    **28**    |
 
-<details><summary>✨ Show more stats</summary>
-
-#### 📅 I work mostly during the night
-
-```text
-🌞 Morning   679 commits   [████████░░░░░░░░░░░░░░░░░]   33.46%
-🌆 Daytime   629 commits   [███████░░░░░░░░░░░░░░░░░░]   31.00%
-🌃 Evening   681 commits   [████████░░░░░░░░░░░░░░░░░]   33.56%
-🌙 Night     40 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.97%
-```
-
-#### 📅 I'm most productive on Tuesday
-
-```text
-Sunday      148 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   7.29%
-Monday      358 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.64%
-Tuesday     376 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.53%
-Wednesday   267 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.16%
-Thursday    238 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.73%
-Friday      305 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.03%
-Saturday    337 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.61%
-```
-
-#### 📊 Weekly work stats (last 7 days)
-
-```text
-💬 Programming Languages:
-TypeScript   [48 hrs 46 mins]   [██████████████████░░░░░░░]   74.96%
-JavaScript   [7 hrs 41 mins]    [██░░░░░░░░░░░░░░░░░░░░░░░]   11.81%
-YAML         [6 hrs 29 mins]    [██░░░░░░░░░░░░░░░░░░░░░░░]   9.98%
-JSON         [1 hr 47 mins]     [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.77%
-Text         [14 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.38%
-Other        [0h 4m]            [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.09%
-
-💻 Operating Systems:
-Linux        [65 hrs 3 mins]   [█████████████████████████]   100.00%
-```
-
-</details>
-<!-- Wakatime last updated on Tue Dec 03 2024 22:48:31 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[12/03 17:23]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[12/03 13:07]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/lucide-monorepo` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[12/03 13:07]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[12/03 13:07]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1379`](https://github.com/IgorKowalczyk/majo.exe/pull/1379 'Update dependency lucide-react to v0.464.0') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[12/03 13:07]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#1379`](https://github.com/IgorKowalczyk/majo.exe/pull/1379 'Update dependency lucide-react to v0.464.0') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[12/03 13:06]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[12/03 13:06]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-plugin-import-...` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[12/03 13:06]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#589`](https://github.com/IgorKowalczyk/shared-configs/pull/589 'fix(deps): update dependency eslint-plugin-import-x to v4.5.0') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[12/03 13:06]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#589`](https://github.com/IgorKowalczyk/shared-configs/pull/589 'fix(deps): update dependency eslint-plugin-import-x to v4.5.0') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[12/03 13:06]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/typescript-eslint-mon...` from [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)
-<!-- Activity last updated on Tue Dec 03 2024 22:48:16 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Tue Dec 03 2024 23:05:21 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
