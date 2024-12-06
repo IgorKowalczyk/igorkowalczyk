@@ -63,66 +63,20 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Fri Dec 06 2024 22:48:18 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Fri Dec 06 2024 23:05:19 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-| 🏆 Contributions (total):     |      30K     |
-| :---------------------------- | :----------: |
-| **🏆 Contributions in 2024:** |    **10K**   |
-| **📝 Total lines of code:**   |    **1M**    |
-| **📦 Github Storage:**        | **776.5 MB** |
-| **📚 Public Repositories:**   |    **28**    |
 
-<details><summary>✨ Show more stats</summary>
-
-#### 📅 I work mostly during the night
-
-```text
-🌞 Morning   673 commits   [████████░░░░░░░░░░░░░░░░░]   33.17%
-🌆 Daytime   629 commits   [███████░░░░░░░░░░░░░░░░░░]   31.00%
-🌃 Evening   688 commits   [████████░░░░░░░░░░░░░░░░░]   33.91%
-🌙 Night     39 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.92%
-```
-
-#### 📅 I'm most productive on Tuesday
-
-```text
-Sunday      135 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.65%
-Monday      353 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.40%
-Tuesday     369 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.19%
-Wednesday   288 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.19%
-Thursday    234 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.53%
-Friday      324 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.97%
-Saturday    326 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.07%
-```
-
-#### 📊 Weekly work stats (last 7 days)
-
-```text
-💬 Programming Languages:
-TypeScript   [39 hrs 25 mins]   [████████████████░░░░░░░░░]   65.29%
-JavaScript   [12 hrs 36 mins]   [█████░░░░░░░░░░░░░░░░░░░░]   20.87%
-Text         [3 hrs 28 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   5.76%
-YAML         [2 hrs 41 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   4.45%
-JSON         [1 hr 47 mins]     [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.97%
-Other        [0h 23m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.65%
-
-💻 Operating Systems:
-Linux        [60 hrs 23 mins]  [█████████████████████████]   100.00%
-```
-
-</details>
-<!-- Wakatime last updated on Fri Dec 06 2024 22:48:29 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[12/05 09:41]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-compat-1.x` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[12/05 09:41]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#591`](https://github.com/IgorKowalczyk/shared-configs/pull/591 'fix(deps): update dependency @eslint/compat to v1.2.4') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[12/05 09:41]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[12/05 09:41]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#591`](https://github.com/IgorKowalczyk/shared-configs/pull/591 'fix(deps): update dependency @eslint/compat to v1.2.4') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[12/05 07:08]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/node-gyp-11.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[12/05 07:08]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[12/05 07:08]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1386`](https://github.com/IgorKowalczyk/majo.exe/pull/1386 'Update dependency node-gyp to v11') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[12/05 07:07]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#1386`](https://github.com/IgorKowalczyk/majo.exe/pull/1386 'Update dependency node-gyp to v11') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[12/04 20:24]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/framer-motion-11.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[12/04 20:24]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
-<!-- Activity last updated on Fri Dec 06 2024 22:48:19 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Fri Dec 06 2024 23:05:20 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
