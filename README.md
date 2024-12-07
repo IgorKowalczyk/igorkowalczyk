@@ -63,66 +63,20 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sat Dec 07 2024 22:48:21 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sat Dec 07 2024 23:05:02 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-| 🏆 Contributions (total):     |      30K     |
-| :---------------------------- | :----------: |
-| **🏆 Contributions in 2024:** |    **10K**   |
-| **📝 Total lines of code:**   |    **1M**    |
-| **📦 Github Storage:**        | **776.5 MB** |
-| **📚 Public Repositories:**   |    **28**    |
 
-<details><summary>✨ Show more stats</summary>
-
-#### 📅 I work mostly during the night
-
-```text
-🌞 Morning   673 commits   [████████░░░░░░░░░░░░░░░░░]   33.17%
-🌆 Daytime   628 commits   [███████░░░░░░░░░░░░░░░░░░]   30.95%
-🌃 Evening   689 commits   [████████░░░░░░░░░░░░░░░░░]   33.96%
-🌙 Night     39 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.92%
-```
-
-#### 📅 I'm most productive on Tuesday
-
-```text
-Sunday      133 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.55%
-Monday      353 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.40%
-Tuesday     369 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.19%
-Wednesday   288 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.19%
-Thursday    234 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.53%
-Friday      324 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.97%
-Saturday    328 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.17%
-```
-
-#### 📊 Weekly work stats (last 7 days)
-
-```text
-💬 Programming Languages:
-TypeScript   [32 hrs 59 mins]   [███████████████░░░░░░░░░░]   61.79%
-JavaScript   [12 hrs 2 mins]    [█████░░░░░░░░░░░░░░░░░░░░]   22.55%
-Text         [3 hrs 29 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.52%
-YAML         [2 hrs 41 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   5.03%
-JSON         [1 hr 47 mins]     [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.36%
-Other        [0h 23m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.73%
-
-💻 Operating Systems:
-Linux        [53 hrs 24 mins]  [█████████████████████████]   100.00%
-```
-
-</details>
-<!-- Wakatime last updated on Sat Dec 07 2024 22:48:30 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[12/07 19:08]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[12/06 19:40]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/next-auth-4.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[12/06 19:40]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[12/06 19:40]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1392`](https://github.com/IgorKowalczyk/majo.exe/pull/1392 'Update dependency next-auth to v4.24.11') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[12/06 18:18]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[12/06 18:18]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/nextjs-monorepo` from [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[12/06 18:18]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1033`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/1033 'Update nextjs monorepo to v15.0.4') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[12/06 18:18]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#1033`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io/pull/1033 'Update nextjs monorepo to v15.0.4') in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[12/06 18:17]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/major-react-monorepo` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[12/06 18:17]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
-<!-- Activity last updated on Sat Dec 07 2024 22:48:21 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Sat Dec 07 2024 23:05:03 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
