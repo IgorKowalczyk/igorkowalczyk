@@ -63,20 +63,66 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Tue Dec 10 2024 23:05:21 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Tue Dec 10 2024 23:23:11 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
+| 🏆 Contributions (total):     |      31K     |
+| :---------------------------- | :----------: |
+| **🏆 Contributions in 2024:** |    **10K**   |
+| **📝 Total lines of code:**   |    **1M**    |
+| **📦 Github Storage:**        | **777.3 MB** |
+| **📚 Public Repositories:**   |    **28**    |
 
+<details><summary>✨ Show more stats</summary>
+
+#### 📅 I work mostly during the night
+
+```text
+🌞 Morning   674 commits   [████████░░░░░░░░░░░░░░░░░]   33.22%
+🌆 Daytime   636 commits   [███████░░░░░░░░░░░░░░░░░░]   31.35%
+🌃 Evening   680 commits   [████████░░░░░░░░░░░░░░░░░]   33.51%
+🌙 Night     39 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.92%
+```
+
+#### 📅 I'm most productive on Tuesday
+
+```text
+Sunday      135 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.65%
+Monday      352 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.35%
+Tuesday     383 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.88%
+Wednesday   282 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.90%
+Thursday    232 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.43%
+Friday      320 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.77%
+Saturday    325 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.02%
+```
+
+#### 📊 Weekly work stats (last 7 days)
+
+```text
+💬 Programming Languages:
+TypeScript   [25 hrs 1 min]     [███████████░░░░░░░░░░░░░░]   46.46%
+JavaScript   [20 hrs 50 mins]   [█████████░░░░░░░░░░░░░░░░]   38.68%
+Text         [3 hrs 13 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   5.98%
+Prisma       [1 hr 23 mins]     [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.58%
+Bash         [1 hr 20 mins]     [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.48%
+Other        [2h 3m]            [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.82%
+
+💻 Operating Systems:
+Linux        [53 hrs 52 mins]  [█████████████████████████]   100.00%
+```
+
+</details>
+<!-- Wakatime last updated on Tue Dec 10 2024 23:23:22 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[12/10 17:00]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[12/10 12:52]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/typescript-eslint-mon...` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[12/10 12:51]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[12/10 12:51]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#597`](https://github.com/IgorKowalczyk/shared-configs/pull/597 'fix(deps): update typescript-eslint monorepo to v8.18.0') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[12/10 12:51]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#597`](https://github.com/IgorKowalczyk/shared-configs/pull/597 'fix(deps): update typescript-eslint monorepo to v8.18.0') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[12/10 12:51]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/systeminformation-5.x...` from [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br/>`[12/10 12:51]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br/>`[12/10 12:51]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#380`](https://github.com/IgorKowalczyk/discord-ssh/pull/380 'Update dependency systeminformation to v5.23.8') in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br/>`[12/10 12:51]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#380`](https://github.com/IgorKowalczyk/discord-ssh/pull/380 'Update dependency systeminformation to v5.23.8') in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br/>`[12/10 12:51]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/typescript-eslint-mon...` from [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)
-<!-- Activity last updated on Tue Dec 10 2024 23:05:22 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Tue Dec 10 2024 23:23:11 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
