@@ -63,20 +63,66 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sun Dec 15 2024 23:05:05 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sun Dec 15 2024 23:22:53 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
+| 🏆 Contributions (total):     |      31K     |
+| :---------------------------- | :----------: |
+| **🏆 Contributions in 2024:** |    **10K**   |
+| **📝 Total lines of code:**   |    **1M**    |
+| **📦 Github Storage:**        | **777.7 MB** |
+| **📚 Public Repositories:**   |    **28**    |
 
+<details><summary>✨ Show more stats</summary>
+
+#### 📅 I work mostly during the night
+
+```text
+🌞 Morning   660 commits   [████████░░░░░░░░░░░░░░░░░]   32.51%
+🌆 Daytime   645 commits   [███████░░░░░░░░░░░░░░░░░░]   31.77%
+🌃 Evening   668 commits   [████████░░░░░░░░░░░░░░░░░]   32.91%
+🌙 Night     57 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.81%
+```
+
+#### 📅 I'm most productive on Tuesday
+
+```text
+Sunday      129 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.35%
+Monday      347 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.09%
+Tuesday     361 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.78%
+Wednesday   275 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.55%
+Thursday    236 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.63%
+Friday      332 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.35%
+Saturday    350 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.24%
+```
+
+#### 📊 Weekly work stats (last 7 days)
+
+```text
+💬 Programming Languages:
+TypeScript    [41 hrs 13 mins]   [███████████████████░░░░░░]   76.03%
+Astro         [5 hrs 54 mins]    [██░░░░░░░░░░░░░░░░░░░░░░░]   10.89%
+JavaScript    [2 hrs 42 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   5.01%
+YAML          [1 hr 25 mins]     [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.64%
+Markdown      [1 hr 8 mins]      [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.10%
+Other         [1h 48m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.34%
+
+💻 Operating Systems:
+Linux         [54 hrs 13 mins]  [█████████████████████████]   100.00%
+```
+
+</details>
+<!-- Wakatime last updated on Sun Dec 15 2024 23:23:02 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[12/15 19:06]` <a href="https://github.com/igorkowalczyk" title="🗣"><img alt="🗣" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/comment.png" align="top" height="18"></a> Commented on [`#1`](https://github.com/sim0n/jvm-obfuscation-tester/issues/1 'add missing opcodes to evaluator') in [sim0n/jvm-obfuscation-tester](https://github.com/sim0n/jvm-obfuscation-tester)<br/>`[12/15 17:47]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [discordeno/discordeno](https://github.com/discordeno/discordeno)<br/>`[12/14 18:46]` <a href="https://github.com/igorkowalczyk" title="🔖"><img alt="🔖" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/create-tag.png" align="top" height="18"></a> Created tag `v3.0.0` in [IgorKowalczyk/wakatime-hours](https://github.com/IgorKowalczyk/wakatime-hours)<br/>`[12/14 18:46]` <a href="https://github.com/igorkowalczyk" title="🏷"><img alt="🏷" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/release.png" align="top" height="18"></a> Released [`v3.0.0`](https://github.com/IgorKowalczyk/wakatime-hours/releases/tag/v3.0.0) in [IgorKowalczyk/wakatime-hours](https://github.com/IgorKowalczyk/wakatime-hours)<br/>`[12/14 18:45]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/wakatime-hours](https://github.com/IgorKowalczyk/wakatime-hours)<br/>`[12/14 17:41]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[12/14 17:38]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[12/14 17:20]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[12/14 17:04]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[12/14 15:11]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/systeminformation-5.x...` from [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)
-<!-- Activity last updated on Sun Dec 15 2024 23:05:05 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Sun Dec 15 2024 23:22:54 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
