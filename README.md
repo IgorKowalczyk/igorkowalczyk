@@ -64,66 +64,20 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Tue Dec 17 2024 22:48:15 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Tue Dec 17 2024 23:05:17 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-| 🏆 Contributions (total):     |      31K     |
-| :---------------------------- | :----------: |
-| **🏆 Contributions in 2024:** |    **10K**   |
-| **📝 Total lines of code:**   |    **1M**    |
-| **📦 Github Storage:**        | **778.2 MB** |
-| **📚 Public Repositories:**   |    **28**    |
 
-<details><summary>✨ Show more stats</summary>
-
-#### 📅 I work mostly during the night
-
-```text
-🌞 Morning   658 commits   [████████░░░░░░░░░░░░░░░░░]   32.18%
-🌆 Daytime   646 commits   [███████░░░░░░░░░░░░░░░░░░]   31.59%
-🌃 Evening   682 commits   [████████░░░░░░░░░░░░░░░░░]   33.35%
-🌙 Night     59 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.89%
-```
-
-#### 📅 I'm most productive on Tuesday
-
-```text
-Sunday      128 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.26%
-Monday      357 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.46%
-Tuesday     375 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.34%
-Wednesday   273 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.35%
-Thursday    236 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.54%
-Friday      329 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.09%
-Saturday    347 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.97%
-```
-
-#### 📊 Weekly work stats (last 7 days)
-
-```text
-💬 Programming Languages:
-TypeScript    [37 hrs 39 mins]   [█████████████████░░░░░░░░]   70.51%
-Astro         [5 hrs 54 mins]    [██░░░░░░░░░░░░░░░░░░░░░░░]   11.06%
-JSON          [2 hrs 49 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   5.28%
-JavaScript    [2 hrs 42 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   5.08%
-YAML          [1 hr 23 mins]     [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.59%
-Other         [2h 55m]           [█░░░░░░░░░░░░░░░░░░░░░░░░]   5.47%
-
-💻 Operating Systems:
-Linux         [53 hrs 24 mins]  [█████████████████████████]   100.00%
-```
-
-</details>
-<!-- Wakatime last updated on Tue Dec 17 2024 22:48:32 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[12/17 10:01]` <br/>`[12/17 09:57]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[12/17 00:21]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[12/17 00:21]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/astro-monorepo` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[12/17 00:21]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#812`](https://github.com/IgorKowalczyk/github-views/pull/812 'Update dependency astro to v5.0.8') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[12/17 00:21]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#812`](https://github.com/IgorKowalczyk/github-views/pull/812 'Update dependency astro to v5.0.8') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[12/16 23:39]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[12/16 19:57]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[12/16 19:57]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[12/16 19:57]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/typescript-eslint-mon...` from [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)
-<!-- Activity last updated on Tue Dec 17 2024 22:48:14 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Tue Dec 17 2024 23:05:17 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
