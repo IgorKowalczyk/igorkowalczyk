@@ -63,66 +63,20 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Fri Dec 20 2024 22:48:30 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Fri Dec 20 2024 23:05:03 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-| 🏆 Contributions (total):     |      31K     |
-| :---------------------------- | :----------: |
-| **🏆 Contributions in 2024:** |    **10K**   |
-| **📝 Total lines of code:**   |    **1M**    |
-| **📦 Github Storage:**        | **778.7 MB** |
-| **📚 Public Repositories:**   |    **28**    |
 
-<details><summary>✨ Show more stats</summary>
-
-#### 📅 I work mostly during the night
-
-```text
-🌞 Morning   648 commits   [███████░░░░░░░░░░░░░░░░░░]   31.69%
-🌆 Daytime   643 commits   [███████░░░░░░░░░░░░░░░░░░]   31.44%
-🌃 Evening   698 commits   [████████░░░░░░░░░░░░░░░░░]   34.13%
-🌙 Night     56 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.74%
-```
-
-#### 📅 I'm most productive on Tuesday
-
-```text
-Sunday      127 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.21%
-Monday      351 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.16%
-Tuesday     371 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.14%
-Wednesday   293 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.33%
-Thursday    239 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.69%
-Friday      325 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.89%
-Saturday    339 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.58%
-```
-
-#### 📊 Weekly work stats (last 7 days)
-
-```text
-💬 Programming Languages:
-TypeScript    [48 hrs 17 mins]   [██████████████████░░░░░░░]   75.01%
-JavaScript    [4 hrs 6 mins]     [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.38%
-Astro         [3 hrs 48 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   5.90%
-JSON          [3 hrs 12 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   4.97%
-Markdown      [2 hrs 5 mins]     [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.25%
-Other         [2h 53m]           [█░░░░░░░░░░░░░░░░░░░░░░░░]   4.50%
-
-💻 Operating Systems:
-Linux         [64 hrs 23 mins]  [█████████████████████████]   100.00%
-```
-
-</details>
-<!-- Wakatime last updated on Fri Dec 20 2024 22:48:50 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[12/20 18:57]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[12/20 15:56]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-react-eslint-p...` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[12/20 15:56]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[12/20 15:56]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#618`](https://github.com/IgorKowalczyk/shared-configs/pull/618 'fix(deps): update dependency @eslint-react/eslint-plugin to v1.21.0') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[12/20 15:45]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[12/19 22:51]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/tailwindcss-3.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[12/19 22:51]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[12/19 22:51]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1413`](https://github.com/IgorKowalczyk/majo.exe/pull/1413 'chore(deps): update dependency tailwindcss to v3.4.17') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[12/19 21:52]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/chalk-5.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[12/19 21:52]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
-<!-- Activity last updated on Fri Dec 20 2024 22:48:31 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Fri Dec 20 2024 23:05:03 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
