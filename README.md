@@ -63,20 +63,66 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Thu Dec 26 2024 23:05:16 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Thu Dec 26 2024 23:22:03 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
+| 🏆 Contributions (total):     |      31K     |
+| :---------------------------- | :----------: |
+| **🏆 Contributions in 2024:** |    **11K**   |
+| **📝 Total lines of code:**   |    **1M**    |
+| **📦 Github Storage:**        | **780.4 MB** |
+| **📚 Public Repositories:**   |    **28**    |
 
+<details><summary>✨ Show more stats</summary>
+
+#### 📅 I work mostly during the night
+
+```text
+🌞 Morning   618 commits   [███████░░░░░░░░░░░░░░░░░░]   29.90%
+🌆 Daytime   676 commits   [████████░░░░░░░░░░░░░░░░░]   32.70%
+🌃 Evening   716 commits   [████████░░░░░░░░░░░░░░░░░]   34.64%
+🌙 Night     57 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.76%
+```
+
+#### 📅 I'm most productive on Monday
+
+```text
+Sunday      128 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.19%
+Monday      373 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.05%
+Tuesday     365 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.66%
+Wednesday   291 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.08%
+Thursday    236 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.42%
+Friday      311 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.05%
+Saturday    363 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.56%
+```
+
+#### 📊 Weekly work stats (last 7 days)
+
+```text
+💬 Programming Languages:
+JavaScript    [13 hrs 13 mins]   [███████░░░░░░░░░░░░░░░░░░]   31.97%
+TypeScript    [10 hrs 27 mins]   [██████░░░░░░░░░░░░░░░░░░░]   25.27%
+Prisma        [6 hrs 35 mins]    [███░░░░░░░░░░░░░░░░░░░░░░]   15.92%
+
+Bash          [2 hrs 10 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   5.27%
+Other         [4h 26m]           [█████░░░░░░░░░░░░░░░░░░░░]   21.56%
+
+💻 Operating Systems:
+Linux         [41 hrs 23 mins]  [█████████████████████████]   100.00%
+```
+
+</details>
+<!-- Wakatime last updated on Thu Dec 26 2024 23:22:16 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[12/26 18:43]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[12/26 18:25]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/igorkowalczyk.dev](https://github.com/IgorKowalczyk/igorkowalczyk.dev)<br/>`[12/25 18:26]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/dotfiles](https://github.com/IgorKowalczyk/dotfiles)<br/>`[12/25 18:26]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/dotbot-digest` from [IgorKowalczyk/dotfiles](https://github.com/IgorKowalczyk/dotfiles)<br/>`[12/25 18:26]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#30`](https://github.com/IgorKowalczyk/dotfiles/pull/30 'Update dotbot digest to d1e83dc') in [IgorKowalczyk/dotfiles](https://github.com/IgorKowalczyk/dotfiles)<br/>`[12/25 18:26]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#30`](https://github.com/IgorKowalczyk/dotfiles/pull/30 'Update dotbot digest to d1e83dc') in [IgorKowalczyk/dotfiles](https://github.com/IgorKowalczyk/dotfiles)<br/>`[12/25 18:24]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/oh-my-zsh-custom-plug...` from [IgorKowalczyk/dotfiles](https://github.com/IgorKowalczyk/dotfiles)<br/>`[12/25 18:24]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/dotfiles](https://github.com/IgorKowalczyk/dotfiles)<br/>`[12/25 18:24]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#31`](https://github.com/IgorKowalczyk/dotfiles/pull/31 'Update oh-my-zsh/custom/plugins/zsh-autosuggestions digest to 0e810e5') in [IgorKowalczyk/dotfiles](https://github.com/IgorKowalczyk/dotfiles)<br/>`[12/25 18:24]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#31`](https://github.com/IgorKowalczyk/dotfiles/pull/31 'Update oh-my-zsh/custom/plugins/zsh-autosuggestions digest to 0e810e5') in [IgorKowalczyk/dotfiles](https://github.com/IgorKowalczyk/dotfiles)
-<!-- Activity last updated on Thu Dec 26 2024 23:05:16 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Thu Dec 26 2024 23:22:03 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
