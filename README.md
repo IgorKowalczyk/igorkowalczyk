@@ -63,66 +63,20 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sun Dec 29 2024 22:48:13 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sun Dec 29 2024 23:04:40 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-| 🏆 Contributions (total):     |      31K     |
-| :---------------------------- | :----------: |
-| **🏆 Contributions in 2024:** |    **11K**   |
-| **📝 Total lines of code:**   |    **1M**    |
-| **📦 Github Storage:**        | **780.3 MB** |
-| **📚 Public Repositories:**   |    **28**    |
 
-<details><summary>✨ Show more stats</summary>
-
-#### 📅 I work mostly during the night
-
-```text
-🌞 Morning   616 commits   [███████░░░░░░░░░░░░░░░░░░]   29.79%
-🌆 Daytime   684 commits   [████████░░░░░░░░░░░░░░░░░]   33.08%
-🌃 Evening   708 commits   [████████░░░░░░░░░░░░░░░░░]   34.24%
-🌙 Night     60 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.90%
-```
-
-#### 📅 I'm most productive on Monday
-
-```text
-Sunday      118 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   5.71%
-Monday      373 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.04%
-Tuesday     363 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.55%
-Wednesday   291 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.07%
-Thursday    239 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.56%
-Friday      311 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.04%
-Saturday    373 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.04%
-```
-
-#### 📊 Weekly work stats (last 7 days)
-
-```text
-💬 Programming Languages:
-TypeScript    [18 hrs 44 mins]   [███████████░░░░░░░░░░░░░░]   47.57%
-JavaScript    [10 hrs 28 mins]   [██████░░░░░░░░░░░░░░░░░░░]   26.60%
-
-Bash          [2 hrs 10 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   5.53%
-YAML          [1 hr 56 mins]     [█░░░░░░░░░░░░░░░░░░░░░░░░]   4.95%
-Other         [1h 33m]           [███░░░░░░░░░░░░░░░░░░░░░░]   15.34%
-
-💻 Operating Systems:
-Linux         [39 hrs 24 mins]  [█████████████████████████]   100.00%
-```
-
-</details>
-<!-- Wakatime last updated on Sun Dec 29 2024 22:48:26 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[12/29 14:32]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#1429`](https://github.com/IgorKowalczyk/majo.exe/pull/1429 'chore(deps): update pnpm to v9.15.2') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[12/29 14:32]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#343`](https://github.com/IgorKowalczyk/ngrok-cli/pull/343 'Update pnpm to v9.15.2') in [IgorKowalczyk/ngrok-cli](https://github.com/IgorKowalczyk/ngrok-cli)<br/>`[12/28 19:02]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[12/28 18:21]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/dotbot-digest` from [IgorKowalczyk/dotfiles](https://github.com/IgorKowalczyk/dotfiles)<br/>`[12/28 18:21]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/dotfiles](https://github.com/IgorKowalczyk/dotfiles)<br/>`[12/28 18:21]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#32`](https://github.com/IgorKowalczyk/dotfiles/pull/32 'Update dotbot digest to b8891c5') in [IgorKowalczyk/dotfiles](https://github.com/IgorKowalczyk/dotfiles)<br/>`[12/28 17:23]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `logs` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[12/28 17:23]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `9` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[12/28 17:23]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1428`](https://github.com/IgorKowalczyk/majo.exe/pull/1428 'Change border radius, move pages, add page for managing Discord logs') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[12/28 17:20]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/preact-10.x` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)
-<!-- Activity last updated on Sun Dec 29 2024 22:48:14 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Sun Dec 29 2024 23:04:40 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
