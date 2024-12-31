@@ -12,7 +12,6 @@
  <img alt="Discord activity card" src="https://discord-activity.deno.dev/api/544164729354977282?idleMessage=Just%20chillin'%20at%20the%20moment&cache=none" align="right" />
 </a>
 
-
 <p align="left">
 <code><a href="https://www.instagram.com/majonezexe/" target="_blank"><img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/svg/instagram.svg" alt="Instagram logo" width="30" height="30"/></a></code>
 <code><a href="https://twitter.com/majonezexe" target="_blank"><img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/svg/twitter.svg" alt="Twitter logo" width="30" height="30"/></a></code>
@@ -63,16 +62,18 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 ### 📕 Blog Posts
 
 <!-- START_SECTION:feed -->
+
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Thu Dec 19 2024 19:04:41 GMT+0000 (Coordinated Universal Time) -->
-<!-- END_SECTION:feed -->
+  <!-- Posts last updated on Thu Dec 19 2024 19:04:41 GMT+0000 (Coordinated Universal Time) -->
+  <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-| 🏆 Contributions (total):     |      31K     |
+
+| 🏆 Contributions (total):     |     31K      |
 | :---------------------------- | :----------: |
-| **🏆 Contributions in 2024:** |    **10K**   |
+| **🏆 Contributions in 2024:** |   **10K**    |
 | **📝 Total lines of code:**   |    **1M**    |
 | **📦 Github Storage:**        | **778.5 MB** |
 | **📚 Public Repositories:**   |    **28**    |
@@ -122,7 +123,9 @@ Linux         [61 hrs 45 mins]  [███████████████�
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-`[12/19 17:09]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[12/19 16:42]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/astro-monorepo` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[12/19 16:42]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[12/19 16:42]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#818`](https://github.com/IgorKowalczyk/github-views/pull/818 'Update dependency astro to v5.1.0') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[12/19 16:35]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#818`](https://github.com/IgorKowalczyk/github-views/pull/818 'Update dependency astro to v5.1.0') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[12/18 20:58]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/chalk-5.x` from [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)<br/>`[12/18 20:58]` <br/>`[12/18 20:58]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#154`](https://github.com/IgorKowalczyk/igorkowalczyk/pull/154 'Update dependency chalk to v5.4.0') in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)<br/>`[12/18 20:57]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#154`](https://github.com/IgorKowalczyk/igorkowalczyk/pull/154 'Update dependency chalk to v5.4.0') in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)<br/>`[12/18 20:11]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/react-monorepo` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
+
+`[12/19 17:09]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/igorkowalczyk.github.io](https://github.com/IgorKowalczyk/igorkowalczyk.github.io)<br/>`[12/19 16:42]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/astro-monorepo` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[12/19 16:42]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[12/19 16:42]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#818`](https://github.com/IgorKowalczyk/github-views/pull/818 "Update dependency astro to v5.1.0") in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[12/19 16:35]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#818`](https://github.com/IgorKowalczyk/github-views/pull/818 "Update dependency astro to v5.1.0") in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[12/18 20:58]` <br/>`[12/18 20:58]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#154`](https://github.com/IgorKowalczyk/igorkowalczyk/pull/154 "Update dependency chalk to v5.4.0") in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)<br/>`[12/18 20:57]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#154`](https://github.com/IgorKowalczyk/igorkowalczyk/pull/154 "Update dependency chalk to v5.4.0") in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)<br/>`[12/18 20:11]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/react-monorepo` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
+
 <!-- Activity last updated on Thu Dec 19 2024 19:04:41 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
