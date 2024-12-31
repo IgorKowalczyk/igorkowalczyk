@@ -63,66 +63,20 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Tue Dec 31 2024 22:48:15 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Tue Dec 31 2024 23:05:01 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-| 🏆 Contributions (total):     |      31K     |
-| :---------------------------- | :----------: |
-| **🏆 Contributions in 2024:** |    **11K**   |
-| **📝 Total lines of code:**   |    **1M**    |
-| **📦 Github Storage:**        | **780.6 MB** |
-| **📚 Public Repositories:**   |    **28**    |
 
-<details><summary>✨ Show more stats</summary>
-
-#### 📅 I work mostly during the night
-
-```text
-🌞 Morning   610 commits   [███████░░░░░░░░░░░░░░░░░░]   29.48%
-🌆 Daytime   685 commits   [████████░░░░░░░░░░░░░░░░░]   33.11%
-🌃 Evening   710 commits   [████████░░░░░░░░░░░░░░░░░]   34.32%
-🌙 Night     64 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.09%
-```
-
-#### 📅 I'm most productive on Monday
-
-```text
-Sunday      120 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   5.80%
-Monday      373 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.03%
-Tuesday     371 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.93%
-Wednesday   285 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.77%
-Thursday    239 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.55%
-Friday      311 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.03%
-Saturday    370 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.88%
-```
-
-#### 📊 Weekly work stats (last 7 days)
-
-```text
-💬 Programming Languages:
-TypeScript    [30 hrs 4 mins]    [████████████████░░░░░░░░░]   67.67%
-JavaScript    [6 hrs 29 mins]    [███░░░░░░░░░░░░░░░░░░░░░░]   14.61%
-CSS           [2 hrs 23 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   5.37%
-Bash          [2 hrs 11 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   4.93%
-YAML          [1 hr 38 mins]     [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.71%
-Other         [1h 38m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.70%
-
-💻 Operating Systems:
-Linux         [44 hrs 25 mins]  [█████████████████████████]   100.00%
-```
-
-</details>
-<!-- Wakatime last updated on Tue Dec 31 2024 22:48:25 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[12/31 20:11]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/pnpm-9.x` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[12/31 20:11]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[12/31 20:11]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#626`](https://github.com/IgorKowalczyk/shared-configs/pull/626 'chore(deps): update pnpm to v9.15.2') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[12/31 20:11]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#626`](https://github.com/IgorKowalczyk/shared-configs/pull/626 'chore(deps): update pnpm to v9.15.2') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[12/31 20:10]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/pnpm-9.x` from [IgorKowalczyk/ngrok-cli](https://github.com/IgorKowalczyk/ngrok-cli)<br/>`[12/31 20:10]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/ngrok-cli](https://github.com/IgorKowalczyk/ngrok-cli)<br/>`[12/31 20:10]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#343`](https://github.com/IgorKowalczyk/ngrok-cli/pull/343 'Update pnpm to v9.15.2') in [IgorKowalczyk/ngrok-cli](https://github.com/IgorKowalczyk/ngrok-cli)<br/>`[12/31 20:10]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/pnpm-9.x` from [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[12/31 20:10]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[12/31 20:10]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#18`](https://github.com/IgorKowalczyk/quiz/pull/18 'Update pnpm to v9.15.2') in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)
-<!-- Activity last updated on Tue Dec 31 2024 22:48:16 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Tue Dec 31 2024 23:05:01 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
