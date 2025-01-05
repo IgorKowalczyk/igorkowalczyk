@@ -63,66 +63,20 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sun Jan 05 2025 22:48:12 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sun Jan 05 2025 23:04:49 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-| 🏆 Contributions (total):     |     31K    |
-| :---------------------------- | :--------: |
-| **🏆 Contributions in 2025:** |   **92**   |
-| **📝 Total lines of code:**   |   **1M**   |
-| **📦 Github Storage:**        | **1.1 GB** |
-| **📚 Public Repositories:**   |   **28**   |
 
-<details><summary>✨ Show more stats</summary>
-
-#### 📅 I work mostly during the night
-
-```text
-🌞 Morning   599 commits   [███████░░░░░░░░░░░░░░░░░░]   28.91%
-🌆 Daytime   673 commits   [████████░░░░░░░░░░░░░░░░░]   32.48%
-🌃 Evening   736 commits   [████████░░░░░░░░░░░░░░░░░]   35.52%
-🌙 Night     64 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.09%
-```
-
-#### 📅 I'm most productive on Monday
-
-```text
-Sunday      124 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   5.98%
-Monday      367 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.71%
-Tuesday     366 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.66%
-Wednesday   303 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.62%
-Thursday    234 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.29%
-Friday      313 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.11%
-Saturday    365 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.62%
-```
-
-#### 📊 Weekly work stats (last 7 days)
-
-```text
-💬 Programming Languages:
-TypeScript    [31 hrs 57 mins]   [██████████████████░░░░░░░]   75.17%
-JavaScript    [5 hrs 36 mins]    [███░░░░░░░░░░░░░░░░░░░░░░]   13.17%
-CSS           [1 hr 56 mins]     [█░░░░░░░░░░░░░░░░░░░░░░░░]   4.56%
-Docker        [51 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.04%
-JSON          [36 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.45%
-Other         [1h 32m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.60%
-
-💻 Operating Systems:
-Linux         [42 hrs 30 mins]  [█████████████████████████]   100.00%
-```
-
-</details>
-<!-- Wakatime last updated on Sun Jan 05 2025 22:48:26 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[01/05 19:53]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br/>`[01/05 19:53]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/systeminformation-5.x...` from [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br/>`[01/05 19:53]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#403`](https://github.com/IgorKowalczyk/discord-ssh/pull/403 'Update dependency systeminformation to v5.25.3') in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br/>`[01/05 19:53]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#403`](https://github.com/IgorKowalczyk/discord-ssh/pull/403 'Update dependency systeminformation to v5.25.3') in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br/>`[01/05 14:02]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#357`](https://github.com/IgorKowalczyk/repl-uptime/pull/357 'Update dependency rollup to v4.29.2') in [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/>`[01/05 14:02]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/rollup-4.x` from [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/>`[01/05 14:02]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/>`[01/05 14:02]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/rollup-4.x` from [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[01/05 14:02]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[01/05 14:02]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#440`](https://github.com/IgorKowalczyk/countdown/pull/440 'Update dependency rollup to v4.29.2') in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)
-<!-- Activity last updated on Sun Jan 05 2025 22:48:13 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Sun Jan 05 2025 23:04:50 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
