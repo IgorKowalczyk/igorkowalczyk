@@ -63,20 +63,66 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sun Jan 12 2025 23:04:51 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sun Jan 12 2025 23:21:46 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
+| 🏆 Contributions (total):     |     31K    |
+| :---------------------------- | :--------: |
+| **🏆 Contributions in 2025:** |   **266**  |
+| **📝 Total lines of code:**   |   **1M**   |
+| **📦 Github Storage:**        | **1.1 GB** |
+| **📚 Public Repositories:**   |   **28**   |
 
+<details><summary>✨ Show more stats</summary>
+
+#### 📅 I work mostly during the night
+
+```text
+🌞 Morning   594 commits   [███████░░░░░░░░░░░░░░░░░░]   28.45%
+🌆 Daytime   673 commits   [████████░░░░░░░░░░░░░░░░░]   32.23%
+🌃 Evening   754 commits   [█████████░░░░░░░░░░░░░░░░]   36.11%
+🌙 Night     67 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.21%
+```
+
+#### 📅 I'm most productive on Monday
+
+```text
+Sunday      125 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   5.99%
+Monday      375 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.96%
+Tuesday     355 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.00%
+Wednesday   310 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.85%
+Thursday    229 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   10.97%
+Friday      328 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.71%
+Saturday    366 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.53%
+```
+
+#### 📊 Weekly work stats (last 7 days)
+
+```text
+💬 Programming Languages:
+JavaScript   [12 hrs]          [██████████████████████░░░]   91.30%
+MDX          [19 mins]         [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.50%
+CSS          [13 mins]         [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.70%
+YAML         [11 mins]         [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.42%
+Bash         [7 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.99%
+Other        [0h 16m]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.09%
+
+💻 Operating Systems:
+Linux        [13 hrs 9 mins]  [█████████████████████████]   100.00%
+```
+
+</details>
+<!-- Wakatime last updated on Sun Jan 12 2025 23:21:55 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[01/12 15:40]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/react-monorepo` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[01/12 15:40]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[01/12 15:40]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1451`](https://github.com/IgorKowalczyk/majo.exe/pull/1451 'chore(deps): update react monorepo') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[01/12 15:39]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/react-monorepo` from [IgorKowalczyk/igorkowalczyk.dev](https://github.com/IgorKowalczyk/igorkowalczyk.dev)<br/>`[01/12 15:39]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.dev](https://github.com/IgorKowalczyk/igorkowalczyk.dev)<br/>`[01/12 15:39]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1062`](https://github.com/IgorKowalczyk/igorkowalczyk.dev/pull/1062 'Update react monorepo') in [IgorKowalczyk/igorkowalczyk.dev](https://github.com/IgorKowalczyk/igorkowalczyk.dev)<br/>`[01/12 15:39]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/systeminformation-5.x...` from [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br/>`[01/12 15:39]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br/>`[01/12 15:39]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#412`](https://github.com/IgorKowalczyk/discord-ssh/pull/412 'Update dependency systeminformation to v5.25.11') in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br/>`[01/12 15:39]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/react-monorepo` from [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)
-<!-- Activity last updated on Sun Jan 12 2025 23:04:52 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Sun Jan 12 2025 23:21:46 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
