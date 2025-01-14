@@ -63,66 +63,20 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Tue Jan 14 2025 22:48:32 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Tue Jan 14 2025 23:04:50 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-| 🏆 Contributions (total):     |     32K    |
-| :---------------------------- | :--------: |
-| **🏆 Contributions in 2025:** |   **344**  |
-| **📝 Total lines of code:**   |   **1M**   |
-| **📦 Github Storage:**        | **1.1 GB** |
-| **📚 Public Repositories:**   |   **28**   |
 
-<details><summary>✨ Show more stats</summary>
-
-#### 📅 I work mostly during the night
-
-```text
-🌞 Morning   580 commits   [██████░░░░░░░░░░░░░░░░░░░]   27.67%
-🌆 Daytime   704 commits   [████████░░░░░░░░░░░░░░░░░]   33.59%
-🌃 Evening   745 commits   [████████░░░░░░░░░░░░░░░░░]   35.54%
-🌙 Night     67 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.20%
-```
-
-#### 📅 I'm most productive on Tuesday
-
-```text
-Sunday      124 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   5.92%
-Monday      378 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.03%
-Tuesday     385 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.37%
-Wednesday   301 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.36%
-Thursday    220 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   10.50%
-Friday      324 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.46%
-Saturday    364 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.37%
-```
-
-#### 📊 Weekly work stats (last 7 days)
-
-```text
-💬 Programming Languages:
-JavaScript   [2 hrs 48 mins]   [███████████████████░░░░░░]   79.45%
-YAML         [11 mins]         [█░░░░░░░░░░░░░░░░░░░░░░░░]   5.29%
-CSS          [9 mins]          [█░░░░░░░░░░░░░░░░░░░░░░░░]   4.64%
-Bash         [7 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.34%
-
-Other        [0h 8m]           [█░░░░░░░░░░░░░░░░░░░░░░░░]   7.27%
-
-💻 Operating Systems:
-Linux        [3 hrs 32 mins]  [█████████████████████████]   100.00%
-```
-
-</details>
-<!-- Wakatime last updated on Tue Jan 14 2025 22:48:53 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[01/13 16:43]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/dotfiles](https://github.com/IgorKowalczyk/dotfiles)<br/>`[01/13 15:04]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[01/13 15:04]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/lucide-monorepo` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[01/13 15:04]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1453`](https://github.com/IgorKowalczyk/majo.exe/pull/1453 'fix(deps): update dependency lucide-react to v0.471.1') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[01/13 08:26]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/react-monorepo` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[01/13 08:26]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[01/13 08:26]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1452`](https://github.com/IgorKowalczyk/majo.exe/pull/1452 'chore(deps): update dependency @types/react to v19.0.6') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[01/13 08:25]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#1452`](https://github.com/IgorKowalczyk/majo.exe/pull/1452 'chore(deps): update dependency @types/react to v19.0.6') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[01/13 08:25]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-plugin-react-7...` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[01/13 08:25]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)
-<!-- Activity last updated on Tue Jan 14 2025 22:48:33 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Tue Jan 14 2025 23:04:51 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
