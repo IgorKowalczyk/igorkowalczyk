@@ -63,66 +63,20 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Thu Jan 16 2025 22:48:25 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Thu Jan 16 2025 23:05:31 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-| 🏆 Contributions (total):     |     32K    |
-| :---------------------------- | :--------: |
-| **🏆 Contributions in 2025:** |   **423**  |
-| **📝 Total lines of code:**   |   **1M**   |
-| **📦 Github Storage:**        | **1.1 GB** |
-| **📚 Public Repositories:**   |   **28**   |
 
-<details><summary>✨ Show more stats</summary>
-
-#### 📅 I work mostly during the night
-
-```text
-🌞 Morning   566 commits   [██████░░░░░░░░░░░░░░░░░░░]   26.94%
-🌆 Daytime   731 commits   [████████░░░░░░░░░░░░░░░░░]   34.79%
-🌃 Evening   739 commits   [████████░░░░░░░░░░░░░░░░░]   35.17%
-🌙 Night     65 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.09%
-```
-
-#### 📅 I'm most productive on Monday
-
-```text
-Sunday      120 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   5.71%
-Monday      378 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.99%
-Tuesday     378 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.99%
-Wednesday   321 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.28%
-Thursday    232 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.04%
-Friday      319 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.18%
-Saturday    353 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.80%
-```
-
-#### 📊 Weekly work stats (last 7 days)
-
-```text
-💬 Programming Languages:
-JavaScript    [3 hrs 15 mins]    [███████░░░░░░░░░░░░░░░░░░]   28.16%
-Markdown      [2 hrs 18 mins]    [████░░░░░░░░░░░░░░░░░░░░░]   19.96%
-Bash          [2 hrs 15 mins]    [████░░░░░░░░░░░░░░░░░░░░░]   19.54%
-JSON          [1 hr 15 mins]     [██░░░░░░░░░░░░░░░░░░░░░░░]   10.95%
-TypeScript    [1 hr 7 mins]      [██░░░░░░░░░░░░░░░░░░░░░░░]   9.69%
-Other         [1h 21m]           [██░░░░░░░░░░░░░░░░░░░░░░░]   11.70%
-
-💻 Operating Systems:
-Linux         [11 hrs 33 mins]  [█████████████████████████]   100.00%
-```
-
-</details>
-<!-- Wakatime last updated on Thu Jan 16 2025 22:48:43 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[01/15 17:37]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#490`](https://github.com/squarestack/github-invite/pull/490 'chore(deps): update dependency prettier-plugin-tailwindcss to v0.6.10') in [squarestack/github-invite](https://github.com/squarestack/github-invite)<br/>`[01/15 15:39]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/igorkowalczyk-eslint-...` from [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[01/15 15:39]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[01/15 15:39]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#39`](https://github.com/IgorKowalczyk/quiz/pull/39 'Update dependency @igorkowalczyk/eslint-config to v3.0.2') in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[01/15 15:24]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/igorkowalczyk-prettie...` from [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[01/15 15:24]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[01/15 15:24]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#40`](https://github.com/IgorKowalczyk/quiz/pull/40 'Update dependency @igorkowalczyk/prettier-config to v3.0.2') in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[01/15 15:24]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/sonner-1.x` from [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[01/15 15:24]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[01/15 15:24]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#41`](https://github.com/IgorKowalczyk/quiz/pull/41 'Update dependency sonner to v1.7.2') in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)
-<!-- Activity last updated on Thu Jan 16 2025 22:48:26 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Thu Jan 16 2025 23:05:32 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
