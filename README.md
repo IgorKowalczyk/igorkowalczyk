@@ -63,20 +63,66 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Fri Jan 17 2025 23:05:14 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Fri Jan 17 2025 23:22:01 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
+| 🏆 Contributions (total):     |     32K    |
+| :---------------------------- | :--------: |
+| **🏆 Contributions in 2025:** |   **432**  |
+| **📝 Total lines of code:**   |   **1M**   |
+| **📦 Github Storage:**        | **1.1 GB** |
+| **📚 Public Repositories:**   |   **28**   |
 
+<details><summary>✨ Show more stats</summary>
+
+#### 📅 I work mostly during the night
+
+```text
+🌞 Morning   566 commits   [██████░░░░░░░░░░░░░░░░░░░]   26.93%
+🌆 Daytime   732 commits   [████████░░░░░░░░░░░░░░░░░]   34.82%
+🌃 Evening   739 commits   [████████░░░░░░░░░░░░░░░░░]   35.16%
+🌙 Night     65 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.09%
+```
+
+#### 📅 I'm most productive on Tuesday
+
+```text
+Sunday      120 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   5.71%
+Monday      376 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.89%
+Tuesday     377 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.94%
+Wednesday   319 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.18%
+Thursday    232 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.04%
+Friday      326 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.51%
+Saturday    352 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.75%
+```
+
+#### 📊 Weekly work stats (last 7 days)
+
+```text
+💬 Programming Languages:
+TypeScript    [2 hrs 32 mins]   [██████░░░░░░░░░░░░░░░░░░░]   25.69%
+Markdown      [2 hrs 18 mins]   [█████░░░░░░░░░░░░░░░░░░░░]   23.38%
+Bash          [2 hrs 8 mins]    [█████░░░░░░░░░░░░░░░░░░░░]   21.71%
+JSON          [1 hr 32 mins]    [███░░░░░░░░░░░░░░░░░░░░░░]   15.63%
+
+Other         [0h 41m]          [███░░░░░░░░░░░░░░░░░░░░░░]   13.58%
+
+💻 Operating Systems:
+Linux         [9 hrs 52 mins]  [█████████████████████████]   100.00%
+```
+
+</details>
+<!-- Wakatime last updated on Fri Jan 17 2025 23:22:12 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-`[01/17 18:58]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[01/17 18:37]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[01/17 18:34]` <br/>`[01/17 17:03]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/lucide-monorepo` from [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[01/17 17:03]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[01/17 17:03]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#44`](https://github.com/IgorKowalczyk/quiz/pull/44 'Update dependency lucide-react to v0.473.0') in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[01/17 17:03]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-plugin-tailwin...` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[01/17 17:03]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[01/17 17:03]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#652`](https://github.com/IgorKowalczyk/shared-configs/pull/652 'fix(deps): update dependency eslint-plugin-tailwindcss to v3.18.0') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[01/17 15:57]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/lucide-monorepo` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
-<!-- Activity last updated on Fri Jan 17 2025 23:05:14 GMT+0000 (Coordinated Universal Time) -->
+`[01/17 19:50]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[01/17 18:37]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[01/17 18:34]` <br/>`[01/17 17:03]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/lucide-monorepo` from [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[01/17 17:03]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[01/17 17:03]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#44`](https://github.com/IgorKowalczyk/quiz/pull/44 'Update dependency lucide-react to v0.473.0') in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[01/17 17:03]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-plugin-tailwin...` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[01/17 17:03]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[01/17 17:03]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#652`](https://github.com/IgorKowalczyk/shared-configs/pull/652 'fix(deps): update dependency eslint-plugin-tailwindcss to v3.18.0') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[01/17 15:57]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/lucide-monorepo` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
+<!-- Activity last updated on Fri Jan 17 2025 23:22:01 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
