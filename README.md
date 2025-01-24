@@ -63,66 +63,20 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Fri Jan 24 2025 22:48:21 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Fri Jan 24 2025 23:05:02 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-| 🏆 Contributions (total):     |     32K    |
-| :---------------------------- | :--------: |
-| **🏆 Contributions in 2025:** |   **528**  |
-| **📝 Total lines of code:**   |   **1M**   |
-| **📦 Github Storage:**        | **1.1 GB** |
-| **📚 Public Repositories:**   |   **28**   |
 
-<details><summary>✨ Show more stats</summary>
-
-#### 📅 I work mostly during the night
-
-```text
-🌞 Morning   552 commits   [██████░░░░░░░░░░░░░░░░░░░]   26.22%
-🌆 Daytime   760 commits   [█████████░░░░░░░░░░░░░░░░]   36.10%
-🌃 Evening   728 commits   [████████░░░░░░░░░░░░░░░░░]   34.58%
-🌙 Night     65 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.09%
-```
-
-#### 📅 I'm most productive on Tuesday
-
-```text
-Sunday      125 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   5.94%
-Monday      372 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.67%
-Tuesday     374 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.77%
-Wednesday   320 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.20%
-Thursday    227 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   10.78%
-Friday      337 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.01%
-Saturday    350 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.63%
-```
-
-#### 📊 Weekly work stats (last 7 days)
-
-```text
-💬 Programming Languages:
-TypeScript   [11 hrs 35 mins]   [████████████████░░░░░░░░░]   65.47%
-JavaScript   [5 hrs 32 mins]    [███████░░░░░░░░░░░░░░░░░░]   31.27%
-JSON         [24 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.35%
-CSS          [6 mins]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.58%
-Bash         [1 min]            [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.16%
-Other        [0h 1m]            [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.17%
-
-💻 Operating Systems:
-Linux        [17 hrs 42 mins]  [█████████████████████████]   100.00%
-```
-
-</details>
-<!-- Wakatime last updated on Fri Jan 24 2025 22:48:33 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[01/22 16:05]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[01/22 16:05]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/nextjs-monorepo` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[01/22 16:05]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#658`](https://github.com/IgorKowalczyk/shared-configs/pull/658 'fix(deps): update dependency @next/eslint-plugin-next to v15.1.6') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[01/22 16:05]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/nextjs-monorepo` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[01/22 16:05]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[01/22 16:05]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1472`](https://github.com/IgorKowalczyk/majo.exe/pull/1472 'fix(deps): update nextjs monorepo to v15.1.6') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[01/22 16:05]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [squarestack/github-invite](https://github.com/squarestack/github-invite)<br/>`[01/22 16:05]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/nextjs-monorepo` from [squarestack/github-invite](https://github.com/squarestack/github-invite)<br/>`[01/22 16:05]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#492`](https://github.com/squarestack/github-invite/pull/492 'fix(deps): update nextjs monorepo to v15.1.6') in [squarestack/github-invite](https://github.com/squarestack/github-invite)<br/>`[01/22 16:05]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)
-<!-- Activity last updated on Fri Jan 24 2025 22:48:21 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Fri Jan 24 2025 23:05:03 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
