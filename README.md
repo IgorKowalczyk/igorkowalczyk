@@ -63,66 +63,20 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Mon Feb 03 2025 22:48:20 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Mon Feb 03 2025 23:05:00 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-| 🏆 Contributions (total):     |     32K    |
-| :---------------------------- | :--------: |
-| **🏆 Contributions in 2025:** |   **820**  |
-| **📝 Total lines of code:**   |  **462K**  |
-| **📦 Github Storage:**        | **1.1 GB** |
-| **📚 Public Repositories:**   |   **28**   |
 
-<details><summary>✨ Show more stats</summary>
-
-#### 📅 I work mostly during the night
-
-```text
-🌞 Morning   541 commits   [██████░░░░░░░░░░░░░░░░░░░]   25.53%
-🌆 Daytime   814 commits   [█████████░░░░░░░░░░░░░░░░]   38.41%
-🌃 Evening   701 commits   [████████░░░░░░░░░░░░░░░░░]   33.08%
-🌙 Night     63 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.97%
-```
-
-#### 📅 I'm most productive on Tuesday
-
-```text
-Sunday      133 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.28%
-Monday      385 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.17%
-Tuesday     395 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.64%
-Wednesday   310 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.63%
-Thursday    234 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.04%
-Friday      327 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.43%
-Saturday    335 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.81%
-```
-
-#### 📊 Weekly work stats (last 7 days)
-
-```text
-💬 Programming Languages:
-TypeScript   [12 hrs 41 mins]   [███████████████████░░░░░░]   78.89%
-JavaScript   [2 hrs 38 mins]    [████░░░░░░░░░░░░░░░░░░░░░]   16.40%
-CSS          [16 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.74%
-YAML         [11 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.24%
-
-Other        [0h 8m]            [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.73%
-
-💻 Operating Systems:
-Linux        [16 hrs 5 mins]   [█████████████████████████]   100.00%
-```
-
-</details>
-<!-- Wakatime last updated on Mon Feb 03 2025 22:48:40 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[02/03 15:36]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#669`](https://github.com/IgorKowalczyk/shared-configs/pull/669 'fix(deps): update dependency @eslint/compat to v1.2.6') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[02/03 15:36]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-react-eslint-p...` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[02/03 15:36]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[02/03 15:36]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#676`](https://github.com/IgorKowalczyk/shared-configs/pull/676 'fix(deps): update dependency @eslint-react/eslint-plugin to v1.26.1') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[02/03 15:35]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [dcastil/tailwind-merge](https://github.com/dcastil/tailwind-merge)<br/>`[02/03 15:34]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-flat-config-ut...` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[02/03 15:34]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[02/03 15:34]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#674`](https://github.com/IgorKowalczyk/shared-configs/pull/674 'fix(deps): update dependency eslint-flat-config-utils to v2.0.1') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[02/03 15:30]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[02/03 15:30]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/node-22.x` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)
-<!-- Activity last updated on Mon Feb 03 2025 22:48:20 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Mon Feb 03 2025 23:05:01 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
