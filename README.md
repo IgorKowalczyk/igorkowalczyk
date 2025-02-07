@@ -63,20 +63,66 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Fri Feb 07 2025 23:05:02 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Fri Feb 07 2025 23:21:50 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
+| 🏆 Contributions (total):     |     32K    |
+| :---------------------------- | :--------: |
+| **🏆 Contributions in 2025:** |   **955**  |
+| **📝 Total lines of code:**   |   **1M**   |
+| **📦 Github Storage:**        | **1.1 GB** |
+| **📚 Public Repositories:**   |   **28**   |
 
+<details><summary>✨ Show more stats</summary>
+
+#### 📅 I work mostly during the night
+
+```text
+🌞 Morning   540 commits   [██████░░░░░░░░░░░░░░░░░░░]   25.44%
+🌆 Daytime   821 commits   [█████████░░░░░░░░░░░░░░░░]   38.67%
+🌃 Evening   700 commits   [████████░░░░░░░░░░░░░░░░░]   32.97%
+🌙 Night     62 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.92%
+```
+
+#### 📅 I'm most productive on Tuesday
+
+```text
+Sunday      129 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.08%
+Monday      380 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.90%
+Tuesday     404 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.03%
+Wednesday   323 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.21%
+Thursday    243 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.45%
+Friday      320 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.07%
+Saturday    324 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.26%
+```
+
+#### 📊 Weekly work stats (last 7 days)
+
+```text
+💬 Programming Languages:
+JavaScript   [8 hrs 10 mins]    [██████████████░░░░░░░░░░░]   56.65%
+TypeScript   [6 hrs 1 min]      [██████████░░░░░░░░░░░░░░░]   41.71%
+
+CSS          [4 mins]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.57%
+Prisma       [0 secs]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.04%
+Other        [0h 0m]            [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.02%
+
+💻 Operating Systems:
+Linux        [14 hrs 26 mins]  [█████████████████████████]   100.00%
+```
+
+</details>
+<!-- Wakatime last updated on Fri Feb 07 2025 23:22:01 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[02/06 21:46]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[02/06 21:46]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/headlessui-tailwindcs...` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[02/06 21:46]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1506`](https://github.com/IgorKowalczyk/majo.exe/pull/1506 'fix(deps): update dependency @headlessui/tailwindcss to v0.2.2') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[02/06 21:46]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#1506`](https://github.com/IgorKowalczyk/majo.exe/pull/1506 'fix(deps): update dependency @headlessui/tailwindcss to v0.2.2') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[02/06 21:45]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.dev](https://github.com/IgorKowalczyk/igorkowalczyk.dev)<br/>`[02/06 21:45]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/pnpm-10.x` from [IgorKowalczyk/igorkowalczyk.dev](https://github.com/IgorKowalczyk/igorkowalczyk.dev)<br/>`[02/06 21:45]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1091`](https://github.com/IgorKowalczyk/igorkowalczyk.dev/pull/1091 'Update pnpm to v10.2.1') in [IgorKowalczyk/igorkowalczyk.dev](https://github.com/IgorKowalczyk/igorkowalczyk.dev)<br/>`[02/06 21:45]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/pnpm-10.x` from [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br/>`[02/06 21:45]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br/>`[02/06 21:45]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#360`](https://github.com/IgorKowalczyk/is-browser/pull/360 'Update pnpm to v10.2.1') in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)
-<!-- Activity last updated on Fri Feb 07 2025 23:05:03 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Fri Feb 07 2025 23:21:50 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
