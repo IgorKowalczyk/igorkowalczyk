@@ -63,20 +63,65 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Tue Feb 11 2025 23:05:07 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Tue Feb 11 2025 23:23:20 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
+| 🏆 Contributions (total):     |     32K    |
+| :---------------------------- | :--------: |
+| **🏆 Contributions in 2025:** |  **1.2K**  |
+| **📝 Total lines of code:**   |  **460K**  |
+| **📦 Github Storage:**        | **1.1 GB** |
+| **📚 Public Repositories:**   |   **28**   |
 
+<details><summary>✨ Show more stats</summary>
+
+#### 📅 I work mostly during the night
+
+```text
+🌞 Morning   520 commits   [██████░░░░░░░░░░░░░░░░░░░]   24.45%
+🌆 Daytime   849 commits   [█████████░░░░░░░░░░░░░░░░]   39.92%
+🌃 Evening   711 commits   [████████░░░░░░░░░░░░░░░░░]   33.43%
+🌙 Night     47 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.21%
+```
+
+#### 📅 I'm most productive on Tuesday
+
+```text
+Sunday      139 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.54%
+Monday      393 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.48%
+Tuesday     414 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.46%
+Wednesday   321 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.09%
+Thursday    239 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.24%
+Friday      304 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.29%
+Saturday    317 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.90%
+```
+
+#### 📊 Weekly work stats (last 7 days)
+
+```text
+💬 Programming Languages:
+JavaScript    [13 hrs 30 mins]   [████████████████████████░]   96.25%
+TypeScript    [28 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.42%
+Image (svg)   [1 min]            [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.16%
+JSON          [1 min]            [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.16%
+
+
+💻 Operating Systems:
+Linux         [14 hrs 2 mins]   [█████████████████████████]   100.00%
+```
+
+</details>
+<!-- Wakatime last updated on Tue Feb 11 2025 23:23:37 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[02/10 19:32]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/vercel-speed-insights...` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[02/10 19:32]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[02/10 19:32]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1518`](https://github.com/IgorKowalczyk/majo.exe/pull/1518 'fix(deps): update dependency @vercel/speed-insights to v1.2.0') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[02/10 19:31]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/framer-motion-12.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[02/10 19:31]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[02/10 19:30]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1514`](https://github.com/IgorKowalczyk/majo.exe/pull/1514 'fix(deps): update dependency framer-motion to v12.4.2') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[02/10 19:30]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#1514`](https://github.com/IgorKowalczyk/majo.exe/pull/1514 'fix(deps): update dependency framer-motion to v12.4.2') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[02/10 19:29]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/node-gyp-11.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[02/10 19:29]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[02/10 19:29]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1516`](https://github.com/IgorKowalczyk/majo.exe/pull/1516 'chore(deps): update dependency node-gyp to v11.1.0') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
-<!-- Activity last updated on Tue Feb 11 2025 23:05:07 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Tue Feb 11 2025 23:23:21 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
