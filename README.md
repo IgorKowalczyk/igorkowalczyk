@@ -63,66 +63,20 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sun Feb 16 2025 22:48:21 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sun Feb 16 2025 23:04:49 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-| 🏆 Contributions (total):     |     32K    |
-| :---------------------------- | :--------: |
-| **🏆 Contributions in 2025:** |  **1.3K**  |
-| **📝 Total lines of code:**   |   **1M**   |
-| **📦 Github Storage:**        | **1.1 GB** |
-| **📚 Public Repositories:**   |   **27**   |
 
-<details><summary>✨ Show more stats</summary>
-
-#### 📅 I work mostly during the night
-
-```text
-🌞 Morning   505 commits   [██████░░░░░░░░░░░░░░░░░░░]   24.91%
-🌆 Daytime   846 commits   [██████████░░░░░░░░░░░░░░░]   41.74%
-🌃 Evening   631 commits   [███████░░░░░░░░░░░░░░░░░░]   31.13%
-🌙 Night     45 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.22%
-```
-
-#### 📅 I'm most productive on Tuesday
-
-```text
-Sunday      139 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.86%
-Monday      281 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.86%
-Tuesday     400 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.73%
-Wednesday   318 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.69%
-Thursday    234 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.54%
-Friday      348 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.17%
-Saturday    307 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.15%
-```
-
-#### 📊 Weekly work stats (last 7 days)
-
-```text
-💬 Programming Languages:
-JavaScript    [13 hrs 49 mins]   [██████████████████████░░░]   90.10%
-TypeScript    [48 mins]          [█░░░░░░░░░░░░░░░░░░░░░░░░]   5.26%
-Bash          [38 mins]          [█░░░░░░░░░░░░░░░░░░░░░░░░]   4.21%
-Image (svg)   [1 min]            [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.15%
-JSON          [1 min]            [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.14%
-Other         [0h 1m]            [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.13%
-
-💻 Operating Systems:
-Linux         [15 hrs 20 mins]  [█████████████████████████]   100.00%
-```
-
-</details>
-<!-- Wakatime last updated on Sun Feb 16 2025 22:48:28 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[02/16 16:17]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/react-monorepo` from [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[02/16 16:17]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[02/16 16:17]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#79`](https://github.com/IgorKowalczyk/quiz/pull/79 'Update dependency @types/react to v19.0.9') in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[02/16 16:17]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#79`](https://github.com/IgorKowalczyk/quiz/pull/79 'Update dependency @types/react to v19.0.9') in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[02/16 14:07]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/octokit-monorepo` from [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)<br/>`[02/16 14:07]` <br/>`[02/16 14:07]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#159`](https://github.com/IgorKowalczyk/igorkowalczyk/pull/159 'Update dependency @octokit/graphql to v8.2.1') in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)<br/>`[02/16 14:07]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/hookform-resolvers-4....` from [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[02/16 14:07]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#78`](https://github.com/IgorKowalczyk/quiz/pull/78 'Update dependency @hookform/resolvers to v4.1.0') in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[02/16 14:07]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)
-<!-- Activity last updated on Sun Feb 16 2025 22:48:21 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Sun Feb 16 2025 23:04:50 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
