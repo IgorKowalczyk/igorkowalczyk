@@ -63,66 +63,20 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Tue Feb 18 2025 22:48:15 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Tue Feb 18 2025 23:05:12 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-| 🏆 Contributions (total):     |     32K    |
-| :---------------------------- | :--------: |
-| **🏆 Contributions in 2025:** |  **1.4K**  |
-| **📝 Total lines of code:**   |   **1M**   |
-| **📦 Github Storage:**        | **1.1 GB** |
-| **📚 Public Repositories:**   |   **27**   |
 
-<details><summary>✨ Show more stats</summary>
-
-#### 📅 I work mostly during the night
-
-```text
-🌞 Morning   495 commits   [██████░░░░░░░░░░░░░░░░░░░]   24.42%
-🌆 Daytime   840 commits   [██████████░░░░░░░░░░░░░░░]   41.44%
-🌃 Evening   648 commits   [███████░░░░░░░░░░░░░░░░░░]   31.97%
-🌙 Night     44 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.17%
-```
-
-#### 📅 I'm most productive on Tuesday
-
-```text
-Sunday      138 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.81%
-Monday      289 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.26%
-Tuesday     410 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.23%
-Wednesday   311 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.34%
-Thursday    232 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.45%
-Friday      347 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.12%
-Saturday    300 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.80%
-```
-
-#### 📊 Weekly work stats (last 7 days)
-
-```text
-💬 Programming Languages:
-JavaScript   [11 hrs 36 mins]   [█████████████████████░░░░]   86.60%
-MDX          [50 mins]          [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.23%
-Bash         [38 mins]          [█░░░░░░░░░░░░░░░░░░░░░░░░]   4.82%
-TypeScript   [18 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.33%
-YAML         [0 secs]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.01%
-Other        [0h 0m]            [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.01%
-
-💻 Operating Systems:
-Linux        [13 hrs 24 mins]  [█████████████████████████]   100.00%
-```
-
-</details>
-<!-- Wakatime last updated on Tue Feb 18 2025 22:48:39 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[02/17 21:37]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/ngrok-cli](https://github.com/IgorKowalczyk/ngrok-cli)<br/>`[02/17 21:37]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/pnpm-10.x` from [IgorKowalczyk/ngrok-cli](https://github.com/IgorKowalczyk/ngrok-cli)<br/>`[02/17 21:37]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#375`](https://github.com/IgorKowalczyk/ngrok-cli/pull/375 'Update pnpm to v10.4.1') in [IgorKowalczyk/ngrok-cli](https://github.com/IgorKowalczyk/ngrok-cli)<br/>`[02/17 21:37]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/pnpm-10.x` from [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br/>`[02/17 21:37]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#434`](https://github.com/IgorKowalczyk/discord-ssh/pull/434 'Update pnpm to v10.4.1') in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br/>`[02/17 21:37]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br/>`[02/17 21:37]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/pnpm-10.x` from [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br/>`[02/17 21:37]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br/>`[02/17 21:37]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/pnpm-10.x` from [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[02/17 21:37]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#292`](https://github.com/IgorKowalczyk/active-dev/pull/292 'Update pnpm to v10.4.1') in [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)
-<!-- Activity last updated on Tue Feb 18 2025 22:48:16 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Tue Feb 18 2025 23:05:13 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
