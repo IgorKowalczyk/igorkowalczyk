@@ -63,20 +63,66 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Wed Feb 19 2025 23:05:07 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Wed Feb 19 2025 23:22:06 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
+| 🏆 Contributions (total):     |     32K    |
+| :---------------------------- | :--------: |
+| **🏆 Contributions in 2025:** |  **1.5K**  |
+| **📝 Total lines of code:**   |   **36K**  |
+| **📦 Github Storage:**        | **1.1 GB** |
+| **📚 Public Repositories:**   |   **27**   |
 
+<details><summary>✨ Show more stats</summary>
+
+#### 📅 I work mostly during the night
+
+```text
+🌞 Morning   491 commits   [██████░░░░░░░░░░░░░░░░░░░]   24.22%
+🌆 Daytime   850 commits   [██████████░░░░░░░░░░░░░░░]   41.93%
+🌃 Evening   642 commits   [███████░░░░░░░░░░░░░░░░░░]   31.67%
+🌙 Night     44 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.17%
+```
+
+#### 📅 I'm most productive on Tuesday
+
+```text
+Sunday      138 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.81%
+Monday      287 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.16%
+Tuesday     407 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.08%
+Wednesday   321 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.84%
+Thursday    232 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.45%
+Friday      344 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.97%
+Saturday    298 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.70%
+```
+
+#### 📊 Weekly work stats (last 7 days)
+
+```text
+💬 Programming Languages:
+JavaScript   [10 hrs 13 mins]   [██████████████████████░░░]   88.81%
+MDX          [50 mins]          [█░░░░░░░░░░░░░░░░░░░░░░░░]   7.25%
+Bash         [26 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.87%
+SQL          [0 secs]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.04%
+Prisma       [0 secs]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.02%
+Other        [0h 0m]            [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.02%
+
+💻 Operating Systems:
+Linux        [11 hrs 31 mins]  [█████████████████████████]   100.00%
+```
+
+</details>
+<!-- Wakatime last updated on Wed Feb 19 2025 23:22:25 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[02/19 17:03]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[02/19 17:03]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#84`](https://github.com/IgorKowalczyk/quiz/pull/84 'Update dependency postcss to v8.5.3') in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[02/19 17:03]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#514`](https://github.com/squarestack/github-invite/pull/514 'chore(deps): update dependency postcss to v8.5.3') in [squarestack/github-invite](https://github.com/squarestack/github-invite)<br/>`[02/19 17:03]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/postcss-8.x` from [squarestack/github-invite](https://github.com/squarestack/github-invite)<br/>`[02/19 17:03]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/postcss-8.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[02/19 17:03]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#84`](https://github.com/IgorKowalczyk/quiz/pull/84 'Update dependency postcss to v8.5.3') in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[02/19 17:03]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [squarestack/github-invite](https://github.com/squarestack/github-invite)<br/>`[02/19 17:03]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#1540`](https://github.com/IgorKowalczyk/majo.exe/pull/1540 'chore(deps): update dependency postcss to v8.5.3') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[02/19 17:03]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[02/19 17:03]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/postcss-8.x` from [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)
-<!-- Activity last updated on Wed Feb 19 2025 23:05:08 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Wed Feb 19 2025 23:22:06 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
