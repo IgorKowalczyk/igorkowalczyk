@@ -63,20 +63,66 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Thu Feb 20 2025 23:05:18 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Thu Feb 20 2025 23:22:44 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
+| 🏆 Contributions (total):     |     32K    |
+| :---------------------------- | :--------: |
+| **🏆 Contributions in 2025:** |  **1.5K**  |
+| **📝 Total lines of code:**   |   **1M**   |
+| **📦 Github Storage:**        | **1.1 GB** |
+| **📚 Public Repositories:**   |   **27**   |
 
+<details><summary>✨ Show more stats</summary>
+
+#### 📅 I work mostly during the night
+
+```text
+🌞 Morning   487 commits   [██████░░░░░░░░░░░░░░░░░░░]   24.03%
+🌆 Daytime   845 commits   [██████████░░░░░░░░░░░░░░░]   41.69%
+🌃 Evening   652 commits   [████████░░░░░░░░░░░░░░░░░]   32.17%
+🌙 Night     43 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.12%
+```
+
+#### 📅 I'm most productive on Tuesday
+
+```text
+Sunday      138 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.81%
+Monday      286 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.11%
+Tuesday     405 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.98%
+Wednesday   317 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.64%
+Thursday    247 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.19%
+Friday      339 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.72%
+Saturday    295 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.55%
+```
+
+#### 📊 Weekly work stats (last 7 days)
+
+```text
+💬 Programming Languages:
+JavaScript   [15 hrs 21 mins]   [██████████████████████░░░]   88.70%
+MDX          [50 mins]          [█░░░░░░░░░░░░░░░░░░░░░░░░]   4.83%
+JSON         [34 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.29%
+TypeScript   [30 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.97%
+Markdown     [1 min]            [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.10%
+Other        [0h 1m]            [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.10%
+
+💻 Operating Systems:
+Linux        [17 hrs 19 mins]  [█████████████████████████]   100.00%
+```
+
+</details>
+<!-- Wakatime last updated on Thu Feb 20 2025 23:23:04 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[02/20 12:00]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/postcss-8.x` from [IgorKowalczyk/igorkowalczyk.dev](https://github.com/IgorKowalczyk/igorkowalczyk.dev)<br/>`[02/20 12:00]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.dev](https://github.com/IgorKowalczyk/igorkowalczyk.dev)<br/>`[02/20 12:00]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1113`](https://github.com/IgorKowalczyk/igorkowalczyk.dev/pull/1113 'chore(deps): update dependency postcss to v8.5.3') in [IgorKowalczyk/igorkowalczyk.dev](https://github.com/IgorKowalczyk/igorkowalczyk.dev)<br/>`[02/20 12:00]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/fast-xml-parser-5.x` from [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)<br/>`[02/20 12:00]` <br/>`[02/20 12:00]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#162`](https://github.com/IgorKowalczyk/igorkowalczyk/pull/162 'Update dependency fast-xml-parser to v5.0.2') in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)<br/>`[02/20 12:00]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#1113`](https://github.com/IgorKowalczyk/igorkowalczyk.dev/pull/1113 'chore(deps): update dependency postcss to v8.5.3') in [IgorKowalczyk/igorkowalczyk.dev](https://github.com/IgorKowalczyk/igorkowalczyk.dev)<br/>`[02/20 11:59]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#162`](https://github.com/IgorKowalczyk/igorkowalczyk/pull/162 'Update dependency fast-xml-parser to v5.0.2') in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)<br/>`[02/19 17:03]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[02/19 17:03]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#84`](https://github.com/IgorKowalczyk/quiz/pull/84 'Update dependency postcss to v8.5.3') in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)
-<!-- Activity last updated on Thu Feb 20 2025 23:05:18 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Thu Feb 20 2025 23:22:45 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
