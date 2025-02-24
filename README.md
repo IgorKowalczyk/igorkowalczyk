@@ -63,66 +63,20 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Mon Feb 24 2025 22:48:15 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Mon Feb 24 2025 23:05:06 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-| 🏆 Contributions (total):     |     33K    |
-| :---------------------------- | :--------: |
-| **🏆 Contributions in 2025:** |  **1.6K**  |
-| **📝 Total lines of code:**   |   **1M**   |
-| **📦 Github Storage:**        | **1.2 GB** |
-| **📚 Public Repositories:**   |   **27**   |
 
-<details><summary>✨ Show more stats</summary>
-
-#### 📅 I work mostly during the night
-
-```text
-🌞 Morning   480 commits   [█████░░░░░░░░░░░░░░░░░░░░]   23.67%
-🌆 Daytime   852 commits   [██████████░░░░░░░░░░░░░░░]   42.01%
-🌃 Evening   653 commits   [████████░░░░░░░░░░░░░░░░░]   32.20%
-🌙 Night     43 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.12%
-```
-
-#### 📅 I'm most productive on Tuesday
-
-```text
-Sunday      138 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.80%
-Monday      286 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.10%
-Tuesday     404 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.92%
-Wednesday   311 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.34%
-Thursday    237 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.69%
-Friday      338 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.67%
-Saturday    314 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.48%
-```
-
-#### 📊 Weekly work stats (last 7 days)
-
-```text
-💬 Programming Languages:
-JavaScript   [8 hrs 33 mins]   [█████████████████████░░░░]   85.05%
-TypeScript   [43 mins]         [█░░░░░░░░░░░░░░░░░░░░░░░░]   7.20%
-JSON         [42 mins]         [█░░░░░░░░░░░░░░░░░░░░░░░░]   7.12%
-
-Markdown     [1 min]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.17%
-Other        [0h 1m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.45%
-
-💻 Operating Systems:
-Linux        [10 hrs 3 mins]  [█████████████████████████]   100.00%
-```
-
-</details>
-<!-- Wakatime last updated on Mon Feb 24 2025 22:48:29 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[02/24 13:01]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/hookform-resolvers-4....` from [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[02/24 13:01]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[02/24 13:01]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#90`](https://github.com/IgorKowalczyk/quiz/pull/90 'Update dependency @hookform/resolvers to v4.1.2') in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[02/24 13:01]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#90`](https://github.com/IgorKowalczyk/quiz/pull/90 'Update dependency @hookform/resolvers to v4.1.2') in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[02/23 18:52]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-monorepo` from [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[02/23 18:52]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[02/23 18:52]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#87`](https://github.com/IgorKowalczyk/quiz/pull/87 'Update dependency eslint to v9.21.0') in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[02/23 18:52]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/ts-jest-29.x` from [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[02/23 18:52]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[02/23 18:52]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#477`](https://github.com/IgorKowalczyk/countdown/pull/477 'chore(deps): update dependency ts-jest to v29.2.6') in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)
-<!-- Activity last updated on Mon Feb 24 2025 22:48:16 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Mon Feb 24 2025 23:05:07 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
