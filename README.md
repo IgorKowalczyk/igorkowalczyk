@@ -63,66 +63,20 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Tue Feb 25 2025 22:48:26 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Tue Feb 25 2025 23:05:00 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-| 🏆 Contributions (total):     |     33K    |
-| :---------------------------- | :--------: |
-| **🏆 Contributions in 2025:** |  **1.6K**  |
-| **📝 Total lines of code:**   |   **1M**   |
-| **📦 Github Storage:**        | **1.2 GB** |
-| **📚 Public Repositories:**   |   **27**   |
 
-<details><summary>✨ Show more stats</summary>
-
-#### 📅 I work mostly during the night
-
-```text
-🌞 Morning   485 commits   [█████░░░░░░░░░░░░░░░░░░░░]   23.92%
-🌆 Daytime   860 commits   [██████████░░░░░░░░░░░░░░░]   42.41%
-🌃 Evening   643 commits   [███████░░░░░░░░░░░░░░░░░░]   31.71%
-🌙 Night     40 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.97%
-```
-
-#### 📅 I'm most productive on Tuesday
-
-```text
-Sunday      137 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.76%
-Monday      284 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.00%
-Tuesday     424 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.91%
-Wednesday   304 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.99%
-Thursday    232 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.44%
-Friday      338 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.67%
-Saturday    309 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.24%
-```
-
-#### 📊 Weekly work stats (last 7 days)
-
-```text
-💬 Programming Languages:
-JavaScript   [8 hrs 33 mins]   [█████████████████████░░░░]   85.05%
-TypeScript   [43 mins]         [█░░░░░░░░░░░░░░░░░░░░░░░░]   7.20%
-JSON         [42 mins]         [█░░░░░░░░░░░░░░░░░░░░░░░░]   7.12%
-
-Markdown     [1 min]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.17%
-Other        [0h 1m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.45%
-
-💻 Operating Systems:
-Linux        [10 hrs 3 mins]  [█████████████████████████]   100.00%
-```
-
-</details>
-<!-- Wakatime last updated on Tue Feb 25 2025 22:48:44 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[02/25 10:52]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/typescript-eslint-mon...` from [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/>`[02/25 10:52]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/fast-xml-parser-5.x` from [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)<br/>`[02/25 10:52]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/>`[02/25 10:52]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#408`](https://github.com/IgorKowalczyk/repl-uptime/pull/408 'Update typescript-eslint monorepo to v8.25.0') in [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/>`[02/25 10:52]` <br/>`[02/25 10:52]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/lucide-monorepo` from [IgorKowalczyk/igorkowalczyk.dev](https://github.com/IgorKowalczyk/igorkowalczyk.dev)<br/>`[02/25 10:52]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#164`](https://github.com/IgorKowalczyk/igorkowalczyk/pull/164 'Update dependency fast-xml-parser to v5.0.7') in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)<br/>`[02/25 10:52]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.dev](https://github.com/IgorKowalczyk/igorkowalczyk.dev)<br/>`[02/25 10:52]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1117`](https://github.com/IgorKowalczyk/igorkowalczyk.dev/pull/1117 'fix(deps): update dependency lucide-react to v0.476.0') in [IgorKowalczyk/igorkowalczyk.dev](https://github.com/IgorKowalczyk/igorkowalczyk.dev)<br/>`[02/25 10:52]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/lucide-monorepo` from [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)
-<!-- Activity last updated on Tue Feb 25 2025 22:48:27 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Tue Feb 25 2025 23:05:00 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
