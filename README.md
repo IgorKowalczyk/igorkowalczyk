@@ -25,7 +25,7 @@
 
 ### 💪 Experience & History
 
-I have been coding for over 6 years, beginning my journey in late 2018. Initially, I learned HTML, CSS, and basic JavaScript to build websites.
+I have been coding for over 7 years, beginning my journey in late 2018. Initially, I learned HTML, CSS, and basic JavaScript to build websites.
 
 My first project was a simple music player made with JavaScript (~January 2019).
 
