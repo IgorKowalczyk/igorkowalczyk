@@ -63,66 +63,20 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Thu Mar 13 2025 13:37:52 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Thu Mar 13 2025 13:48:23 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-| 🏆 Contributions (total):     |     33K    |
-| :---------------------------- | :--------: |
-| **🏆 Contributions in 2025:** |  **2.2K**  |
-| **📝 Total lines of code:**   |   **1M**   |
-| **📦 Github Storage:**        | **1.3 GB** |
-| **📚 Public Repositories:**   |   **28**   |
 
-<details><summary>✨ Show more stats</summary>
-
-#### 📅 I work mostly during the night
-
-```text
-🌞 Morning   474 commits   [█████░░░░░░░░░░░░░░░░░░░░]   23.28%
-🌆 Daytime   854 commits   [██████████░░░░░░░░░░░░░░░]   41.94%
-🌃 Evening   654 commits   [████████░░░░░░░░░░░░░░░░░]   32.12%
-🌙 Night     54 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.65%
-```
-
-#### 📅 I'm most productive on Tuesday
-
-```text
-Sunday      124 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.09%
-Monday      336 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.50%
-Tuesday     379 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.61%
-Wednesday   313 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.37%
-Thursday    240 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.79%
-Friday      333 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.36%
-Saturday    311 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.28%
-```
-
-#### 📊 Weekly work stats (last 7 days)
-
-```text
-💬 Programming Languages:
-TypeScript   [8 hrs 14 mins]    [█████████░░░░░░░░░░░░░░░░]   37.98%
-JavaScript   [5 hrs 4 mins]     [█████░░░░░░░░░░░░░░░░░░░░]   23.39%
-JSON         [4 hrs 53 mins]    [█████░░░░░░░░░░░░░░░░░░░░]   22.55%
-YAML         [2 hrs 6 mins]     [██░░░░░░░░░░░░░░░░░░░░░░░]   9.72%
-Astro        [24 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.85%
-Other        [0h 58m]           [█░░░░░░░░░░░░░░░░░░░░░░░░]   4.52%
-
-💻 Operating Systems:
-Linux        [21 hrs 42 mins]  [█████████████████████████]   100.00%
-```
-
-</details>
-<!-- Wakatime last updated on Thu Mar 13 2025 13:38:04 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[03/13 06:05]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/react-day-picker-9.x` from [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[03/13 06:05]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#114`](https://github.com/IgorKowalczyk/quiz/pull/114 'Update dependency react-day-picker to v9.6.2') in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[03/13 06:05]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[03/13 06:05]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#114`](https://github.com/IgorKowalczyk/quiz/pull/114 'Update dependency react-day-picker to v9.6.2') in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[03/13 06:05]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/framer-motion-12.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[03/13 06:05]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[03/13 06:05]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1578`](https://github.com/IgorKowalczyk/majo.exe/pull/1578 'fix(deps): update dependency framer-motion to v12.5.0') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[03/13 06:05]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#1578`](https://github.com/IgorKowalczyk/majo.exe/pull/1578 'fix(deps): update dependency framer-motion to v12.5.0') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[03/13 06:00]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-react-eslint-p...` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[03/13 06:00]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)
-<!-- Activity last updated on Thu Mar 13 2025 13:37:53 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Thu Mar 13 2025 13:48:23 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
