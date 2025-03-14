@@ -63,66 +63,20 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Fri Mar 14 2025 22:48:17 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Fri Mar 14 2025 23:05:18 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-| 🏆 Contributions (total):     |     33K    |
-| :---------------------------- | :--------: |
-| **🏆 Contributions in 2025:** |  **2.3K**  |
-| **📝 Total lines of code:**   |   **1M**   |
-| **📦 Github Storage:**        | **1.3 GB** |
-| **📚 Public Repositories:**   |   **28**   |
 
-<details><summary>✨ Show more stats</summary>
-
-#### 📅 I work mostly during the night
-
-```text
-🌞 Morning   479 commits   [█████░░░░░░░░░░░░░░░░░░░░]   23.53%
-🌆 Daytime   844 commits   [██████████░░░░░░░░░░░░░░░]   41.45%
-🌃 Evening   659 commits   [████████░░░░░░░░░░░░░░░░░]   32.37%
-🌙 Night     54 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.65%
-```
-
-#### 📅 I'm most productive on Tuesday
-
-```text
-Sunday      117 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   5.75%
-Monday      332 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.31%
-Tuesday     370 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.17%
-Wednesday   307 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.08%
-Thursday    251 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.33%
-Friday      350 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.19%
-Saturday    309 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.18%
-```
-
-#### 📊 Weekly work stats (last 7 days)
-
-```text
-💬 Programming Languages:
-TypeScript   [11 hrs 17 mins]   [██████████████░░░░░░░░░░░]   56.26%
-JavaScript   [4 hrs 31 mins]    [█████░░░░░░░░░░░░░░░░░░░░]   22.56%
-CSS          [1 hr 54 mins]     [██░░░░░░░░░░░░░░░░░░░░░░░]   9.49%
-JSON         [1 hr 28 mins]     [█░░░░░░░░░░░░░░░░░░░░░░░░]   7.32%
-YAML         [40 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.33%
-Other        [0h 12m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.04%
-
-💻 Operating Systems:
-Linux        [20 hrs 3 mins]   [█████████████████████████]   100.00%
-```
-
-</details>
-<!-- Wakatime last updated on Fri Mar 14 2025 22:48:38 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[03/14 08:04]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/pnpm-10.x` from [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[03/14 08:04]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[03/14 08:04]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#115`](https://github.com/IgorKowalczyk/quiz/pull/115 'Update pnpm to v10.6.3') in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[03/14 08:04]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#115`](https://github.com/IgorKowalczyk/quiz/pull/115 'Update pnpm to v10.6.3') in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[03/14 08:02]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/pnpm-10.x` from [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/>`[03/14 08:02]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/>`[03/14 08:02]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#425`](https://github.com/IgorKowalczyk/repl-uptime/pull/425 'Update pnpm to v10.6.3') in [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/>`[03/14 08:02]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#425`](https://github.com/IgorKowalczyk/repl-uptime/pull/425 'Update pnpm to v10.6.3') in [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/>`[03/14 08:01]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/pnpm-10.x` from [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br/>`[03/14 08:01]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)
-<!-- Activity last updated on Fri Mar 14 2025 22:48:17 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Fri Mar 14 2025 23:05:19 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
