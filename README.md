@@ -63,20 +63,66 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Mon Mar 17 2025 23:05:28 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Mon Mar 17 2025 23:22:51 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
+| 🏆 Contributions (total):     |     33K    |
+| :---------------------------- | :--------: |
+| **🏆 Contributions in 2025:** |  **2.3K**  |
+| **📝 Total lines of code:**   |   **1M**   |
+| **📦 Github Storage:**        | **1.3 GB** |
+| **📚 Public Repositories:**   |   **28**   |
 
+<details><summary>✨ Show more stats</summary>
+
+#### 📅 I work mostly during the night
+
+```text
+🌞 Morning   483 commits   [█████░░░░░░░░░░░░░░░░░░░░]   23.72%
+🌆 Daytime   841 commits   [██████████░░░░░░░░░░░░░░░]   41.31%
+🌃 Evening   658 commits   [████████░░░░░░░░░░░░░░░░░]   32.32%
+🌙 Night     54 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.65%
+```
+
+#### 📅 I'm most productive on Tuesday
+
+```text
+Sunday      117 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   5.75%
+Monday      335 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.45%
+Tuesday     370 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.17%
+Wednesday   306 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.03%
+Thursday    251 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.33%
+Friday      350 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.19%
+Saturday    307 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.08%
+```
+
+#### 📊 Weekly work stats (last 7 days)
+
+```text
+💬 Programming Languages:
+TypeScript   [37 hrs 1 min]     [████████████████████░░░░░]   82.63%
+JavaScript   [3 hrs 36 mins]    [██░░░░░░░░░░░░░░░░░░░░░░░]   8.06%
+CSS          [3 hrs 4 mins]     [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.87%
+JSON         [54 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.03%
+YAML         [3 mins]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.15%
+Other        [0h 7m]            [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.26%
+
+💻 Operating Systems:
+Linux        [44 hrs 48 mins]  [█████████████████████████]   100.00%
+```
+
+</details>
+<!-- Wakatime last updated on Mon Mar 17 2025 23:23:07 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[03/17 13:23]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/>`[03/17 13:23]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/rollup-4.x` from [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/>`[03/17 13:23]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#426`](https://github.com/IgorKowalczyk/repl-uptime/pull/426 'Update dependency rollup to v4.36.0') in [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/>`[03/17 13:23]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#426`](https://github.com/IgorKowalczyk/repl-uptime/pull/426 'Update dependency rollup to v4.36.0') in [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/>`[03/17 11:46]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `3` commits in [IgorKowalczyk/igorkowalczyk.dev](https://github.com/IgorKowalczyk/igorkowalczyk.dev)<br/>`[03/17 11:45]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#1150`](https://github.com/IgorKowalczyk/igorkowalczyk.dev/pull/1150 'fix(deps): update dependency lucide-react to v0.482.0') in [IgorKowalczyk/igorkowalczyk.dev](https://github.com/IgorKowalczyk/igorkowalczyk.dev)<br/>`[03/17 11:45]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.dev](https://github.com/IgorKowalczyk/igorkowalczyk.dev)<br/>`[03/17 11:45]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/rehype-pretty-code-0....` from [IgorKowalczyk/igorkowalczyk.dev](https://github.com/IgorKowalczyk/igorkowalczyk.dev)<br/>`[03/17 11:45]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1149`](https://github.com/IgorKowalczyk/igorkowalczyk.dev/pull/1149 'fix(deps): update dependency rehype-pretty-code to v0.14.1') in [IgorKowalczyk/igorkowalczyk.dev](https://github.com/IgorKowalczyk/igorkowalczyk.dev)<br/>`[03/17 11:45]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#1149`](https://github.com/IgorKowalczyk/igorkowalczyk.dev/pull/1149 'fix(deps): update dependency rehype-pretty-code to v0.14.1') in [IgorKowalczyk/igorkowalczyk.dev](https://github.com/IgorKowalczyk/igorkowalczyk.dev)
-<!-- Activity last updated on Mon Mar 17 2025 23:05:28 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Mon Mar 17 2025 23:22:51 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
