@@ -63,66 +63,20 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Fri Mar 21 2025 22:48:19 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Fri Mar 21 2025 23:05:20 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-| 🏆 Contributions (total):     |     33K    |
-| :---------------------------- | :--------: |
-| **🏆 Contributions in 2025:** |  **2.4K**  |
-| **📝 Total lines of code:**   |   **1M**   |
-| **📦 Github Storage:**        | **1.3 GB** |
-| **📚 Public Repositories:**   |   **28**   |
 
-<details><summary>✨ Show more stats</summary>
-
-#### 📅 I work mostly during the night
-
-```text
-🌞 Morning   483 commits   [█████░░░░░░░░░░░░░░░░░░░░]   23.72%
-🌆 Daytime   837 commits   [██████████░░░░░░░░░░░░░░░]   41.11%
-🌃 Evening   664 commits   [████████░░░░░░░░░░░░░░░░░]   32.61%
-🌙 Night     52 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.55%
-```
-
-#### 📅 I'm most productive on Tuesday
-
-```text
-Sunday      112 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   5.50%
-Monday      325 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.96%
-Tuesday     386 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.96%
-Wednesday   310 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.23%
-Thursday    259 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.72%
-Friday      346 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.99%
-Saturday    298 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.64%
-```
-
-#### 📊 Weekly work stats (last 7 days)
-
-```text
-💬 Programming Languages:
-TypeScript   [31 hrs 9 mins]    [██████████████░░░░░░░░░░░]   58.53%
-Vue.js       [14 hrs 37 mins]   [██████░░░░░░░░░░░░░░░░░░░]   27.46%
-JavaScript   [3 hrs 31 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.64%
-CSS          [1 hr 28 mins]     [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.78%
-JSON         [1 hr 23 mins]     [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.61%
-Other        [1h 3m]            [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.98%
-
-💻 Operating Systems:
-Linux        [53 hrs 14 mins]  [█████████████████████████]   100.00%
-```
-
-</details>
-<!-- Wakatime last updated on Fri Mar 21 2025 22:48:30 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[03/20 19:45]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[03/20 19:05]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `v5` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[03/20 19:05]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `17` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[03/20 19:05]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#902`](https://github.com/IgorKowalczyk/github-views/pull/902 'Refactor project to replace Preact with Vue') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[03/20 18:55]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `3` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[03/20 18:16]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [antfu-collective/package-manager-detector](https://github.com/antfu-collective/package-manager-detector)<br/>`[03/20 18:06]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[03/19 21:17]` <a href="https://github.com/igorkowalczyk" title="✅"><img alt="✅" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/pr-open.png" align="top" height="18"></a> Opened PR [`#902`](https://github.com/IgorKowalczyk/github-views/pull/902 'Refactor project to replace Preact with Vue') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[03/19 21:16]` <a href="https://github.com/igorkowalczyk" title="📂"><img alt="📂" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/create-branch.png" align="top" height="18"></a> Created branch [`v5`](https://github.com/IgorKowalczyk/github-views/tree/v5) in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[03/19 21:05]` <a href="https://github.com/igorkowalczyk" title="🔖"><img alt="🔖" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/create-tag.png" align="top" height="18"></a> Created tag `v4.0.0` in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)
-<!-- Activity last updated on Fri Mar 21 2025 22:48:19 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Fri Mar 21 2025 23:05:20 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
