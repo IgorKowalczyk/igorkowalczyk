@@ -9,7 +9,7 @@
 ## [![Discord](https://img.shields.io/discord/695282860399001640?color=333&label=Chat&logo=discord&logoColor=fff&style=flat-square)](https://igorkowalczyk.dev/discord) [![GitHub followers](https://img.shields.io/github/followers/igorkowalczyk?color=333&label=Follow&logo=github&logoColor=fff&style=flat-square)](https://github.com/IgorKowalczyk?tab=followers) [![Twitter Follow](https://img.shields.io/static/v1?message=Twitter&color=333&label=@majonezexe&logo=twitter&logoColor=fff&style=flat-square)](https://twitter.com/majonezexe) [![Views](https://views.igorkowalczyk.dev/api/badge/igorkowalczyk?style=flat&color=333&cache=none)](https://views.igorkowalczyk.dev) [![Wakatime Hours](https://wakatime.igorkowalczyk.dev/api/badge?style=flat-square&color=333)](https://igorkowalczyk.dev)<br><br><br>
 
 <a href="https://github.com/IgorKowalczyk/discord-activity">
- <img alt="Discord activity card" src="https://discord-activity.deno.dev/api/544164729354977282?idleMessage=Just%20chillin'%20at%20the%20moment&cache=none" align="right" />
+ <img alt="Discord activity card" src="https://activity.igorkowalczyk.dev/api/544164729354977282?idleMessage=Just%20chillin'%20at%20the%20moment&cache=none" align="right" />
 </a>
 
 <p align="left">
