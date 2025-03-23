@@ -5,6 +5,12 @@ export const feed = {
  maxLines: 5,
 };
 
+export const technologies = {
+ open: "<!--START_SECTION:technologies-->",
+ close: "<!--END_SECTION:technologies-->",
+ link: "https://igorkowalczyk.dev/api/tech",
+};
+
 export const activity = {
  open: "<!--START_SECTION:activity-->",
  close: "<!--END_SECTION:activity-->",

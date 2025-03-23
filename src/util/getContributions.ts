@@ -1,5 +1,5 @@
+import { client } from "@/util/graphQlClient";
 import type { GraphQlQueryResponseData } from "@octokit/graphql";
-import { client } from "./graphQlClient";
 
 interface ContributionYearsResponse extends GraphQlQueryResponseData {
  user: {

@@ -1,7 +1,7 @@
 // Inspired by https://github.com/cheesits456/github-activity-readme
 
-import { activity } from "../config";
-import { Logger } from "../util/functions";
+import { activity } from "@/config";
+import { Logger } from "@/util/functions";
 
 interface Event {
  message?: string;

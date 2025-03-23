@@ -1,9 +1,10 @@
 import { readFileSync, writeFileSync } from "node:fs";
-import { activity, feed, wakatime } from "./config";
-import { fetchActivities } from "./updaters/fetchActivities";
-import { fetchCodingStats } from "./updaters/fetchCodingStats";
-import { fetchPosts } from "./updaters/fetchPosts";
-import { Logger } from "./util/functions";
+import { activity, feed, technologies, wakatime } from "@/config";
+import { fetchActivities } from "@/updaters/fetchActivities";
+import { fetchCodingStats } from "@/updaters/fetchCodingStats";
+import { fetchPosts } from "@/updaters/fetchPosts";
+import { fetchTechnologies } from "@/updaters/fetchTechnologies";
+import { Logger } from "@/util/functions";
 
 interface Marker {
  open: string;
@@ -30,11 +31,12 @@ const readmePath = "./README.md";
 try {
  let readmeContent = readFileSync(readmePath, "utf-8");
 
- const [activityList, statsList, posts] = await Promise.all([fetchActivities(activity.gitUsername), fetchCodingStats(wakatime.apiKey, activity.gitUsername), fetchPosts(feed.link)]);
+ const [activityList, statsList, posts, tech] = await Promise.all([fetchActivities(activity.gitUsername), fetchCodingStats(wakatime.apiKey, activity.gitUsername), fetchPosts(feed.link), fetchTechnologies(technologies.link)]);
 
  readmeContent = await updateReadmeSection(readmeContent, activity as Marker, activityList);
  readmeContent = await updateReadmeSection(readmeContent, wakatime as Marker, statsList);
  readmeContent = await updateReadmeSection(readmeContent, feed as Marker, posts);
+ readmeContent = await updateReadmeSection(readmeContent, technologies as Marker, tech);
 
  writeFileSync(readmePath, readmeContent.trim());
 

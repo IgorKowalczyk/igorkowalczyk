@@ -1,8 +1,7 @@
+import { getTimeOfDay } from "@/util/functions";
+import { getRepositories } from "@/util/getRepositories";
+import { client } from "@/util/graphQlClient";
 import type { GraphQlQueryResponseData } from "@octokit/graphql";
-import { format } from "date-fns";
-import { getTimeOfDay } from "./functions.js";
-import { getRepositories } from "./getRepositories.js";
-import { client } from "./graphQlClient.js";
 
 interface CommitNode {
  node: {

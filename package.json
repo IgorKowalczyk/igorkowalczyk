@@ -22,5 +22,9 @@
  },
  "peerDependencies": {
   "typescript": "5.8.2"
+ },
+ "packageManager": "pnpm@10.6.4",
+ "pnpm": {
+  "onlyBuiltDependencies": ["@biomejs/biome"]
  }
 }
