@@ -57,7 +57,7 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <code><img src="https://igorkowalczyk.dev/assets/tech/vercel.svg" alt="Vercel icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/astro.svg" alt="Astro icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/eslint.svg" alt="ESlint icon" height="30" width="30" /></code>
-<!-- List last updated on Sun Mar 23 2025 23:05:01 GMT+0000 (Coordinated Universal Time) -->
+<!-- List last updated on Sun Mar 23 2025 23:22:11 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:technologies-->
 
 **...and many others!**
@@ -66,20 +66,66 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sun Mar 23 2025 23:05:01 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sun Mar 23 2025 23:22:11 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
+| 🏆 Contributions (total):     |     33K    |
+| :---------------------------- | :--------: |
+| **🏆 Contributions in 2025:** |  **2.5K**  |
+| **📝 Total lines of code:**   |   **1M**   |
+| **📦 Github Storage:**        | **1.3 GB** |
+| **📚 Public Repositories:**   |   **28**   |
 
+<details><summary>✨ Show more stats</summary>
+
+#### 📅 I work mostly during the night
+
+```text
+🌞 Morning   467 commits   [█████░░░░░░░░░░░░░░░░░░░░]   22.86%
+🌆 Daytime   822 commits   [██████████░░░░░░░░░░░░░░░]   40.23%
+🌃 Evening   703 commits   [████████░░░░░░░░░░░░░░░░░]   34.41%
+🌙 Night     51 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.50%
+```
+
+#### 📅 I'm most productive on Tuesday
+
+```text
+Sunday      166 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   8.13%
+Monday      308 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.08%
+Tuesday     375 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.36%
+Wednesday   305 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.93%
+Thursday    253 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.38%
+Friday      334 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.35%
+Saturday    302 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.78%
+```
+
+#### 📊 Weekly work stats (last 7 days)
+
+```text
+💬 Programming Languages:
+Vue.js         [14 hrs 51 mins]   [████████░░░░░░░░░░░░░░░░░]   34.95%
+TypeScript     [14 hrs 36 mins]   [████████░░░░░░░░░░░░░░░░░]   34.36%
+JavaScript     [3 hrs 33 mins]    [██░░░░░░░░░░░░░░░░░░░░░░░]   8.35%
+
+Markdown       [1 hr 57 mins]     [█░░░░░░░░░░░░░░░░░░░░░░░░]   4.60%
+Other          [4h 30m]           [████░░░░░░░░░░░░░░░░░░░░░]   17.72%
+
+💻 Operating Systems:
+Linux          [42 hrs 31 mins]  [█████████████████████████]   100.00%
+```
+
+</details>
+<!-- Wakatime last updated on Sun Mar 23 2025 23:22:23 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[03/23 20:59]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/>`[03/23 20:59]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/supertest-7.x` from [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/>`[03/23 20:59]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#429`](https://github.com/IgorKowalczyk/repl-uptime/pull/429 'Update dependency supertest to v7.1.0') in [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/>`[03/23 20:59]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-monorepo` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[03/23 20:59]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[03/23 20:59]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#758`](https://github.com/IgorKowalczyk/shared-configs/pull/758 'fix(deps): update eslint monorepo to v9.23.0') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[03/23 20:59]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/tailwindcss-monorepo` from [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br/>`[03/23 20:59]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br/>`[03/23 20:59]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#393`](https://github.com/IgorKowalczyk/is-browser/pull/393 'Update dependency tailwindcss to v4.0.15') in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br/>`[03/23 20:58]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-monorepo` from [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)
-<!-- Activity last updated on Sun Mar 23 2025 23:05:02 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Sun Mar 23 2025 23:22:11 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
