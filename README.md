@@ -57,7 +57,7 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <code><img src="https://igorkowalczyk.dev/assets/tech/vercel.svg" alt="Vercel icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/astro.svg" alt="Astro icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/eslint.svg" alt="ESlint icon" height="30" width="30" /></code>
-<!-- List last updated on Thu Mar 27 2025 23:05:19 GMT+0000 (Coordinated Universal Time) -->
+<!-- List last updated on Thu Mar 27 2025 23:23:46 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:technologies-->
 
 **...and many others!**
@@ -66,20 +66,66 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Thu Mar 27 2025 23:05:19 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Thu Mar 27 2025 23:23:46 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
+| 🏆 Contributions (total):     |     33K    |
+| :---------------------------- | :--------: |
+| **🏆 Contributions in 2025:** |  **2.5K**  |
+| **📝 Total lines of code:**   |  **1.1M**  |
+| **📦 Github Storage:**        | **1.3 GB** |
+| **📚 Public Repositories:**   |   **28**   |
 
+<details><summary>✨ Show more stats</summary>
+
+#### 📅 I work mostly during the night
+
+```text
+🌞 Morning   457 commits   [█████░░░░░░░░░░░░░░░░░░░░]   22.36%
+🌆 Daytime   842 commits   [██████████░░░░░░░░░░░░░░░]   41.19%
+🌃 Evening   694 commits   [████████░░░░░░░░░░░░░░░░░]   33.95%
+🌙 Night     51 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.50%
+```
+
+#### 📅 I'm most productive on Tuesday
+
+```text
+Sunday      164 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   8.02%
+Monday      305 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.92%
+Tuesday     367 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.95%
+Wednesday   309 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.12%
+Thursday    269 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.16%
+Friday      331 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.19%
+Saturday    299 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.63%
+```
+
+#### 📊 Weekly work stats (last 7 days)
+
+```text
+💬 Programming Languages:
+TypeScript     [27 hrs 12 mins]   [███████████████░░░░░░░░░░]   61.33%
+
+JavaScript     [3 hrs 14 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   7.29%
+Markdown       [3 hrs]            [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.77%
+JSON           [2 hrs 41 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.07%
+Other          [3h 45m]           [████░░░░░░░░░░░░░░░░░░░░░]   18.52%
+
+💻 Operating Systems:
+Linux          [44 hrs 22 mins]  [█████████████████████████]   100.00%
+```
+
+</details>
+<!-- Wakatime last updated on Thu Mar 27 2025 23:23:59 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-`[03/27 15:10]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[03/27 14:06]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/node-22.x` from [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/>`[03/27 14:06]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/>`[03/27 14:06]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/node-22.x` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[03/27 14:06]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#433`](https://github.com/IgorKowalczyk/repl-uptime/pull/433 'Update dependency @types/node to v22.13.14') in [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/>`[03/27 14:06]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[03/27 14:06]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br/>`[03/27 14:06]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/node-22.x` from [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br/>`[03/27 14:06]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#907`](https://github.com/IgorKowalczyk/github-views/pull/907 'Update dependency @types/node to v22.13.14') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[03/27 14:06]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#313`](https://github.com/IgorKowalczyk/active-dev/pull/313 'Update dependency @types/node to v22.13.14') in [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)
-<!-- Activity last updated on Thu Mar 27 2025 23:05:20 GMT+0000 (Coordinated Universal Time) -->
+`[03/27 15:22]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[03/27 14:06]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/node-22.x` from [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/>`[03/27 14:06]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/>`[03/27 14:06]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/node-22.x` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[03/27 14:06]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#433`](https://github.com/IgorKowalczyk/repl-uptime/pull/433 'Update dependency @types/node to v22.13.14') in [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/>`[03/27 14:06]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[03/27 14:06]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br/>`[03/27 14:06]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/node-22.x` from [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br/>`[03/27 14:06]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#907`](https://github.com/IgorKowalczyk/github-views/pull/907 'Update dependency @types/node to v22.13.14') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[03/27 14:06]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#313`](https://github.com/IgorKowalczyk/active-dev/pull/313 'Update dependency @types/node to v22.13.14') in [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)
+<!-- Activity last updated on Thu Mar 27 2025 23:23:47 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
