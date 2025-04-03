@@ -57,7 +57,7 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <code><img src="https://igorkowalczyk.dev/assets/tech/vercel.svg" alt="Vercel icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/astro.svg" alt="Astro icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/eslint.svg" alt="ESlint icon" height="30" width="30" /></code>
-<!-- List last updated on Thu Apr 03 2025 22:05:10 GMT+0000 (Coordinated Universal Time) -->
+<!-- List last updated on Thu Apr 03 2025 22:23:14 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:technologies-->
 
 **...and many others!**
@@ -66,20 +66,66 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Thu Apr 03 2025 22:05:10 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Thu Apr 03 2025 22:23:14 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
+| 🏆 Contributions (total):     |     34K    |
+| :---------------------------- | :--------: |
+| **🏆 Contributions in 2025:** |  **2.7K**  |
+| **📝 Total lines of code:**   |   **1M**   |
+| **📦 Github Storage:**        | **1.3 GB** |
+| **📚 Public Repositories:**   |   **27**   |
 
+<details><summary>✨ Show more stats</summary>
+
+#### 📅 I work mostly during the night
+
+```text
+🌞 Morning   470 commits   [█████░░░░░░░░░░░░░░░░░░░░]   23.04%
+🌆 Daytime   857 commits   [██████████░░░░░░░░░░░░░░░]   42.01%
+🌃 Evening   662 commits   [████████░░░░░░░░░░░░░░░░░]   32.45%
+🌙 Night     51 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.50%
+```
+
+#### 📅 I'm most productive on Tuesday
+
+```text
+Sunday      169 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   8.28%
+Monday      293 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.36%
+Tuesday     408 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.00%
+Wednesday   307 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.05%
+Thursday    260 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.75%
+Friday      314 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.39%
+Saturday    289 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.17%
+```
+
+#### 📊 Weekly work stats (last 7 days)
+
+```text
+💬 Programming Languages:
+TypeScript           [39 hrs 44 mins]   [█████████████████░░░░░░░░]   71.25%
+
+JSON                 [2 hrs 44 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   4.92%
+Prisma               [2 hrs 36 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   4.68%
+YAML                 [1 hr 41 mins]     [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.02%
+Other                [3h 24m]           [████░░░░░░░░░░░░░░░░░░░░░]   16.12%
+
+💻 Operating Systems:
+Linux                [55 hrs 46 mins]  [█████████████████████████]   100.00%
+```
+
+</details>
+<!-- Wakatime last updated on Thu Apr 03 2025 22:23:30 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[04/02 14:40]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/>`[04/02 12:07]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[04/02 08:41]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/ts-jest-29.x` from [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/>`[04/02 08:41]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#434`](https://github.com/IgorKowalczyk/repl-uptime/pull/434 'Update dependency ts-jest to v29.3.1') in [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/>`[04/02 08:41]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/>`[04/02 08:41]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#434`](https://github.com/IgorKowalczyk/repl-uptime/pull/434 'Update dependency ts-jest to v29.3.1') in [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/>`[04/02 08:27]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/pnpm-action-setup-4.x...` from [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/>`[04/02 08:27]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/>`[04/02 08:27]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#436`](https://github.com/IgorKowalczyk/repl-uptime/pull/436 'Update pnpm/action-setup action to v4') in [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/>`[04/02 08:27]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#436`](https://github.com/IgorKowalczyk/repl-uptime/pull/436 'Update pnpm/action-setup action to v4') in [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)
-<!-- Activity last updated on Thu Apr 03 2025 22:05:10 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Thu Apr 03 2025 22:23:15 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
