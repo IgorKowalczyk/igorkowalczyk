@@ -57,7 +57,7 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <code><img src="https://igorkowalczyk.dev/assets/tech/vercel.svg" alt="Vercel icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/astro.svg" alt="Astro icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/eslint.svg" alt="ESlint icon" height="30" width="30" /></code>
-<!-- List last updated on Sat Apr 05 2025 22:05:08 GMT+0000 (Coordinated Universal Time) -->
+<!-- List last updated on Sat Apr 05 2025 22:23:20 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:technologies-->
 
 **...and many others!**
@@ -66,20 +66,66 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sat Apr 05 2025 22:05:08 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sat Apr 05 2025 22:23:20 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
+| 🏆 Contributions (total):     |     34K    |
+| :---------------------------- | :--------: |
+| **🏆 Contributions in 2025:** |  **2.9K**  |
+| **📝 Total lines of code:**   |   **1M**   |
+| **📦 Github Storage:**        | **1.3 GB** |
+| **📚 Public Repositories:**   |   **27**   |
 
+<details><summary>✨ Show more stats</summary>
+
+#### 📅 I work mostly during the night
+
+```text
+🌞 Morning   485 commits   [█████░░░░░░░░░░░░░░░░░░░░]   23.77%
+🌆 Daytime   854 commits   [██████████░░░░░░░░░░░░░░░]   41.86%
+🌃 Evening   650 commits   [███████░░░░░░░░░░░░░░░░░░]   31.86%
+🌙 Night     51 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.50%
+```
+
+#### 📅 I'm most productive on Tuesday
+
+```text
+Sunday      163 commits   [█░░░░░░░░░░░░░░░░░░░░░░░░]   7.99%
+Monday      286 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.02%
+Tuesday     386 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.92%
+Wednesday   300 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.71%
+Thursday    251 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.30%
+Friday      300 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.71%
+Saturday    354 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.35%
+```
+
+#### 📊 Weekly work stats (last 7 days)
+
+```text
+💬 Programming Languages:
+TypeScript           [24 hrs 5 mins]    [█████████████░░░░░░░░░░░░]   52.94%
+
+CSS                  [5 hrs 28 mins]    [███░░░░░░░░░░░░░░░░░░░░░░]   12.02%
+YAML                 [3 hrs 28 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   7.62%
+JSON                 [2 hrs 37 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   5.76%
+Other                [4h 16m]           [█████░░░░░░░░░░░░░░░░░░░░]   21.66%
+
+💻 Operating Systems:
+Linux                [45 hrs 29 mins]  [█████████████████████████]   100.00%
+```
+
+</details>
+<!-- Wakatime last updated on Sat Apr 05 2025 22:23:30 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[04/05 10:01]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/turbo-monorepo` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[04/05 10:01]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[04/05 10:01]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1612`](https://github.com/IgorKowalczyk/majo.exe/pull/1612 'fix(deps): update turbo monorepo to v2.5.0') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[04/05 09:42]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[04/05 09:32]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/typescript-5.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[04/05 09:32]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[04/05 09:32]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1616`](https://github.com/IgorKowalczyk/majo.exe/pull/1616 'fix(deps): update dependency typescript to v5.8.3') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[04/05 09:32]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#1616`](https://github.com/IgorKowalczyk/majo.exe/pull/1616 'fix(deps): update dependency typescript to v5.8.3') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[04/05 09:29]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/typescript-5.x` from [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/>`[04/05 09:29]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)
-<!-- Activity last updated on Sat Apr 05 2025 22:05:09 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Sat Apr 05 2025 22:23:20 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
