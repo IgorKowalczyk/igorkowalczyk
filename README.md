@@ -57,7 +57,7 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <code><img src="https://igorkowalczyk.dev/assets/tech/vercel.svg" alt="Vercel icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/astro.svg" alt="Astro icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/eslint.svg" alt="ESlint icon" height="30" width="30" /></code>
-<!-- List last updated on Mon Apr 07 2025 21:54:57 GMT+0000 (Coordinated Universal Time) -->
+<!-- List last updated on Mon Apr 07 2025 22:05:38 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:technologies-->
 
 **...and many others!**
@@ -66,66 +66,20 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Mon Apr 07 2025 21:54:57 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Mon Apr 07 2025 22:05:38 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-| 🏆 Contributions (total):     |     34K    |
-| :---------------------------- | :--------: |
-| **🏆 Contributions in 2025:** |  **2.9K**  |
-| **📝 Total lines of code:**   |   **1M**   |
-| **📦 Github Storage:**        | **1.3 GB** |
-| **📚 Public Repositories:**   |   **27**   |
 
-<details><summary>✨ Show more stats</summary>
-
-#### 📅 I work mostly during the night
-
-```text
-🌞 Morning   492 commits   [██████░░░░░░░░░░░░░░░░░░░]   24.11%
-🌆 Daytime   846 commits   [██████████░░░░░░░░░░░░░░░]   41.45%
-🌃 Evening   652 commits   [███████░░░░░░░░░░░░░░░░░░]   31.95%
-🌙 Night     51 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.50%
-```
-
-#### 📅 I'm most productive on Tuesday
-
-```text
-Sunday      168 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   8.23%
-Monday      300 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.70%
-Tuesday     381 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.67%
-Wednesday   294 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.40%
-Thursday    249 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.20%
-Friday      295 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.45%
-Saturday    354 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.34%
-```
-
-#### 📊 Weekly work stats (last 7 days)
-
-```text
-💬 Programming Languages:
-TypeScript           [13 hrs 17 mins]   [████████░░░░░░░░░░░░░░░░░]   35.17%
-YAML                 [8 hrs 3 mins]     [█████░░░░░░░░░░░░░░░░░░░░]   21.32%
-
-CSS                  [4 hrs 45 mins]    [███░░░░░░░░░░░░░░░░░░░░░░]   12.57%
-JSON                 [2 hrs 37 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.92%
-Other                [3h 25m]           [██████░░░░░░░░░░░░░░░░░░░]   24.01%
-
-💻 Operating Systems:
-Linux                [37 hrs 49 mins]  [█████████████████████████]   100.00%
-```
-
-</details>
-<!-- Wakatime last updated on Mon Apr 07 2025 21:55:09 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[04/07 14:47]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/dotfiles](https://github.com/IgorKowalczyk/dotfiles)<br/>`[04/07 10:57]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.dev](https://github.com/IgorKowalczyk/igorkowalczyk.dev)<br/>`[04/07 10:57]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/tailwind-merge-3.x` from [IgorKowalczyk/igorkowalczyk.dev](https://github.com/IgorKowalczyk/igorkowalczyk.dev)<br/>`[04/07 10:57]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1174`](https://github.com/IgorKowalczyk/igorkowalczyk.dev/pull/1174 'fix(deps): update dependency tailwind-merge to v3.2.0') in [IgorKowalczyk/igorkowalczyk.dev](https://github.com/IgorKowalczyk/igorkowalczyk.dev)<br/>`[04/07 10:57]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#1174`](https://github.com/IgorKowalczyk/igorkowalczyk.dev/pull/1174 'fix(deps): update dependency tailwind-merge to v3.2.0') in [IgorKowalczyk/igorkowalczyk.dev](https://github.com/IgorKowalczyk/igorkowalczyk.dev)<br/>`[04/07 10:56]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/tailwind-merge-3.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[04/07 10:56]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[04/07 10:56]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1617`](https://github.com/IgorKowalczyk/majo.exe/pull/1617 'chore(deps): update dependency tailwind-merge to v3.2.0') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[04/07 10:56]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#1617`](https://github.com/IgorKowalczyk/majo.exe/pull/1617 'chore(deps): update dependency tailwind-merge to v3.2.0') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[04/07 08:54]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/tailwind-merge-3.x` from [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)
-<!-- Activity last updated on Mon Apr 07 2025 21:54:57 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Mon Apr 07 2025 22:05:39 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
