@@ -57,7 +57,7 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <code><img src="https://igorkowalczyk.dev/assets/tech/vercel.svg" alt="Vercel icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/astro.svg" alt="Astro icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/eslint.svg" alt="ESlint icon" height="30" width="30" /></code>
-<!-- List last updated on Sat Apr 12 2025 21:48:20 GMT+0000 (Coordinated Universal Time) -->
+<!-- List last updated on Sat Apr 12 2025 22:04:49 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:technologies-->
 
 **...and many others!**
@@ -66,66 +66,20 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sat Apr 12 2025 21:48:20 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sat Apr 12 2025 22:04:49 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-| 🏆 Contributions (total):     |     34K    |
-| :---------------------------- | :--------: |
-| **🏆 Contributions in 2025:** |  **3.1K**  |
-| **📝 Total lines of code:**   |   **1M**   |
-| **📦 Github Storage:**        | **1.3 GB** |
-| **📚 Public Repositories:**   |   **27**   |
 
-<details><summary>✨ Show more stats</summary>
-
-#### 📅 I work mostly during the night
-
-```text
-🌞 Morning   533 commits   [██████░░░░░░░░░░░░░░░░░░░]   26.11%
-🌆 Daytime   811 commits   [█████████░░░░░░░░░░░░░░░░]   39.74%
-🌃 Evening   647 commits   [███████░░░░░░░░░░░░░░░░░░]   31.70%
-🌙 Night     50 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.45%
-```
-
-#### 📅 I'm most productive on Saturday
-
-```text
-Sunday      166 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   8.13%
-Monday      286 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.01%
-Tuesday     379 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.57%
-Wednesday   287 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.06%
-Thursday    250 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.25%
-Friday      285 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.96%
-Saturday    388 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.01%
-```
-
-#### 📊 Weekly work stats (last 7 days)
-
-```text
-💬 Programming Languages:
-Docker       [17 hrs 35 mins]   [█████████░░░░░░░░░░░░░░░░]   39.64%
-YAML         [8 hrs 46 mins]    [████░░░░░░░░░░░░░░░░░░░░░]   19.76%
-CSS          [4 hrs 41 mins]    [██░░░░░░░░░░░░░░░░░░░░░░░]   10.58%
-JSON         [4 hrs 24 mins]    [██░░░░░░░░░░░░░░░░░░░░░░░]   9.94%
-
-Other        [5h 38m]           [█████░░░░░░░░░░░░░░░░░░░░]   20.09%
-
-💻 Operating Systems:
-Linux        [44 hrs 22 mins]  [█████████████████████████]   100.00%
-```
-
-</details>
-<!-- Wakatime last updated on Sat Apr 12 2025 21:48:31 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[04/12 20:49]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[04/12 20:22]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#1633`](https://github.com/IgorKowalczyk/majo.exe/pull/1633 'fix(deps): update prisma monorepo to v6.6.0') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[04/12 20:16]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/react-day-picker-9.x` from [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[04/12 20:16]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[04/12 20:16]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#122`](https://github.com/IgorKowalczyk/quiz/pull/122 'Update dependency react-day-picker to v9') in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[04/12 20:16]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#122`](https://github.com/IgorKowalczyk/quiz/pull/122 'Update dependency react-day-picker to v9') in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[04/12 20:13]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/radix-ui-primitives-m...` from [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[04/12 20:13]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[04/12 20:13]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#146`](https://github.com/IgorKowalczyk/quiz/pull/146 'Update radix-ui-primitives monorepo') in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[04/12 20:13]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/radix-ui-primitives-m...` from [IgorKowalczyk/igorkowalczyk.dev](https://github.com/IgorKowalczyk/igorkowalczyk.dev)
-<!-- Activity last updated on Sat Apr 12 2025 21:48:21 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Sat Apr 12 2025 22:04:50 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
