@@ -57,7 +57,7 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <code><img src="https://igorkowalczyk.dev/assets/tech/vercel.svg" alt="Vercel icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/astro.svg" alt="Astro icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/eslint.svg" alt="ESlint icon" height="30" width="30" /></code>
-<!-- List last updated on Mon Apr 14 2025 13:41:48 GMT+0000 (Coordinated Universal Time) -->
+<!-- List last updated on Mon Apr 14 2025 13:50:31 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:technologies-->
 
 **...and many others!**
@@ -66,7 +66,7 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Mon Apr 14 2025 13:41:48 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Mon Apr 14 2025 13:50:31 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
@@ -75,7 +75,7 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 | 🏆 Contributions (total):     |     34K    |
 | :---------------------------- | :--------: |
 | **🏆 Contributions in 2025:** |  **3.2K**  |
-| **📝 Total lines of code:**   |   **1M**   |
+| **📝 Total lines of code:**   |  **454K**  |
 | **📦 Github Storage:**        | **1.3 GB** |
 | **📚 Public Repositories:**   |   **27**   |
 
@@ -84,9 +84,9 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   530 commits   [██████░░░░░░░░░░░░░░░░░░░]   25.97%
-🌆 Daytime   825 commits   [██████████░░░░░░░░░░░░░░░]   40.42%
-🌃 Evening   637 commits   [███████░░░░░░░░░░░░░░░░░░]   31.21%
+🌞 Morning   529 commits   [██████░░░░░░░░░░░░░░░░░░░]   25.92%
+🌆 Daytime   827 commits   [██████████░░░░░░░░░░░░░░░]   40.52%
+🌃 Evening   636 commits   [███████░░░░░░░░░░░░░░░░░░]   31.16%
 🌙 Night     49 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.40%
 ```
 
@@ -94,10 +94,10 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 
 ```text
 Sunday      177 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   8.67%
-Monday      300 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.70%
-Tuesday     372 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.23%
+Monday      303 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.85%
+Tuesday     371 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.18%
 Wednesday   283 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.87%
-Thursday    241 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.81%
+Thursday    239 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.71%
 Friday      284 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.91%
 Saturday    384 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.81%
 ```
@@ -118,14 +118,14 @@ Linux        [45 hrs 42 mins]  [████████████████
 ```
 
 </details>
-<!-- Wakatime last updated on Mon Apr 14 2025 13:42:07 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Mon Apr 14 2025 13:50:53 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[04/14 07:16]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/dotenvx-dotenvx-1.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[04/14 07:16]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[04/14 07:16]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1636`](https://github.com/IgorKowalczyk/majo.exe/pull/1636 'fix(deps): update dependency @dotenvx/dotenvx to v1.40.0') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[04/14 07:15]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-react-eslint-p...` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[04/14 07:15]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[04/14 07:15]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#787`](https://github.com/IgorKowalczyk/shared-configs/pull/787 'fix(deps): update dependency @eslint-react/eslint-plugin to v1.47.2') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[04/14 07:15]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#787`](https://github.com/IgorKowalczyk/shared-configs/pull/787 'fix(deps): update dependency @eslint-react/eslint-plugin to v1.47.2') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[04/14 06:55]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#1636`](https://github.com/IgorKowalczyk/majo.exe/pull/1636 'fix(deps): update dependency @dotenvx/dotenvx to v1.40.0') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[04/14 06:52]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-react-eslint-p...` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[04/14 06:52]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)
-<!-- Activity last updated on Mon Apr 14 2025 13:41:48 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Mon Apr 14 2025 13:50:31 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
