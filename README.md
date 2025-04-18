@@ -57,7 +57,7 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <code><img src="https://igorkowalczyk.dev/assets/tech/vercel.svg" alt="Vercel icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/astro.svg" alt="Astro icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/eslint.svg" alt="ESlint icon" height="30" width="30" /></code>
-<!-- List last updated on Fri Apr 18 2025 22:05:10 GMT+0000 (Coordinated Universal Time) -->
+<!-- List last updated on Fri Apr 18 2025 22:23:23 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:technologies-->
 
 **...and many others!**
@@ -66,20 +66,66 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Fri Apr 18 2025 22:05:10 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Fri Apr 18 2025 22:23:23 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
+| 🏆 Contributions (total):     |     34K    |
+| :---------------------------- | :--------: |
+| **🏆 Contributions in 2025:** |  **3.4K**  |
+| **📝 Total lines of code:**   |   **1M**   |
+| **📦 Github Storage:**        | **1.3 GB** |
+| **📚 Public Repositories:**   |   **27**   |
 
+<details><summary>✨ Show more stats</summary>
+
+#### 📅 I work mostly during the night
+
+```text
+🌞 Morning   565 commits   [██████░░░░░░░░░░░░░░░░░░░]   27.68%
+🌆 Daytime   816 commits   [█████████░░░░░░░░░░░░░░░░]   39.98%
+🌃 Evening   620 commits   [███████░░░░░░░░░░░░░░░░░░]   30.38%
+🌙 Night     40 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.96%
+```
+
+#### 📅 I'm most productive on Tuesday
+
+```text
+Sunday      166 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   8.13%
+Monday      308 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.09%
+Tuesday     377 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.47%
+Wednesday   285 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.96%
+Thursday    241 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.81%
+Friday      299 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.65%
+Saturday    365 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.88%
+```
+
+#### 📊 Weekly work stats (last 7 days)
+
+```text
+💬 Programming Languages:
+TypeScript       [36 hrs 12 mins]   [█████████████████░░░░░░░░]   70.26%
+Docker           [7 hrs 48 mins]    [███░░░░░░░░░░░░░░░░░░░░░░]   15.15%
+JSON             [3 hrs 34 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.95%
+Prisma           [45 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.46%
+
+Other            [2h 28m]           [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.18%
+
+💻 Operating Systems:
+Linux            [51 hrs 31 mins]  [█████████████████████████]   100.00%
+```
+
+</details>
+<!-- Wakatime last updated on Fri Apr 18 2025 22:23:44 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[04/18 19:09]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#938`](https://github.com/IgorKowalczyk/github-views/pull/938 'Update dependency eslint to v9.25.0') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[04/18 19:07]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/astro-monorepo` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[04/18 19:07]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[04/18 19:07]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#936`](https://github.com/IgorKowalczyk/github-views/pull/936 'Update dependency astro to v5.7.4') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[04/18 19:06]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#936`](https://github.com/IgorKowalczyk/github-views/pull/936 'Update dependency astro to v5.7.4') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[04/18 19:05]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[04/18 19:05]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/lucide-monorepo` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[04/18 19:05]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#937`](https://github.com/IgorKowalczyk/github-views/pull/937 'Update dependency lucide-vue-next to v0.501.0') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[04/18 19:05]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#937`](https://github.com/IgorKowalczyk/github-views/pull/937 'Update dependency lucide-vue-next to v0.501.0') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[04/18 18:31]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/dotenvx-dotenvx-1.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
-<!-- Activity last updated on Fri Apr 18 2025 22:05:11 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Fri Apr 18 2025 22:23:23 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
