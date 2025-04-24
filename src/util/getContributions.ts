@@ -61,7 +61,7 @@ export async function getTotalContributionsForYear(username: string, year: numbe
 
  try {
   const data = (await client(query)) as TotalContributionsResponse;
-  if (!data || !data.user || !data.user.contributionsCollection || !data.user.contributionsCollection.contributionCalendar || !data.user.contributionsCollection.contributionCalendar.totalContributions) {
+  if (!data || !data.user || !data.user.contributionsCollection || !data.user.contributionsCollection.contributionCalendar || data.user.contributionsCollection.contributionCalendar.totalContributions === undefined) {
    console.error("Invalid response received [getTotalContributionsForYear]");
    return null;
   }
