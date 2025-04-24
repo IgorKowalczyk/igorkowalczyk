@@ -1,5 +1,6 @@
 import { client } from "@/util/graphQlClient";
 import type { GraphQlQueryResponseData } from "@octokit/graphql";
+import { Logger } from "./functions";
 
 interface RepositoryNode {
  name: string;
@@ -16,9 +17,12 @@ interface QueryResponse extends GraphQlQueryResponseData {
 }
 
 export async function getRepositories(username: string): Promise<{ publicRepositories: RepositoryNode[]; id: string; size: number } | null> {
+ const time = performance.now();
+ Logger("event", `Fetching repositories for ${username}`);
+
  const query = `
-    query {
-      user(login: "${username}") {
+    query ($username: String!) {
+      user(login: $username) {
         repositories(first: 100, orderBy: {field: NAME, direction: ASC}, privacy: PUBLIC, ownerAffiliations: OWNER) {
           nodes {
             name
@@ -31,19 +35,26 @@ export async function getRepositories(username: string): Promise<{ publicReposit
   `;
 
  try {
-  const publicRepositories = (await client(query)) as QueryResponse;
-  if (!publicRepositories || !publicRepositories.user || !publicRepositories.user.repositories || !publicRepositories.user.repositories.nodes) {
+  const variables = { username };
+  const publicRepositories = (await client(query, variables)) as QueryResponse;
+
+  if (!publicRepositories?.user?.repositories?.nodes) {
    console.error("Invalid response received [getRepositories]");
    return null;
   }
 
   const publicRepositoriesSize = publicRepositories.user.repositories.nodes.reduce((acc, repo) => acc + repo.diskUsage, 0);
 
-  return {
+  Logger("done", `Fetched repositories for ${username}`);
+  Logger("event", `Time taken to fetch repositories: ${Math.round(performance.now() - time)}ms`);
+
+  const result = {
    publicRepositories: publicRepositories.user.repositories.nodes,
    id: publicRepositories.user.id,
    size: publicRepositoriesSize,
   };
+
+  return result;
  } catch (error) {
   console.error(`Error executing query: ${error}`);
   return null;

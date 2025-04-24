@@ -1,4 +1,4 @@
-import { readFileSync, writeFileSync } from "node:fs";
+import { readFile, writeFile } from "node:fs/promises";
 import { activity, feed, technologies, wakatime } from "@/config";
 import { fetchActivities } from "@/updaters/fetchActivities";
 import { fetchCodingStats } from "@/updaters/fetchCodingStats";
@@ -13,32 +13,49 @@ interface Marker {
 
 Logger("info", "Updating README...");
 
-async function updateReadmeSection(originalContent: string, marker: Marker, newContent: string): Promise<string> {
- const start = originalContent.indexOf(marker.open);
- const end = originalContent.indexOf(marker.close, start + marker.open.length);
+async function updateReadmeSections(originalContent: string, updates: { marker: Marker; newContent: string }[]): Promise<string> {
+ let updatedContent = originalContent;
 
- if (start === -1 || end === -1) throw new Error(`Markers not found in the content: ${marker.open}, ${marker.close}`);
+ for (const { marker, newContent } of updates) {
+  const start = updatedContent.indexOf(marker.open);
+  const end = updatedContent.indexOf(marker.close, start + marker.open.length);
 
- const beforeMarker = originalContent.substring(0, start + marker.open.length);
- const afterMarker = originalContent.substring(end);
+  if (start === -1 || end === -1) {
+   throw new Error(`Markers not found in the content: ${marker.open}, ${marker.close}`);
+  }
 
- return `${beforeMarker}\n${newContent.trim()}\n${afterMarker}`;
+  const beforeMarker = updatedContent.substring(0, start + marker.open.length);
+  const afterMarker = updatedContent.substring(end);
+
+  updatedContent = `${beforeMarker}\n${newContent.trim()}\n${afterMarker}`;
+ }
+
+ return updatedContent;
 }
 
 const start: number = new Date().getTime();
 const readmePath = "./README.md";
 
 try {
- let readmeContent = readFileSync(readmePath, "utf-8");
+ const [readmeContent, activityList, statsList, posts, tech] = await Promise.all([
+  // breakline
+  readFile(readmePath, "utf-8"),
+  fetchActivities(activity.gitUsername),
+  fetchCodingStats(wakatime.apiKey, activity.gitUsername),
+  fetchPosts(feed.link),
+  fetchTechnologies(technologies.link),
+ ]);
 
- const [activityList, statsList, posts, tech] = await Promise.all([fetchActivities(activity.gitUsername), fetchCodingStats(wakatime.apiKey, activity.gitUsername), fetchPosts(feed.link), fetchTechnologies(technologies.link)]);
+ const updates = [
+  { marker: activity as Marker, newContent: activityList },
+  { marker: wakatime as Marker, newContent: statsList },
+  { marker: feed as Marker, newContent: posts },
+  { marker: technologies as Marker, newContent: tech },
+ ];
 
- readmeContent = await updateReadmeSection(readmeContent, activity as Marker, activityList);
- readmeContent = await updateReadmeSection(readmeContent, wakatime as Marker, statsList);
- readmeContent = await updateReadmeSection(readmeContent, feed as Marker, posts);
- readmeContent = await updateReadmeSection(readmeContent, technologies as Marker, tech);
+ const updatedReadme = await updateReadmeSections(readmeContent, updates);
 
- writeFileSync(readmePath, readmeContent.trim());
+ await writeFile(readmePath, updatedReadme.trim());
 
  Logger("done", `Finished updating README in ${((new Date().getTime() - start) / 1000).toFixed(2)}s`);
 } catch (error) {

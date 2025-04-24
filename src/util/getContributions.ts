@@ -1,5 +1,6 @@
 import { client } from "@/util/graphQlClient";
 import type { GraphQlQueryResponseData } from "@octokit/graphql";
+import { Logger } from "./functions";
 
 interface ContributionYearsResponse extends GraphQlQueryResponseData {
  user: {
@@ -19,10 +20,15 @@ interface TotalContributionsResponse extends GraphQlQueryResponseData {
  };
 }
 
+interface ContributionResult {
+ year: number;
+ totalContributions: number;
+}
+
 export async function getTotalYears(username: string): Promise<number[] | null> {
  const query = `
-    query {
-      user(login: "${username}") {
+    query ($username: String!) {
+      user(login: $username) {
         contributionsCollection {
           contributionYears
         }
@@ -31,26 +37,20 @@ export async function getTotalYears(username: string): Promise<number[] | null> 
   `;
 
  try {
-  const data = (await client(query)) as ContributionYearsResponse;
-  if (!data || !data.user || !data.user.contributionsCollection || !data.user.contributionsCollection.contributionYears) {
-   console.error("Invalid response received [getTotalYears]");
-   return null;
-  }
-  return data.user.contributionsCollection.contributionYears;
+  const variables = { username };
+  const data = (await client(query, variables)) as ContributionYearsResponse;
+  return data?.user?.contributionsCollection?.contributionYears || null;
  } catch (error) {
-  console.error(`Error executing query: ${error}`);
+  console.error(`Error executing query [getTotalYears]: ${error}`);
   return null;
  }
 }
 
 export async function getTotalContributionsForYear(username: string, year: number): Promise<number | null> {
- const from = `${year}-01-01T00:00:00Z`;
- const to = `${year}-12-31T23:59:59Z`;
-
  const query = `
-    query {
-      user(login: "${username}") {
-        contributionsCollection(from: "${from}", to: "${to}") {
+    query ($username: String!, $from: DateTime!, $to: DateTime!) {
+      user(login: $username) {
+        contributionsCollection(from: $from, to: $to) {
           contributionCalendar {
             totalContributions
           }
@@ -59,41 +59,41 @@ export async function getTotalContributionsForYear(username: string, year: numbe
     }
   `;
 
+ const variables = {
+  username,
+  from: `${year}-01-01T00:00:00Z`,
+  to: `${year}-12-31T23:59:59Z`,
+ };
+
  try {
-  const data = (await client(query)) as TotalContributionsResponse;
-  if (!data || !data.user || !data.user.contributionsCollection || !data.user.contributionsCollection.contributionCalendar || data.user.contributionsCollection.contributionCalendar.totalContributions === undefined) {
-   console.error("Invalid response received [getTotalContributionsForYear]");
-   return null;
-  }
-  return data.user.contributionsCollection.contributionCalendar.totalContributions;
+  const data = (await client(query, variables)) as TotalContributionsResponse;
+  return data?.user?.contributionsCollection?.contributionCalendar?.totalContributions ?? null;
  } catch (error) {
-  console.error(`Error executing query: ${error}`);
+  console.error(`Error executing query [getTotalContributionsForYear]: ${error}`);
   return null;
  }
 }
 
-interface ContributionResult {
- year: number;
- totalContributions: number;
-}
-
 export async function getTotalContributionsForYears(username: string): Promise<ContributionResult[] | null> {
  try {
-  const results: ContributionResult[] = [];
+  Logger("event", `Getting total contributions for ${username}`);
   const years = await getTotalYears(username);
   if (!years) {
    console.error("Invalid years data");
    return null;
   }
-  years.sort();
-  const startYear = years[0];
-  const endYear = years[years.length - 1];
-  for (let year = startYear; year <= endYear; year++) {
-   const totalContributions = await getTotalContributionsForYear(username, year);
-   if (totalContributions !== null) {
-    results.push({ year, totalContributions });
-   }
-  }
+
+  // Fetch contributions for all years concurrently
+  const contributions = await Promise.all(
+   years.map(async (year) => {
+    const totalContributions = await getTotalContributionsForYear(username, year);
+    return totalContributions !== null ? { year, totalContributions } : null;
+   })
+  );
+
+  const results = contributions.filter((result): result is ContributionResult => result !== null);
+
+  Logger("done", `Got total contributions for ${username}`);
   return results;
  } catch (error) {
   console.error(`Error in getTotalContributionsForYears: ${error}`);

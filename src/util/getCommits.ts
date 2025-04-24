@@ -37,18 +37,18 @@ async function getContributionsGraphQl(username: string): Promise<Contribution[]
  const repositories = await getRepositories(username);
 
  if (!repositories) {
-  console.error("Failed to get repositories");
+  console.error("Failed to get repositories for user:", username);
   return contributions;
  }
 
  for (const repo of repositories.publicRepositories) {
   const query = `
-      query {
-        repository(owner: "${username}", name: "${repo.name}") {
+      query ($username: String!, $repoName: String!, $authorId: ID!) {
+        repository(owner: $username, name: $repoName) {
           defaultBranchRef {
             target {
               ... on Commit {
-                history(first: 100, author: { id: "${repositories.id}" }) {
+                history(first: 100, author: { id: $authorId }) {
                   edges {
                     node {
                       committedDate
@@ -62,31 +62,34 @@ async function getContributionsGraphQl(username: string): Promise<Contribution[]
       }
     `;
 
+  const variables = {
+   username,
+   repoName: repo.name,
+   authorId: repositories.id,
+  };
+
   try {
-   const response = (await client(query)) as RepositoryCommitsResponse;
-   if (!response || !response.repository || !response.repository.defaultBranchRef || !response.repository.defaultBranchRef.target || !response.repository.defaultBranchRef.target.history || !response.repository.defaultBranchRef.target.history.edges) {
-    console.error("Invalid response received! [getContributionsGraphQl]");
+   const response = (await client(query, variables)) as RepositoryCommitsResponse;
+   const commits = response?.repository?.defaultBranchRef?.target?.history?.edges;
+
+   if (!commits) {
+    console.error(`Invalid or empty response for repository: ${repo.name}`);
     continue;
    }
-   const commits = response.repository.defaultBranchRef.target.history.edges;
 
    for (const commit of commits) {
     const date = new Date(commit.node.committedDate);
-    const weekday = date.getDay();
-    const hour = date.getHours();
-    const timeOfDay = getTimeOfDay(hour);
-
-    const contribution: Contribution = {
-     weekday,
-     timeOfDay,
+    contributions.push({
+     weekday: date.getDay(),
+     timeOfDay: getTimeOfDay(date.getHours()),
      count: 1,
-    };
-    contributions.push(contribution);
+    });
    }
   } catch (error) {
-   console.error(`Error executing query: ${error}`);
+   console.error(`Error executing query for repository "${repo.name}":`, error);
   }
  }
+
  return contributions;
 }
 
@@ -97,38 +100,24 @@ export async function getCommits(username: string): Promise<Contributions> {
 
   const weekdays = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
 
-  const weekdayCounts = weeks.reduce(
-   (acc, week) => {
-    const key = week.weekday;
-    if (!acc[key]) {
-     acc[key] = {
-      weekday: weekdays[key],
-      counts: [],
-      count: 0,
-     };
-    }
+  // Calculate weekday counts
+  const weekdayCounts = weeks.reduce((acc, week) => {
+   const key = week.weekday;
+   if (!acc[key]) {
+    acc[key] = { weekday: weekdays[key], count: 0 };
+   }
+   acc[key].count += week.count;
+   return acc;
+  }, {} as { [key: number]: { weekday: string; count: number } });
 
-    acc[key].counts.push(week.count);
-    acc[key].count += week.count;
+  // Map weekday counts to weekday sums
+  const weekdaySums = Object.values(weekdayCounts).reduce((sums, { weekday, count }) => {
+   sums[weekday] = count;
+   return sums;
+  }, {} as { [key: string]: number });
 
-    return acc;
-   },
-   {} as { [key: number]: { weekday: string; counts: number[]; count: number } },
-  );
-
-  const weekdaySums: { [key: string]: number } = {};
-
-  for (const weekdayCount of Object.values(weekdayCounts)) {
-   weekdaySums[weekdayCount.weekday] = weekdayCount.count;
-  }
-
-  const timeOfDayCounts = weeks.sort((a, b) => {
-   if (a.weekday < b.weekday) return -1;
-   if (a.weekday > b.weekday) return 1;
-   if (a.timeOfDay < b.timeOfDay) return -1;
-   if (a.timeOfDay > b.timeOfDay) return 1;
-   return 0;
-  });
+  // Sort contributions by weekday and time of day
+  const timeOfDayCounts = weeks.sort((a, b) => a.weekday - b.weekday || a.timeOfDay.localeCompare(b.timeOfDay));
 
   contributions.timeOfDayCounts = timeOfDayCounts;
   contributions.weekdaySums = weekdaySums;

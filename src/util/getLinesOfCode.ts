@@ -1,5 +1,6 @@
 import { client } from "@/util/graphQlClient";
 import type { GraphQlQueryResponseData } from "@octokit/graphql";
+import { Logger } from "./functions";
 
 interface RepositoryNode {
  node: {
@@ -30,9 +31,9 @@ interface QueryResponse extends GraphQlQueryResponseData {
 
 async function Query(username: string, cursor: string | null): Promise<QueryResponse | null> {
  const query = `
-    query {
-      user(login: "${username}") {
-        repositories(first: 10, ${cursor ? `after: "${cursor}",` : ""} isFork: false) {
+    query ($username: String!, $cursor: String) {
+      user(login: $username) {
+        repositories(first: 10, after: $cursor, isFork: false) {
           edges {
             node {
               defaultBranchRef {
@@ -57,8 +58,10 @@ async function Query(username: string, cursor: string | null): Promise<QueryResp
       }
     }
   `;
+
  try {
-  return (await client(query)) as QueryResponse;
+  const variables = { username, cursor };
+  return (await client(query, variables)) as QueryResponse;
  } catch (error) {
   console.error(`Error executing query: ${error}`);
   return null;
@@ -67,29 +70,35 @@ async function Query(username: string, cursor: string | null): Promise<QueryResp
 
 export async function getLinesOfCode(username: string, cursor: string | null = null, initialLinesOfCode = 0): Promise<number> {
  try {
+  Logger("event", `Getting lines of code for ${username}`);
   const response = await Query(username, cursor);
-  let totalLinesOfCode: number = initialLinesOfCode;
-  if (!response || !response.user || !response.user.repositories) {
+  let totalLinesOfCode = initialLinesOfCode;
+
+  if (!response?.user?.repositories) {
    console.error("Invalid response received [getLinesOfCode]");
    return totalLinesOfCode;
   }
+
   const nodes = response.user.repositories.edges;
   for (const node of nodes) {
-   if (!node.node?.defaultBranchRef?.target?.history?.nodes) continue;
-   const additions = node.node.defaultBranchRef.target.history.nodes.reduce((total, currentNode) => {
-    return total + currentNode.additions;
+   const historyNodes = node.node?.defaultBranchRef?.target?.history?.nodes;
+   if (!historyNodes) continue;
+
+   const netLinesOfCode = historyNodes.reduce((total, currentNode) => {
+    return total + currentNode.additions - currentNode.deletions;
    }, 0);
-   const deletions = node.node.defaultBranchRef.target.history.nodes.reduce((total, currentNode) => {
-    return total + currentNode.deletions;
-   }, 0);
-   totalLinesOfCode += additions - deletions;
+
+   totalLinesOfCode += netLinesOfCode;
   }
+
   if (response.user.repositories.pageInfo.hasNextPage) {
    return getLinesOfCode(username, response.user.repositories.pageInfo.endCursor, totalLinesOfCode);
   }
+
+  Logger("done", `Got lines of code for ${username} - ${totalLinesOfCode}`);
   return totalLinesOfCode;
  } catch (error) {
-  console.error(`Error in getLinesOfCode: ${error}`);
+  console.error(`Error in getLinesOfCode for user "${username}": ${error}`);
   return initialLinesOfCode;
  }
 }
