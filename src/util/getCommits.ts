@@ -97,21 +97,24 @@ export async function getCommits(username: string): Promise<Contributions> {
 
   const weekdays = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
 
-  const weekdayCounts = weeks.reduce((acc, week) => {
-   const key = week.weekday;
-   if (!acc[key]) {
-    acc[key] = {
-     weekday: weekdays[key],
-     counts: [],
-     count: 0,
-    };
-   }
+  const weekdayCounts = weeks.reduce(
+   (acc, week) => {
+    const key = week.weekday;
+    if (!acc[key]) {
+     acc[key] = {
+      weekday: weekdays[key],
+      counts: [],
+      count: 0,
+     };
+    }
 
-   acc[key].counts.push(week.count);
-   acc[key].count += week.count;
+    acc[key].counts.push(week.count);
+    acc[key].count += week.count;
 
-   return acc;
-  }, {} as { [key: number]: { weekday: string; counts: number[]; count: number } });
+    return acc;
+   },
+   {} as { [key: number]: { weekday: string; counts: number[]; count: number } },
+  );
 
   const weekdaySums: { [key: string]: number } = {};
 
