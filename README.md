@@ -57,7 +57,7 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <code><img src="https://igorkowalczyk.dev/assets/tech/vercel.svg" alt="Vercel icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/astro.svg" alt="Astro icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/eslint.svg" alt="ESlint icon" height="30" width="30" /></code>
-<!-- List last updated on Thu Apr 24 2025 11:48:20 GMT+0000 (Coordinated Universal Time) -->
+<!-- List last updated on Thu Apr 24 2025 12:09:28 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:technologies-->
 
 **...and many others!**
@@ -66,7 +66,7 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 
 <!-- START_SECTION:feed -->
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Thu Apr 24 2025 11:48:20 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Thu Apr 24 2025 12:09:28 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
@@ -75,7 +75,7 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 | 🏆 Contributions (total):     |     34K    |
 | :---------------------------- | :--------: |
 | **🏆 Contributions in 2025:** |  **3.5K**  |
-| **📝 Total lines of code:**   |  **1.1M**  |
+| **📝 Total lines of code:**   |  **547K**  |
 | **📦 Github Storage:**        | **1.3 GB** |
 | **📚 Public Repositories:**   |   **27**   |
 
@@ -118,14 +118,14 @@ Linux        [38 hrs 53 mins]  [████████████████
 ```
 
 </details>
-<!-- Wakatime last updated on Thu Apr 24 2025 11:48:32 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Thu Apr 24 2025 12:09:57 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[04/22 15:05]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-monorepo` from [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[04/22 15:05]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#512`](https://github.com/IgorKowalczyk/countdown/pull/512 'chore(deps): update dependency eslint to v9.25.1') in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[04/22 15:05]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br/>`[04/22 15:05]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[04/22 15:05]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-monorepo` from [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br/>`[04/22 15:05]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#325`](https://github.com/IgorKowalczyk/active-dev/pull/325 'Update dependency eslint to v9.25.1') in [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br/>`[04/22 15:04]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br/>`[04/22 15:04]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-monorepo` from [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br/>`[04/22 15:04]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#470`](https://github.com/IgorKowalczyk/discord-ssh/pull/470 'Update dependency eslint to v9.25.1') in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br/>`[04/22 15:04]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-monorepo` from [squarestack/github-invite](https://github.com/squarestack/github-invite)
-<!-- Activity last updated on Thu Apr 24 2025 11:48:20 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Thu Apr 24 2025 12:09:28 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
