@@ -70,7 +70,7 @@ export async function getLinesOfCode(username: string, cursor: string | null = n
   const response = await Query(username, cursor);
   let totalLinesOfCode: number = initialLinesOfCode;
   if (!response || !response.user || !response.user.repositories) {
-   console.error("Invalid response received");
+   console.error("Invalid response received [getLinesOfCode]");
    return totalLinesOfCode;
   }
   const nodes = response.user.repositories.edges;

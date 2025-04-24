@@ -33,7 +33,7 @@ export async function getRepositories(username: string): Promise<{ publicReposit
  try {
   const publicRepositories = (await client(query)) as QueryResponse;
   if (!publicRepositories || !publicRepositories.user || !publicRepositories.user.repositories || !publicRepositories.user.repositories.nodes) {
-   console.error("Invalid response received");
+   console.error("Invalid response received [getRepositories]");
    return null;
   }
 

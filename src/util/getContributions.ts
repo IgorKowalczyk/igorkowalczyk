@@ -33,7 +33,7 @@ export async function getTotalYears(username: string): Promise<number[] | null> 
  try {
   const data = (await client(query)) as ContributionYearsResponse;
   if (!data || !data.user || !data.user.contributionsCollection || !data.user.contributionsCollection.contributionYears) {
-   console.error("Invalid response received");
+   console.error("Invalid response received [getTotalYears]");
    return null;
   }
   return data.user.contributionsCollection.contributionYears;
@@ -62,7 +62,7 @@ export async function getTotalContributionsForYear(username: string, year: numbe
  try {
   const data = (await client(query)) as TotalContributionsResponse;
   if (!data || !data.user || !data.user.contributionsCollection || !data.user.contributionsCollection.contributionCalendar || !data.user.contributionsCollection.contributionCalendar.totalContributions) {
-   console.error("Invalid response received");
+   console.error("Invalid response received [getTotalContributionsForYear]");
    return null;
   }
   return data.user.contributionsCollection.contributionCalendar.totalContributions;
