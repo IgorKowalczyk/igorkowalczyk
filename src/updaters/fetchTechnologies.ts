@@ -18,7 +18,13 @@ export async function fetchTechnologies(link: string): Promise<string> {
   if (!link) throw new Error("You must provide a link to get technologies!");
   Logger("event", `Fetching technologies from ${link}`);
 
-  const res = await fetch(link);
+  const res = await fetch(link, {
+   method: "GET",
+   headers: {
+    // Bypass for Cloudflare Security
+    "X-Bypass-Token": process.env.BYPASS_TOKEN || "",
+   },
+  });
   if (!res.ok) throw new Error(`Failed to fetch: ${res.statusText}`);
 
   const body = (await res.json()) as Entry[];

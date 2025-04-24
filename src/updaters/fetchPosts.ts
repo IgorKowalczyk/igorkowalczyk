@@ -42,7 +42,13 @@ export async function fetchPosts(xml: string): Promise<string> {
   if (!xml) throw new Error("You must provide a link to get feed!");
   Logger("event", `Fetching posts from ${xml}`);
 
-  const res = await fetch(xml);
+  const res = await fetch(xml, {
+   method: "GET",
+   headers: {
+    // Bypass for Cloudflare Security
+    "X-Bypass-Token": process.env.BYPASS_TOKEN || "",
+   },
+  });
   if (!res.ok) throw new Error(`Failed to fetch: ${res.statusText}`);
   if (!res.headers.get("content-type")?.includes("xml")) throw new Error("Link must be an xml file!");
 

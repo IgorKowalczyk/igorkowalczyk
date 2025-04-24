@@ -25,6 +25,7 @@ jobs:
      env:
       GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
       WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+      BYPASS_TOKEN: ${{ secrets.BYPASS_TOKEN }}
    - name: 🚀 Save changes
      run: |
       if [[ "$(git status --porcelain)" != "" ]]; then
