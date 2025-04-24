@@ -46,7 +46,7 @@ export async function fetchPosts(xml: string): Promise<string> {
    method: "GET",
    headers: {
     // Bypass for Cloudflare Security
-    "X-Bypass-Token": process.env.BYPASS_TOKEN || "",
+    "x-bypass-token": process.env.BYPASS_TOKEN || "",
    },
   });
   if (!res.ok) throw new Error(`Failed to fetch: ${res.statusText}`);
