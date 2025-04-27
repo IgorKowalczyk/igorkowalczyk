@@ -57,7 +57,7 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <code><img src="https://igorkowalczyk.dev/assets/tech/vercel.svg" alt="Vercel icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/astro.svg" alt="Astro icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/eslint.svg" alt="ESlint icon" height="30" width="30" /></code>
-<!-- List last updated on Sun Apr 27 2025 10:48:15 GMT+0000 (Coordinated Universal Time) -->
+<!-- List last updated on Sun Apr 27 2025 11:05:00 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:technologies-->
 
 **...and many others!**
@@ -67,7 +67,7 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <!-- START_SECTION:feed -->
 - [Contentlayer is dead - what now?](https://igorkowalczyk.dev/blog/contentlayer-is-dead) `[April 24, 2025]`
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sun Apr 27 2025 10:48:15 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sun Apr 27 2025 11:05:00 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
@@ -85,8 +85,8 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   582 commits   [███████░░░░░░░░░░░░░░░░░░]   28.52%
-🌆 Daytime   815 commits   [█████████░░░░░░░░░░░░░░░░]   39.93%
+🌞 Morning   584 commits   [███████░░░░░░░░░░░░░░░░░░]   28.61%
+🌆 Daytime   813 commits   [█████████░░░░░░░░░░░░░░░░]   39.83%
 🌃 Evening   608 commits   [███████░░░░░░░░░░░░░░░░░░]   29.79%
 🌙 Night     36 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.76%
 ```
@@ -94,11 +94,11 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 #### 📅 I'm most productive on Saturday
 
 ```text
-Sunday      182 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   8.92%
-Monday      292 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.31%
+Sunday      184 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.02%
+Monday      291 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.26%
 Tuesday     369 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.08%
 Wednesday   266 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.03%
-Thursday    243 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.91%
+Thursday    242 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.86%
 Friday      301 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.75%
 Saturday    388 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.01%
 ```
@@ -119,14 +119,14 @@ Linux        [35 hrs 47 mins]  [████████████████
 ```
 
 </details>
-<!-- Wakatime last updated on Sun Apr 27 2025 10:48:27 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Sun Apr 27 2025 11:05:12 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-`[04/27 10:35]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[04/27 10:22]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[04/27 10:22]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/astro-monorepo` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[04/27 10:22]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#943`](https://github.com/IgorKowalczyk/github-views/pull/943 'Update astro monorepo') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[04/27 10:21]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[04/27 09:30]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/pnpm-10.x` from [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br/>`[04/27 09:30]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br/>`[04/27 09:30]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#324`](https://github.com/IgorKowalczyk/active-dev/pull/324 'Update pnpm to v10.9.0') in [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br/>`[04/27 09:30]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/pnpm-10.x` from [squarestack/github-invite](https://github.com/squarestack/github-invite)<br/>`[04/27 09:30]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [squarestack/github-invite](https://github.com/squarestack/github-invite)
-<!-- Activity last updated on Sun Apr 27 2025 10:48:16 GMT+0000 (Coordinated Universal Time) -->
+`[04/27 11:00]` <a href="https://github.com/igorkowalczyk" title="🏷"><img alt="🏷" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/release.png" align="top" height="18"></a> Released [`v3.0.8`](https://github.com/IgorKowalczyk/shared-configs/releases/tag/v3.0.8) in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[04/27 11:00]` <a href="https://github.com/igorkowalczyk" title="🔖"><img alt="🔖" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/create-tag.png" align="top" height="18"></a> Created tag `v3.0.8` in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[04/27 10:59]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[04/27 10:49]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/igorkowalczyk.dev](https://github.com/IgorKowalczyk/igorkowalczyk.dev)<br/>`[04/27 10:35]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[04/27 10:22]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[04/27 10:22]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/astro-monorepo` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[04/27 10:22]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#943`](https://github.com/IgorKowalczyk/github-views/pull/943 'Update astro monorepo') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[04/27 10:21]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[04/27 09:30]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/pnpm-10.x` from [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)
+<!-- Activity last updated on Sun Apr 27 2025 11:05:00 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
