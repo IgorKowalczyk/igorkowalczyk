@@ -57,7 +57,7 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <code><img src="https://igorkowalczyk.dev/assets/tech/vercel.svg" alt="Vercel icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/astro.svg" alt="Astro icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/eslint.svg" alt="ESlint icon" height="30" width="30" /></code>
-<!-- List last updated on Thu May 01 2025 22:23:32 GMT+0000 (Coordinated Universal Time) -->
+<!-- List last updated on Thu May 01 2025 22:37:08 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:technologies-->
 
 **...and many others!**
@@ -67,20 +67,66 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <!-- START_SECTION:feed -->
 - [Contentlayer is dead - what now?](https://igorkowalczyk.dev/blog/contentlayer-is-dead) `[April 24, 2025]`
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Thu May 01 2025 22:23:32 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Thu May 01 2025 22:37:08 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
+| 🏆 Contributions (total):     |     35K    |
+| :---------------------------- | :--------: |
+| **🏆 Contributions in 2025:** |  **3.8K**  |
+| **📝 Total lines of code:**   |   **1M**   |
+| **📦 Github Storage:**        | **1.3 GB** |
+| **📚 Public Repositories:**   |   **27**   |
 
+<details><summary>✨ Show more stats</summary>
+
+#### 📅 I work mostly during the night
+
+```text
+🌞 Morning   599 commits   [███████░░░░░░░░░░░░░░░░░░]   29.31%
+🌆 Daytime   819 commits   [██████████░░░░░░░░░░░░░░░]   40.07%
+🌃 Evening   590 commits   [███████░░░░░░░░░░░░░░░░░░]   28.86%
+🌙 Night     36 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.76%
+```
+
+#### 📅 I'm most productive on Tuesday
+
+```text
+Sunday      204 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.98%
+Monday      293 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.33%
+Tuesday     382 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.69%
+Wednesday   271 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.26%
+Thursday    239 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.69%
+Friday      289 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.14%
+Saturday    366 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.91%
+```
+
+#### 📊 Weekly work stats (last 7 days)
+
+```text
+💬 Programming Languages:
+TypeScript       [26 hrs 2 mins]    [██████████████████░░░░░░░]   72.47%
+JSON             [3 hrs 20 mins]    [██░░░░░░░░░░░░░░░░░░░░░░░]   9.30%
+JavaScript       [3 hrs 1 min]      [██░░░░░░░░░░░░░░░░░░░░░░░]   8.42%
+PHP              [1 hr 12 mins]     [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.34%
+CSS              [59 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.77%
+Other            [1h 19m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.69%
+
+💻 Operating Systems:
+Linux            [35 hrs 55 mins]  [█████████████████████████]   100.00%
+```
+
+</details>
+<!-- Wakatime last updated on Thu May 01 2025 22:37:20 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[05/01 17:20]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/t3-oss-env-core-0.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[05/01 17:20]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[05/01 17:20]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1664`](https://github.com/IgorKowalczyk/majo.exe/pull/1664 'fix(deps): update dependency @t3-oss/env-core to v0.13.4') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[05/01 17:11]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#1664`](https://github.com/IgorKowalczyk/majo.exe/pull/1664 'fix(deps): update dependency @t3-oss/env-core to v0.13.4') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[05/01 17:11]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/t3-oss-env-nextjs-0.x...` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[05/01 17:11]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[05/01 17:11]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1665`](https://github.com/IgorKowalczyk/majo.exe/pull/1665 'fix(deps): update dependency @t3-oss/env-nextjs to v0.13.4') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[05/01 17:10]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#1665`](https://github.com/IgorKowalczyk/majo.exe/pull/1665 'fix(deps): update dependency @t3-oss/env-nextjs to v0.13.4') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[05/01 16:46]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/discord-api-types-0.x...` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[05/01 16:46]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
-<!-- Activity last updated on Thu May 01 2025 22:23:33 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Thu May 01 2025 22:37:08 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
