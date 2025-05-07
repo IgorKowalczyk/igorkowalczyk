@@ -57,7 +57,7 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <code><img src="https://igorkowalczyk.dev/assets/tech/vercel.svg" alt="Vercel icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/astro.svg" alt="Astro icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/eslint.svg" alt="ESlint icon" height="30" width="30" /></code>
-<!-- List last updated on Wed May 07 2025 21:48:23 GMT+0000 (Coordinated Universal Time) -->
+<!-- List last updated on Wed May 07 2025 22:05:30 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:technologies-->
 
 **...and many others!**
@@ -67,66 +67,20 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <!-- START_SECTION:feed -->
 - [Contentlayer is dead - what now?](https://igorkowalczyk.dev/blog/contentlayer-is-dead) `[April 24, 2025]`
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Wed May 07 2025 21:48:23 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Wed May 07 2025 22:05:30 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-| 🏆 Contributions (total):     |     35K    |
-| :---------------------------- | :--------: |
-| **🏆 Contributions in 2025:** |   **4K**   |
-| **📝 Total lines of code:**   |   **1M**   |
-| **📦 Github Storage:**        | **1.3 GB** |
-| **📚 Public Repositories:**   |   **27**   |
 
-<details><summary>✨ Show more stats</summary>
-
-#### 📅 I work mostly during the night
-
-```text
-🌞 Morning   594 commits   [███████░░░░░░░░░░░░░░░░░░]   29.06%
-🌆 Daytime   847 commits   [██████████░░░░░░░░░░░░░░░]   41.44%
-🌃 Evening   570 commits   [██████░░░░░░░░░░░░░░░░░░░]   27.89%
-🌙 Night     33 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.61%
-```
-
-#### 📅 I'm most productive on Saturday
-
-```text
-Sunday      205 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   10.03%
-Monday      285 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.94%
-Tuesday     381 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.64%
-Wednesday   273 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.36%
-Thursday    234 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.45%
-Friday      279 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.65%
-Saturday    387 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.93%
-```
-
-#### 📊 Weekly work stats (last 7 days)
-
-```text
-💬 Programming Languages:
-TypeScript   [24 hrs 18 mins]   [████████████████████░░░░░]   81.49%
-PHP          [1 hr 49 mins]     [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.10%
-JavaScript   [1 hr 15 mins]     [█░░░░░░░░░░░░░░░░░░░░░░░░]   4.22%
-JSON         [1 hr 12 mins]     [█░░░░░░░░░░░░░░░░░░░░░░░░]   4.08%
-Prisma       [20 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.15%
-Other        [0h 53m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.97%
-
-💻 Operating Systems:
-Linux        [29 hrs 49 mins]  [█████████████████████████]   100.00%
-```
-
-</details>
-<!-- Wakatime last updated on Wed May 07 2025 21:48:39 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[05/07 09:33]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/turbo-monorepo` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[05/07 09:33]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[05/07 09:33]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#819`](https://github.com/IgorKowalczyk/shared-configs/pull/819 'fix(deps): update dependency turbo to v2.5.3') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[05/07 09:33]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#819`](https://github.com/IgorKowalczyk/shared-configs/pull/819 'fix(deps): update dependency turbo to v2.5.3') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[05/07 09:33]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/nextjs-monorepo` from [IgorKowalczyk/igorkowalczyk.dev](https://github.com/IgorKowalczyk/igorkowalczyk.dev)<br/>`[05/07 09:33]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.dev](https://github.com/IgorKowalczyk/igorkowalczyk.dev)<br/>`[05/07 09:33]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1219`](https://github.com/IgorKowalczyk/igorkowalczyk.dev/pull/1219 'fix(deps): update nextjs monorepo to v15.3.2') in [IgorKowalczyk/igorkowalczyk.dev](https://github.com/IgorKowalczyk/igorkowalczyk.dev)<br/>`[05/07 09:33]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/nextjs-monorepo` from [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[05/07 09:33]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[05/07 09:33]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#196`](https://github.com/IgorKowalczyk/quiz/pull/196 'Update nextjs monorepo to v15.3.2') in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)
-<!-- Activity last updated on Wed May 07 2025 21:48:24 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Wed May 07 2025 22:05:30 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
