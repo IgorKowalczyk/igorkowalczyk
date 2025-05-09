@@ -57,7 +57,7 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <code><img src="https://igorkowalczyk.dev/assets/tech/vercel.svg" alt="Vercel icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/astro.svg" alt="Astro icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/eslint.svg" alt="ESlint icon" height="30" width="30" /></code>
-<!-- List last updated on Fri May 09 2025 19:04:52 GMT+0000 (Coordinated Universal Time) -->
+<!-- List last updated on Fri May 09 2025 19:21:14 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:technologies-->
 
 **...and many others!**
@@ -67,7 +67,7 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <!-- START_SECTION:feed -->
 - [Contentlayer is dead - what now?](https://igorkowalczyk.dev/blog/contentlayer-is-dead) `[April 24, 2025]`
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Fri May 09 2025 19:04:52 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Fri May 09 2025 19:21:14 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
@@ -75,8 +75,8 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <!--START_SECTION:wakatime-->
 | 🏆 Contributions (total):     |     35K    |
 | :---------------------------- | :--------: |
-| **🏆 Contributions in 2025:** |   **4K**   |
-| **📝 Total lines of code:**   |   **1M**   |
+| **🏆 Contributions in 2025:** |  **4.1K**  |
+| **📝 Total lines of code:**   |    **0**   |
 | **📦 Github Storage:**        | **1.3 GB** |
 | **📚 Public Repositories:**   |   **27**   |
 
@@ -85,22 +85,22 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   591 commits   [███████░░░░░░░░░░░░░░░░░░]   28.91%
-🌆 Daytime   856 commits   [██████████░░░░░░░░░░░░░░░]   41.88%
-🌃 Evening   565 commits   [██████░░░░░░░░░░░░░░░░░░░]   27.64%
-🌙 Night     32 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.57%
+🌞 Morning   587 commits   [███████░░░░░░░░░░░░░░░░░░]   28.72%
+🌆 Daytime   848 commits   [██████████░░░░░░░░░░░░░░░]   41.49%
+🌃 Evening   579 commits   [███████░░░░░░░░░░░░░░░░░░]   28.33%
+🌙 Night     30 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.47%
 ```
 
 #### 📅 I'm most productive on Saturday
 
 ```text
-Sunday      205 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   10.03%
-Monday      283 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.85%
-Tuesday     378 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.49%
-Wednesday   267 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.06%
-Thursday    253 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.38%
-Friday      278 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.60%
-Saturday    380 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.59%
+Sunday      204 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.98%
+Monday      277 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.55%
+Tuesday     376 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.40%
+Wednesday   263 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.87%
+Thursday    251 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.28%
+Friday      296 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.48%
+Saturday    377 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.44%
 ```
 
 #### 📊 Weekly work stats (last 7 days)
@@ -119,14 +119,14 @@ Linux        [27 hrs 57 mins]  [████████████████
 ```
 
 </details>
-<!-- Wakatime last updated on Fri May 09 2025 19:05:15 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Fri May 09 2025 19:21:24 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[05/08 15:18]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/ngrok-cli](https://github.com/IgorKowalczyk/ngrok-cli)<br/>`[05/08 15:18]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/node-22.x` from [IgorKowalczyk/ngrok-cli](https://github.com/IgorKowalczyk/ngrok-cli)<br/>`[05/08 15:18]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#426`](https://github.com/IgorKowalczyk/ngrok-cli/pull/426 'Update dependency @types/node to v22.15.17') in [IgorKowalczyk/ngrok-cli](https://github.com/IgorKowalczyk/ngrok-cli)<br/>`[05/08 15:17]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/wrangler-4.x` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[05/08 15:17]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[05/08 15:17]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#959`](https://github.com/IgorKowalczyk/github-views/pull/959 'Update dependency wrangler to v4.14.4') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[05/08 15:17]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/zod-3.x` from [squarestack/github-invite](https://github.com/squarestack/github-invite)<br/>`[05/08 15:17]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [squarestack/github-invite](https://github.com/squarestack/github-invite)<br/>`[05/08 15:17]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#567`](https://github.com/squarestack/github-invite/pull/567 'fix(deps): update dependency zod to v3.24.4') in [squarestack/github-invite](https://github.com/squarestack/github-invite)<br/>`[05/08 15:17]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#959`](https://github.com/IgorKowalczyk/github-views/pull/959 'Update dependency wrangler to v4.14.4') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)
-<!-- Activity last updated on Fri May 09 2025 19:04:52 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Fri May 09 2025 19:21:14 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
