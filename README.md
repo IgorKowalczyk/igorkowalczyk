@@ -57,7 +57,7 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <code><img src="https://igorkowalczyk.dev/assets/tech/vercel.svg" alt="Vercel icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/astro.svg" alt="Astro icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/eslint.svg" alt="ESlint icon" height="30" width="30" /></code>
-<!-- List last updated on Sat May 10 2025 22:04:48 GMT+0000 (Coordinated Universal Time) -->
+<!-- List last updated on Sat May 10 2025 22:22:59 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:technologies-->
 
 **...and many others!**
@@ -67,20 +67,66 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <!-- START_SECTION:feed -->
 - [Contentlayer is dead - what now?](https://igorkowalczyk.dev/blog/contentlayer-is-dead) `[April 24, 2025]`
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sat May 10 2025 22:04:48 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sat May 10 2025 22:22:59 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
+| 🏆 Contributions (total):     |     35K    |
+| :---------------------------- | :--------: |
+| **🏆 Contributions in 2025:** |  **4.1K**  |
+| **📝 Total lines of code:**   |   **1M**   |
+| **📦 Github Storage:**        | **1.3 GB** |
+| **📚 Public Repositories:**   |   **27**   |
 
+<details><summary>✨ Show more stats</summary>
+
+#### 📅 I work mostly during the night
+
+```text
+🌞 Morning   589 commits   [███████░░░░░░░░░░░░░░░░░░]   28.82%
+🌆 Daytime   841 commits   [██████████░░░░░░░░░░░░░░░]   41.14%
+🌃 Evening   585 commits   [███████░░░░░░░░░░░░░░░░░░]   28.62%
+🌙 Night     29 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.42%
+```
+
+#### 📅 I'm most productive on Saturday
+
+```text
+Sunday      204 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.98%
+Monday      276 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.50%
+Tuesday     372 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.20%
+Wednesday   261 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.77%
+Thursday    248 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.13%
+Friday      303 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.82%
+Saturday    380 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.59%
+```
+
+#### 📊 Weekly work stats (last 7 days)
+
+```text
+💬 Programming Languages:
+TypeScript       [27 hrs 40 mins]   [██████████████████████░░░]   88.17%
+PHP              [2 hrs 49 mins]    [██░░░░░░░░░░░░░░░░░░░░░░░]   9.01%
+CSS              [22 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.21%
+Bash             [9 mins]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.49%
+Blade Template   [8 mins]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.45%
+Other            [0h 12m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.66%
+
+💻 Operating Systems:
+Linux            [31 hrs 23 mins]  [█████████████████████████]   100.00%
+```
+
+</details>
+<!-- Wakatime last updated on Sat May 10 2025 22:23:07 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[05/10 09:19]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/react-monorepo` from [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[05/10 09:19]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[05/10 09:19]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#193`](https://github.com/IgorKowalczyk/quiz/pull/193 'Update dependency @types/react to v19.1.3') in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[05/10 09:19]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#193`](https://github.com/IgorKowalczyk/quiz/pull/193 'Update dependency @types/react to v19.1.3') in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[05/10 08:22]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/radix-ui-primitives-m...` from [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[05/10 08:22]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[05/10 08:22]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#191`](https://github.com/IgorKowalczyk/quiz/pull/191 'Update radix-ui-primitives monorepo') in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[05/10 08:22]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#191`](https://github.com/IgorKowalczyk/quiz/pull/191 'Update radix-ui-primitives monorepo') in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[05/10 08:18]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/redis-5.x` from [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[05/10 08:18]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)
-<!-- Activity last updated on Sat May 10 2025 22:04:48 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Sat May 10 2025 22:22:59 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
