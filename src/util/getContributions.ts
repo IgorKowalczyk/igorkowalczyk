@@ -88,7 +88,7 @@ export async function getTotalContributionsForYears(username: string): Promise<C
    years.map(async (year) => {
     const totalContributions = await getTotalContributionsForYear(username, year);
     return totalContributions !== null ? { year, totalContributions } : null;
-   })
+   }),
   );
 
   const results = contributions.filter((result): result is ContributionResult => result !== null);

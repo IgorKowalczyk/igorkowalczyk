@@ -101,20 +101,26 @@ export async function getCommits(username: string): Promise<Contributions> {
   const weekdays = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
 
   // Calculate weekday counts
-  const weekdayCounts = weeks.reduce((acc, week) => {
-   const key = week.weekday;
-   if (!acc[key]) {
-    acc[key] = { weekday: weekdays[key], count: 0 };
-   }
-   acc[key].count += week.count;
-   return acc;
-  }, {} as { [key: number]: { weekday: string; count: number } });
+  const weekdayCounts = weeks.reduce(
+   (acc, week) => {
+    const key = week.weekday;
+    if (!acc[key]) {
+     acc[key] = { weekday: weekdays[key], count: 0 };
+    }
+    acc[key].count += week.count;
+    return acc;
+   },
+   {} as { [key: number]: { weekday: string; count: number } },
+  );
 
   // Map weekday counts to weekday sums
-  const weekdaySums = Object.values(weekdayCounts).reduce((sums, { weekday, count }) => {
-   sums[weekday] = count;
-   return sums;
-  }, {} as { [key: string]: number });
+  const weekdaySums = Object.values(weekdayCounts).reduce(
+   (sums, { weekday, count }) => {
+    sums[weekday] = count;
+    return sums;
+   },
+   {} as { [key: string]: number },
+  );
 
   // Sort contributions by weekday and time of day
   const timeOfDayCounts = weeks.sort((a, b) => a.weekday - b.weekday || a.timeOfDay.localeCompare(b.timeOfDay));
