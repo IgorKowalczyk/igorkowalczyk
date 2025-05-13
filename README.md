@@ -57,7 +57,7 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <code><img src="https://igorkowalczyk.dev/assets/tech/vercel.svg" alt="Vercel icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/astro.svg" alt="Astro icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/eslint.svg" alt="ESlint icon" height="30" width="30" /></code>
-<!-- List last updated on Tue May 13 2025 22:05:36 GMT+0000 (Coordinated Universal Time) -->
+<!-- List last updated on Tue May 13 2025 22:23:36 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:technologies-->
 
 **...and many others!**
@@ -67,20 +67,66 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <!-- START_SECTION:feed -->
 - [Contentlayer is dead - what now?](https://igorkowalczyk.dev/blog/contentlayer-is-dead) `[April 24, 2025]`
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Tue May 13 2025 22:05:36 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Tue May 13 2025 22:23:36 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
+| 🏆 Contributions (total):     |     35K    |
+| :---------------------------- | :--------: |
+| **🏆 Contributions in 2025:** |  **4.2K**  |
+| **📝 Total lines of code:**   |   **1M**   |
+| **📦 Github Storage:**        | **1.3 GB** |
+| **📚 Public Repositories:**   |   **27**   |
 
+<details><summary>✨ Show more stats</summary>
+
+#### 📅 I work mostly during the night
+
+```text
+🌞 Morning   579 commits   [███████░░░░░░░░░░░░░░░░░░]   28.33%
+🌆 Daytime   860 commits   [██████████░░░░░░░░░░░░░░░]   42.07%
+🌃 Evening   576 commits   [███████░░░░░░░░░░░░░░░░░░]   28.18%
+🌙 Night     29 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.42%
+```
+
+#### 📅 I'm most productive on Tuesday
+
+```text
+Sunday      202 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.88%
+Monday      282 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.80%
+Tuesday     385 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.84%
+Wednesday   256 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.52%
+Thursday    245 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.99%
+Friday      301 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.73%
+Saturday    373 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.25%
+```
+
+#### 📊 Weekly work stats (last 7 days)
+
+```text
+💬 Programming Languages:
+TypeScript       [24 hrs 5 mins]   [████████████████████░░░░░]   80.29%
+PHP              [5 hrs 4 mins]    [████░░░░░░░░░░░░░░░░░░░░░]   16.92%
+CSS              [20 mins]         [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.16%
+Bash             [8 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.49%
+Blade Template   [8 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.47%
+Other            [0h 12m]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.66%
+
+💻 Operating Systems:
+Linux            [30 hrs]         [█████████████████████████]   100.00%
+```
+
+</details>
+<!-- Wakatime last updated on Tue May 13 2025 22:23:44 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[05/13 14:30]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/typescript-eslint-mon...` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[05/13 14:30]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[05/13 14:30]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#826`](https://github.com/IgorKowalczyk/shared-configs/pull/826 'fix(deps): update typescript-eslint monorepo to v8.32.1') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[05/13 14:30]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/react-monorepo` from [squarestack/github-invite](https://github.com/squarestack/github-invite)<br/>`[05/13 14:30]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [squarestack/github-invite](https://github.com/squarestack/github-invite)<br/>`[05/13 14:30]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#574`](https://github.com/squarestack/github-invite/pull/574 'chore(deps): update dependency @types/react to v19.1.4') in [squarestack/github-invite](https://github.com/squarestack/github-invite)<br/>`[05/13 14:30]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/cloudflare-workers-ty...` from [IgorKowalczyk/wakatime-hours](https://github.com/IgorKowalczyk/wakatime-hours)<br/>`[05/13 14:30]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/wakatime-hours](https://github.com/IgorKowalczyk/wakatime-hours)<br/>`[05/13 14:30]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#108`](https://github.com/IgorKowalczyk/wakatime-hours/pull/108 'Update dependency @cloudflare/workers-types to v4.20250513.0') in [IgorKowalczyk/wakatime-hours](https://github.com/IgorKowalczyk/wakatime-hours)<br/>`[05/13 14:30]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/react-monorepo` from [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)
-<!-- Activity last updated on Tue May 13 2025 22:05:37 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Tue May 13 2025 22:23:36 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
