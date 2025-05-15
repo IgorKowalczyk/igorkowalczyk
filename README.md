@@ -57,7 +57,7 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <code><img src="https://igorkowalczyk.dev/assets/tech/vercel.svg" alt="Vercel icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/astro.svg" alt="Astro icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/eslint.svg" alt="ESlint icon" height="30" width="30" /></code>
-<!-- List last updated on Thu May 15 2025 21:48:14 GMT+0000 (Coordinated Universal Time) -->
+<!-- List last updated on Thu May 15 2025 22:05:18 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:technologies-->
 
 **...and many others!**
@@ -67,66 +67,20 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <!-- START_SECTION:feed -->
 - [Contentlayer is dead - what now?](https://igorkowalczyk.dev/blog/contentlayer-is-dead) `[April 24, 2025]`
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Thu May 15 2025 21:48:14 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Thu May 15 2025 22:05:18 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-| 🏆 Contributions (total):     |     35K    |
-| :---------------------------- | :--------: |
-| **🏆 Contributions in 2025:** |  **4.3K**  |
-| **📝 Total lines of code:**   |   **1M**   |
-| **📦 Github Storage:**        | **1.3 GB** |
-| **📚 Public Repositories:**   |   **27**   |
 
-<details><summary>✨ Show more stats</summary>
-
-#### 📅 I work mostly during the night
-
-```text
-🌞 Morning   569 commits   [██████░░░░░░░░░░░░░░░░░░░]   27.84%
-🌆 Daytime   881 commits   [██████████░░░░░░░░░░░░░░░]   43.10%
-🌃 Evening   566 commits   [██████░░░░░░░░░░░░░░░░░░░]   27.69%
-🌙 Night     28 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.37%
-```
-
-#### 📅 I'm most productive on Tuesday
-
-```text
-Sunday      200 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.78%
-Monday      281 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.75%
-Tuesday     383 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.74%
-Wednesday   272 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.31%
-Thursday    248 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.13%
-Friday      295 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.43%
-Saturday    365 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.86%
-```
-
-#### 📊 Weekly work stats (last 7 days)
-
-```text
-💬 Programming Languages:
-TypeScript       [24 hrs 52 mins]   [███████████████████░░░░░░]   76.55%
-PHP              [5 hrs 11 mins]    [████░░░░░░░░░░░░░░░░░░░░░]   16.00%
-JavaScript       [1 hr 30 mins]     [█░░░░░░░░░░░░░░░░░░░░░░░░]   4.66%
-CSS              [20 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.03%
-JSON             [11 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.59%
-Other            [0h 22m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.16%
-
-💻 Operating Systems:
-Linux            [32 hrs 29 mins]  [█████████████████████████]   100.00%
-```
-
-</details>
-<!-- Wakatime last updated on Thu May 15 2025 21:48:22 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[05/15 12:36]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/vue-monorepo` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[05/15 12:36]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[05/15 12:36]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#969`](https://github.com/IgorKowalczyk/github-views/pull/969 'Update dependency vue to v3.5.14') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[05/15 12:36]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#969`](https://github.com/IgorKowalczyk/github-views/pull/969 'Update dependency vue to v3.5.14') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[05/15 12:25]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/wrangler-4.x` from [IgorKowalczyk/wakatime-hours](https://github.com/IgorKowalczyk/wakatime-hours)<br/>`[05/15 12:25]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/wakatime-hours](https://github.com/IgorKowalczyk/wakatime-hours)<br/>`[05/15 12:25]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#113`](https://github.com/IgorKowalczyk/wakatime-hours/pull/113 'Update dependency wrangler to v4.15.1') in [IgorKowalczyk/wakatime-hours](https://github.com/IgorKowalczyk/wakatime-hours)<br/>`[05/15 12:25]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#113`](https://github.com/IgorKowalczyk/wakatime-hours/pull/113 'Update dependency wrangler to v4.15.1') in [IgorKowalczyk/wakatime-hours](https://github.com/IgorKowalczyk/wakatime-hours)<br/>`[05/15 12:25]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#965`](https://github.com/IgorKowalczyk/github-views/pull/965 'Update dependency wrangler to v4.15.1') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[05/14 14:39]` <a href="https://github.com/igorkowalczyk" title="🗣"><img alt="🗣" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/comment.png" align="top" height="18"></a> Commented on [`#561`](https://github.com/Evavic44/portfolio-ideas/issues/561 'Update README.md') in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-<!-- Activity last updated on Thu May 15 2025 21:48:15 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Thu May 15 2025 22:05:18 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
