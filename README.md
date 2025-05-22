@@ -57,7 +57,7 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <code><img src="https://igorkowalczyk.dev/assets/tech/vercel.svg" alt="Vercel icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/astro.svg" alt="Astro icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/eslint.svg" alt="ESlint icon" height="30" width="30" /></code>
-<!-- List last updated on Thu May 22 2025 17:23:10 GMT+0000 (Coordinated Universal Time) -->
+<!-- List last updated on Thu May 22 2025 17:36:00 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:technologies-->
 
 **...and many others!**
@@ -67,7 +67,7 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <!-- START_SECTION:feed -->
 - [Contentlayer is dead - what now?](https://igorkowalczyk.dev/blog/contentlayer-is-dead) `[April 24, 2025]`
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Thu May 22 2025 17:23:09 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Thu May 22 2025 17:36:00 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
@@ -76,7 +76,7 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 | 🏆 Contributions (total):     |     35K    |
 | :---------------------------- | :--------: |
 | **🏆 Contributions in 2025:** |  **4.5K**  |
-| **📝 Total lines of code:**   |   **1M**   |
+| **📝 Total lines of code:**   |  **505K**  |
 | **📦 Github Storage:**        | **1.3 GB** |
 | **📚 Public Repositories:**   |   **28**   |
 
@@ -86,8 +86,8 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 
 ```text
 🌞 Morning   578 commits   [███████░░░░░░░░░░░░░░░░░░]   28.24%
-🌆 Daytime   902 commits   [███████████░░░░░░░░░░░░░░]   44.06%
-🌃 Evening   539 commits   [██████░░░░░░░░░░░░░░░░░░░]   26.33%
+🌆 Daytime   903 commits   [███████████░░░░░░░░░░░░░░]   44.11%
+🌃 Evening   538 commits   [██████░░░░░░░░░░░░░░░░░░░]   26.28%
 🌙 Night     28 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.37%
 ```
 
@@ -97,8 +97,8 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 Sunday      207 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   10.11%
 Monday      279 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.63%
 Tuesday     379 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.51%
-Wednesday   262 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.80%
-Thursday    264 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.90%
+Wednesday   261 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.75%
+Thursday    265 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.95%
 Friday      298 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.56%
 Saturday    358 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.49%
 ```
@@ -119,14 +119,14 @@ Linux         [28 hrs 2 mins]   [███████████████�
 ```
 
 </details>
-<!-- Wakatime last updated on Thu May 22 2025 17:23:27 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Thu May 22 2025 17:36:24 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-`[05/20 17:05]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/wrangler-4.x` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[05/20 17:05]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[05/20 17:05]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#975`](https://github.com/IgorKowalczyk/github-views/pull/975 'Update dependency wrangler to v4.16.0') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[05/20 17:04]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/dotenvx-dotenvx-1.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[05/20 17:04]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[05/20 17:04]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1724`](https://github.com/IgorKowalczyk/majo.exe/pull/1724 'fix(deps): update dependency @dotenvx/dotenvx to v1.44.1') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[05/20 17:04]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/redis-5.x` from [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[05/20 17:04]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[05/20 17:04]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#221`](https://github.com/IgorKowalczyk/quiz/pull/221 'Update dependency redis to v5.1.0') in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[05/20 17:04]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/sharp-0.x` from [IgorKowalczyk/igorkowalczyk.dev](https://github.com/IgorKowalczyk/igorkowalczyk.dev)
-<!-- Activity last updated on Thu May 22 2025 17:23:09 GMT+0000 (Coordinated Universal Time) -->
+`[05/22 17:00]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/node-22.x` from [IgorKowalczyk/ngrok-cli](https://github.com/IgorKowalczyk/ngrok-cli)<br/>`[05/22 17:00]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/ngrok-cli](https://github.com/IgorKowalczyk/ngrok-cli)<br/>`[05/22 17:00]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#432`](https://github.com/IgorKowalczyk/ngrok-cli/pull/432 'Update dependency @types/node to v22.15.21') in [IgorKowalczyk/ngrok-cli](https://github.com/IgorKowalczyk/ngrok-cli)<br/>`[05/22 17:00]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/node-22.x` from [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[05/22 17:00]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[05/22 17:00]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#222`](https://github.com/IgorKowalczyk/quiz/pull/222 'Update dependency @types/node to v22.15.21') in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[05/22 17:00]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-flat-config-ut...` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[05/22 17:00]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[05/22 17:00]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#834`](https://github.com/IgorKowalczyk/shared-configs/pull/834 'fix(deps): update dependency eslint-flat-config-utils to v2.1.0') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[05/22 17:00]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/wakatime-hours](https://github.com/IgorKowalczyk/wakatime-hours)
+<!-- Activity last updated on Thu May 22 2025 17:36:00 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
