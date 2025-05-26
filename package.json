@@ -10,7 +10,7 @@
   "biome-check": "biome check ."
  },
  "dependencies": {
-  "@octokit/graphql": "8.2.2",
+  "@octokit/graphql": "9.0.1",
   "chalk": "5.4.1",
   "date-fns": "4.1.0",
   "fast-xml-parser": "5.2.3",
