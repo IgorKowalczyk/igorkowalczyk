@@ -57,7 +57,7 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <code><img src="https://igorkowalczyk.dev/assets/tech/vercel.svg" alt="Vercel icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/astro.svg" alt="Astro icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/eslint.svg" alt="ESlint icon" height="30" width="30" /></code>
-<!-- List last updated on Sun Jun 01 2025 22:05:26 GMT+0000 (Coordinated Universal Time) -->
+<!-- List last updated on Sun Jun 01 2025 22:23:28 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:technologies-->
 
 **...and many others!**
@@ -67,20 +67,66 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <!-- START_SECTION:feed -->
 - [Contentlayer is dead - what now?](https://igorkowalczyk.dev/blog/contentlayer-is-dead) `[April 24, 2025]`
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sun Jun 01 2025 22:05:26 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sun Jun 01 2025 22:23:28 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
+| 🏆 Contributions (total):     |     36K    |
+| :---------------------------- | :--------: |
+| **🏆 Contributions in 2025:** |  **4.7K**  |
+| **📝 Total lines of code:**   |   **1M**   |
+| **📦 Github Storage:**        | **1.3 GB** |
+| **📚 Public Repositories:**   |   **28**   |
 
+<details><summary>✨ Show more stats</summary>
+
+#### 📅 I work mostly during the night
+
+```text
+🌞 Morning   594 commits   [███████░░░░░░░░░░░░░░░░░░]   28.95%
+🌆 Daytime   903 commits   [███████████░░░░░░░░░░░░░░]   44.01%
+🌃 Evening   528 commits   [██████░░░░░░░░░░░░░░░░░░░]   25.73%
+🌙 Night     27 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.32%
+```
+
+#### 📅 I'm most productive on Tuesday
+
+```text
+Sunday      226 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.01%
+Monday      281 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.69%
+Tuesday     365 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.79%
+Wednesday   274 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.35%
+Thursday    284 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.84%
+Friday      288 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.04%
+Saturday    334 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.28%
+```
+
+#### 📊 Weekly work stats (last 7 days)
+
+```text
+💬 Programming Languages:
+TypeScript   [8 hrs 1 min]      [██████████████░░░░░░░░░░░]   59.93%
+Docker       [2 hrs 15 mins]    [████░░░░░░░░░░░░░░░░░░░░░]   16.81%
+Go           [1 hr 56 mins]     [███░░░░░░░░░░░░░░░░░░░░░░]   14.51%
+PHP          [29 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.63%
+Bash         [14 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.82%
+Other        [0h 26m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.29%
+
+💻 Operating Systems:
+Linux        [13 hrs 24 mins]  [█████████████████████████]   100.00%
+```
+
+</details>
+<!-- Wakatime last updated on Sun Jun 01 2025 22:23:35 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[06/01 15:33]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/tw-animate-css-1.x` from [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[06/01 15:33]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[06/01 15:33]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#243`](https://github.com/IgorKowalczyk/quiz/pull/243 'Update dependency tw-animate-css to v1.3.3') in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[06/01 15:33]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/tw-animate-css-1.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[06/01 15:33]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[06/01 15:33]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1752`](https://github.com/IgorKowalczyk/majo.exe/pull/1752 'fix(deps): update dependency tw-animate-css to v1.3.3') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[05/29 19:16]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/t3-oss-env-nextjs-0.x...` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[05/29 19:16]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[05/29 19:16]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1736`](https://github.com/IgorKowalczyk/majo.exe/pull/1736 'fix(deps): update dependency @t3-oss/env-nextjs to v0.13.6') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[05/29 19:16]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/tw-animate-css-1.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
-<!-- Activity last updated on Sun Jun 01 2025 22:05:26 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Sun Jun 01 2025 22:23:28 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
