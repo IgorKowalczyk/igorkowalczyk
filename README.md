@@ -57,7 +57,7 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <code><img src="https://igorkowalczyk.dev/assets/tech/vercel.svg" alt="Vercel icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/astro.svg" alt="Astro icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/eslint.svg" alt="ESlint icon" height="30" width="30" /></code>
-<!-- List last updated on Wed Jun 04 2025 11:34:42 GMT+0000 (Coordinated Universal Time) -->
+<!-- List last updated on Wed Jun 04 2025 11:48:18 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:technologies-->
 
 **...and many others!**
@@ -67,7 +67,7 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <!-- START_SECTION:feed -->
 - [Contentlayer is dead - what now?](https://igorkowalczyk.dev/blog/contentlayer-is-dead) `[April 24, 2025]`
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Wed Jun 04 2025 11:34:42 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Wed Jun 04 2025 11:48:18 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
@@ -85,9 +85,9 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   592 commits   [███████░░░░░░░░░░░░░░░░░░]   28.85%
-🌆 Daytime   905 commits   [███████████░░░░░░░░░░░░░░]   44.10%
-🌃 Evening   528 commits   [██████░░░░░░░░░░░░░░░░░░░]   25.73%
+🌞 Morning   598 commits   [███████░░░░░░░░░░░░░░░░░░]   29.14%
+🌆 Daytime   904 commits   [███████████░░░░░░░░░░░░░░]   44.05%
+🌃 Evening   523 commits   [██████░░░░░░░░░░░░░░░░░░░]   25.49%
 🌙 Night     27 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.32%
 ```
 
@@ -95,12 +95,12 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 
 ```text
 Sunday      226 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.01%
-Monday      280 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.65%
+Monday      278 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.55%
 Tuesday     367 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.88%
-Wednesday   275 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.40%
-Thursday    283 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.79%
-Friday      288 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.04%
-Saturday    333 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.23%
+Wednesday   286 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.94%
+Thursday    281 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.69%
+Friday      286 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.94%
+Saturday    328 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.98%
 ```
 
 #### 📊 Weekly work stats (last 7 days)
@@ -119,14 +119,14 @@ Linux        [14 hrs 11 mins]  [████████████████
 ```
 
 </details>
-<!-- Wakatime last updated on Wed Jun 04 2025 11:34:49 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Wed Jun 04 2025 11:48:31 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[06/03 18:15]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/igorkowalczyk.dev](https://github.com/IgorKowalczyk/igorkowalczyk.dev)<br/>`[06/03 17:13]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1262`](https://github.com/IgorKowalczyk/igorkowalczyk.dev/pull/1262 'Remove photography page and fix icons') in [IgorKowalczyk/igorkowalczyk.dev](https://github.com/IgorKowalczyk/igorkowalczyk.dev)<br/>`[06/03 17:13]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `3` commits in [IgorKowalczyk/igorkowalczyk.dev](https://github.com/IgorKowalczyk/igorkowalczyk.dev)<br/>`[06/03 17:13]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `remove-photography` from [IgorKowalczyk/igorkowalczyk.dev](https://github.com/IgorKowalczyk/igorkowalczyk.dev)<br/>`[06/03 17:07]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `15` commits in [IgorKowalczyk/igorkowalczyk.dev](https://github.com/IgorKowalczyk/igorkowalczyk.dev)<br/>`[06/03 17:07]` <a href="https://github.com/igorkowalczyk" title="✅"><img alt="✅" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/pr-open.png" align="top" height="18"></a> Opened PR [`#1262`](https://github.com/IgorKowalczyk/igorkowalczyk.dev/pull/1262 'Remove photography page and fix icons') in [IgorKowalczyk/igorkowalczyk.dev](https://github.com/IgorKowalczyk/igorkowalczyk.dev)<br/>`[06/03 15:10]` <a href="https://github.com/igorkowalczyk" title="📂"><img alt="📂" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/create-branch.png" align="top" height="18"></a> Created branch [`remove-photography`](https://github.com/IgorKowalczyk/igorkowalczyk.dev/tree/remove-photography) in [IgorKowalczyk/igorkowalczyk.dev](https://github.com/IgorKowalczyk/igorkowalczyk.dev)<br/>`[06/01 15:33]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/tw-animate-css-1.x` from [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[06/01 15:33]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[06/01 15:33]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#243`](https://github.com/IgorKowalczyk/quiz/pull/243 'Update dependency tw-animate-css to v1.3.3') in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)
-<!-- Activity last updated on Wed Jun 04 2025 11:34:42 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Wed Jun 04 2025 11:48:18 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
