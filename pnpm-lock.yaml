@@ -18,8 +18,8 @@ importers:
         specifier: 4.1.0
         version: 4.1.0
       fast-xml-parser:
-        specifier: 5.2.3
-        version: 5.2.3
+        specifier: 5.2.4
+        version: 5.2.4
       markdown-table:
         specifier: 3.0.4
         version: 3.0.4
@@ -32,7 +32,7 @@ importers:
         version: 1.9.4
       '@types/bun':
         specifier: latest
-        version: 1.2.13
+        version: 1.2.15
 
 packages:
 
@@ -111,14 +111,14 @@ packages:
   '@octokit/types@14.0.0':
     resolution: {integrity: sha512-VVmZP0lEhbo2O1pdq63gZFiGCKkm8PPp8AUOijlwPO6hojEVjspA0MWKP7E4hbvGxzFKNqKr6p0IYtOH/Wf/zA==}
 
-  '@types/bun@1.2.13':
-    resolution: {integrity: sha512-u6vXep/i9VBxoJl3GjZsl/BFIsvML8DfVDO0RYLEwtSZSp981kEO1V5NwRcO1CPJ7AmvpbnDCiMKo3JvbDEjAg==}
+  '@types/bun@1.2.15':
+    resolution: {integrity: sha512-U1ljPdBEphF0nw1MIk0hI7kPg7dFdPyM7EenHsp6W5loNHl7zqy6JQf/RKCgnUn2KDzUpkBwHPnEJEjII594bA==}
 
   '@types/node@22.13.11':
     resolution: {integrity: sha512-iEUCUJoU0i3VnrCmgoWCXttklWcvoCIx4jzcP22fioIVSdTmjgoEvmAO/QPw6TcS9k5FrNgn4w7q5lGOd1CT5g==}
 
-  bun-types@1.2.13:
-    resolution: {integrity: sha512-rRjA1T6n7wto4gxhAO/ErZEtOXyEZEmnIHQfl0Dt1QQSB4QV0iP6BZ9/YB5fZaHFQ2dwHFrmPaRQ9GGMX01k9Q==}
+  bun-types@1.2.15:
+    resolution: {integrity: sha512-NarRIaS+iOaQU1JPfyKhZm4AsUOrwUOqRNHY0XxI8GI8jYxiLXLcdjYMG9UKS+fwWasc1uw1htV9AX24dD+p4w==}
 
   chalk@5.4.1:
     resolution: {integrity: sha512-zgVZuo2WcZgfUEmsn6eO3kINexW8RAE4maiQ8QNs8CtpPCSyMiYsULR3HQYkm3w8FIA3SberyMJMSldGsW+U3w==}
@@ -130,8 +130,8 @@ packages:
   fast-content-type-parse@3.0.0:
     resolution: {integrity: sha512-ZvLdcY8P+N8mGQJahJV5G4U88CSvT1rP8ApL6uETe88MBXrBHAkZlSEySdUlyztF7ccb+Znos3TFqaepHxdhBg==}
 
-  fast-xml-parser@5.2.3:
-    resolution: {integrity: sha512-OdCYfRqfpuLUFonTNjvd30rCBZUneHpSQkCqfaeWQ9qrKcl6XlWeDBNVwGb+INAIxRshuN2jF+BE0L6gbBO2mw==}
+  fast-xml-parser@5.2.4:
+    resolution: {integrity: sha512-6mNrAVwHip2nGyPYn6xQJK/znBbIoz6to5VMNysrka1/aoSylbB8vjYgkpaFp05EFojiflVV+3QzXe9Ap3Esng==}
     hasBin: true
 
   markdown-table@3.0.4:
@@ -217,15 +217,15 @@ snapshots:
     dependencies:
       '@octokit/openapi-types': 25.0.0
 
-  '@types/bun@1.2.13':
+  '@types/bun@1.2.15':
     dependencies:
-      bun-types: 1.2.13
+      bun-types: 1.2.15
 
   '@types/node@22.13.11':
     dependencies:
       undici-types: 6.20.0
 
-  bun-types@1.2.13:
+  bun-types@1.2.15:
     dependencies:
       '@types/node': 22.13.11
 
@@ -235,7 +235,7 @@ snapshots:
 
   fast-content-type-parse@3.0.0: {}
 
-  fast-xml-parser@5.2.3:
+  fast-xml-parser@5.2.4:
     dependencies:
       strnum: 2.1.0
 
