@@ -13,7 +13,7 @@
   "@octokit/graphql": "9.0.1",
   "chalk": "5.4.1",
   "date-fns": "4.1.0",
-  "fast-xml-parser": "5.2.3",
+  "fast-xml-parser": "5.2.4",
   "markdown-table": "3.0.4"
  },
  "devDependencies": {
