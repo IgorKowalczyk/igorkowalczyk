@@ -18,8 +18,8 @@ importers:
         specifier: 4.1.0
         version: 4.1.0
       fast-xml-parser:
-        specifier: 5.2.4
-        version: 5.2.4
+        specifier: 5.2.5
+        version: 5.2.5
       markdown-table:
         specifier: 3.0.4
         version: 3.0.4
@@ -130,8 +130,8 @@ packages:
   fast-content-type-parse@3.0.0:
     resolution: {integrity: sha512-ZvLdcY8P+N8mGQJahJV5G4U88CSvT1rP8ApL6uETe88MBXrBHAkZlSEySdUlyztF7ccb+Znos3TFqaepHxdhBg==}
 
-  fast-xml-parser@5.2.4:
-    resolution: {integrity: sha512-6mNrAVwHip2nGyPYn6xQJK/znBbIoz6to5VMNysrka1/aoSylbB8vjYgkpaFp05EFojiflVV+3QzXe9Ap3Esng==}
+  fast-xml-parser@5.2.5:
+    resolution: {integrity: sha512-pfX9uG9Ki0yekDHx2SiuRIyFdyAr1kMIMitPvb0YBo8SUfKvia7w7FIyd/l6av85pFYRhZscS75MwMnbvY+hcQ==}
     hasBin: true
 
   markdown-table@3.0.4:
@@ -235,7 +235,7 @@ snapshots:
 
   fast-content-type-parse@3.0.0: {}
 
-  fast-xml-parser@5.2.4:
+  fast-xml-parser@5.2.5:
     dependencies:
       strnum: 2.1.0
 
