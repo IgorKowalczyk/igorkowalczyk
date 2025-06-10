@@ -57,7 +57,7 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <code><img src="https://igorkowalczyk.dev/assets/tech/vercel.svg" alt="Vercel icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/astro.svg" alt="Astro icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/eslint.svg" alt="ESlint icon" height="30" width="30" /></code>
-<!-- List last updated on Tue Jun 10 2025 21:48:15 GMT+0000 (Coordinated Universal Time) -->
+<!-- List last updated on Tue Jun 10 2025 22:05:49 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:technologies-->
 
 **...and many others!**
@@ -67,66 +67,20 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <!-- START_SECTION:feed -->
 - [Contentlayer is dead - what now?](https://igorkowalczyk.dev/blog/contentlayer-is-dead) `[April 24, 2025]`
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Tue Jun 10 2025 21:48:15 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Tue Jun 10 2025 22:05:49 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-| 🏆 Contributions (total):     |     36K    |
-| :---------------------------- | :--------: |
-| **🏆 Contributions in 2025:** |  **4.8K**  |
-| **📝 Total lines of code:**   |   **1M**   |
-| **📦 Github Storage:**        | **1.3 GB** |
-| **📚 Public Repositories:**   |   **28**   |
 
-<details><summary>✨ Show more stats</summary>
-
-#### 📅 I work mostly during the night
-
-```text
-🌞 Morning   571 commits   [██████░░░░░░░░░░░░░░░░░░░]   27.83%
-🌆 Daytime   959 commits   [███████████░░░░░░░░░░░░░░]   46.73%
-🌃 Evening   496 commits   [██████░░░░░░░░░░░░░░░░░░░]   24.17%
-🌙 Night     26 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.27%
-```
-
-#### 📅 I'm most productive on Tuesday
-
-```text
-Sunday      224 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   10.92%
-Monday      270 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.16%
-Tuesday     405 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.74%
-Wednesday   278 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.55%
-Thursday    264 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.87%
-Friday      290 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.13%
-Saturday    321 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.64%
-```
-
-#### 📊 Weekly work stats (last 7 days)
-
-```text
-💬 Programming Languages:
-TypeScript   [11 hrs 28 mins]   [████████████████░░░░░░░░░]   65.76%
-PHP          [4 hrs 36 mins]    [██████░░░░░░░░░░░░░░░░░░░]   26.42%
-CSS          [58 mins]          [█░░░░░░░░░░░░░░░░░░░░░░░░]   5.55%
-JSON         [10 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.03%
-Docker       [8 mins]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.85%
-Other        [0h 4m]            [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.38%
-
-💻 Operating Systems:
-Linux        [17 hrs 26 mins]  [█████████████████████████]   100.00%
-```
-
-</details>
-<!-- Wakatime last updated on Tue Jun 10 2025 21:48:27 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[06/10 12:59]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/react-monorepo` from [IgorKowalczyk/igorkowalczyk.dev](https://github.com/IgorKowalczyk/igorkowalczyk.dev)<br/>`[06/10 12:58]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[06/10 12:58]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br/>`[06/10 12:57]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/napi-rs-canvas-0.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[06/10 12:57]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1764`](https://github.com/IgorKowalczyk/majo.exe/pull/1764 'fix(deps): update dependency cheerio to v1.1.0') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[06/10 12:57]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br/>`[06/10 12:57]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[06/10 12:54]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.dev](https://github.com/IgorKowalczyk/igorkowalczyk.dev)<br/>`[06/10 12:56]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1762`](https://github.com/IgorKowalczyk/majo.exe/pull/1762 'fix(deps): update dependency @napi-rs/canvas to v0.1.71') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[06/10 12:56]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/cheerio-1.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
-<!-- Activity last updated on Tue Jun 10 2025 21:48:16 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Tue Jun 10 2025 22:05:49 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
