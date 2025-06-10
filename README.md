@@ -57,7 +57,7 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <code><img src="https://igorkowalczyk.dev/assets/tech/vercel.svg" alt="Vercel icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/astro.svg" alt="Astro icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/eslint.svg" alt="ESlint icon" height="30" width="30" /></code>
-<!-- List last updated on Tue Jun 10 2025 03:36:49 GMT+0000 (Coordinated Universal Time) -->
+<!-- List last updated on Tue Jun 10 2025 03:58:33 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:technologies-->
 
 **...and many others!**
@@ -67,7 +67,7 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <!-- START_SECTION:feed -->
 - [Contentlayer is dead - what now?](https://igorkowalczyk.dev/blog/contentlayer-is-dead) `[April 24, 2025]`
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Tue Jun 10 2025 03:36:49 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Tue Jun 10 2025 03:58:33 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
@@ -76,7 +76,7 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 | 🏆 Contributions (total):     |     36K    |
 | :---------------------------- | :--------: |
 | **🏆 Contributions in 2025:** |  **4.7K**  |
-| **📝 Total lines of code:**   |   **1M**   |
+| **📝 Total lines of code:**   |  **465K**  |
 | **📦 Github Storage:**        | **1.3 GB** |
 | **📚 Public Repositories:**   |   **28**   |
 
@@ -119,14 +119,14 @@ Linux        [17 hrs 26 mins]  [████████████████
 ```
 
 </details>
-<!-- Wakatime last updated on Tue Jun 10 2025 03:37:08 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Tue Jun 10 2025 03:58:56 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[06/08 13:34]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/prisma-monorepo` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[06/08 13:34]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[06/08 13:34]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1756`](https://github.com/IgorKowalczyk/majo.exe/pull/1756 'fix(deps): update prisma monorepo to v6.9.0') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[06/08 13:34]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/>`[06/08 13:34]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/vitest-monorepo` from [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/>`[06/08 13:34]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#484`](https://github.com/IgorKowalczyk/repl-uptime/pull/484 'chore(deps): update vitest monorepo to v3.2.2') in [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/>`[06/08 13:34]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-monorepo` from [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[06/08 13:34]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[06/08 13:34]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#242`](https://github.com/IgorKowalczyk/quiz/pull/242 'Update eslint monorepo to v9.28.0') in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[06/08 13:34]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)
-<!-- Activity last updated on Tue Jun 10 2025 03:36:50 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Tue Jun 10 2025 03:58:34 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
