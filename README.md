@@ -57,7 +57,7 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <code><img src="https://igorkowalczyk.dev/assets/tech/vercel.svg" alt="Vercel icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/astro.svg" alt="Astro icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/eslint.svg" alt="ESlint icon" height="30" width="30" /></code>
-<!-- List last updated on Tue Jun 17 2025 08:08:18 GMT+0000 (Coordinated Universal Time) -->
+<!-- List last updated on Tue Jun 17 2025 08:25:04 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:technologies-->
 
 **...and many others!**
@@ -67,7 +67,7 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <!-- START_SECTION:feed -->
 - [Contentlayer is dead - what now?](https://igorkowalczyk.dev/blog/contentlayer-is-dead) `[April 24, 2025]`
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Tue Jun 17 2025 08:08:18 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Tue Jun 17 2025 08:25:04 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
@@ -75,8 +75,8 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <!--START_SECTION:wakatime-->
 | 🏆 Contributions (total):     |     36K    |
 | :---------------------------- | :--------: |
-| **🏆 Contributions in 2025:** |  **4.9K**  |
-| **📝 Total lines of code:**   |   **1M**   |
+| **🏆 Contributions in 2025:** |   **5K**   |
+| **📝 Total lines of code:**   |   **55K**  |
 | **📦 Github Storage:**        | **1.3 GB** |
 | **📚 Public Repositories:**   |   **28**   |
 
@@ -85,22 +85,22 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   563 commits   [██████░░░░░░░░░░░░░░░░░░░]   27.44%
-🌆 Daytime   943 commits   [███████████░░░░░░░░░░░░░░]   45.96%
-🌃 Evening   522 commits   [██████░░░░░░░░░░░░░░░░░░░]   25.44%
+🌞 Morning   581 commits   [███████░░░░░░░░░░░░░░░░░░]   28.31%
+🌆 Daytime   937 commits   [███████████░░░░░░░░░░░░░░]   45.66%
+🌃 Evening   510 commits   [██████░░░░░░░░░░░░░░░░░░░]   24.85%
 🌙 Night     24 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.17%
 ```
 
 #### 📅 I'm most productive on Tuesday
 
 ```text
-Sunday      209 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   10.19%
-Monday      288 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.04%
-Tuesday     396 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.30%
-Wednesday   317 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.45%
-Thursday    254 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.38%
+Sunday      200 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.75%
+Monday      286 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.94%
+Tuesday     421 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.52%
+Wednesday   311 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.16%
+Thursday    247 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.04%
 Friday      265 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.91%
-Saturday    323 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.74%
+Saturday    322 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.69%
 ```
 
 #### 📊 Weekly work stats (last 7 days)
@@ -114,14 +114,14 @@ Saturday    323 commits   [███░░░░░░░░░░░░░░�
 ```
 
 </details>
-<!-- Wakatime last updated on Tue Jun 17 2025 08:08:32 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Tue Jun 17 2025 08:25:22 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[06/16 19:02]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-monorepo` from [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br/>`[06/16 19:02]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br/>`[06/16 19:02]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#502`](https://github.com/IgorKowalczyk/discord-ssh/pull/502 'Update dependency eslint to v9.29.0') in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br/>`[06/16 19:02]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/lucide-monorepo` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[06/16 19:02]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[06/16 19:02]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#997`](https://github.com/IgorKowalczyk/github-views/pull/997 'Update dependency lucide-vue-next to v0.515.0') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[06/16 19:01]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/zod-validation-error-...` from [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[06/16 19:01]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[06/16 19:01]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#266`](https://github.com/IgorKowalczyk/quiz/pull/266 'Update dependency zod-validation-error to v3.5.1') in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[06/16 19:01]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)
-<!-- Activity last updated on Tue Jun 17 2025 08:08:19 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Tue Jun 17 2025 08:25:04 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
