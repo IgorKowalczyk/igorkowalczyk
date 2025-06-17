@@ -57,7 +57,7 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <code><img src="https://igorkowalczyk.dev/assets/tech/vercel.svg" alt="Vercel icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/astro.svg" alt="Astro icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/eslint.svg" alt="ESlint icon" height="30" width="30" /></code>
-<!-- List last updated on Tue Jun 17 2025 18:25:07 GMT+0000 (Coordinated Universal Time) -->
+<!-- List last updated on Tue Jun 17 2025 18:41:47 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:technologies-->
 
 **...and many others!**
@@ -67,7 +67,7 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <!-- START_SECTION:feed -->
 - [Contentlayer is dead - what now?](https://igorkowalczyk.dev/blog/contentlayer-is-dead) `[April 24, 2025]`
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Tue Jun 17 2025 18:25:07 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Tue Jun 17 2025 18:41:47 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
@@ -85,22 +85,22 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   581 commits   [███████░░░░░░░░░░░░░░░░░░]   28.31%
-🌆 Daytime   937 commits   [███████████░░░░░░░░░░░░░░]   45.66%
-🌃 Evening   510 commits   [██████░░░░░░░░░░░░░░░░░░░]   24.85%
+🌞 Morning   579 commits   [███████░░░░░░░░░░░░░░░░░░]   28.22%
+🌆 Daytime   934 commits   [███████████░░░░░░░░░░░░░░]   45.52%
+🌃 Evening   515 commits   [██████░░░░░░░░░░░░░░░░░░░]   25.10%
 🌙 Night     24 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.17%
 ```
 
 #### 📅 I'm most productive on Tuesday
 
 ```text
-Sunday      199 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.70%
+Sunday      197 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.60%
 Monday      284 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.84%
-Tuesday     424 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.66%
+Tuesday     428 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.86%
 Wednesday   311 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.16%
 Thursday    247 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.04%
 Friday      265 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.91%
-Saturday    322 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.69%
+Saturday    320 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.59%
 ```
 
 #### 📊 Weekly work stats (last 7 days)
@@ -114,14 +114,14 @@ Saturday    322 commits   [███░░░░░░░░░░░░░░�
 ```
 
 </details>
-<!-- Wakatime last updated on Tue Jun 17 2025 18:25:23 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Tue Jun 17 2025 18:41:56 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[06/17 09:53]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-plugin-prettie...` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[06/17 09:53]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[06/17 09:53]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#870`](https://github.com/IgorKowalczyk/shared-configs/pull/870 'fix(deps): update dependency eslint-plugin-prettier to v5.5.0') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[06/17 09:48]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/tailwindcss-monorepo` from [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br/>`[06/17 09:48]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br/>`[06/17 09:48]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#421`](https://github.com/IgorKowalczyk/is-browser/pull/421 'Update dependency tailwindcss to v4.1.10') in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br/>`[06/17 09:48]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-monorepo` from [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br/>`[06/17 09:48]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#422`](https://github.com/IgorKowalczyk/is-browser/pull/422 'Update dependency eslint to v9.29.0') in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br/>`[06/17 09:48]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br/>`[06/17 09:47]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-plugin-import-...` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)
-<!-- Activity last updated on Tue Jun 17 2025 18:25:08 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Tue Jun 17 2025 18:41:47 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
