@@ -57,7 +57,7 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <code><img src="https://igorkowalczyk.dev/assets/tech/vercel.svg" alt="Vercel icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/astro.svg" alt="Astro icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/eslint.svg" alt="ESlint icon" height="30" width="30" /></code>
-<!-- List last updated on Wed Jun 18 2025 22:05:38 GMT+0000 (Coordinated Universal Time) -->
+<!-- List last updated on Wed Jun 18 2025 22:23:40 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:technologies-->
 
 **...and many others!**
@@ -67,20 +67,66 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <!-- START_SECTION:feed -->
 - [Contentlayer is dead - what now?](https://igorkowalczyk.dev/blog/contentlayer-is-dead) `[April 24, 2025]`
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Wed Jun 18 2025 22:05:38 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Wed Jun 18 2025 22:23:40 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
+| 🏆 Contributions (total):     |     36K    |
+| :---------------------------- | :--------: |
+| **🏆 Contributions in 2025:** |   **5K**   |
+| **📝 Total lines of code:**   |   **1M**   |
+| **📦 Github Storage:**        | **1.3 GB** |
+| **📚 Public Repositories:**   |   **28**   |
 
+<details><summary>✨ Show more stats</summary>
+
+#### 📅 I work mostly during the night
+
+```text
+🌞 Morning   580 commits   [███████░░░░░░░░░░░░░░░░░░]   28.27%
+🌆 Daytime   936 commits   [███████████░░░░░░░░░░░░░░]   45.61%
+🌃 Evening   512 commits   [██████░░░░░░░░░░░░░░░░░░░]   24.95%
+🌙 Night     24 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.17%
+```
+
+#### 📅 I'm most productive on Tuesday
+
+```text
+Sunday      193 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.41%
+Monday      283 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.79%
+Tuesday     428 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.86%
+Wednesday   323 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.74%
+Thursday    245 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.94%
+Friday      262 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.77%
+Saturday    318 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.50%
+```
+
+#### 📊 Weekly work stats (last 7 days)
+
+```text
+💬 Programming Languages:
+TypeScript   [6 hrs 8 mins]    [███████████████████████░░]   95.24%
+JSON         [9 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.45%
+PHP          [3 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.93%
+Bash         [2 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.71%
+JavaScript   [2 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.57%
+Other        [0h 0m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.10%
+
+💻 Operating Systems:
+Linux        [6 hrs 26 mins]  [█████████████████████████]   100.00%
+```
+
+</details>
+<!-- Wakatime last updated on Wed Jun 18 2025 22:23:54 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[06/17 18:55]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[06/17 18:55]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/vitest-monorepo` from [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[06/17 18:55]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#553`](https://github.com/IgorKowalczyk/countdown/pull/553 'chore(deps): update dependency vitest to v3.2.4') in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[06/17 18:54]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/rollup-plugin-commonj...` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[06/17 18:54]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[06/17 18:54]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#871`](https://github.com/IgorKowalczyk/shared-configs/pull/871 'chore(deps): update dependency @rollup/plugin-commonjs to v28.0.6') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[06/17 18:32]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/rollup-plugin-typescr...` from [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br/>`[06/17 18:32]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br/>`[06/17 18:32]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#423`](https://github.com/IgorKowalczyk/is-browser/pull/423 'Update dependency @rollup/plugin-typescript to v12.1.3') in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br/>`[06/17 18:32]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/rollup-plugin-typescr...` from [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)
-<!-- Activity last updated on Wed Jun 18 2025 22:05:38 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Wed Jun 18 2025 22:23:41 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
