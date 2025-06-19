@@ -57,7 +57,7 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <code><img src="https://igorkowalczyk.dev/assets/tech/vercel.svg" alt="Vercel icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/astro.svg" alt="Astro icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/eslint.svg" alt="ESlint icon" height="30" width="30" /></code>
-<!-- List last updated on Thu Jun 19 2025 21:48:18 GMT+0000 (Coordinated Universal Time) -->
+<!-- List last updated on Thu Jun 19 2025 22:05:29 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:technologies-->
 
 **...and many others!**
@@ -67,66 +67,19 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <!-- START_SECTION:feed -->
 - [Contentlayer is dead - what now?](https://igorkowalczyk.dev/blog/contentlayer-is-dead) `[April 24, 2025]`
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Thu Jun 19 2025 21:48:18 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Thu Jun 19 2025 22:05:29 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-| 🏆 Contributions (total):     |     36K    |
-| :---------------------------- | :--------: |
-| **🏆 Contributions in 2025:** |  **5.1K**  |
-| **📝 Total lines of code:**   |   **1M**   |
-| **📦 Github Storage:**        | **1.3 GB** |
-| **📚 Public Repositories:**   |   **28**   |
 
-<details><summary>✨ Show more stats</summary>
-
-#### 📅 I work mostly during the night
-
-```text
-🌞 Morning   577 commits   [███████░░░░░░░░░░░░░░░░░░]   28.12%
-🌆 Daytime   938 commits   [███████████░░░░░░░░░░░░░░]   45.71%
-🌃 Evening   513 commits   [██████░░░░░░░░░░░░░░░░░░░]   25.00%
-🌙 Night     24 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.17%
-```
-
-#### 📅 I'm most productive on Tuesday
-
-```text
-Sunday      189 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.21%
-Monday      283 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.79%
-Tuesday     425 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.71%
-Wednesday   329 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.03%
-Thursday    254 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.38%
-Friday      258 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.57%
-Saturday    314 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.30%
-```
-
-#### 📊 Weekly work stats (last 7 days)
-
-```text
-💬 Programming Languages:
-TypeScript   [6 hrs 8 mins]    [███████████████████████░░]   95.24%
-JSON         [9 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.45%
-PHP          [3 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.93%
-Bash         [2 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.71%
-JavaScript   [2 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.57%
-Other        [0h 0m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.10%
-
-💻 Operating Systems:
-Linux        [6 hrs 26 mins]  [█████████████████████████]   100.00%
-```
-
-</details>
-<!-- Wakatime last updated on Thu Jun 19 2025 21:48:29 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-`[06/18 22:49]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/pg-8.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[06/18 22:49]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[06/18 22:49]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1788`](https://github.com/IgorKowalczyk/majo.exe/pull/1788 'fix(deps): update dependency pg to v8.16.1') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[06/18 22:49]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/dotbot-digest` from [IgorKowalczyk/dotfiles](https://github.com/IgorKowalczyk/dotfiles)<br/>`[06/18 22:49]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/dotfiles](https://github.com/IgorKowalczyk/dotfiles)<br/>`[06/18 22:49]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#40`](https://github.com/IgorKowalczyk/dotfiles/pull/40 'Update dotbot digest to e7e111b') in [IgorKowalczyk/dotfiles](https://github.com/IgorKowalczyk/dotfiles)<br/>`[06/18 22:48]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/wrangler-4.x` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[06/18 22:48]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[06/18 22:48]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/nextjs-monorepo` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[06/18 22:48]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1005`](https://github.com/IgorKowalczyk/github-views/pull/1005 'Update dependency wrangler to v4.20.3') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)
-<!-- Activity last updated on Thu Jun 19 2025 21:48:19 GMT+0000 (Coordinated Universal Time) -->
+
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
