@@ -1,7 +1,7 @@
+import type { GraphQlQueryResponseData } from "@octokit/graphql";
 import { getTimeOfDay } from "@/util/functions";
 import { getRepositories } from "@/util/getRepositories";
 import { client } from "@/util/graphQlClient";
-import type { GraphQlQueryResponseData } from "@octokit/graphql";
 
 interface CommitNode {
  node: {

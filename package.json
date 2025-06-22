@@ -17,7 +17,7 @@
   "markdown-table": "3.0.4"
  },
  "devDependencies": {
-  "@biomejs/biome": "1.9.4",
+  "@biomejs/biome": "2.0.4",
   "@types/bun": "latest"
  },
  "peerDependencies": {
@@ -25,6 +25,8 @@
  },
  "packageManager": "pnpm@10.12.1",
  "pnpm": {
-  "onlyBuiltDependencies": ["@biomejs/biome"]
+  "onlyBuiltDependencies": [
+   "@biomejs/biome"
+  ]
  }
 }

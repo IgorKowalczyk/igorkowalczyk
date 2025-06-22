@@ -36,7 +36,7 @@ export async function fetchActivities(username: string): Promise<string> {
    if (typeof item === "object") {
     if (!item.payload) return "";
 
-    if (Object.hasOwnProperty.call(item.payload, "issue")) {
+    if (Object.hasOwn(item.payload, "issue")) {
      if (repoPublic) {
       if (!item.payload || !item.payload.issue) return "";
       return `[\`#${item.payload.issue.number}\`](https://github.com/${item.repo.name}/issues/${item.payload.issue.number} '${item.payload.issue.title.replace(/'/g, "\\'")}')`;
@@ -144,7 +144,7 @@ export async function fetchActivities(username: string): Promise<string> {
   }
 
   const content = arr
-   .filter((event) => Object.prototype.hasOwnProperty.call(serializers, event.type))
+   .filter((event) => Object.hasOwn(serializers, event.type))
    .map((item) => {
     if (!item.public) return null; // Hide private events
     return `${timestamper(item)} ${serializers[item.type](item)}`;

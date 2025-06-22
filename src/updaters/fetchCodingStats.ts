@@ -1,9 +1,9 @@
-import { Logger, formatBytes, formatNumber, percentageBar } from "@/util/functions";
+import { markdownTable } from "markdown-table";
+import { formatBytes, formatNumber, Logger, percentageBar } from "@/util/functions";
 import { getCommits } from "@/util/getCommits";
 import { getTotalContributionsForYears } from "@/util/getContributions";
 import { getLinesOfCode } from "@/util/getLinesOfCode";
 import { getRepositories } from "@/util/getRepositories";
-import { markdownTable } from "markdown-table";
 
 interface Language {
  name: string;

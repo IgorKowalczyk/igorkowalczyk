@@ -1,7 +1,7 @@
-import { feed } from "@/config";
-import { Logger } from "@/util/functions";
 import { format } from "date-fns";
 import { XMLParser } from "fast-xml-parser";
+import { feed } from "@/config";
+import { Logger } from "@/util/functions";
 
 interface Entry {
  title: string;
