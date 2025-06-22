@@ -33,7 +33,7 @@ async function updateReadmeSections(originalContent: string, updates: { marker: 
  return updatedContent;
 }
 
-const start: number = new Date().getTime();
+const start: number = Date.now();
 const readmePath = "./README.md";
 
 try {
@@ -57,7 +57,7 @@ try {
 
  await writeFile(readmePath, updatedReadme.trim());
 
- Logger("done", `Finished updating README in ${((new Date().getTime() - start) / 1000).toFixed(2)}s`);
+ Logger("done", `Finished updating README in ${((Date.now() - start) / 1000).toFixed(2)}s`);
 } catch (error) {
  Logger("error", `Failed to update README: ${error}`);
 }
