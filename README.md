@@ -57,7 +57,7 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <code><img src="https://igorkowalczyk.dev/assets/tech/vercel.svg" alt="Vercel icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/astro.svg" alt="Astro icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/eslint.svg" alt="ESlint icon" height="30" width="30" /></code>
-<!-- List last updated on Thu Jun 26 2025 15:06:05 GMT+0000 (Coordinated Universal Time) -->
+<!-- List last updated on Thu Jun 26 2025 15:24:05 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:technologies-->
 
 **...and many others!**
@@ -67,7 +67,7 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <!-- START_SECTION:feed -->
 - [Contentlayer is dead - what now?](https://igorkowalczyk.dev/blog/contentlayer-is-dead) `[April 24, 2025]`
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Thu Jun 26 2025 15:06:05 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Thu Jun 26 2025 15:24:06 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
@@ -85,22 +85,22 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   563 commits   [██████░░░░░░░░░░░░░░░░░░░]   27.44%
-🌆 Daytime   974 commits   [███████████░░░░░░░░░░░░░░]   47.47%
-🌃 Evening   492 commits   [█████░░░░░░░░░░░░░░░░░░░░]   23.98%
+🌞 Morning   558 commits   [██████░░░░░░░░░░░░░░░░░░░]   27.19%
+🌆 Daytime   986 commits   [████████████░░░░░░░░░░░░░]   48.05%
+🌃 Evening   485 commits   [█████░░░░░░░░░░░░░░░░░░░░]   23.64%
 🌙 Night     23 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.12%
 ```
 
 #### 📅 I'm most productive on Tuesday
 
 ```text
-Sunday      183 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   8.92%
-Monday      307 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.96%
-Tuesday     429 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.91%
-Wednesday   317 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.45%
-Thursday    262 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.77%
-Friday      252 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.28%
-Saturday    302 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.72%
+Sunday      180 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   8.77%
+Monday      302 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.72%
+Tuesday     424 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.66%
+Wednesday   315 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.35%
+Thursday    286 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.94%
+Friday      249 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.13%
+Saturday    296 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.42%
 ```
 
 #### 📊 Weekly work stats (last 7 days)
@@ -119,14 +119,14 @@ Linux        [19 hrs 58 mins]  [████████████████
 ```
 
 </details>
-<!-- Wakatime last updated on Thu Jun 26 2025 15:06:21 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Thu Jun 26 2025 15:24:17 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[06/26 12:54]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/dotbot-digest` from [IgorKowalczyk/dotfiles](https://github.com/IgorKowalczyk/dotfiles)<br/>`[06/26 12:54]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/dotfiles](https://github.com/IgorKowalczyk/dotfiles)<br/>`[06/26 12:54]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/prettier-3.x` from [IgorKowalczyk/igorkowalczyk.dev](https://github.com/IgorKowalczyk/igorkowalczyk.dev)<br/>`[06/26 12:54]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#43`](https://github.com/IgorKowalczyk/dotfiles/pull/43 'Update dotbot digest to 8f6ae95') in [IgorKowalczyk/dotfiles](https://github.com/IgorKowalczyk/dotfiles)<br/>`[06/26 12:54]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.dev](https://github.com/IgorKowalczyk/igorkowalczyk.dev)<br/>`[06/26 12:54]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1297`](https://github.com/IgorKowalczyk/igorkowalczyk.dev/pull/1297 'chore(deps): update dependency prettier to v3.6.1') in [IgorKowalczyk/igorkowalczyk.dev](https://github.com/IgorKowalczyk/igorkowalczyk.dev)<br/>`[06/26 12:54]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/ngrok-cli](https://github.com/IgorKowalczyk/ngrok-cli)<br/>`[06/26 12:54]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/prettier-3.x` from [IgorKowalczyk/wakatime-hours](https://github.com/IgorKowalczyk/wakatime-hours)<br/>`[06/26 12:54]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/prettier-3.x` from [IgorKowalczyk/ngrok-cli](https://github.com/IgorKowalczyk/ngrok-cli)<br/>`[06/26 12:54]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#451`](https://github.com/IgorKowalczyk/ngrok-cli/pull/451 'Update dependency prettier to v3.6.1') in [IgorKowalczyk/ngrok-cli](https://github.com/IgorKowalczyk/ngrok-cli)
-<!-- Activity last updated on Thu Jun 26 2025 15:06:05 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Thu Jun 26 2025 15:24:06 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
