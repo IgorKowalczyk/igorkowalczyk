@@ -57,7 +57,7 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <code><img src="https://igorkowalczyk.dev/assets/tech/vercel.svg" alt="Vercel icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/astro.svg" alt="Astro icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/eslint.svg" alt="ESlint icon" height="30" width="30" /></code>
-<!-- List last updated on Fri Jul 04 2025 21:48:29 GMT+0000 (Coordinated Universal Time) -->
+<!-- List last updated on Fri Jul 04 2025 22:05:46 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:technologies-->
 
 **...and many others!**
@@ -67,66 +67,20 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <!-- START_SECTION:feed -->
 - [Contentlayer is dead - what now?](https://igorkowalczyk.dev/blog/contentlayer-is-dead) `[April 24, 2025]`
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Fri Jul 04 2025 21:48:29 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Fri Jul 04 2025 22:05:46 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-| 🏆 Contributions (total):     |     36K    |
-| :---------------------------- | :--------: |
-| **🏆 Contributions in 2025:** |  **5.4K**  |
-| **📝 Total lines of code:**   |   **1M**   |
-| **📦 Github Storage:**        | **1.3 GB** |
-| **📚 Public Repositories:**   |   **28**   |
 
-<details><summary>✨ Show more stats</summary>
-
-#### 📅 I work mostly during the night
-
-```text
-🌞 Morning   591 commits   [███████░░░░░░░░░░░░░░░░░░]   28.80%
-🌆 Daytime   971 commits   [███████████░░░░░░░░░░░░░░]   47.32%
-🌃 Evening   467 commits   [█████░░░░░░░░░░░░░░░░░░░░]   22.76%
-🌙 Night     23 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.12%
-```
-
-#### 📅 I'm most productive on Tuesday
-
-```text
-Sunday      200 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.75%
-Monday      288 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.04%
-Tuesday     413 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.13%
-Wednesday   293 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.28%
-Thursday    320 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.59%
-Friday      246 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.99%
-Saturday    292 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.23%
-```
-
-#### 📊 Weekly work stats (last 7 days)
-
-```text
-💬 Programming Languages:
-TypeScript       [23 hrs 20 mins]   [███████████████░░░░░░░░░░]   63.42%
-PHP              [8 hrs 20 mins]    [█████░░░░░░░░░░░░░░░░░░░░]   22.65%
-JSON             [1 hr 47 mins]     [█░░░░░░░░░░░░░░░░░░░░░░░░]   4.85%
-CSS              [1 hr 2 mins]      [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.81%
-Bash             [58 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.63%
-Other            [1h 20m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.63%
-
-💻 Operating Systems:
-Linux            [36 hrs 48 mins]  [█████████████████████████]   100.00%
-```
-
-</details>
-<!-- Wakatime last updated on Fri Jul 04 2025 21:48:38 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[07/04 14:11]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/zod-3.x` from [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[07/04 14:11]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[07/04 14:11]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#306`](https://github.com/IgorKowalczyk/quiz/pull/306 'Update dependency zod to v3.25.73') in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[07/04 14:11]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/zod-3.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[07/04 14:11]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[07/04 14:11]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1833`](https://github.com/IgorKowalczyk/majo.exe/pull/1833 'fix(deps): update dependency zod to v3.25.73') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[07/04 14:09]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#178`](https://github.com/IgorKowalczyk/wakatime-hours/pull/178 'Update dependency @cloudflare/workers-types to v4.20250704.0') in [IgorKowalczyk/wakatime-hours](https://github.com/IgorKowalczyk/wakatime-hours)<br/>`[07/04 14:09]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/cloudflare-workers-ty...` from [IgorKowalczyk/wakatime-hours](https://github.com/IgorKowalczyk/wakatime-hours)<br/>`[07/04 14:09]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/wakatime-hours](https://github.com/IgorKowalczyk/wakatime-hours)<br/>`[07/04 14:09]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#178`](https://github.com/IgorKowalczyk/wakatime-hours/pull/178 'Update dependency @cloudflare/workers-types to v4.20250704.0') in [IgorKowalczyk/wakatime-hours](https://github.com/IgorKowalczyk/wakatime-hours)
-<!-- Activity last updated on Fri Jul 04 2025 21:48:29 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Fri Jul 04 2025 22:05:47 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
