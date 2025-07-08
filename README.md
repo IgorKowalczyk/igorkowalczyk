@@ -57,7 +57,7 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <code><img src="https://igorkowalczyk.dev/assets/tech/vercel.svg" alt="Vercel icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/astro.svg" alt="Astro icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/eslint.svg" alt="ESlint icon" height="30" width="30" /></code>
-<!-- List last updated on Tue Jul 08 2025 21:48:27 GMT+0000 (Coordinated Universal Time) -->
+<!-- List last updated on Tue Jul 08 2025 22:05:54 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:technologies-->
 
 **...and many others!**
@@ -67,66 +67,20 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <!-- START_SECTION:feed -->
 - [Contentlayer is dead - what now?](https://igorkowalczyk.dev/blog/contentlayer-is-dead) `[April 24, 2025]`
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Tue Jul 08 2025 21:48:27 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Tue Jul 08 2025 22:05:54 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-| 🏆 Contributions (total):     |     36K    |
-| :---------------------------- | :--------: |
-| **🏆 Contributions in 2025:** |  **5.4K**  |
-| **📝 Total lines of code:**   |   **1M**   |
-| **📦 Github Storage:**        | **1.3 GB** |
-| **📚 Public Repositories:**   |   **28**   |
 
-<details><summary>✨ Show more stats</summary>
-
-#### 📅 I work mostly during the night
-
-```text
-🌞 Morning   586 commits   [███████░░░░░░░░░░░░░░░░░░]   28.56%
-🌆 Daytime   978 commits   [███████████░░░░░░░░░░░░░░]   47.66%
-🌃 Evening   465 commits   [█████░░░░░░░░░░░░░░░░░░░░]   22.66%
-🌙 Night     23 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.12%
-```
-
-#### 📅 I'm most productive on Tuesday
-
-```text
-Sunday      209 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   10.19%
-Monday      285 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.89%
-Tuesday     419 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.42%
-Wednesday   293 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.28%
-Thursday    316 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.40%
-Friday      242 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.79%
-Saturday    288 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.04%
-```
-
-#### 📊 Weekly work stats (last 7 days)
-
-```text
-💬 Programming Languages:
-TypeScript       [20 hrs 51 mins]   [█████████████░░░░░░░░░░░░]   55.56%
-PHP              [11 hrs 29 mins]   [███████░░░░░░░░░░░░░░░░░░]   30.59%
-JavaScript       [1 hr 39 mins]     [█░░░░░░░░░░░░░░░░░░░░░░░░]   4.43%
-CSS              [1 hr 18 mins]     [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.50%
-Bash             [1 hr 10 mins]     [░░░░░░░░░░░░░░░░░░░░░░░░░]   3.13%
-Other            [1h 2m]            [░░░░░░░░░░░░░░░░░░░░░░░░░]   2.78%
-
-💻 Operating Systems:
-Linux            [37 hrs 33 mins]  [█████████████████████████]   100.00%
-```
-
-</details>
-<!-- Wakatime last updated on Tue Jul 08 2025 21:48:37 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[07/06 17:17]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/tw-animate-css-1.x` from [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[07/06 17:17]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[07/06 17:17]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#304`](https://github.com/IgorKowalczyk/quiz/pull/304 'Update dependency tw-animate-css to v1.3.5') in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[07/06 17:03]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/nextjs-monorepo` from [IgorKowalczyk/igorkowalczyk.dev](https://github.com/IgorKowalczyk/igorkowalczyk.dev)<br/>`[07/06 17:03]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.dev](https://github.com/IgorKowalczyk/igorkowalczyk.dev)<br/>`[07/06 17:03]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1310`](https://github.com/IgorKowalczyk/igorkowalczyk.dev/pull/1310 'fix(deps): update nextjs monorepo to v15.3.5') in [IgorKowalczyk/igorkowalczyk.dev](https://github.com/IgorKowalczyk/igorkowalczyk.dev)<br/>`[07/06 17:03]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/zsh-plugins-zsh-autoc...` from [IgorKowalczyk/dotfiles](https://github.com/IgorKowalczyk/dotfiles)<br/>`[07/06 17:02]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/dotfiles](https://github.com/IgorKowalczyk/dotfiles)<br/>`[07/06 17:02]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#48`](https://github.com/IgorKowalczyk/dotfiles/pull/48 'Update zsh/plugins/zsh-autocomplete digest to c527f8b') in [IgorKowalczyk/dotfiles](https://github.com/IgorKowalczyk/dotfiles)<br/>`[07/06 17:02]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/prisma-monorepo` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
-<!-- Activity last updated on Tue Jul 08 2025 21:48:27 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Tue Jul 08 2025 22:05:54 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
