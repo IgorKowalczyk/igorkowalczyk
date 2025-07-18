@@ -57,7 +57,7 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <code><img src="https://igorkowalczyk.dev/assets/tech/vercel.svg" alt="Vercel icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/astro.svg" alt="Astro icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/eslint.svg" alt="ESlint icon" height="30" width="30" /></code>
-<!-- List last updated on Fri Jul 18 2025 22:05:52 GMT+0000 (Coordinated Universal Time) -->
+<!-- List last updated on Fri Jul 18 2025 22:23:53 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:technologies-->
 
 **...and many others!**
@@ -67,20 +67,66 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <!-- START_SECTION:feed -->
 - [Contentlayer is dead - what now?](https://igorkowalczyk.dev/blog/contentlayer-is-dead) `[April 24, 2025]`
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Fri Jul 18 2025 22:05:52 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Fri Jul 18 2025 22:23:53 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
+| 🏆 Contributions (total):     |     36K    |
+| :---------------------------- | :--------: |
+| **🏆 Contributions in 2025:** |  **5.6K**  |
+| **📝 Total lines of code:**   |   **1M**   |
+| **📦 Github Storage:**        | **1.3 GB** |
+| **📚 Public Repositories:**   |   **28**   |
 
+<details><summary>✨ Show more stats</summary>
+
+#### 📅 I work mostly during the night
+
+```text
+🌞 Morning   599 commits   [███████░░░░░░░░░░░░░░░░░░]   29.19%
+🌆 Daytime   983 commits   [███████████░░░░░░░░░░░░░░]   47.90%
+🌃 Evening   448 commits   [█████░░░░░░░░░░░░░░░░░░░░]   21.83%
+🌙 Night     22 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.07%
+```
+
+#### 📅 I'm most productive on Tuesday
+
+```text
+Sunday      191 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.31%
+Monday      296 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.42%
+Tuesday     400 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.49%
+Wednesday   308 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.01%
+Thursday    328 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.98%
+Friday      252 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.28%
+Saturday    277 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.50%
+```
+
+#### 📊 Weekly work stats (last 7 days)
+
+```text
+💬 Programming Languages:
+PHP              [5 hrs 55 mins]   [███████░░░░░░░░░░░░░░░░░░]   29.57%
+TypeScript       [4 hrs 19 mins]   [█████░░░░░░░░░░░░░░░░░░░░]   21.57%
+Bash             [3 hrs 46 mins]   [████░░░░░░░░░░░░░░░░░░░░░]   18.83%
+Apache Config    [1 hr 50 mins]    [██░░░░░░░░░░░░░░░░░░░░░░░]   9.24%
+JavaScript       [1 hr 7 mins]     [█░░░░░░░░░░░░░░░░░░░░░░░░]   5.63%
+Other            [3h 2m]           [███░░░░░░░░░░░░░░░░░░░░░░]   15.18%
+
+💻 Operating Systems:
+Linux            [20 hrs]         [█████████████████████████]   100.00%
+```
+
+</details>
+<!-- Wakatime last updated on Fri Jul 18 2025 22:24:00 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[07/16 13:51]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[07/16 13:51]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/rollup-4.x` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[07/16 13:51]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#900`](https://github.com/IgorKowalczyk/shared-configs/pull/900 'chore(deps): update dependency rollup to v4.45.1') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[07/16 13:49]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/pnpm-10.x` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[07/16 13:49]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[07/16 13:49]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#901`](https://github.com/IgorKowalczyk/shared-configs/pull/901 'chore(deps): update pnpm to v10.13.1') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[07/16 13:44]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/node-24.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[07/16 13:44]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1853`](https://github.com/IgorKowalczyk/majo.exe/pull/1853 'fix(deps): update dependency @types/node to v24.0.14') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[07/16 13:44]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[07/16 13:44]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#1853`](https://github.com/IgorKowalczyk/majo.exe/pull/1853 'fix(deps): update dependency @types/node to v24.0.14') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)
-<!-- Activity last updated on Fri Jul 18 2025 22:05:52 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Fri Jul 18 2025 22:23:53 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
