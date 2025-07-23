@@ -57,7 +57,7 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <code><img src="https://igorkowalczyk.dev/assets/tech/vercel.svg" alt="Vercel icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/astro.svg" alt="Astro icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/eslint.svg" alt="ESlint icon" height="30" width="30" /></code>
-<!-- List last updated on Wed Jul 23 2025 12:26:55 GMT+0000 (Coordinated Universal Time) -->
+<!-- List last updated on Wed Jul 23 2025 12:49:31 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:technologies-->
 
 **...and many others!**
@@ -67,7 +67,7 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <!-- START_SECTION:feed -->
 - [Contentlayer is dead - what now?](https://igorkowalczyk.dev/blog/contentlayer-is-dead) `[April 24, 2025]`
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Wed Jul 23 2025 12:26:55 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Wed Jul 23 2025 12:49:31 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
@@ -119,7 +119,7 @@ Linux            [10 hrs 10 mins]  [██████████████�
 ```
 
 </details>
-<!-- Wakatime last updated on Wed Jul 23 2025 12:27:12 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Wed Jul 23 2025 12:49:42 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
