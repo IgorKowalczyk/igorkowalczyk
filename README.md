@@ -57,7 +57,7 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <code><img src="https://igorkowalczyk.dev/assets/tech/vercel.svg" alt="Vercel icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/astro.svg" alt="Astro icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/eslint.svg" alt="ESlint icon" height="30" width="30" /></code>
-<!-- List last updated on Wed Jul 23 2025 22:24:07 GMT+0000 (Coordinated Universal Time) -->
+<!-- List last updated on Wed Jul 23 2025 22:38:41 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:technologies-->
 
 **...and many others!**
@@ -67,13 +67,59 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <!-- START_SECTION:feed -->
 - [Contentlayer is dead - what now?](https://igorkowalczyk.dev/blog/contentlayer-is-dead) `[April 24, 2025]`
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Wed Jul 23 2025 22:24:07 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Wed Jul 23 2025 22:38:41 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
+| 🏆 Contributions (total):     |     37K    |
+| :---------------------------- | :--------: |
+| **🏆 Contributions in 2025:** |  **5.6K**  |
+| **📝 Total lines of code:**   |   **1M**   |
+| **📦 Github Storage:**        | **1.3 GB** |
+| **📚 Public Repositories:**   |   **28**   |
 
+<details><summary>✨ Show more stats</summary>
+
+#### 📅 I work mostly during the night
+
+```text
+🌞 Morning   601 commits   [███████░░░░░░░░░░░░░░░░░░]   29.29%
+🌆 Daytime   982 commits   [███████████░░░░░░░░░░░░░░]   47.86%
+🌃 Evening   447 commits   [█████░░░░░░░░░░░░░░░░░░░░]   21.78%
+🌙 Night     22 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.07%
+```
+
+#### 📅 I'm most productive on Tuesday
+
+```text
+Sunday      191 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.31%
+Monday      299 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.57%
+Tuesday     403 commits   [████░░░░░░░░░░░░░░░░░░░░░]   19.64%
+Wednesday   305 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.86%
+Thursday    325 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.84%
+Friday      250 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.18%
+Saturday    279 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.60%
+```
+
+#### 📊 Weekly work stats (last 7 days)
+
+```text
+💬 Programming Languages:
+TypeScript   [5 hrs 13 mins]   [█████████████░░░░░░░░░░░░]   53.16%
+Bash         [4 hrs 2 mins]    [██████████░░░░░░░░░░░░░░░]   41.07%
+PHP          [26 mins]         [█░░░░░░░░░░░░░░░░░░░░░░░░]   4.41%
+SQL          [4 mins]          [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.85%
+
+Other        [0h 1m]           [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.51%
+
+💻 Operating Systems:
+Linux        [9 hrs 49 mins]  [█████████████████████████]   100.00%
+```
+
+</details>
+<!-- Wakatime last updated on Wed Jul 23 2025 22:38:52 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
