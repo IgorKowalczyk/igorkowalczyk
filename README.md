@@ -34,7 +34,30 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 ### 🧠 Over the years, I've learned
 
 <!--START_SECTION:technologies-->
-
+<code><img src="https://igorkowalczyk.dev/assets/tech/react.svg" alt="React icon" height="30" width="30" /></code>
+<code><img src="https://igorkowalczyk.dev/assets/tech/next.svg" alt="Next.js icon" height="30" width="30" /></code>
+<code><img src="https://igorkowalczyk.dev/assets/tech/tailwindcss.svg" alt="TailwindCSS icon" height="30" width="30" /></code>
+<code><img src="https://igorkowalczyk.dev/assets/tech/javascript.svg" alt="Javascript icon" height="30" width="30" /></code>
+<code><img src="https://igorkowalczyk.dev/assets/tech/typescript.svg" alt="Typescript icon" height="30" width="30" /></code>
+<code><img src="https://igorkowalczyk.dev/assets/tech/nodejs.svg" alt="Node.js icon" height="30" width="30" /></code>
+<code><img src="https://igorkowalczyk.dev/assets/tech/express.svg" alt="Express.js icon" height="30" width="30" /></code>
+<code><img src="https://igorkowalczyk.dev/assets/tech/npm.svg" alt="NPM icon" height="30" width="30" /></code>
+<code><img src="https://igorkowalczyk.dev/assets/tech/pnpm.svg" alt="PNPM icon" height="30" width="30" /></code>
+<code><img src="https://igorkowalczyk.dev/assets/tech/git.svg" alt="Git icon" height="30" width="30" /></code>
+<code><img src="https://igorkowalczyk.dev/assets/tech/github.svg" alt="Github icon" height="30" width="30" /></code>
+<code><img src="https://igorkowalczyk.dev/assets/tech/figma.svg" alt="Figma icon" height="30" width="30" /></code>
+<code><img src="https://igorkowalczyk.dev/assets/tech/turborepo.svg" alt="Turborepo icon" height="30" width="30" /></code>
+<code><img src="https://igorkowalczyk.dev/assets/tech/deno.svg" alt="Deno icon" height="30" width="30" /></code>
+<code><img src="https://igorkowalczyk.dev/assets/tech/postgresql.svg" alt="PostgreSQL icon" height="30" width="30" /></code>
+<code><img src="https://igorkowalczyk.dev/assets/tech/mysql.svg" alt="MySQL icon" height="30" width="30" /></code>
+<code><img src="https://igorkowalczyk.dev/assets/tech/mongodb.svg" alt="MongoDB icon" height="30" width="30" /></code>
+<code><img src="https://igorkowalczyk.dev/assets/tech/discordjs.svg" alt="Discord.js icon" height="30" width="30" /></code>
+<code><img src="https://igorkowalczyk.dev/assets/tech/rollup.svg" alt="Rollup icon" height="30" width="30" /></code>
+<code><img src="https://igorkowalczyk.dev/assets/tech/docker.svg" alt="Docker icon" height="30" width="30" /></code>
+<code><img src="https://igorkowalczyk.dev/assets/tech/vercel.svg" alt="Vercel icon" height="30" width="30" /></code>
+<code><img src="https://igorkowalczyk.dev/assets/tech/astro.svg" alt="Astro icon" height="30" width="30" /></code>
+<code><img src="https://igorkowalczyk.dev/assets/tech/eslint.svg" alt="ESlint icon" height="30" width="30" /></code>
+<!-- List last updated on Thu Jul 24 2025 18:08:02 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:technologies-->
 
 **...and many others!**
@@ -42,7 +65,9 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 ### 📕 Blog Posts
 
 <!-- START_SECTION:feed -->
-
+- [Contentlayer is dead - what now?](https://igorkowalczyk.dev/blog/contentlayer-is-dead) `[April 24, 2025]`
+- [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
+<!-- Posts last updated on Thu Jul 24 2025 18:08:02 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
@@ -94,14 +119,14 @@ Linux        [9 hrs 49 mins]  [████████████████�
 ```
 
 </details>
-<!-- Wakatime last updated on Thu Jul 24 2025 17:50:10 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Thu Jul 24 2025 18:08:11 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-`[07/24 10:08]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/node-24.x` from [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[07/24 10:08]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[07/24 10:08]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1041`](https://github.com/IgorKowalczyk/github-views/pull/1041 'Update dependency @types/node to v24.1.0') in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)<br/>`[07/24 10:08]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/typescript-eslint-mon...` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[07/24 10:08]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[07/24 10:08]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#915`](https://github.com/IgorKowalczyk/shared-configs/pull/915 'fix(deps): update typescript-eslint monorepo to v8.38.0') in [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)<br/>`[07/24 10:08]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/napi-rs-canvas-0.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[07/24 10:08]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[07/24 10:08]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1856`](https://github.com/IgorKowalczyk/majo.exe/pull/1856 'fix(deps): update dependency @napi-rs/canvas to v0.1.74') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[07/24 10:08]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/redis-5.x` from [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)
-<!-- Activity last updated on Thu Jul 24 2025 17:50:01 GMT+0000 (Coordinated Universal Time) -->
+`[07/24 11:38]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/turbo-monorepo` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[07/24 11:38]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[07/24 11:38]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1855`](https://github.com/IgorKowalczyk/majo.exe/pull/1855 'fix(deps): update turbo monorepo to v2.5.5') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[07/24 11:36]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/shiki-monorepo` from [IgorKowalczyk/igorkowalczyk.dev](https://github.com/IgorKowalczyk/igorkowalczyk.dev)<br/>`[07/24 11:36]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.dev](https://github.com/IgorKowalczyk/igorkowalczyk.dev)<br/>`[07/24 11:36]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1325`](https://github.com/IgorKowalczyk/igorkowalczyk.dev/pull/1325 'fix(deps): update shiki monorepo to v3.8.1') in [IgorKowalczyk/igorkowalczyk.dev](https://github.com/IgorKowalczyk/igorkowalczyk.dev)<br/>`[07/24 11:36]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/wrangler-4.x` from [IgorKowalczyk/wakatime-hours](https://github.com/IgorKowalczyk/wakatime-hours)<br/>`[07/24 11:36]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/wakatime-hours](https://github.com/IgorKowalczyk/wakatime-hours)<br/>`[07/24 11:36]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#196`](https://github.com/IgorKowalczyk/wakatime-hours/pull/196 'Update dependency wrangler to v4.25.1') in [IgorKowalczyk/wakatime-hours](https://github.com/IgorKowalczyk/wakatime-hours)<br/>`[07/24 11:35]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/turbo-monorepo` from [IgorKowalczyk/shared-configs](https://github.com/IgorKowalczyk/shared-configs)
+<!-- Activity last updated on Thu Jul 24 2025 18:08:02 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
