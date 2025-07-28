@@ -57,7 +57,7 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <code><img src="https://igorkowalczyk.dev/assets/tech/vercel.svg" alt="Vercel icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/astro.svg" alt="Astro icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/eslint.svg" alt="ESlint icon" height="30" width="30" /></code>
-<!-- List last updated on Mon Jul 28 2025 22:39:47 GMT+0000 (Coordinated Universal Time) -->
+<!-- List last updated on Mon Jul 28 2025 22:51:50 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:technologies-->
 
 **...and many others!**
@@ -67,7 +67,7 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <!-- START_SECTION:feed -->
 - [Contentlayer is dead - what now?](https://igorkowalczyk.dev/blog/contentlayer-is-dead) `[April 24, 2025]`
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Mon Jul 28 2025 22:39:47 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Mon Jul 28 2025 22:51:50 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
@@ -76,7 +76,7 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 | 🏆 Contributions (total):     |     37K    |
 | :---------------------------- | :--------: |
 | **🏆 Contributions in 2025:** |  **5.6K**  |
-| **📝 Total lines of code:**   |   **1M**   |
+| **📝 Total lines of code:**   |  **515K**  |
 | **📦 Github Storage:**        | **1.3 GB** |
 | **📚 Public Repositories:**   |   **28**   |
 
@@ -85,22 +85,22 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 #### 📅 I work mostly during the night
 
 ```text
-🌞 Morning   525 commits   [███████░░░░░░░░░░░░░░░░░░]   31.12%
-🌆 Daytime   766 commits   [███████████░░░░░░░░░░░░░░]   45.41%
-🌃 Evening   374 commits   [█████░░░░░░░░░░░░░░░░░░░░]   22.17%
-🌙 Night     22 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.30%
+🌞 Morning   582 commits   [███████░░░░░░░░░░░░░░░░░░]   29.77%
+🌆 Daytime   909 commits   [███████████░░░░░░░░░░░░░░]   46.50%
+🌃 Evening   442 commits   [█████░░░░░░░░░░░░░░░░░░░░]   22.61%
+🌙 Night     22 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.13%
 ```
 
 #### 📅 I'm most productive on Tuesday
 
 ```text
-Sunday      153 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.07%
-Monday      224 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.28%
-Tuesday     339 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.09%
-Wednesday   254 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.06%
-Thursday    294 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.43%
-Friday      213 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.63%
-Saturday    210 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.45%
+Sunday      175 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   8.95%
+Monday      291 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.88%
+Tuesday     366 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.72%
+Wednesday   276 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.12%
+Thursday    346 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.70%
+Friday      233 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.92%
+Saturday    268 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.71%
 ```
 
 #### 📊 Weekly work stats (last 7 days)
@@ -119,14 +119,14 @@ Linux                      [40 hrs 35 mins]  [███████████�
 ```
 
 </details>
-<!-- Wakatime last updated on Mon Jul 28 2025 22:40:50 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Mon Jul 28 2025 22:52:11 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[07/27 14:21]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/igorkowalczyk.dev](https://github.com/IgorKowalczyk/igorkowalczyk.dev)<br/>`[07/24 18:18]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/recharts-3.x` from [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[07/24 18:18]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[07/24 18:18]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#314`](https://github.com/IgorKowalczyk/quiz/pull/314 'Update dependency recharts to v3.1.0') in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[07/24 18:18]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/zod-4.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[07/24 18:18]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[07/24 18:18]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1841`](https://github.com/IgorKowalczyk/majo.exe/pull/1841 'fix(deps): update dependency zod to v4') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[07/24 18:17]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/dotfiles](https://github.com/IgorKowalczyk/dotfiles)<br/>`[07/24 18:17]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/zsh-plugins-zsh-autoc...` from [IgorKowalczyk/dotfiles](https://github.com/IgorKowalczyk/dotfiles)<br/>`[07/24 18:17]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#52`](https://github.com/IgorKowalczyk/dotfiles/pull/52 'Update zsh/plugins/zsh-autocomplete digest to 316c588') in [IgorKowalczyk/dotfiles](https://github.com/IgorKowalczyk/dotfiles)
-<!-- Activity last updated on Mon Jul 28 2025 22:39:47 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Mon Jul 28 2025 22:51:51 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
