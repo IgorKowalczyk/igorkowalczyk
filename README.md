@@ -34,30 +34,7 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 ### 🧠 Over the years, I've learned
 
 <!--START_SECTION:technologies-->
-<code><img src="https://igorkowalczyk.dev/assets/tech/react.svg" alt="React icon" height="30" width="30" /></code>
-<code><img src="https://igorkowalczyk.dev/assets/tech/next.svg" alt="Next.js icon" height="30" width="30" /></code>
-<code><img src="https://igorkowalczyk.dev/assets/tech/tailwindcss.svg" alt="TailwindCSS icon" height="30" width="30" /></code>
-<code><img src="https://igorkowalczyk.dev/assets/tech/javascript.svg" alt="Javascript icon" height="30" width="30" /></code>
-<code><img src="https://igorkowalczyk.dev/assets/tech/typescript.svg" alt="Typescript icon" height="30" width="30" /></code>
-<code><img src="https://igorkowalczyk.dev/assets/tech/nodejs.svg" alt="Node.js icon" height="30" width="30" /></code>
-<code><img src="https://igorkowalczyk.dev/assets/tech/express.svg" alt="Express.js icon" height="30" width="30" /></code>
-<code><img src="https://igorkowalczyk.dev/assets/tech/npm.svg" alt="NPM icon" height="30" width="30" /></code>
-<code><img src="https://igorkowalczyk.dev/assets/tech/pnpm.svg" alt="PNPM icon" height="30" width="30" /></code>
-<code><img src="https://igorkowalczyk.dev/assets/tech/git.svg" alt="Git icon" height="30" width="30" /></code>
-<code><img src="https://igorkowalczyk.dev/assets/tech/github.svg" alt="Github icon" height="30" width="30" /></code>
-<code><img src="https://igorkowalczyk.dev/assets/tech/figma.svg" alt="Figma icon" height="30" width="30" /></code>
-<code><img src="https://igorkowalczyk.dev/assets/tech/turborepo.svg" alt="Turborepo icon" height="30" width="30" /></code>
-<code><img src="https://igorkowalczyk.dev/assets/tech/deno.svg" alt="Deno icon" height="30" width="30" /></code>
-<code><img src="https://igorkowalczyk.dev/assets/tech/postgresql.svg" alt="PostgreSQL icon" height="30" width="30" /></code>
-<code><img src="https://igorkowalczyk.dev/assets/tech/mysql.svg" alt="MySQL icon" height="30" width="30" /></code>
-<code><img src="https://igorkowalczyk.dev/assets/tech/mongodb.svg" alt="MongoDB icon" height="30" width="30" /></code>
-<code><img src="https://igorkowalczyk.dev/assets/tech/discordjs.svg" alt="Discord.js icon" height="30" width="30" /></code>
-<code><img src="https://igorkowalczyk.dev/assets/tech/rollup.svg" alt="Rollup icon" height="30" width="30" /></code>
-<code><img src="https://igorkowalczyk.dev/assets/tech/docker.svg" alt="Docker icon" height="30" width="30" /></code>
-<code><img src="https://igorkowalczyk.dev/assets/tech/vercel.svg" alt="Vercel icon" height="30" width="30" /></code>
-<code><img src="https://igorkowalczyk.dev/assets/tech/astro.svg" alt="Astro icon" height="30" width="30" /></code>
-<code><img src="https://igorkowalczyk.dev/assets/tech/eslint.svg" alt="ESlint icon" height="30" width="30" /></code>
-<!-- List last updated on Sat Aug 02 2025 17:05:02 GMT+0000 (Coordinated Universal Time) -->
+
 <!--END_SECTION:technologies-->
 
 **...and many others!**
@@ -65,9 +42,7 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 ### 📕 Blog Posts
 
 <!-- START_SECTION:feed -->
-- [Contentlayer is dead - what now?](https://igorkowalczyk.dev/blog/contentlayer-is-dead) `[April 24, 2025]`
-- [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sat Aug 02 2025 17:05:02 GMT+0000 (Coordinated Universal Time) -->
+
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
@@ -120,14 +95,14 @@ Windows          [7 hrs 48 mins]   [████░░░░░░░░░░�
 ```
 
 </details>
-<!-- Wakatime last updated on Sat Aug 02 2025 17:05:12 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Sat Aug 02 2025 17:23:46 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[08/01 11:23]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/jiti-2.x` from [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/>`[08/01 11:23]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/>`[08/01 11:23]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#520`](https://github.com/IgorKowalczyk/repl-uptime/pull/520 'chore(deps): update dependency jiti to v2.5.1') in [IgorKowalczyk/repl-uptime](https://github.com/IgorKowalczyk/repl-uptime)<br/>`[08/01 10:44]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/lucide-monorepo` from [IgorKowalczyk/igorkowalczyk.dev](https://github.com/IgorKowalczyk/igorkowalczyk.dev)<br/>`[08/01 10:44]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.dev](https://github.com/IgorKowalczyk/igorkowalczyk.dev)<br/>`[08/01 10:44]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1335`](https://github.com/IgorKowalczyk/igorkowalczyk.dev/pull/1335 'fix(deps): update dependency lucide-react to v0.535.0') in [IgorKowalczyk/igorkowalczyk.dev](https://github.com/IgorKowalczyk/igorkowalczyk.dev)<br/>`[08/01 10:44]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/typescript-5.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[08/01 10:44]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[08/01 10:44]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1879`](https://github.com/IgorKowalczyk/majo.exe/pull/1879 'fix(deps): update dependency typescript to v5.9.2') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[08/01 10:43]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/typescript-5.x` from [IgorKowalczyk/ngrok-cli](https://github.com/IgorKowalczyk/ngrok-cli)
-<!-- Activity last updated on Sat Aug 02 2025 17:05:02 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Sat Aug 02 2025 17:23:39 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
