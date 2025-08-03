@@ -57,7 +57,7 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <code><img src="https://igorkowalczyk.dev/assets/tech/vercel.svg" alt="Vercel icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/astro.svg" alt="Astro icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/eslint.svg" alt="ESlint icon" height="30" width="30" /></code>
-<!-- List last updated on Sun Aug 03 2025 22:05:57 GMT+0000 (Coordinated Universal Time) -->
+<!-- List last updated on Sun Aug 03 2025 22:23:55 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:technologies-->
 
 **...and many others!**
@@ -67,20 +67,67 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <!-- START_SECTION:feed -->
 - [Contentlayer is dead - what now?](https://igorkowalczyk.dev/blog/contentlayer-is-dead) `[April 24, 2025]`
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sun Aug 03 2025 22:05:57 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sun Aug 03 2025 22:23:55 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
+| 🏆 Contributions (total):     |     37K    |
+| :---------------------------- | :--------: |
+| **🏆 Contributions in 2025:** |  **5.7K**  |
+| **📝 Total lines of code:**   |   **1M**   |
+| **📦 Github Storage:**        | **1.3 GB** |
+| **📚 Public Repositories:**   |   **28**   |
 
+<details><summary>✨ Show more stats</summary>
+
+#### 📅 I work mostly during the night
+
+```text
+🌞 Morning   630 commits   [███████░░░░░░░░░░░░░░░░░░]   30.66%
+🌆 Daytime   959 commits   [███████████░░░░░░░░░░░░░░]   46.67%
+🌃 Evening   444 commits   [█████░░░░░░░░░░░░░░░░░░░░]   21.61%
+🌙 Night     22 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.07%
+```
+
+#### 📅 I'm most productive on Tuesday
+
+```text
+Sunday      197 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.59%
+Monday      293 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.26%
+Tuesday     388 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.88%
+Wednesday   289 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.06%
+Thursday    366 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.81%
+Friday      252 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.26%
+Saturday    270 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.14%
+```
+
+#### 📊 Weekly work stats (last 7 days)
+
+```text
+💬 Programming Languages:
+TypeScript       [19 hrs 31 mins]   [███████████░░░░░░░░░░░░░░]   45.46%
+HTML             [7 hrs 20 mins]    [████░░░░░░░░░░░░░░░░░░░░░]   17.10%
+PHP              [3 hrs 26 mins]    [██░░░░░░░░░░░░░░░░░░░░░░░]   8.00%
+YAML             [2 hrs 57 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.88%
+JSON             [2 hrs 38 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.17%
+Other            [7h 2m]            [████░░░░░░░░░░░░░░░░░░░░░]   16.41%
+
+💻 Operating Systems:
+Linux            [35 hrs 8 mins]   [████████████████████░░░░░]   81.82%
+Windows          [7 hrs 48 mins]   [████░░░░░░░░░░░░░░░░░░░░░]   18.18%
+```
+
+</details>
+<!-- Wakatime last updated on Sun Aug 03 2025 22:24:04 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[08/03 19:14]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/prisma-monorepo` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[08/03 19:14]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[08/03 19:14]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1874`](https://github.com/IgorKowalczyk/majo.exe/pull/1874 'fix(deps): update prisma monorepo to v6.13.0') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[08/03 17:00]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[08/03 11:16]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/typescript-5.x` from [IgorKowalczyk/igorkowalczyk.dev](https://github.com/IgorKowalczyk/igorkowalczyk.dev)<br/>`[08/03 11:16]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.dev](https://github.com/IgorKowalczyk/igorkowalczyk.dev)<br/>`[08/03 11:16]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1338`](https://github.com/IgorKowalczyk/igorkowalczyk.dev/pull/1338 'chore(deps): update dependency typescript to v5.9.2') in [IgorKowalczyk/igorkowalczyk.dev](https://github.com/IgorKowalczyk/igorkowalczyk.dev)<br/>`[08/03 11:12]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/pnpm-10.x` from [IgorKowalczyk/igorkowalczyk.dev](https://github.com/IgorKowalczyk/igorkowalczyk.dev)<br/>`[08/03 11:12]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.dev](https://github.com/IgorKowalczyk/igorkowalczyk.dev)<br/>`[08/03 11:12]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1339`](https://github.com/IgorKowalczyk/igorkowalczyk.dev/pull/1339 'chore(deps): update pnpm to v10.14.0') in [IgorKowalczyk/igorkowalczyk.dev](https://github.com/IgorKowalczyk/igorkowalczyk.dev)
-<!-- Activity last updated on Sun Aug 03 2025 22:05:57 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Sun Aug 03 2025 22:23:56 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
