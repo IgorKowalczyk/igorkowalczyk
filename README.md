@@ -57,7 +57,7 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <code><img src="https://igorkowalczyk.dev/assets/tech/vercel.svg" alt="Vercel icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/astro.svg" alt="Astro icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/eslint.svg" alt="ESlint icon" height="30" width="30" /></code>
-<!-- List last updated on Tue Aug 05 2025 21:49:36 GMT+0000 (Coordinated Universal Time) -->
+<!-- List last updated on Tue Aug 05 2025 22:06:21 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:technologies-->
 
 **...and many others!**
@@ -67,67 +67,20 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <!-- START_SECTION:feed -->
 - [Contentlayer is dead - what now?](https://igorkowalczyk.dev/blog/contentlayer-is-dead) `[April 24, 2025]`
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Tue Aug 05 2025 21:49:36 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Tue Aug 05 2025 22:06:21 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-| 🏆 Contributions (total):     |     37K    |
-| :---------------------------- | :--------: |
-| **🏆 Contributions in 2025:** |  **5.7K**  |
-| **📝 Total lines of code:**   |  **1.2M**  |
-| **📦 Github Storage:**        | **1.3 GB** |
-| **📚 Public Repositories:**   |   **28**   |
 
-<details><summary>✨ Show more stats</summary>
-
-#### 📅 I work mostly during the night
-
-```text
-🌞 Morning   619 commits   [███████░░░░░░░░░░░░░░░░░░]   30.12%
-🌆 Daytime   980 commits   [███████████░░░░░░░░░░░░░░]   47.69%
-🌃 Evening   434 commits   [█████░░░░░░░░░░░░░░░░░░░░]   21.12%
-🌙 Night     22 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.07%
-```
-
-#### 📅 I'm most productive on Tuesday
-
-```text
-Sunday      194 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.44%
-Monday      322 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.67%
-Tuesday     378 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.39%
-Wednesday   281 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.67%
-Thursday    362 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.62%
-Friday      248 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.07%
-Saturday    270 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.14%
-```
-
-#### 📊 Weekly work stats (last 7 days)
-
-```text
-💬 Programming Languages:
-TypeScript       [20 hrs 21 mins]   [███████████░░░░░░░░░░░░░░]   47.61%
-HTML             [7 hrs 27 mins]    [████░░░░░░░░░░░░░░░░░░░░░]   17.44%
-PHP              [3 hrs 40 mins]    [██░░░░░░░░░░░░░░░░░░░░░░░]   8.60%
-YAML             [2 hrs 49 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.62%
-Docker           [2 hrs 38 mins]    [█░░░░░░░░░░░░░░░░░░░░░░░░]   6.18%
-Other            [5h 47m]           [███░░░░░░░░░░░░░░░░░░░░░░]   13.56%
-
-💻 Operating Systems:
-Linux            [28 hrs 34 mins]  [████████████████░░░░░░░░░]   66.81%
-Windows          [14 hrs 11 mins]  [████████░░░░░░░░░░░░░░░░░]   33.19%
-```
-
-</details>
-<!-- Wakatime last updated on Tue Aug 05 2025 21:49:48 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[08/04 12:42]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/framer-motion-12.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[08/04 12:42]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[08/04 12:42]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1872`](https://github.com/IgorKowalczyk/majo.exe/pull/1872 'fix(deps): update dependency framer-motion to v12.23.12') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[08/04 12:42]` <a href="https://github.com/igorkowalczyk" title="🔍"><img alt="🔍" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/review.png" align="top" height="18"></a> Reviewed [`#1872`](https://github.com/IgorKowalczyk/majo.exe/pull/1872 'fix(deps): update dependency framer-motion to v12.23.12') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[08/04 12:42]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/nextjs-monorepo` from [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[08/04 12:42]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[08/04 12:42]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#336`](https://github.com/IgorKowalczyk/quiz/pull/336 'Update nextjs monorepo to v15.4.5') in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[08/04 12:41]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/sonner-2.x` from [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[08/04 12:41]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[08/04 12:41]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#344`](https://github.com/IgorKowalczyk/quiz/pull/344 'Update dependency sonner to v2.0.7') in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)
-<!-- Activity last updated on Tue Aug 05 2025 21:49:37 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Tue Aug 05 2025 22:06:22 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
