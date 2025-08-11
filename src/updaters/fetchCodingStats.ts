@@ -164,7 +164,7 @@ export async function fetchCodingStats(apiToken: string, username: string): Prom
    },
   );
 
-  return `${table}\n\n<details><summary>✨ Show more stats</summary>\n\n${mostProductiveParts}\n\n${mostProductiveDaysText}\n\n${weekly}\n\n</details>\n<!-- Wakatime last updated on ${new Date().toString()} -->`;
+  return `${table}\n\n<details><summary>✨ Show more stats</summary>\n\n${mostProductiveParts}\n\n${mostProductiveDaysText}\n\n</details>\n<!-- Wakatime last updated on ${new Date().toString()} -->`;
  } catch (error) {
   Logger("error", `Failed to get coding stats for ${username}: ${error}`);
   return "";
