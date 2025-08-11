@@ -57,7 +57,7 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <code><img src="https://igorkowalczyk.dev/assets/tech/vercel.svg" alt="Vercel icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/astro.svg" alt="Astro icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/eslint.svg" alt="ESlint icon" height="30" width="30" /></code>
-<!-- List last updated on Mon Aug 11 2025 21:48:15 GMT+0000 (Coordinated Universal Time) -->
+<!-- List last updated on Mon Aug 11 2025 22:05:44 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:technologies-->
 
 **...and many others!**
@@ -67,51 +67,20 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <!-- START_SECTION:feed -->
 - [Contentlayer is dead - what now?](https://igorkowalczyk.dev/blog/contentlayer-is-dead) `[April 24, 2025]`
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Mon Aug 11 2025 21:48:15 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Mon Aug 11 2025 22:05:44 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-| 🏆 Contributions (total):     |     37K    |
-| :---------------------------- | :--------: |
-| **🏆 Contributions in 2025:** |  **5.8K**  |
-| **📝 Total lines of code:**   |  **1.2M**  |
-| **📦 Github Storage:**        | **1.3 GB** |
-| **📚 Public Repositories:**   |   **28**   |
 
-<details><summary>✨ Show more stats</summary>
-
-#### 📅 I work mostly during the night
-
-```text
-🌞 Morning   610 commits   [███████░░░░░░░░░░░░░░░░░░]   29.68%
-🌆 Daytime   987 commits   [████████████░░░░░░░░░░░░░]   48.03%
-🌃 Evening   436 commits   [█████░░░░░░░░░░░░░░░░░░░░]   21.22%
-🌙 Night     22 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   1.07%
-```
-
-#### 📅 I'm most productive on Tuesday
-
-```text
-Sunday      195 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   9.49%
-Monday      321 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.62%
-Tuesday     377 commits   [████░░░░░░░░░░░░░░░░░░░░░]   18.35%
-Wednesday   284 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.82%
-Thursday    367 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.86%
-Friday      244 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   11.87%
-Saturday    267 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.99%
-```
-
-</details>
-<!-- Wakatime last updated on Mon Aug 11 2025 21:48:27 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[08/11 12:22]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [livewire/livewire](https://github.com/livewire/livewire)<br/>`[08/10 16:42]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/zod-4.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[08/10 16:42]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[08/10 16:42]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1891`](https://github.com/IgorKowalczyk/majo.exe/pull/1891 'fix(deps): update dependency zod to v4.0.17') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[08/10 16:42]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[08/10 16:42]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-monorepo` from [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[08/10 16:42]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#580`](https://github.com/IgorKowalczyk/countdown/pull/580 'chore(deps): update dependency eslint to v9.33.0') in [IgorKowalczyk/countdown](https://github.com/IgorKowalczyk/countdown)<br/>`[08/10 16:42]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/eslint-monorepo` from [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br/>`[08/10 16:42]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br/>`[08/10 16:42]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#441`](https://github.com/IgorKowalczyk/is-browser/pull/441 'Update dependency eslint to v9.33.0') in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)
-<!-- Activity last updated on Mon Aug 11 2025 21:48:16 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Mon Aug 11 2025 22:05:44 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
