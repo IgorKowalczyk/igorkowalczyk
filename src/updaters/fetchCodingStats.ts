@@ -149,8 +149,11 @@ export async function fetchCodingStats(apiToken: string, username: string): Prom
     .join("")} ${percentageBar(totalCount, count)}`;
   });
 
+  const mostProductiveTimeOfDay = sortedResult.reduce((max, curr) => (curr.count > max.count ? curr : max), sortedResult[0]).timeOfDay;
+
+  const mostProductiveParts = `#### 📅 I work mostly during the ${["🌙 Night", "🌃 Evening"].includes(mostProductiveTimeOfDay) ? "day" : "night"}\n\n\`\`\`text\n${lines.join("\n")}\n\`\`\``;
+
   const mostProductiveDaysText = `#### 📅 I'm most productive on ${mostProductiveDay}\n\n\`\`\`text\n${mostProductiveDays.join("\n")}\n\`\`\``;
-  const mostProductiveParts = `#### 📅 I work mostly during the ${["🌙 Night", "🌃 Evening"].includes(mostProductiveDay) ? "day" : "night"}\n\n\`\`\`text\n${lines.join("\n")}\n\`\`\``;
 
   const table = markdownTable(
    [
@@ -162,7 +165,7 @@ export async function fetchCodingStats(apiToken: string, username: string): Prom
    ],
    {
     align: ["l", "c"],
-   },
+   }
   );
 
   const detailsSections: string[] = [];
