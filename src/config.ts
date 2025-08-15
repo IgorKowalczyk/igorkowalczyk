@@ -22,4 +22,7 @@ export const wakatime = {
  open: "<!--START_SECTION:wakatime-->",
  close: "<!--END_SECTION:wakatime-->",
  apiKey: process.env.WAKATIME_API_KEY || "",
+ showMostProductiveDayParts: true,
+ showProductiveDays: true,
+ showWeekly: false,
 };

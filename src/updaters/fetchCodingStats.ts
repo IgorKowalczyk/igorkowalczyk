@@ -1,4 +1,5 @@
 import { markdownTable } from "markdown-table";
+import { wakatime } from "@/config";
 import { formatBytes, formatNumber, Logger, percentageBar } from "@/util/functions";
 import { getCommits } from "@/util/getCommits";
 import { getTotalContributionsForYears } from "@/util/getContributions";
@@ -105,7 +106,7 @@ export async function fetchCodingStats(apiToken: string, username: string): Prom
 
   const weekly = `#### 📊 Weekly work stats (last 7 days)\n\n\`\`\`text\n💬 Programming Languages:\n${languagesList}\n\n💻 Operating Systems:\n${operatingSystemsList.join("\n")}\n\`\`\``;
 
-  const mostProductiveDay = Object.entries(contributionsLastYear.weekdaySums).sort((a, b) => b[1] - a[1])[0][0];
+  const mostProductiveDay = Object.entries(contributionsLastYear.weekdaySums).reduce((a, b) => (a[1] > b[1] ? a : b))[0];
   const maxCount = contributionsLastYear.weekdaySums[mostProductiveDay];
 
   const totalCount = Object.values(contributionsLastYear.weekdaySums).reduce((acc, curr) => acc + curr, 0);
@@ -161,10 +162,26 @@ export async function fetchCodingStats(apiToken: string, username: string): Prom
    ],
    {
     align: ["l", "c"],
-   },
+   }
   );
 
-  return `${table}\n\n<details><summary>✨ Show more stats</summary>\n\n${mostProductiveParts}\n\n${mostProductiveDaysText}\n\n</details>\n<!-- Wakatime last updated on ${new Date().toString()} -->`;
+  const detailsSections: string[] = [];
+  if (wakatime.showMostProductiveDayParts) detailsSections.push(mostProductiveParts);
+  if (wakatime.showProductiveDays) detailsSections.push(mostProductiveDaysText);
+  if (wakatime.showWeekly) detailsSections.push(weekly);
+
+  let detailsContent = "";
+  if (detailsSections.length > 0) {
+   detailsContent = `
+
+<details><summary>✨ Show more stats</summary>
+${detailsSections.join("\n\n")}
+</details>
+`;
+  }
+
+  return `${table}${detailsContent}
+<!-- Wakatime last updated on ${new Date().toString()} -->`;
  } catch (error) {
   Logger("error", `Failed to get coding stats for ${username}: ${error}`);
   return "";
