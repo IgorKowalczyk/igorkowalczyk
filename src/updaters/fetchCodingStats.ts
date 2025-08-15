@@ -151,7 +151,7 @@ export async function fetchCodingStats(apiToken: string, username: string): Prom
 
   const mostProductiveTimeOfDay = sortedResult.reduce((max, curr) => (curr.count > max.count ? curr : max), sortedResult[0]).timeOfDay;
 
-  const mostProductiveParts = `#### 📅 I work mostly during the ${["🌙 Night", "🌃 Evening"].includes(mostProductiveTimeOfDay) ? "day" : "night"}\n\n\`\`\`text\n${lines.join("\n")}\n\`\`\``;
+  const mostProductiveParts = `#### 📅 I work mostly during the ${["🌙 Night", "🌃 Evening"].includes(mostProductiveTimeOfDay) ? "night" : "day"}\n\n\`\`\`text\n${lines.join("\n")}\n\`\`\``;
 
   const mostProductiveDaysText = `#### 📅 I'm most productive on ${mostProductiveDay}\n\n\`\`\`text\n${mostProductiveDays.join("\n")}\n\`\`\``;
 
