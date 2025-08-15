@@ -165,7 +165,7 @@ export async function fetchCodingStats(apiToken: string, username: string): Prom
    ],
    {
     align: ["l", "c"],
-   }
+   },
   );
 
   const detailsSections: string[] = [];
