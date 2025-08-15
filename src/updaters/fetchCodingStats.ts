@@ -177,7 +177,7 @@ export async function fetchCodingStats(apiToken: string, username: string): Prom
   if (detailsSections.length > 0) {
    detailsContent = `
 
-<details><summary>✨ Show more stats</summary>
+<details><summary>✨ Show more stats</summary>\n
 ${detailsSections.join("\n\n")}
 </details>
 `;
