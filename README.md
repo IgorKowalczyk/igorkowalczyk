@@ -15,7 +15,6 @@
 <p align="left">
 <code><a href="https://www.instagram.com/majonezexe/" target="_blank"><img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/svg/instagram.svg" alt="Instagram logo" width="30" height="30"/></a></code>
 <code><a href="https://twitter.com/majonezexe" target="_blank"><img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/svg/twitter.svg" alt="Twitter logo" width="30" height="30"/></a></code>
-<code><a href="https://profile.codersrank.io/user/igorkowalczyk/" target="_blank"><img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/png/codersrank.png" alt="Codersrank logo" width="30" height="30"/></a></code>
 <code><a href="https://discord.com/users/544164729354977282" target="_blank"><img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/svg/discord.svg" alt="Discord logo" width="30" height="30"/></a></code>
 <code><a href="https://www.youtube.com/c/Majonezexe" target="_blank"><img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/svg/youtube.svg" alt="YouTube logo" width="30" height="30"/></a></code>
 <code><a href="https://steamcommunity.com/id/m-exe/" target="_blank"><img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/svg/steam.svg" alt="Steam logo" width="30" height="30"/></a></code>
