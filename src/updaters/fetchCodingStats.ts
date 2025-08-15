@@ -75,7 +75,7 @@ export async function fetchCodingStats(apiToken: string, username: string): Prom
   const restLanguages = languages.slice(0, 5).map(({ name, text, percent }) => {
    if (name === "Other") {
     other += percent;
-    return;
+    return "";
    }
    const spaces = Array(maxNameLength - name.length + 1)
     .fill(" ")
@@ -86,7 +86,7 @@ export async function fetchCodingStats(apiToken: string, username: string): Prom
    return `${name} ${spaces} [${text}] ${timeSpaces} ${percentageBar(100, percent)}`;
   });
 
-  const languagesList = `${restLanguages.join("\n")}${
+  const languagesList = `${restLanguages.filter(Boolean).join("\n")}${
    otherLanguages > 0
     ? `\nOther ${Array(maxNameLength - 5 + 1)
        .fill(" ")
@@ -162,7 +162,7 @@ export async function fetchCodingStats(apiToken: string, username: string): Prom
    ],
    {
     align: ["l", "c"],
-   }
+   },
   );
 
   const detailsSections: string[] = [];

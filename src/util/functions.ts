@@ -10,7 +10,7 @@ export function formatBytes(bytes: number): string {
 export function formatNumber(num: number): string {
  if (!num || Number.isNaN(num)) return "0";
  let formattedNum = num;
- if (typeof formattedNum === "string") formattedNum = Number.parseInt(formattedNum);
+ if (typeof formattedNum === "string") formattedNum = Number.parseInt(formattedNum, 10);
  return new Intl.NumberFormat("en", { notation: "compact" }).format(formattedNum);
 }
 
