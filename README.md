@@ -55,7 +55,7 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <code><img src="https://igorkowalczyk.dev/assets/tech/vercel.svg" alt="Vercel icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/astro.svg" alt="Astro icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/eslint.svg" alt="ESlint icon" height="30" width="30" /></code>
-<!-- List last updated on Sun Aug 24 2025 09:48:08 GMT+0000 (Coordinated Universal Time) -->
+<!-- List last updated on Sun Aug 24 2025 10:05:20 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:technologies-->
 
 **...and many others!**
@@ -65,7 +65,7 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <!-- START_SECTION:feed -->
 - [Contentlayer is dead - what now?](https://igorkowalczyk.dev/blog/contentlayer-is-dead) `[April 24, 2025]`
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sun Aug 24 2025 09:48:08 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sun Aug 24 2025 10:05:20 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
@@ -83,33 +83,33 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 #### 📅 I work mostly during the day
 
 ```text
-🌞 Morning   625 commits   [███████░░░░░░░░░░░░░░░░░░]   30.41%
-🌆 Daytime   978 commits   [███████████░░░░░░░░░░░░░░]   47.59%
-🌃 Evening   436 commits   [█████░░░░░░░░░░░░░░░░░░░░]   21.22%
-🌙 Night     16 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.78%
+🌞 Morning   634 commits   [███████░░░░░░░░░░░░░░░░░░]   30.85%
+🌆 Daytime   972 commits   [███████████░░░░░░░░░░░░░░]   47.30%
+🌃 Evening   434 commits   [█████░░░░░░░░░░░░░░░░░░░░]   21.12%
+🌙 Night     15 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.73%
 ```
 
 #### 📅 I'm most productive on Thursday
 
 ```text
-Sunday      177 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   8.61%
-Monday      302 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.70%
-Tuesday     350 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.03%
+Sunday      184 commits   [██░░░░░░░░░░░░░░░░░░░░░░░]   8.95%
+Monday      300 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.60%
+Tuesday     347 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.89%
 Wednesday   270 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.14%
-Thursday    357 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.37%
-Friday      331 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.11%
+Thursday    356 commits   [████░░░░░░░░░░░░░░░░░░░░░]   17.32%
+Friday      330 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.06%
 Saturday    268 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.04%
 ```
 </details>
 
-<!-- Wakatime last updated on Sun Aug 24 2025 09:48:20 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Sun Aug 24 2025 10:05:30 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-`[08/23 07:53]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[08/23 07:20]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/lucide-monorepo` from [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[08/23 07:20]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[08/23 07:20]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#369`](https://github.com/IgorKowalczyk/quiz/pull/369 'Update dependency lucide-react to v0.541.0') in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[08/23 07:20]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.dev](https://github.com/IgorKowalczyk/igorkowalczyk.dev)<br/>`[08/23 07:20]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/lucide-monorepo` from [IgorKowalczyk/igorkowalczyk.dev](https://github.com/IgorKowalczyk/igorkowalczyk.dev)<br/>`[08/23 07:20]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1356`](https://github.com/IgorKowalczyk/igorkowalczyk.dev/pull/1356 'fix(deps): update dependency lucide-react to v0.541.0') in [IgorKowalczyk/igorkowalczyk.dev](https://github.com/IgorKowalczyk/igorkowalczyk.dev)<br/>`[08/23 07:20]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/react-monorepo` from [squarestack/github-invite](https://github.com/squarestack/github-invite)<br/>`[08/23 07:20]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [squarestack/github-invite](https://github.com/squarestack/github-invite)<br/>`[08/23 07:20]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#659`](https://github.com/squarestack/github-invite/pull/659 'chore(deps): update dependency @types/react to v19.1.11') in [squarestack/github-invite](https://github.com/squarestack/github-invite)
-<!-- Activity last updated on Sun Aug 24 2025 09:48:08 GMT+0000 (Coordinated Universal Time) -->
+`[08/24 09:55]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/biomejs-biome-2.x` from [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)<br/>`[08/24 09:55]` <br/>`[08/24 09:55]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#202`](https://github.com/IgorKowalczyk/igorkowalczyk/pull/202 'Update dependency @biomejs/biome to v2.2.2') in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)<br/>`[08/24 09:55]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/wrangler-4.x` from [IgorKowalczyk/wakatime-hours](https://github.com/IgorKowalczyk/wakatime-hours)<br/>`[08/24 09:55]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/wakatime-hours](https://github.com/IgorKowalczyk/wakatime-hours)<br/>`[08/24 09:55]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#211`](https://github.com/IgorKowalczyk/wakatime-hours/pull/211 'Update dependency wrangler to v4.32.0') in [IgorKowalczyk/wakatime-hours](https://github.com/IgorKowalczyk/wakatime-hours)<br/>`[08/24 09:55]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/tsx-4.x` from [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[08/24 09:55]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[08/24 09:55]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#374`](https://github.com/IgorKowalczyk/quiz/pull/374 'Update dependency tsx to v4.20.5') in [IgorKowalczyk/quiz](https://github.com/IgorKowalczyk/quiz)<br/>`[08/24 09:54]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/tsx-4.x` from [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)
+<!-- Activity last updated on Sun Aug 24 2025 10:05:20 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
