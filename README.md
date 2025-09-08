@@ -55,7 +55,7 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <code><img src="https://igorkowalczyk.dev/assets/tech/vercel.svg" alt="Vercel icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/astro.svg" alt="Astro icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/eslint.svg" alt="ESlint icon" height="30" width="30" /></code>
-<!-- List last updated on Mon Sep 08 2025 15:05:13 GMT+0000 (Coordinated Universal Time) -->
+<!-- List last updated on Mon Sep 08 2025 15:23:40 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:technologies-->
 
 **...and many others!**
@@ -65,7 +65,7 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <!-- START_SECTION:feed -->
 - [Contentlayer is dead - what now?](https://igorkowalczyk.dev/blog/contentlayer-is-dead) `[April 24, 2025]`
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Mon Sep 08 2025 15:05:13 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Mon Sep 08 2025 15:23:40 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
@@ -74,7 +74,7 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 | 🏆 Contributions (total):     |     37K    |
 | :---------------------------- | :--------: |
 | **🏆 Contributions in 2025:** |  **6.2K**  |
-| **📝 Total lines of code:**   |  **480K**  |
+| **📝 Total lines of code:**   |   **62K**  |
 | **📦 Github Storage:**        | **1.3 GB** |
 | **📚 Public Repositories:**   |   **28**   |
 
@@ -102,7 +102,7 @@ Saturday    264 commits   [███░░░░░░░░░░░░░░�
 ```
 </details>
 
-<!-- Wakatime last updated on Mon Sep 08 2025 15:05:28 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Mon Sep 08 2025 15:23:54 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
