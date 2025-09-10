@@ -17,7 +17,7 @@
   "markdown-table": "3.0.4"
  },
  "devDependencies": {
-  "@biomejs/biome": "2.2.3",
+  "@biomejs/biome": "2.2.4",
   "@types/bun": "latest"
  },
  "peerDependencies": {
