@@ -55,7 +55,7 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <code><img src="https://igorkowalczyk.dev/assets/tech/vercel.svg" alt="Vercel icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/astro.svg" alt="Astro icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/eslint.svg" alt="ESlint icon" height="30" width="30" /></code>
-<!-- List last updated on Sun Oct 05 2025 21:48:17 GMT+0000 (Coordinated Universal Time) -->
+<!-- List last updated on Sun Oct 05 2025 22:05:06 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:technologies-->
 
 **...and many others!**
@@ -65,51 +65,20 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <!-- START_SECTION:feed -->
 - [Contentlayer is dead - what now?](https://igorkowalczyk.dev/blog/contentlayer-is-dead) `[April 24, 2025]`
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sun Oct 05 2025 21:48:17 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sun Oct 05 2025 22:05:06 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-| 🏆 Contributions (total):     |     37K    |
-| :---------------------------- | :--------: |
-| **🏆 Contributions in 2025:** |  **6.2K**  |
-| **📝 Total lines of code:**   |  **987K**  |
-| **📦 Github Storage:**        | **1.3 GB** |
-| **📚 Public Repositories:**   |   **28**   |
 
-<details><summary>✨ Show more stats</summary>
-
-#### 📅 I work mostly during the day
-
-```text
-🌞 Morning   691 commits   [████████░░░░░░░░░░░░░░░░░]   33.56%
-🌆 Daytime   934 commits   [███████████░░░░░░░░░░░░░░]   45.36%
-🌃 Evening   423 commits   [█████░░░░░░░░░░░░░░░░░░░░]   20.54%
-🌙 Night     11 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.53%
-```
-
-#### 📅 I'm most productive on Thursday
-
-```text
-Sunday      279 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.55%
-Monday      287 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.94%
-Tuesday     322 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.64%
-Wednesday   260 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.63%
-Thursday    335 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.27%
-Friday      320 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.54%
-Saturday    256 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.43%
-```
-</details>
-
-<!-- Wakatime last updated on Sun Oct 05 2025 21:48:26 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[10/03 07:37]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/pnpm-10.x` from [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br/>`[10/03 07:37]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br/>`[10/03 07:37]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#401`](https://github.com/IgorKowalczyk/active-dev/pull/401 'Update pnpm to v10.18.0') in [IgorKowalczyk/active-dev](https://github.com/IgorKowalczyk/active-dev)<br/>`[10/03 07:37]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/pnpm-10.x` from [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[10/03 07:37]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[10/03 07:37]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#1940`](https://github.com/IgorKowalczyk/majo.exe/pull/1940 'chore(deps): update pnpm to v10.18.0') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br/>`[10/03 07:37]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/pnpm-10.x` from [squarestack/github-invite](https://github.com/squarestack/github-invite)<br/>`[10/03 07:37]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [squarestack/github-invite](https://github.com/squarestack/github-invite)<br/>`[10/03 07:37]` <a href="https://github.com/igorkowalczyk" title="🎉"><img alt="🎉" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#674`](https://github.com/squarestack/github-invite/pull/674 'chore(deps): update pnpm to v10.18.0') in [squarestack/github-invite](https://github.com/squarestack/github-invite)<br/>`[10/03 07:37]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/pnpm-10.x` from [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)
-<!-- Activity last updated on Sun Oct 05 2025 21:48:17 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Sun Oct 05 2025 22:05:06 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
