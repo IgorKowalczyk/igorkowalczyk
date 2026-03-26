@@ -21,7 +21,7 @@
   "@types/bun": "latest"
  },
  "peerDependencies": {
-  "typescript": "5.9.2"
+  "typescript": "6.0.2"
  },
  "packageManager": "pnpm@10.18.0",
  "pnpm": {
