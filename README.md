@@ -42,7 +42,7 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <code><img src="https://igorkowalczyk.dev/assets/tech/vercel.svg" alt="Vercel icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/astro.svg" alt="Astro icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/eslint.svg" alt="ESlint icon" height="30" width="30" /></code>
-<!-- List last updated on Sat Apr 25 2026 14:05:37 GMT+0000 (Coordinated Universal Time) -->
+<!-- List last updated on Sat Apr 25 2026 14:30:19 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:technologies-->
 
 **...and many others!**
@@ -52,7 +52,7 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <!-- START_SECTION:feed -->
 - [Contentlayer is dead - what now?](https://igorkowalczyk.dev/blog/contentlayer-is-dead) `[April 24, 2025]`
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Sat Apr 25 2026 14:05:37 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Sat Apr 25 2026 14:30:19 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
@@ -61,7 +61,7 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 | 🏆 Contributions (total):     |     38K    |
 | :---------------------------- | :--------: |
 | **🏆 Contributions in 2026:** |   **38**   |
-| **📝 Total lines of code:**   |   **63K**  |
+| **📝 Total lines of code:**   |  **1.1M**  |
 | **📦 Github Storage:**        | **1.3 GB** |
 | **📚 Public Repositories:**   |   **28**   |
 
@@ -89,7 +89,7 @@ Saturday    262 commits   [███░░░░░░░░░░░░░░�
 ```
 </details>
 
-<!-- Wakatime last updated on Sat Apr 25 2026 14:05:51 GMT+0000 (Coordinated Universal Time) -->
+<!-- Wakatime last updated on Sat Apr 25 2026 14:30:44 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
