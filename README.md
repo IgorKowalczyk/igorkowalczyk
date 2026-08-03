@@ -42,7 +42,7 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <code><img src="https://igorkowalczyk.dev/assets/tech/vercel.svg" alt="Vercel icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/astro.svg" alt="Astro icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/eslint.svg" alt="ESlint icon" height="30" width="30" /></code>
-<!-- List last updated on Mon Aug 03 2026 22:27:49 GMT+0000 (Coordinated Universal Time) -->
+<!-- List last updated on Mon Aug 03 2026 23:39:49 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:technologies-->
 
 **...and many others!**
@@ -52,13 +52,44 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <!-- START_SECTION:feed -->
 - [Contentlayer is dead - what now?](https://igorkowalczyk.dev/blog/contentlayer-is-dead) `[April 24, 2025]`
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Mon Aug 03 2026 22:27:49 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Mon Aug 03 2026 23:39:49 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
+| 🏆 Contributions (total):     |     38K    |
+| :---------------------------- | :--------: |
+| **🏆 Contributions in 2026:** |   **281**  |
+| **📝 Total lines of code:**   |   **63K**  |
+| **📦 Github Storage:**        | **1.3 GB** |
+| **📚 Public Repositories:**   |   **27**   |
 
+<details><summary>✨ Show more stats</summary>
+
+#### 📅 I work mostly during the day
+
+```text
+🌞 Morning   630 commits   [███████░░░░░░░░░░░░░░░░░░]   31.98%
+🌆 Daytime   906 commits   [███████████░░░░░░░░░░░░░░]   45.99%
+🌃 Evening   423 commits   [█████░░░░░░░░░░░░░░░░░░░░]   21.47%
+🌙 Night     11 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.56%
+```
+
+#### 📅 I'm most productive on Tuesday
+
+```text
+Sunday      275 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.96%
+Monday      294 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.92%
+Tuesday     306 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.53%
+Wednesday   244 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.39%
+Thursday    287 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.57%
+Friday      299 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   15.18%
+Saturday    265 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.45%
+```
+</details>
+
+<!-- Wakatime last updated on Mon Aug 03 2026 23:40:06 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
