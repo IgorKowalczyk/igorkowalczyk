@@ -42,7 +42,7 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <code><img src="https://igorkowalczyk.dev/assets/tech/vercel.svg" alt="Vercel icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/astro.svg" alt="Astro icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/eslint.svg" alt="ESlint icon" height="30" width="30" /></code>
-<!-- List last updated on Mon Aug 10 2026 21:19:00 GMT+0000 (Coordinated Universal Time) -->
+<!-- List last updated on Mon Aug 10 2026 22:06:49 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:technologies-->
 
 **...and many others!**
@@ -52,51 +52,20 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 <!-- START_SECTION:feed -->
 - [Contentlayer is dead - what now?](https://igorkowalczyk.dev/blog/contentlayer-is-dead) `[April 24, 2025]`
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Mon Aug 10 2026 21:19:00 GMT+0000 (Coordinated Universal Time) -->
+<!-- Posts last updated on Mon Aug 10 2026 22:06:49 GMT+0000 (Coordinated Universal Time) -->
 <!-- END_SECTION:feed -->
 
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
-| 🏆 Contributions (total):     |     38K    |
-| :---------------------------- | :--------: |
-| **🏆 Contributions in 2026:** |   **317**  |
-| **📝 Total lines of code:**   |   **63K**  |
-| **📦 Github Storage:**        | **1.3 GB** |
-| **📚 Public Repositories:**   |   **27**   |
 
-<details><summary>✨ Show more stats</summary>
-
-#### 📅 I work mostly during the day
-
-```text
-🌞 Morning   653 commits   [████████░░░░░░░░░░░░░░░░░]   33.15%
-🌆 Daytime   892 commits   [███████████░░░░░░░░░░░░░░]   45.28%
-🌃 Evening   414 commits   [█████░░░░░░░░░░░░░░░░░░░░]   21.02%
-🌙 Night     11 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.56%
-```
-
-#### 📅 I'm most productive on Tuesday
-
-```text
-Sunday      270 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.71%
-Monday      291 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.77%
-Tuesday     329 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.70%
-Wednesday   239 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.13%
-Thursday    283 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.37%
-Friday      295 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.97%
-Saturday    263 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.35%
-```
-</details>
-
-<!-- Wakatime last updated on Mon Aug 10 2026 21:19:18 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 `[08/06 09:42]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/major-nextjs-monorepo...` from [squarestack/github-invite](https://github.com/squarestack/github-invite)<br/>`[08/06 09:42]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `undefined` commits in [squarestack/github-invite](https://github.com/squarestack/github-invite)<br/>`[08/06 09:40]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/actions-dependency-re...` from [squarestack/github-invite](https://github.com/squarestack/github-invite)<br/>`[08/06 09:40]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/major-github-artifact...` from [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br/>`[08/06 09:40]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `undefined` commits in [squarestack/github-invite](https://github.com/squarestack/github-invite)<br/>`[08/06 09:40]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `undefined` commits in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br/>`[08/04 21:07]` <a href="https://github.com/igorkowalczyk" title="❌"><img alt="❌" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `renovate/pnpm-action-setup-6.x...` from [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br/>`[08/04 21:07]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `undefined` commits in [IgorKowalczyk/is-browser](https://github.com/IgorKowalczyk/is-browser)<br/>`[08/04 09:54]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `undefined` commits in [IgorKowalczyk/discord-ssh](https://github.com/IgorKowalczyk/discord-ssh)<br/>`[08/04 09:57]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `undefined` commits in [IgorKowalczyk/github-views](https://github.com/IgorKowalczyk/github-views)
-<!-- Activity last updated on Mon Aug 10 2026 21:19:00 GMT+0000 (Coordinated Universal Time) -->
+<!-- Activity last updated on Mon Aug 10 2026 22:06:49 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:activity-->
 
 <p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"/> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
