@@ -33,7 +33,38 @@ In March 2020, I began learning [Node.js](https://github.com/IgorKowalczyk?tab=r
 ### 📊 Github Statistics
 
 <!--START_SECTION:wakatime-->
+| 🏆 Contributions (total):     |     38K    |
+| :---------------------------- | :--------: |
+| **🏆 Contributions in 2026:** |   **317**  |
+| **📝 Total lines of code:**   |    **0**   |
+| **📦 Github Storage:**        | **1.3 GB** |
+| **📚 Public Repositories:**   |   **27**   |
 
+<details><summary>✨ Show more stats</summary>
+
+#### 📅 I work mostly during the day
+
+```text
+🌞 Morning   653 commits   [████████░░░░░░░░░░░░░░░░░]   33.13%
+🌆 Daytime   893 commits   [███████████░░░░░░░░░░░░░░]   45.31%
+🌃 Evening   414 commits   [█████░░░░░░░░░░░░░░░░░░░░]   21.00%
+🌙 Night     11 commits    [░░░░░░░░░░░░░░░░░░░░░░░░░]   0.56%
+```
+
+#### 📅 I'm most productive on Tuesday
+
+```text
+Sunday      271 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.75%
+Monday      291 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.76%
+Tuesday     329 commits   [████░░░░░░░░░░░░░░░░░░░░░]   16.69%
+Wednesday   239 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   12.13%
+Thursday    283 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.36%
+Friday      295 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   14.97%
+Saturday    263 commits   [███░░░░░░░░░░░░░░░░░░░░░░]   13.34%
+```
+</details>
+
+<!-- Wakatime last updated on Mon Oct 26 2026 03:53:55 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:wakatime-->
 
 ### :zap: Recent Activity
